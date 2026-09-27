@@ -1,0 +1,234 @@
+{
+  "topic": "english-health",
+  "entries": [
+    {
+      "id": "eng-health-000001",
+      "topic": "english-health",
+      "intent": "definition",
+      "concept": "symptom",
+      "keywords": [
+        "symptom",
+        "sign",
+        "notice",
+        "report",
+        "rash",
+        "overlap",
+        "sintomas",
+        "something",
+        "person",
+        "notices",
+        "reports",
+        "defining"
+      ],
+      "patterns": [
+        "what is symptom",
+        "symptom",
+        "explain symptom",
+        "definition of symptom",
+        "symptom meaning",
+        "what is a symptom",
+        "difference between symptom and sign",
+        "why symptoms do not identify an illness",
+        "ano ang symptom",
+        "unsa ang sintomas"
+      ],
+      "answer": "A symptom is something a person notices and reports, and that is the defining feature, because the thing itself may not be measurable or visible to anyone else. A sign is what a clinician observes directly, so a rash is a sign while itching is a symptom, and the English words keep the two apart where many languages do not. The practical problem is that symptoms overlap heavily between conditions, so one symptom rarely identifies one illness and a list of them is what actually narrows it down.",
+      "variations": [
+        "A sign is what a clinician observes directly, so a rash is a sign while itching is a symptom, and the English words keep the two apart where many languages do not. A symptom is something a person notices and reports, and that is the defining feature, because the thing itself may not be measurable or visible to anyone else. The practical problem is that symptoms overlap heavily between conditions, so one symptom rarely identifies one illness and a list of them is what actually narrows it down.",
+        "The practical problem is that symptoms overlap heavily between conditions, so one symptom rarely identifies one illness and a list of them is what actually narrows it down. A symptom is something a person notices and reports, and that is the defining feature, because the thing itself may not be measurable or visible to anyone else. A sign is what a clinician observes directly, so a rash is a sign while itching is a symptom, and the English words keep the two apart where many languages do not."
+      ],
+      "tl": "symptom",
+      "bis": "sintomas"
+    },
+    {
+      "id": "eng-health-000002",
+      "topic": "english-health",
+      "intent": "definition",
+      "concept": "diagnosis",
+      "keywords": [
+        "diagnosis",
+        "condition",
+        "evidence",
+        "provisional",
+        "revise",
+        "names",
+        "person",
+        "conclusion",
+        "drawn"
+      ],
+      "patterns": [
+        "what is diagnosis",
+        "diagnosis",
+        "explain diagnosis",
+        "definition of diagnosis",
+        "diagnosis meaning",
+        "what is a diagnosis",
+        "what does provisional mean",
+        "how do doctors diagnose",
+        "ano ang diagnosis",
+        "unsa ang diagnosis"
+      ],
+      "answer": "A diagnosis names the condition a person has, and it is a conclusion drawn from evidence rather than an observation, which is why the word implies judgement as well as finding. Making one usually requires ruling alternatives out, and a provisional diagnosis is explicitly open to revision. Not naming the condition is also a legitimate outcome, and doctors are taught to treat an uncertain answer as a real result rather than a failure to finish.",
+      "variations": [
+        "Making one usually requires ruling alternatives out, and a provisional diagnosis is explicitly open to revision. A diagnosis names the condition a person has, and it is a conclusion drawn from evidence rather than an observation, which is why the word implies judgement as well as finding. Not naming the condition is also a legitimate outcome, and doctors are taught to treat an uncertain answer as a real result rather than a failure to finish.",
+        "Not naming the condition is also a legitimate outcome, and doctors are taught to treat an uncertain answer as a real result rather than a failure to finish. A diagnosis names the condition a person has, and it is a conclusion drawn from evidence rather than an observation, which is why the word implies judgement as well as finding. Making one usually requires ruling alternatives out, and a provisional diagnosis is explicitly open to revision."
+      ],
+      "tl": "diagnosis",
+      "bis": "diagnosis"
+    },
+    {
+      "id": "eng-health-000003",
+      "topic": "english-health",
+      "intent": "definition",
+      "concept": "treatment",
+      "keywords": [
+        "treatment",
+        "cure",
+        "medicine",
+        "surgery",
+        "rest",
+        "address",
+        "gamot",
+        "anything",
+        "done",
+        "condition",
+        "word"
+      ],
+      "patterns": [
+        "what is treatment",
+        "treatment",
+        "explain treatment",
+        "definition of treatment",
+        "treatment meaning",
+        "difference between treatment and cure",
+        "is rest a treatment",
+        "ano ang treatment",
+        "unsa ang gamot"
+      ],
+      "answer": "A treatment is anything done to address a condition, and the word covers far more than medicine, since surgery, physiotherapy, rest and simply waiting are all treatments. That breadth is the point, because what helps depends on the condition more than on the intervention. A cure is different again, since it means the condition is gone for good, and far fewer things achieve that than are called treatment.",
+      "variations": [
+        "That breadth is the point, because what helps depends on the condition more than on the intervention. A treatment is anything done to address a condition, and the word covers far more than medicine, since surgery, physiotherapy, rest and simply waiting are all treatments. A cure is different again, since it means the condition is gone for good, and far fewer things achieve that than are called treatment.",
+        "A cure is different again, since it means the condition is gone for good, and far fewer things achieve that than are called treatment. A treatment is anything done to address a condition, and the word covers far more than medicine, since surgery, physiotherapy, rest and simply waiting are all treatments. That breadth is the point, because what helps depends on the condition more than on the intervention."
+      ],
+      "tl": "treatment",
+      "bis": "gamot"
+    },
+    {
+      "id": "eng-health-000004",
+      "topic": "english-health",
+      "intent": "definition",
+      "concept": "prescription",
+      "keywords": [
+        "prescription",
+        "medicine",
+        "write",
+        "authorise",
+        "pharmacy",
+        "reseta",
+        "written",
+        "instruction",
+        "authorises",
+        "specific"
+      ],
+      "patterns": [
+        "what is prescription",
+        "prescription",
+        "explain prescription",
+        "definition of prescription",
+        "prescription meaning",
+        "what is a prescription",
+        "prescription vs recipe",
+        "why can i not buy this medicine",
+        "ano ang prescription",
+        "unsa ang reseta"
+      ],
+      "answer": "A prescription is the written instruction that authorises a specific medicine for a specific person, and the word has widened to mean the whole of what is written on it, including the instructions and the quantities. A prescription-only medicine cannot be bought over the counter because someone decided the safe use needs supervision. The word is not a synonym for recipe, which is why you cannot have a prescription for food, and pharmacies in the Philippines ask for one for many common drugs.",
+      "variations": [
+        "A prescription-only medicine cannot be bought over the counter because someone decided the safe use needs supervision. A prescription is the written instruction that authorises a specific medicine for a specific person, and the word has widened to mean the whole of what is written on it, including the instructions and the quantities. The word is not a synonym for recipe, which is why you cannot have a prescription for food, and pharmacies in the Philippines ask for one for many common drugs.",
+        "The word is not a synonym for recipe, which is why you cannot have a prescription for food, and pharmacies in the Philippines ask for one for many common drugs. A prescription is the written instruction that authorises a specific medicine for a specific person, and the word has widened to mean the whole of what is written on it, including the instructions and the quantities. A prescription-only medicine cannot be bought over the counter because someone decided the safe use needs supervision."
+      ],
+      "tl": "prescription",
+      "bis": "reseta"
+    },
+    {
+      "id": "eng-health-000005",
+      "topic": "english-health",
+      "intent": "definition",
+      "concept": "dosage",
+      "keywords": [
+        "dosage",
+        "dose",
+        "amount",
+        "take",
+        "daily",
+        "dangerous",
+        "dosis",
+        "medicine",
+        "differs",
+        "quantity"
+      ],
+      "patterns": [
+        "what is dosage",
+        "dosage",
+        "explain dosage",
+        "definition of dosage",
+        "dosage meaning",
+        "what is a dosage",
+        "difference between dose and dosage",
+        "is dosage used for exercise",
+        "ano ang dosage",
+        "unsa ang dosis"
+      ],
+      "answer": "A dosage is the amount of a medicine to take, and it differs from a dose, which is the quantity actually taken at one time, since a course of treatment may involve several doses on a day. The same word is used more loosely for any amount, so a low dosage of exercise is a normal phrase with no medicine involved. Getting it right matters more than it looks, because too little does nothing and too much is genuinely dangerous, which is why the figure on the packet is not advice.",
+      "variations": [
+        "The same word is used more loosely for any amount, so a low dosage of exercise is a normal phrase with no medicine involved. A dosage is the amount of a medicine to take, and it differs from a dose, which is the quantity actually taken at one time, since a course of treatment may involve several doses on a day. Getting it right matters more than it looks, because too little does nothing and too much is genuinely dangerous, which is why the figure on the packet is not advice.",
+        "Getting it right matters more than it looks, because too little does nothing and too much is genuinely dangerous, which is why the figure on the packet is not advice. A dosage is the amount of a medicine to take, and it differs from a dose, which is the quantity actually taken at one time, since a course of treatment may involve several doses on a day. The same word is used more loosely for any amount, so a low dosage of exercise is a normal phrase with no medicine involved."
+      ],
+      "tl": "dosage",
+      "bis": "dosis"
+    },
+    {
+      "id": "eng-health-000006",
+      "topic": "english-health",
+      "intent": "definition",
+      "concept": "chronic",
+      "keywords": [
+        "chronic",
+        "severity",
+        "acute",
+        "permanent",
+        "persist",
+        "matagal",
+        "condition",
+        "long",
+        "lasting",
+        "word",
+        "says"
+      ],
+      "patterns": [
+        "what is chronic",
+        "chronic",
+        "explain chronic",
+        "definition of chronic",
+        "chronic meaning",
+        "what is a chronic condition",
+        "chronic vs acute",
+        "is a chronic illness always severe",
+        "ano ang chronic",
+        "unsa ang matagal"
+      ],
+      "answer": "A chronic condition is a long-lasting one, and the word says nothing about severity, which is the misunderstanding it usually produces. A mild asthma that never goes away is chronic, and a serious infection that resolves in days is not. Acute is the opposite word and it refers to onset and duration together, so something can be acute and serious or chronic and trivial, and the pair is often used carelessly.",
+      "variations": [
+        "A mild asthma that never goes away is chronic, and a serious infection that resolves in days is not. A chronic condition is a long-lasting one, and the word says nothing about severity, which is the misunderstanding it usually produces. Acute is the opposite word and it refers to onset and duration together, so something can be acute and serious or chronic and trivial, and the pair is often used carelessly.",
+        "Acute is the opposite word and it refers to onset and duration together, so something can be acute and serious or chronic and trivial, and the pair is often used carelessly. A chronic condition is a long-lasting one, and the word says nothing about severity, which is the misunderstanding it usually produces. A mild asthma that never goes away is chronic, and a serious infection that resolves in days is not."
+      ],
+      "tl": "chronic",
+      "bis": "matagal"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "health",
+  "title": "Health",
+  "groupTitle": "English"
+}

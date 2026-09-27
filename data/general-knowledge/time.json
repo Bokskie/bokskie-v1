@@ -1,0 +1,202 @@
+{
+  "topic": "general-knowledge-time",
+  "entries": [
+    {
+      "id": "gen-time-000001",
+      "topic": "general-knowledge-time",
+      "intent": "definition",
+      "concept": "time",
+      "keywords": [
+        "time",
+        "clock",
+        "now",
+        "live",
+        "zone",
+        "measure",
+        "oras",
+        "ordering",
+        "events",
+        "ordinary",
+        "question"
+      ],
+      "patterns": [
+        "what is time",
+        "time",
+        "explain time",
+        "definition of time",
+        "time meaning",
+        "what time is it",
+        "what is the time now",
+        "can you tell the time",
+        "ano ang time",
+        "unsa ang oras"
+      ],
+      "answer": "Time is the ordering of events, and the ordinary question of what time it is needs a live clock, which this bank does not have. I can explain how time is measured, why time zones exist, and how to read any clock you are given, but I will not invent a reading. If you need the time, look at a device; it is faster than anything I could say and it is right.",
+      "variations": [
+        "I can explain how time is measured, why time zones exist, and how to read any clock you are given, but I will not invent a reading. Time is the ordering of events, and the ordinary question of what time it is needs a live clock, which this bank does not have. If you need the time, look at a device; it is faster than anything I could say and it is right.",
+        "If you need the time, look at a device; it is faster than anything I could say and it is right. Time is the ordering of events, and the ordinary question of what time it is needs a live clock, which this bank does not have. I can explain how time is measured, why time zones exist, and how to read any clock you are given, but I will not invent a reading."
+      ],
+      "tl": "time",
+      "bis": "oras"
+    },
+    {
+      "id": "gen-time-000002",
+      "topic": "general-knowledge-time",
+      "intent": "definition",
+      "concept": "time zone",
+      "keywords": [
+        "time zone",
+        "offset",
+        "greenwich",
+        "utc",
+        "daylight",
+        "border",
+        "timezone",
+        "time",
+        "zone",
+        "region",
+        "clocks",
+        "agree",
+        "offsets"
+      ],
+      "patterns": [
+        "what is time zone",
+        "time zone",
+        "explain time zone",
+        "definition of time zone",
+        "time zone meaning",
+        "what is a time zone",
+        "what is gmt",
+        "is the philippines 8 hours ahead",
+        "ano ang time zone",
+        "unsa ang timezone"
+      ],
+      "answer": "A time zone is a region whose clocks agree, and the offsets from Greenwich range from about minus twelve to plus fourteen, which is why it is nearly always wrong to guess. The reason the offsets are not whole hours is that they are political: a zone boundary is usually a border, and when one moves its clocks the neighbours have to agree. The Philippines is eight hours ahead of Greenwich and does not use daylight saving, which is a useful fact for anyone catching up with a call.",
+      "variations": [
+        "The reason the offsets are not whole hours is that they are political: a zone boundary is usually a border, and when one moves its clocks the neighbours have to agree. A time zone is a region whose clocks agree, and the offsets from Greenwich range from about minus twelve to plus fourteen, which is why it is nearly always wrong to guess. The Philippines is eight hours ahead of Greenwich and does not use daylight saving, which is a useful fact for anyone catching up with a call.",
+        "The Philippines is eight hours ahead of Greenwich and does not use daylight saving, which is a useful fact for anyone catching up with a call. A time zone is a region whose clocks agree, and the offsets from Greenwich range from about minus twelve to plus fourteen, which is why it is nearly always wrong to guess. The reason the offsets are not whole hours is that they are political: a zone boundary is usually a border, and when one moves its clocks the neighbours have to agree."
+      ],
+      "tl": "time zone",
+      "bis": "timezone"
+    },
+    {
+      "id": "gen-time-000003",
+      "topic": "general-knowledge-time",
+      "intent": "definition",
+      "concept": "daylight saving time",
+      "keywords": [
+        "daylight saving time",
+        "summer",
+        "clock",
+        "energy",
+        "spring",
+        "autumn",
+        "daylight",
+        "saving",
+        "time",
+        "practice",
+        "moving",
+        "clocks"
+      ],
+      "patterns": [
+        "what is daylight saving time",
+        "daylight saving time",
+        "explain daylight saving time",
+        "definition of daylight saving time",
+        "daylight saving time meaning",
+        "does the philippines use daylight saving",
+        "why do clocks change",
+        "ano ang daylight saving time",
+        "unsa ang daylight saving"
+      ],
+      "answer": "Daylight saving time is the practice of moving clocks forward in summer so that evenings are lighter, and the stated reason is saving energy on lighting. The evidence for the energy saving is weak, and the real effects are a lost hour in spring and a repeated hour in autumn. The Philippines does not observe it, and neither do most of Asia, which leaves the country permanently out of step with Europe and North America for half the year.",
+      "variations": [
+        "The evidence for the energy saving is weak, and the real effects are a lost hour in spring and a repeated hour in autumn. Daylight saving time is the practice of moving clocks forward in summer so that evenings are lighter, and the stated reason is saving energy on lighting. The Philippines does not observe it, and neither do most of Asia, which leaves the country permanently out of step with Europe and North America for half the year.",
+        "The Philippines does not observe it, and neither do most of Asia, which leaves the country permanently out of step with Europe and North America for half the year. Daylight saving time is the practice of moving clocks forward in summer so that evenings are lighter, and the stated reason is saving energy on lighting. The evidence for the energy saving is weak, and the real effects are a lost hour in spring and a repeated hour in autumn."
+      ],
+      "tl": "daylight saving time",
+      "bis": "daylight saving"
+    },
+    {
+      "id": "gen-time-000004",
+      "topic": "general-knowledge-time",
+      "intent": "definition",
+      "concept": "calendar",
+      "keywords": [
+        "calendar",
+        "month",
+        "week",
+        "lunar",
+        "leap",
+        "irregular",
+        "kalendaryo",
+        "system",
+        "dividing",
+        "time",
+        "countable",
+        "units"
+      ],
+      "patterns": [
+        "what is calendar",
+        "calendar",
+        "explain calendar",
+        "definition of calendar",
+        "calendar meaning",
+        "why is a month 30 days",
+        "why are there 7 days in a week",
+        "what is a leap year",
+        "ano ang calendar",
+        "unsa ang kalendaryo"
+      ],
+      "answer": "A calendar is a system for dividing time into countable units, and the one in use is built from astronomy that was settled long before it. Months come from lunar cycles, which is why their lengths are irregular, while the week is seven days for a historical reason that has no astronomical support at all. The awkward parts are inherited: leap years, months with thirty days, and a year that does not divide evenly into anything.",
+      "variations": [
+        "Months come from lunar cycles, which is why their lengths are irregular, while the week is seven days for a historical reason that has no astronomical support at all. A calendar is a system for dividing time into countable units, and the one in use is built from astronomy that was settled long before it. The awkward parts are inherited: leap years, months with thirty days, and a year that does not divide evenly into anything.",
+        "The awkward parts are inherited: leap years, months with thirty days, and a year that does not divide evenly into anything. A calendar is a system for dividing time into countable units, and the one in use is built from astronomy that was settled long before it. Months come from lunar cycles, which is why their lengths are irregular, while the week is seven days for a historical reason that has no astronomical support at all."
+      ],
+      "tl": "calendar",
+      "bis": "kalendaryo"
+    },
+    {
+      "id": "gen-time-000005",
+      "topic": "general-knowledge-time",
+      "intent": "definition",
+      "concept": "timetable",
+      "keywords": [
+        "timetable",
+        "schedule",
+        "departure",
+        "transport",
+        "change",
+        "published",
+        "iskedyed",
+        "something",
+        "happens",
+        "word"
+      ],
+      "patterns": [
+        "what is timetable",
+        "timetable",
+        "explain timetable",
+        "definition of timetable",
+        "timetable meaning",
+        "what is a timetable",
+        "difference between timetable and schedule",
+        "how to read a train timetable",
+        "ano ang timetable",
+        "unsa ang iskedyed"
+      ],
+      "answer": "A timetable is a published schedule of when something happens, and the word is most used for transport where the times are fixed and the service runs whether or not you need it. It is a different object from a calendar, which organises your own time, and from a schedule, which is a plan somebody arranges. Reading one properly means looking for the change times rather than the departure times, since those are the ones that catch people out.",
+      "variations": [
+        "It is a different object from a calendar, which organises your own time, and from a schedule, which is a plan somebody arranges. A timetable is a published schedule of when something happens, and the word is most used for transport where the times are fixed and the service runs whether or not you need it. Reading one properly means looking for the change times rather than the departure times, since those are the ones that catch people out.",
+        "Reading one properly means looking for the change times rather than the departure times, since those are the ones that catch people out. A timetable is a published schedule of when something happens, and the word is most used for transport where the times are fixed and the service runs whether or not you need it. It is a different object from a calendar, which organises your own time, and from a schedule, which is a plan somebody arranges."
+      ],
+      "tl": "timetable",
+      "bis": "iskedyed"
+    }
+  ],
+  "lang": "english",
+  "group": "general-knowledge",
+  "sub": "time",
+  "title": "Time",
+  "groupTitle": "General Knowledge"
+}

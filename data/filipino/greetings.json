@@ -1,0 +1,77 @@
+{
+  "topic": "filipino-greetings",
+  "entries": [
+    {
+      "id": "fil-greetings-000001",
+      "topic": "filipino-greetings",
+      "intent": "definition",
+      "concept": "salamat",
+      "keywords": [
+        "salamat",
+        "thanks",
+        "maraming",
+        "means",
+        "thank",
+        "comes",
+        "spanish",
+        "gracias"
+      ],
+      "patterns": [
+        "what is salamat",
+        "salamat",
+        "explain salamat",
+        "definition of salamat",
+        "salamat meaning",
+        "what does salamat mean",
+        "how do you say thank you in tagalog",
+        "ano ang salamat",
+        "unsa ang salamat"
+      ],
+      "answer": "Salamat means thank you, and it comes from the Spanish gracias turned into thanks, which is one trace of over three centuries of Spanish rule. Maraming salamat is the common intensifier, meaning many thanks, and it is what you would actually say rather than the bare word. The reply is walang problema, and the idiom is a genuine response rather than a brush-off.",
+      "variations": [
+        "Maraming salamat is the common intensifier, meaning many thanks, and it is what you would actually say rather than the bare word. Salamat means thank you, and it comes from the Spanish gracias turned into thanks, which is one trace of over three centuries of Spanish rule. The reply is walang problema, and the idiom is a genuine response rather than a brush-off.",
+        "The reply is walang problema, and the idiom is a genuine response rather than a brush-off. Salamat means thank you, and it comes from the Spanish gracias turned into thanks, which is one trace of over three centuries of Spanish rule. Maraming salamat is the common intensifier, meaning many thanks, and it is what you would actually say rather than the bare word."
+      ],
+      "tl": "salamat",
+      "bis": "salamat"
+    },
+    {
+      "id": "fil-greetings-000002",
+      "topic": "filipino-greetings",
+      "intent": "definition",
+      "concept": "kumusta",
+      "keywords": [
+        "kumusta",
+        "musta",
+        "greeting",
+        "news",
+        "means",
+        "standard",
+        "filipino"
+      ],
+      "patterns": [
+        "what is kumusta",
+        "kumusta",
+        "explain kumusta",
+        "definition of kumusta",
+        "kumusta meaning",
+        "what does kumusta mean",
+        "how do you greet in tagalog",
+        "ano ang kumusta",
+        "unsa ang kumusta"
+      ],
+      "answer": "Kumusta means how are you or what is the news, and it is the standard greeting in Filipino. It is also shortened to musta, and kamusta is a very common misspelling, since the letter u is easy to slip into. The answer is maganda, or a description of what is actually going on, since the question genuinely asks for news rather than just for a greeting.",
+      "variations": [
+        "It is also shortened to musta, and kamusta is a very common misspelling, since the letter u is easy to slip into. Kumusta means how are you or what is the news, and it is the standard greeting in Filipino. The answer is maganda, or a description of what is actually going on, since the question genuinely asks for news rather than just for a greeting.",
+        "The answer is maganda, or a description of what is actually going on, since the question genuinely asks for news rather than just for a greeting. Kumusta means how are you or what is the news, and it is the standard greeting in Filipino. It is also shortened to musta, and kamusta is a very common misspelling, since the letter u is easy to slip into."
+      ],
+      "tl": "kumusta",
+      "bis": "kumusta"
+    }
+  ],
+  "lang": "tagalog",
+  "group": "filipino",
+  "sub": "greetings",
+  "title": "Greetings",
+  "groupTitle": "Filipino"
+}

@@ -1,0 +1,198 @@
+{
+  "topic": "sports-volleyball",
+  "entries": [
+    {
+      "id": "spo-volleyball-000001",
+      "topic": "sports-volleyball",
+      "intent": "definition",
+      "concept": "spike",
+      "keywords": [
+        "spike",
+        "attack",
+        "jump",
+        "power",
+        "approach",
+        "block",
+        "attacking",
+        "ball",
+        "hitting",
+        "above"
+      ],
+      "patterns": [
+        "what is spike",
+        "spike",
+        "explain spike",
+        "definition of spike",
+        "spike meaning",
+        "what is a spike in volleyball",
+        "how do you spike",
+        "what is a setter",
+        "ano ang spike",
+        "unsa ang spike"
+      ],
+      "answer": "A spike is attacking the ball by hitting it above the net from a jump, and it is the highest-contact and usually the most lethal stroke in the game. Its power comes from the order of operations, since the arm swing, the jump and the approach all have to peak together, and a mistimed approach makes the contact weaker no matter how hard it is hit. The block is the counter, which is why front-row players spend so much time reading the setter rather than watching the ball.",
+      "variations": [
+        "Its power comes from the order of operations, since the arm swing, the jump and the approach all have to peak together, and a mistimed approach makes the contact weaker no matter how hard it is hit. A spike is attacking the ball by hitting it above the net from a jump, and it is the highest-contact and usually the most lethal stroke in the game. The block is the counter, which is why front-row players spend so much time reading the setter rather than watching the ball.",
+        "The block is the counter, which is why front-row players spend so much time reading the setter rather than watching the ball. A spike is attacking the ball by hitting it above the net from a jump, and it is the highest-contact and usually the most lethal stroke in the game. Its power comes from the order of operations, since the arm swing, the jump and the approach all have to peak together, and a mistimed approach makes the contact weaker no matter how hard it is hit."
+      ],
+      "tl": "spike",
+      "bis": "spike"
+    },
+    {
+      "id": "spo-volleyball-000002",
+      "topic": "sports-volleyball",
+      "intent": "definition",
+      "concept": "set",
+      "keywords": [
+        "set",
+        "hitter",
+        "block",
+        "high",
+        "option",
+        "second",
+        "contact",
+        "redirects",
+        "first",
+        "towards",
+        "attack"
+      ],
+      "patterns": [
+        "what is set",
+        "set",
+        "explain set",
+        "definition of set",
+        "set meaning",
+        "what is a set in volleyball",
+        "who is the setter",
+        "what is a good set",
+        "ano ang set",
+        "unsa ang set"
+      ],
+      "answer": "A set is the second contact, which redirects the first contact towards the attack, and its quality decides how many options the hitter has. A good set is high and away from the net so the attacker can hit in front of the block; a bad set is too close and hands the block a free chance. It is the least glamorous skill in the sport and the one that separates a good team from a merely athletic one.",
+      "variations": [
+        "A good set is high and away from the net so the attacker can hit in front of the block; a bad set is too close and hands the block a free chance. A set is the second contact, which redirects the first contact towards the attack, and its quality decides how many options the hitter has. It is the least glamorous skill in the sport and the one that separates a good team from a merely athletic one.",
+        "It is the least glamorous skill in the sport and the one that separates a good team from a merely athletic one. A set is the second contact, which redirects the first contact towards the attack, and its quality decides how many options the hitter has. A good set is high and away from the net so the attacker can hit in front of the block; a bad set is too close and hands the block a free chance."
+      ],
+      "tl": "set",
+      "bis": "set"
+    },
+    {
+      "id": "spo-volleyball-000003",
+      "topic": "sports-volleyball",
+      "intent": "definition",
+      "concept": "rotation",
+      "keywords": [
+        "rotation",
+        "six",
+        "position",
+        "serve",
+        "block",
+        "court",
+        "rotasyon",
+        "positions",
+        "team",
+        "cycles",
+        "volleyball",
+        "decides"
+      ],
+      "patterns": [
+        "what is rotation",
+        "rotation",
+        "explain rotation",
+        "definition of rotation",
+        "rotation meaning",
+        "what is rotation in volleyball",
+        "how many players rotate",
+        "what is outside hitter",
+        "ano ang rotation",
+        "unsa ang rotasyon"
+      ],
+      "answer": "Rotation is the six positions a team cycles through, and it is the part of volleyball that decides serving, blocking and who plays front row. The rotation changes whenever the serve is won, so the same six players occupy different jobs depending on who last scored. Outside hitters spike from the wings while the middle blocks, and a rotation puts the strongest attacker in a back-row position exactly when the serving changes.",
+      "variations": [
+        "The rotation changes whenever the serve is won, so the same six players occupy different jobs depending on who last scored. Rotation is the six positions a team cycles through, and it is the part of volleyball that decides serving, blocking and who plays front row. Outside hitters spike from the wings while the middle blocks, and a rotation puts the strongest attacker in a back-row position exactly when the serving changes.",
+        "Outside hitters spike from the wings while the middle blocks, and a rotation puts the strongest attacker in a back-row position exactly when the serving changes. Rotation is the six positions a team cycles through, and it is the part of volleyball that decides serving, blocking and who plays front row. The rotation changes whenever the serve is won, so the same six players occupy different jobs depending on who last scored."
+      ],
+      "tl": "rotation",
+      "bis": "rotasyon"
+    },
+    {
+      "id": "spo-volleyball-000004",
+      "topic": "sports-volleyball",
+      "intent": "definition",
+      "concept": "block",
+      "keywords": [
+        "block",
+        "net",
+        "jump",
+        "spike",
+        "approach",
+        "fault",
+        "defending",
+        "jumping",
+        "arms",
+        "extended",
+        "stop"
+      ],
+      "patterns": [
+        "what is block",
+        "block",
+        "explain block",
+        "definition of block",
+        "block meaning",
+        "what is a block in volleyball",
+        "is blocking in the net a fault",
+        "how do you read a spike",
+        "ano ang block",
+        "unsa ang block"
+      ],
+      "answer": "A block is defending the net by jumping with arms extended to stop or deflect a spike, and it is read entirely from the attacker's approach rather than the ball. That is the skill, since the ball can be seen late but the approach is visible for a full second. A block touch that is judged over the net is a fault, so players must keep their hands inside, which removes the easy way to stop the point.",
+      "variations": [
+        "That is the skill, since the ball can be seen late but the approach is visible for a full second. A block is defending the net by jumping with arms extended to stop or deflect a spike, and it is read entirely from the attacker's approach rather than the ball. A block touch that is judged over the net is a fault, so players must keep their hands inside, which removes the easy way to stop the point.",
+        "A block touch that is judged over the net is a fault, so players must keep their hands inside, which removes the easy way to stop the point. A block is defending the net by jumping with arms extended to stop or deflect a spike, and it is read entirely from the attacker's approach rather than the ball. That is the skill, since the ball can be seen late but the approach is visible for a full second."
+      ],
+      "tl": "block",
+      "bis": "block"
+    },
+    {
+      "id": "spo-volleyball-000005",
+      "topic": "sports-volleyball",
+      "intent": "definition",
+      "concept": "libero",
+      "keywords": [
+        "libero",
+        "defensive",
+        "jersey",
+        "substitution",
+        "rally",
+        "specialist",
+        "wears",
+        "different",
+        "coloured"
+      ],
+      "patterns": [
+        "what is libero",
+        "libero",
+        "explain libero",
+        "definition of libero",
+        "libero meaning",
+        "what is a libero",
+        "can a libero attack",
+        "what colour jersey does a libero wear",
+        "ano ang libero",
+        "unsa ang libero"
+      ],
+      "answer": "A libero is a defensive specialist who wears a different-coloured jersey and may only play in the back row, and the restriction is the point rather than a limitation. A back-row-only player can attack much more aggressively than the rules would otherwise allow, which is why some teams use a libero who is also their best passer. The role is distinct from a specialist in other sports, because it is a substitution made mid-rally from the bench rather than a position anyone holds.",
+      "variations": [
+        "A back-row-only player can attack much more aggressively than the rules would otherwise allow, which is why some teams use a libero who is also their best passer. A libero is a defensive specialist who wears a different-coloured jersey and may only play in the back row, and the restriction is the point rather than a limitation. The role is distinct from a specialist in other sports, because it is a substitution made mid-rally from the bench rather than a position anyone holds.",
+        "The role is distinct from a specialist in other sports, because it is a substitution made mid-rally from the bench rather than a position anyone holds. A libero is a defensive specialist who wears a different-coloured jersey and may only play in the back row, and the restriction is the point rather than a limitation. A back-row-only player can attack much more aggressively than the rules would otherwise allow, which is why some teams use a libero who is also their best passer."
+      ],
+      "tl": "libero",
+      "bis": "libero"
+    }
+  ],
+  "lang": "english",
+  "group": "sports",
+  "sub": "volleyball",
+  "title": "Volleyball",
+  "groupTitle": "Sports"
+}

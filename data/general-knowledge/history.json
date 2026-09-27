@@ -1,0 +1,180 @@
+{
+  "topic": "general-knowledge-history",
+  "entries": [
+    {
+      "id": "gen-history-000001",
+      "topic": "general-knowledge-history",
+      "intent": "definition",
+      "concept": "colonization",
+      "keywords": [
+        "colonization",
+        "history",
+        "spanish",
+        "colony",
+        "colonize",
+        "manila",
+        "pilipinas",
+        "rule",
+        "archipelago",
+        "1565",
+        "1898",
+        "period"
+      ],
+      "patterns": [
+        "what is colonization",
+        "colonization",
+        "explain colonization",
+        "definition of colonization",
+        "colonization meaning",
+        "philippine history",
+        "history of the philippines",
+        "spanish colonial philippines",
+        "ano ang pilipinas",
+        "unsa ang pilipinas"
+      ],
+      "answer": "Spanish rule over the archipelago ran from 1565 to 1898, and it is the period that most shaped modern Filipino language and culture. Spanish was the official language of government and education, which is why many Filipino words are Spanish in origin. It ended after the 1896 revolution and the 1898 Spanish-American War.",
+      "variations": [
+        "Spanish was the official language of government and education, which is why many Filipino words are Spanish in origin. Spanish rule over the archipelago ran from 1565 to 1898, and it is the period that most shaped modern Filipino language and culture. It ended after the 1896 revolution and the 1898 Spanish-American War.",
+        "It ended after the 1896 revolution and the 1898 Spanish-American War. Spanish rule over the archipelago ran from 1565 to 1898, and it is the period that most shaped modern Filipino language and culture. Spanish was the official language of government and education, which is why many Filipino words are Spanish in origin."
+      ],
+      "tl": "pilipinas",
+      "bis": "pilipinas",
+      "langs": {
+        "tagalog": "Ang Pilipinas ay isang kapuluang bansa sa Timog-Silangang Asya, binubuo ng higit sa 7,600 pulo, mga isang libo lamang ang nakatira. Nasa kanlurang Pasipiko ito, sa sona ng mga bagyong tropics, kaya kadalasang tinatamaan. Si Manila ang kabataang bansa, at hatiin ito sa mga rehiyon at saka mga probinsiya - mas malaki ang Quezon City kaysa sa mismong kapital, na nalilito ang mga tao sa palagay na ang kabataan ay pinakamalaking lungsod. Maraming talagang wika ang Pilipinas: opisyal ang Filipino at Ingles, at sa tahanan ang karamihan ng pamilya ay Cebuano, Tagalog, Ilocano o Hiligayno, madalas marami sa iisang usapan.",
+        "bisaya": "Ang Pilipinas archipelago siya sa Southeast Asia, nga binuo gikan sa labaw pa sa 7,600 nga isla, nga mga usa ka libo lang nga populated. Naa siya sa western Pacific, sa belt nga tropical cyclones, kana man nga gyud nga nahit nga kanunay. Ang Manila ang capital, ug naa nga mga region ang nasud sa country, dayon mga probinsiya - ang Quezon City gyud nga mas dako kaysa sa capital mismo, mao nga niini nahimong ambag sa mga tawo nga akong kana ang capital mao pud ang pinakadako nga syudad. Maraming languages gyud ang Pilipinas: official ang Filipino ug English, ug sa balay ang daghan ka mga pamilya mag-Cebuano, Tagalog, Ilocano o Hiligaynon, kanunay daghan niini sa usa ka conversation."
+      },
+      "confidence": null
+    },
+    {
+      "id": "gen-history-000002",
+      "topic": "general-knowledge-history",
+      "intent": "definition",
+      "concept": "commonwealth",
+      "keywords": [
+        "commonwealth",
+        "philippines",
+        "edoardo",
+        "quinto",
+        "independence",
+        "american",
+        "administration",
+        "lasted",
+        "1898",
+        "until",
+        "1946"
+      ],
+      "patterns": [
+        "what is commonwealth",
+        "commonwealth",
+        "explain commonwealth",
+        "definition of commonwealth",
+        "commonwealth meaning",
+        "american period philippines",
+        "when did the philippines get independence"
+      ],
+      "answer": "American administration lasted from 1898 until 1946. It brought a large English-language education system, which later became the language of government and business, and it promised independence, which was delayed. The Commonwealth of 1935 was a transitional step, and full independence came on 4 July 1946.",
+      "variations": [
+        "It brought a large English-language education system, which later became the language of government and business, and it promised independence, which was delayed. American administration lasted from 1898 until 1946. The Commonwealth of 1935 was a transitional step, and full independence came on 4 July 1946.",
+        "The Commonwealth of 1935 was a transitional step, and full independence came on 4 July 1946. American administration lasted from 1898 until 1946. It brought a large English-language education system, which later became the language of government and business, and it promised independence, which was delayed."
+      ]
+    },
+    {
+      "id": "gen-history-000003",
+      "topic": "general-knowledge-history",
+      "intent": "definition",
+      "concept": "occupation",
+      "keywords": [
+        "occupation",
+        "japan",
+        "1942",
+        "manila",
+        "occupied",
+        "philippines",
+        "1945",
+        "earliest"
+      ],
+      "patterns": [
+        "what is occupation",
+        "occupation",
+        "explain occupation",
+        "definition of occupation",
+        "occupation meaning",
+        "world war",
+        "second world war",
+        "japanese occupation philippines",
+        "world war 2 philippines"
+      ],
+      "answer": "Japan occupied the Philippines from 1942 to 1945, one of the earliest moves of the Second World War. The occupation included the Bataan Death March and the bombing of Manila, which destroyed much of the city. The Philippines fought alongside the Allies, and the damage is remembered as a defining wound of the war.",
+      "variations": [
+        "The occupation included the Bataan Death March and the bombing of Manila, which destroyed much of the city. Japan occupied the Philippines from 1942 to 1945, one of the earliest moves of the Second World War. The Philippines fought alongside the Allies, and the damage is remembered as a defining wound of the war.",
+        "The Philippines fought alongside the Allies, and the damage is remembered as a defining wound of the war. Japan occupied the Philippines from 1942 to 1945, one of the earliest moves of the Second World War. The occupation included the Bataan Death March and the bombing of Manila, which destroyed much of the city."
+      ]
+    },
+    {
+      "id": "gen-history-000004",
+      "topic": "general-knowledge-history",
+      "intent": "definition",
+      "concept": "katipunan",
+      "keywords": [
+        "katipunan",
+        "philippines",
+        "declamation",
+        "revolution",
+        "1896",
+        "bonifacio",
+        "secret",
+        "society",
+        "founded",
+        "andres"
+      ],
+      "patterns": [
+        "what is katipunan",
+        "katipunan",
+        "explain katipunan",
+        "definition of katipunan",
+        "katipunan meaning",
+        "declaration of independence",
+        "andres bonifacio"
+      ],
+      "answer": "The Katipunan was a secret society founded by Andres Bonifacio in 1892 to end Spanish rule. Its members, the Katipuneros, came from across the social classes - workers, farmers and students. On 12 August 1896 members tore their cedulas and burned them in Balintawak, which became the start of the Philippine Revolution.",
+      "variations": [
+        "Its members, the Katipuneros, came from across the social classes - workers, farmers and students. The Katipunan was a secret society founded by Andres Bonifacio in 1892 to end Spanish rule. On 12 August 1896 members tore their cedulas and burned them in Balintawak, which became the start of the Philippine Revolution.",
+        "On 12 August 1896 members tore their cedulas and burned them in Balintawak, which became the start of the Philippine Revolution. The Katipunan was a secret society founded by Andres Bonifacio in 1892 to end Spanish rule. Its members, the Katipuneros, came from across the social classes - workers, farmers and students."
+      ]
+    },
+    {
+      "id": "gen-history-000005",
+      "topic": "general-knowledge-history",
+      "intent": "definition",
+      "concept": "cession",
+      "keywords": [
+        "cession",
+        "paris",
+        "spain",
+        "treaty",
+        "december",
+        "1898",
+        "surrendered"
+      ],
+      "patterns": [
+        "what is cession",
+        "cession",
+        "explain cession",
+        "definition of cession",
+        "cession meaning",
+        "treaty of paris",
+        "treaty of paris 1898",
+        "how did spain lose the philippines"
+      ],
+      "answer": "Under the Treaty of Paris of December 1898, Spain surrendered the Philippines to the United States, alongside Puerto Rico and Guam. The terms were worked out in Paris while fighting was still happening in the Philippines, and the resulting annexation was strongly opposed by Aguinaldo and the revolutionary government.",
+      "variations": [
+        "The terms were worked out in Paris while fighting was still happening in the Philippines, and the resulting annexation was strongly opposed by Aguinaldo and the revolutionary government. Under the Treaty of Paris of December 1898, Spain surrendered the Philippines to the United States, alongside Puerto Rico and Guam."
+      ]
+    }
+  ],
+  "lang": "english",
+  "group": "general-knowledge",
+  "sub": "history",
+  "title": "History",
+  "groupTitle": "General Knowledge"
+}

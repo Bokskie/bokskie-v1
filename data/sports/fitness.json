@@ -1,0 +1,189 @@
+{
+  "topic": "sports-fitness",
+  "entries": [
+    {
+      "id": "spo-fitness-000001",
+      "topic": "sports-fitness",
+      "intent": "definition",
+      "concept": "cardio",
+      "keywords": [
+        "cardio",
+        "sustained",
+        "fitness",
+        "range",
+        "easy",
+        "exercise",
+        "raises",
+        "heart",
+        "rate"
+      ],
+      "patterns": [
+        "what is cardio",
+        "cardio",
+        "explain cardio",
+        "definition of cardio",
+        "cardio meaning",
+        "is cardio the same as aerobic",
+        "how often should i do cardio",
+        "ano ang cardio",
+        "unsa ang cardio"
+      ],
+      "answer": "Cardio is any exercise that raises heart rate for a sustained period, and it is the category most people mean when they say they need to get fit. The measure that matters is not the heart rate at its peak but how much of the week is spent in a range where talking becomes difficult. That range is the one that changes fitness, and it is lower than most beginners assume, which is why easy sessions do more than they appear to.",
+      "variations": [
+        "The measure that matters is not the heart rate at its peak but how much of the week is spent in a range where talking becomes difficult. Cardio is any exercise that raises heart rate for a sustained period, and it is the category most people mean when they say they need to get fit. That range is the one that changes fitness, and it is lower than most beginners assume, which is why easy sessions do more than they appear to.",
+        "That range is the one that changes fitness, and it is lower than most beginners assume, which is why easy sessions do more than they appear to. Cardio is any exercise that raises heart rate for a sustained period, and it is the category most people mean when they say they need to get fit. The measure that matters is not the heart rate at its peak but how much of the week is spent in a range where talking becomes difficult."
+      ],
+      "tl": "cardio",
+      "bis": "cardio"
+    },
+    {
+      "id": "spo-fitness-000002",
+      "topic": "sports-fitness",
+      "intent": "definition",
+      "concept": "progressive overload",
+      "keywords": [
+        "progressive overload",
+        "adapt",
+        "muscle",
+        "weight",
+        "repetition",
+        "tendon",
+        "progressive",
+        "overload",
+        "principle",
+        "adapts",
+        "asked"
+      ],
+      "patterns": [
+        "what is progressive overload",
+        "progressive overload",
+        "explain progressive overload",
+        "definition of progressive overload",
+        "progressive overload meaning",
+        "how do you apply it",
+        "is it only for weights",
+        "ano ang progressive overload",
+        "unsa ang progressive overload"
+      ],
+      "answer": "Progressive overload is the principle that a muscle adapts only when it is asked to do more than it currently can, and it applies to almost every kind of training rather than just weightlifting. The extra can be weight, repetitions, distance, or difficulty, and it has to be small and gradual. Doing too much too fast is what produces injury rather than progress, since tendons and connective tissue adapt more slowly than muscle does.",
+      "variations": [
+        "The extra can be weight, repetitions, distance, or difficulty, and it has to be small and gradual. Progressive overload is the principle that a muscle adapts only when it is asked to do more than it currently can, and it applies to almost every kind of training rather than just weightlifting. Doing too much too fast is what produces injury rather than progress, since tendons and connective tissue adapt more slowly than muscle does.",
+        "Doing too much too fast is what produces injury rather than progress, since tendons and connective tissue adapt more slowly than muscle does. Progressive overload is the principle that a muscle adapts only when it is asked to do more than it currently can, and it applies to almost every kind of training rather than just weightlifting. The extra can be weight, repetitions, distance, or difficulty, and it has to be small and gradual."
+      ],
+      "tl": "progressive overload",
+      "bis": "progressive overload"
+    },
+    {
+      "id": "spo-fitness-000003",
+      "topic": "sports-fitness",
+      "intent": "definition",
+      "concept": "mobility",
+      "keywords": [
+        "mobility",
+        "joint",
+        "range",
+        "flexibility",
+        "loaded",
+        "compensate",
+        "move",
+        "separate"
+      ],
+      "patterns": [
+        "what is mobility",
+        "mobility",
+        "explain mobility",
+        "definition of mobility",
+        "mobility meaning",
+        "difference between mobility and flexibility",
+        "how to improve mobility",
+        "ano ang mobility",
+        "unsa ang mobility"
+      ],
+      "answer": "Mobility is the range a joint can move through, and it is separate from flexibility, which is the length of a muscle at rest. Strengthening a range that a joint cannot actually use is the usual mistake, since a heavy squat through a restricted ankle does not train the squat, it trains compensation. The practical work is moving each joint through its full range unloaded and slowly, which most people find uncomfortable and therefore skip, and that discomfort is the useful signal.",
+      "variations": [
+        "Strengthening a range that a joint cannot actually use is the usual mistake, since a heavy squat through a restricted ankle does not train the squat, it trains compensation. Mobility is the range a joint can move through, and it is separate from flexibility, which is the length of a muscle at rest. The practical work is moving each joint through its full range unloaded and slowly, which most people find uncomfortable and therefore skip, and that discomfort is the useful signal.",
+        "The practical work is moving each joint through its full range unloaded and slowly, which most people find uncomfortable and therefore skip, and that discomfort is the useful signal. Mobility is the range a joint can move through, and it is separate from flexibility, which is the length of a muscle at rest. Strengthening a range that a joint cannot actually use is the usual mistake, since a heavy squat through a restricted ankle does not train the squat, it trains compensation."
+      ],
+      "tl": "mobility",
+      "bis": "mobility"
+    },
+    {
+      "id": "spo-fitness-000004",
+      "topic": "sports-fitness",
+      "intent": "definition",
+      "concept": "delOAD",
+      "keywords": [
+        "delOAD",
+        "volume",
+        "fatigue",
+        "week",
+        "intensity",
+        "recover",
+        "reduced",
+        "training",
+        "popular"
+      ],
+      "patterns": [
+        "what is deload",
+        "deload",
+        "explain deload",
+        "definition of deload",
+        "deload meaning",
+        "what is a deload week",
+        "is deloading necessary",
+        "when should you deload",
+        "ano ang deload",
+        "unsa ang deload"
+      ],
+      "answer": "Deload is a week of reduced training volume, and it is the least popular part of a programme because it feels like going backwards while the training log still looks empty. The reason it works is that fitness and fatigue are separate: a hard week builds both, and the fitness outlasts the fatigue while the fatigue does not. Cutting the volume for a week while keeping the intensity lets the fatigue clear without losing the adaptation.",
+      "variations": [
+        "The reason it works is that fitness and fatigue are separate: a hard week builds both, and the fitness outlasts the fatigue while the fatigue does not. Deload is a week of reduced training volume, and it is the least popular part of a programme because it feels like going backwards while the training log still looks empty. Cutting the volume for a week while keeping the intensity lets the fatigue clear without losing the adaptation.",
+        "Cutting the volume for a week while keeping the intensity lets the fatigue clear without losing the adaptation. Deload is a week of reduced training volume, and it is the least popular part of a programme because it feels like going backwards while the training log still looks empty. The reason it works is that fitness and fatigue are separate: a hard week builds both, and the fitness outlasts the fatigue while the fatigue does not."
+      ],
+      "tl": "deload",
+      "bis": "deload"
+    },
+    {
+      "id": "spo-fitness-000005",
+      "topic": "sports-fitness",
+      "intent": "definition",
+      "concept": "warm-up",
+      "keywords": [
+        "warm-up",
+        "temperature",
+        "stretch",
+        "prime",
+        "pattern",
+        "force",
+        "warm",
+        "raises",
+        "primes",
+        "movement"
+      ],
+      "patterns": [
+        "what is warm-up",
+        "warm-up",
+        "explain warm-up",
+        "definition of warm-up",
+        "warm-up meaning",
+        "what is a warm-up",
+        "should you stretch before exercise",
+        "why not stretch before sprinting",
+        "ano ang warm-up",
+        "unsa ang warm-up"
+      ],
+      "answer": "A warm-up raises temperature and primes the movement pattern before the main effort, and it is not the same as stretching, which is a separate and much more debated activity. What actually helps is moving through the specific actions about to be performed, lightly at first, so the nervous system has run the pattern once. Static stretching held for a long time before a sprint can temporarily reduce force output, which is why the long holds are discouraged immediately before competition.",
+      "variations": [
+        "What actually helps is moving through the specific actions about to be performed, lightly at first, so the nervous system has run the pattern once. A warm-up raises temperature and primes the movement pattern before the main effort, and it is not the same as stretching, which is a separate and much more debated activity. Static stretching held for a long time before a sprint can temporarily reduce force output, which is why the long holds are discouraged immediately before competition.",
+        "Static stretching held for a long time before a sprint can temporarily reduce force output, which is why the long holds are discouraged immediately before competition. A warm-up raises temperature and primes the movement pattern before the main effort, and it is not the same as stretching, which is a separate and much more debated activity. What actually helps is moving through the specific actions about to be performed, lightly at first, so the nervous system has run the pattern once."
+      ],
+      "tl": "warm-up",
+      "bis": "warm-up"
+    }
+  ],
+  "lang": "english",
+  "group": "sports",
+  "sub": "fitness",
+  "title": "Fitness",
+  "groupTitle": "Sports"
+}

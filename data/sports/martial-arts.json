@@ -1,0 +1,192 @@
+{
+  "topic": "sports-martial-arts",
+  "entries": [
+    {
+      "id": "spo-martial-arts-000001",
+      "topic": "sports-martial-arts",
+      "intent": "definition",
+      "concept": "judo",
+      "keywords": [
+        "judo",
+        "japanese",
+        "throw",
+        "back",
+        "ground",
+        "control",
+        "grappling",
+        "ends",
+        "exchange"
+      ],
+      "patterns": [
+        "what is judo",
+        "judo",
+        "explain judo",
+        "definition of judo",
+        "judo meaning",
+        "what wins a judo match",
+        "can you punch in judo",
+        "ano ang judo",
+        "unsa ang judo"
+      ],
+      "answer": "Judo is a Japanese grappling art in which a throw ends the exchange, and the aim is to put an opponent on their back rather than to hurt them, which is why holds to the neck are forbidden and why a match can be won without a single punch. Competitions are decided by a throw's completeness or by ground control measured in seconds, and the two scoring systems alternate between weight classes. A judo throw is only counted if the opponent lands on their back or side, so standing drop attacks are difficult.",
+      "variations": [
+        "Competitions are decided by a throw's completeness or by ground control measured in seconds, and the two scoring systems alternate between weight classes. Judo is a Japanese grappling art in which a throw ends the exchange, and the aim is to put an opponent on their back rather than to hurt them, which is why holds to the neck are forbidden and why a match can be won without a single punch. A judo throw is only counted if the opponent lands on their back or side, so standing drop attacks are difficult.",
+        "A judo throw is only counted if the opponent lands on their back or side, so standing drop attacks are difficult. Judo is a Japanese grappling art in which a throw ends the exchange, and the aim is to put an opponent on their back rather than to hurt them, which is why holds to the neck are forbidden and why a match can be won without a single punch. Competitions are decided by a throw's completeness or by ground control measured in seconds, and the two scoring systems alternate between weight classes."
+      ],
+      "tl": "judo",
+      "bis": "judo"
+    },
+    {
+      "id": "spo-martial-arts-000002",
+      "topic": "sports-martial-arts",
+      "intent": "definition",
+      "concept": "boxing",
+      "keywords": [
+        "boxing",
+        "punch",
+        "glove",
+        "judge",
+        "knockdown",
+        "oz",
+        "boksing",
+        "combat",
+        "sport",
+        "decides",
+        "outcome"
+      ],
+      "patterns": [
+        "what is boxing",
+        "boxing",
+        "explain boxing",
+        "definition of boxing",
+        "boxing meaning",
+        "how is a boxing match scored",
+        "why are boxing gloves small",
+        "ano ang boxing",
+        "unsa ang boksing"
+      ],
+      "answer": "Boxing is a combat sport in which the only thing that decides the outcome is where a punch lands, and the whole craft is making one land while none of yours do. Scoring is by counting clean blows to the head and body, judged by an official, and a knockdown does not stop the contest the way it does in some other sports. The gloves are small by design, being about 10 ounces, and the reason is historical: thin gloves force correct technique and make a punch land on the bone.",
+      "variations": [
+        "Scoring is by counting clean blows to the head and body, judged by an official, and a knockdown does not stop the contest the way it does in some other sports. Boxing is a combat sport in which the only thing that decides the outcome is where a punch lands, and the whole craft is making one land while none of yours do. The gloves are small by design, being about 10 ounces, and the reason is historical: thin gloves force correct technique and make a punch land on the bone.",
+        "The gloves are small by design, being about 10 ounces, and the reason is historical: thin gloves force correct technique and make a punch land on the bone. Boxing is a combat sport in which the only thing that decides the outcome is where a punch lands, and the whole craft is making one land while none of yours do. Scoring is by counting clean blows to the head and body, judged by an official, and a knockdown does not stop the contest the way it does in some other sports."
+      ],
+      "tl": "boxing",
+      "bis": "boksing"
+    },
+    {
+      "id": "spo-martial-arts-000003",
+      "topic": "sports-martial-arts",
+      "intent": "definition",
+      "concept": "stance",
+      "keywords": [
+        "stance",
+        "range",
+        "foot",
+        "lead",
+        "orthodox",
+        "southpaw",
+        "standing",
+        "position",
+        "exchange",
+        "fought",
+        "sets"
+      ],
+      "patterns": [
+        "what is stance",
+        "stance",
+        "explain stance",
+        "definition of stance",
+        "stance meaning",
+        "what is a stance in boxing",
+        "orthodox vs southpaw",
+        "why does stance matter",
+        "ano ang stance",
+        "unsa ang stance"
+      ],
+      "answer": "A stance is the standing position from which an exchange is fought, and it sets the range you can work at. In boxing there are orthodox and southpaw, differing by which foot leads, and the choice is made once and rarely changed. In kickboxing a squared stance allows both kicks and punches, while a long boxing stance does not. Getting a stance wrong costs more than any technique mistake, because every subsequent movement starts from it.",
+      "variations": [
+        "In boxing there are orthodox and southpaw, differing by which foot leads, and the choice is made once and rarely changed. A stance is the standing position from which an exchange is fought, and it sets the range you can work at. In kickboxing a squared stance allows both kicks and punches, while a long boxing stance does not. Getting a stance wrong costs more than any technique mistake, because every subsequent movement starts from it.",
+        "In kickboxing a squared stance allows both kicks and punches, while a long boxing stance does not. A stance is the standing position from which an exchange is fought, and it sets the range you can work at. In boxing there are orthodox and southpaw, differing by which foot leads, and the choice is made once and rarely changed. Getting a stance wrong costs more than any technique mistake, because every subsequent movement starts from it."
+      ],
+      "tl": "stance",
+      "bis": "stance"
+    },
+    {
+      "id": "spo-martial-arts-000004",
+      "topic": "sports-martial-arts",
+      "intent": "definition",
+      "concept": "belt",
+      "keywords": [
+        "belt",
+        "rank",
+        "black",
+        "white",
+        "colour",
+        "level",
+        "martial",
+        "visible",
+        "order"
+      ],
+      "patterns": [
+        "what is belt",
+        "belt",
+        "explain belt",
+        "definition of belt",
+        "belt meaning",
+        "what does a black belt mean",
+        "how many belts are there in judo",
+        "do all martial arts use belts",
+        "ano ang belt",
+        "unsa ang belt"
+      ],
+      "answer": "In a belt-based martial art a belt is a visible rank, and the colour order is almost universal: white, then coloured, then black. In judo the coloured ranks run upward through a dozen or more levels, while in aikido or karate the number and the exact colours vary by organisation. The reason the system spread from judo is that black belt is a universally legible signal of a long training, which is useful in a room full of strangers.",
+      "variations": [
+        "In judo the coloured ranks run upward through a dozen or more levels, while in aikido or karate the number and the exact colours vary by organisation. In a belt-based martial art a belt is a visible rank, and the colour order is almost universal: white, then coloured, then black. The reason the system spread from judo is that black belt is a universally legible signal of a long training, which is useful in a room full of strangers.",
+        "The reason the system spread from judo is that black belt is a universally legible signal of a long training, which is useful in a room full of strangers. In a belt-based martial art a belt is a visible rank, and the colour order is almost universal: white, then coloured, then black. In judo the coloured ranks run upward through a dozen or more levels, while in aikido or karate the number and the exact colours vary by organisation."
+      ],
+      "tl": "belt",
+      "bis": "belt"
+    },
+    {
+      "id": "spo-martial-arts-000005",
+      "topic": "sports-martial-arts",
+      "intent": "definition",
+      "concept": "round",
+      "keywords": [
+        "round",
+        "bout",
+        "rest",
+        "minute",
+        "twelve",
+        "stamina",
+        "segment",
+        "separated",
+        "period"
+      ],
+      "patterns": [
+        "what is round",
+        "round",
+        "explain round",
+        "definition of round",
+        "round meaning",
+        "how many rounds in boxing",
+        "why are there 12 rounds",
+        "what is a round in a fight",
+        "ano ang round",
+        "unsa ang round"
+      ],
+      "answer": "A round is one segment of a bout, separated by a rest period, and the number and length of rounds is a rule rather than a consequence of the contest. Championship boxing is twelve rounds of three minutes with one minute between, while a title fight may be scheduled for fewer, and the twelve-round format is the one that most shapes the sport's difficulty. The rest exists because the decision to continue is made with accumulated fatigue, and stamina is part of the contest.",
+      "variations": [
+        "Championship boxing is twelve rounds of three minutes with one minute between, while a title fight may be scheduled for fewer, and the twelve-round format is the one that most shapes the sport's difficulty. A round is one segment of a bout, separated by a rest period, and the number and length of rounds is a rule rather than a consequence of the contest. The rest exists because the decision to continue is made with accumulated fatigue, and stamina is part of the contest.",
+        "The rest exists because the decision to continue is made with accumulated fatigue, and stamina is part of the contest. A round is one segment of a bout, separated by a rest period, and the number and length of rounds is a rule rather than a consequence of the contest. Championship boxing is twelve rounds of three minutes with one minute between, while a title fight may be scheduled for fewer, and the twelve-round format is the one that most shapes the sport's difficulty."
+      ],
+      "tl": "round",
+      "bis": "round"
+    }
+  ],
+  "lang": "english",
+  "group": "sports",
+  "sub": "martial-arts",
+  "title": "Martial arts",
+  "groupTitle": "Sports"
+}

@@ -1,0 +1,266 @@
+{
+  "topic": "english-basic-vocabulary",
+  "entries": [
+    {
+      "id": "eng-basic-vocabulary-000001",
+      "topic": "english-basic-vocabulary",
+      "intent": "definition",
+      "concept": "noun",
+      "keywords": [
+        "noun",
+        "proper",
+        "abstract",
+        "capital",
+        "person",
+        "place",
+        "thing",
+        "names",
+        "idea",
+        "word"
+      ],
+      "patterns": [
+        "what is noun",
+        "noun",
+        "explain noun",
+        "definition of noun",
+        "noun meaning",
+        "what is a noun",
+        "proper noun vs common noun",
+        "abstract noun examples",
+        "ano ang noun",
+        "unsa ang noun"
+      ],
+      "answer": "A noun names a person, place, thing or idea, and it is the word every other part of a sentence can point at. What separates a proper noun from a common one is not the kind of thing but whether it identifies a particular instance, so Jordan names one river while river names any of them. Abstract nouns cause the most trouble for learners, because freedom is a noun even though nothing can be pointed at, and people often reach for a clumsier word instead.",
+      "variations": [
+        "What separates a proper noun from a common one is not the kind of thing but whether it identifies a particular instance, so Jordan names one river while river names any of them. A noun names a person, place, thing or idea, and it is the word every other part of a sentence can point at. Abstract nouns cause the most trouble for learners, because freedom is a noun even though nothing can be pointed at, and people often reach for a clumsier word instead.",
+        "Abstract nouns cause the most trouble for learners, because freedom is a noun even though nothing can be pointed at, and people often reach for a clumsier word instead. A noun names a person, place, thing or idea, and it is the word every other part of a sentence can point at. What separates a proper noun from a common one is not the kind of thing but whether it identifies a particular instance, so Jordan names one river while river names any of them."
+      ],
+      "tl": "noun",
+      "bis": "noun"
+    },
+    {
+      "id": "eng-basic-vocabulary-000002",
+      "topic": "english-basic-vocabulary",
+      "intent": "definition",
+      "concept": "adjective",
+      "keywords": [
+        "adjective",
+        "describe",
+        "quality",
+        "modify",
+        "position",
+        "red",
+        "modifies",
+        "noun",
+        "pronoun",
+        "describing"
+      ],
+      "patterns": [
+        "what is adjective",
+        "adjective",
+        "explain adjective",
+        "definition of adjective",
+        "adjective meaning",
+        "what is an adjective",
+        "where do adjectives go",
+        "adjective after the verb",
+        "ano ang adjective",
+        "unsa ang adjective"
+      ],
+      "answer": "An adjective modifies a noun or pronoun, usually by describing some quality, and English puts it before the noun as in a red car. The other position sits after the verb, where it describes the subject rather than the noun, as in the car stopped red. Only a small set can do both, and those are the ones worth learning by heart, because the position changes the meaning rather than the grammar.",
+      "variations": [
+        "The other position sits after the verb, where it describes the subject rather than the noun, as in the car stopped red. An adjective modifies a noun or pronoun, usually by describing some quality, and English puts it before the noun as in a red car. Only a small set can do both, and those are the ones worth learning by heart, because the position changes the meaning rather than the grammar.",
+        "Only a small set can do both, and those are the ones worth learning by heart, because the position changes the meaning rather than the grammar. An adjective modifies a noun or pronoun, usually by describing some quality, and English puts it before the noun as in a red car. The other position sits after the verb, where it describes the subject rather than the noun, as in the car stopped red."
+      ],
+      "tl": "adjective",
+      "bis": "adjective"
+    },
+    {
+      "id": "eng-basic-vocabulary-000003",
+      "topic": "english-basic-vocabulary",
+      "intent": "definition",
+      "concept": "adverb",
+      "keywords": [
+        "adverb",
+        "modify",
+        "verb",
+        "degree",
+        "manner",
+        "ly",
+        "modifies",
+        "adjective",
+        "another",
+        "makes"
+      ],
+      "patterns": [
+        "what is adverb",
+        "adverb",
+        "explain adverb",
+        "definition of adverb",
+        "adverb meaning",
+        "what is an adverb",
+        "where does an adverb go",
+        "types of adverbs",
+        "ano ang adverb",
+        "unsa ang adverb"
+      ],
+      "answer": "An adverb modifies a verb, an adjective or another adverb, which makes it the most flexible word class in English. The three positions it can occupy are all real and all change emphasis, since she quietly closed the door and she closed the door quietly carry the same facts but draw attention differently. Adverbs of manner, degree, time and place are separate categories, and the ending -ly covers only some of them.",
+      "variations": [
+        "The three positions it can occupy are all real and all change emphasis, since she quietly closed the door and she closed the door quietly carry the same facts but draw attention differently. An adverb modifies a verb, an adjective or another adverb, which makes it the most flexible word class in English. Adverbs of manner, degree, time and place are separate categories, and the ending -ly covers only some of them.",
+        "Adverbs of manner, degree, time and place are separate categories, and the ending -ly covers only some of them. An adverb modifies a verb, an adjective or another adverb, which makes it the most flexible word class in English. The three positions it can occupy are all real and all change emphasis, since she quietly closed the door and she closed the door quietly carry the same facts but draw attention differently."
+      ],
+      "tl": "adverb",
+      "bis": "adverb"
+    },
+    {
+      "id": "eng-basic-vocabulary-000004",
+      "topic": "english-basic-vocabulary",
+      "intent": "definition",
+      "concept": "synonym",
+      "keywords": [
+        "synonym",
+        "meaning",
+        "shade",
+        "dictionary",
+        "overlap",
+        "register",
+        "words",
+        "synonyms",
+        "share",
+        "without",
+        "sharing"
+      ],
+      "patterns": [
+        "what is synonym",
+        "synonym",
+        "explain synonym",
+        "definition of synonym",
+        "synonym meaning",
+        "what is a synonym",
+        "are deep and profound synonyms",
+        "how to find a synonym",
+        "ano ang synonym",
+        "unsa ang synonym"
+      ],
+      "answer": "Two words are synonyms when they share a meaning without sharing every shade of it, which is why dictionaries print graded lists rather than tidy pairs. Deep and profound overlap, but one suits a well and the other suits an idea, and choosing wrongly is usually a register error rather than a meaning error. The practical test is whether a sentence built on the swap still sounds like the same speaker.",
+      "variations": [
+        "Deep and profound overlap, but one suits a well and the other suits an idea, and choosing wrongly is usually a register error rather than a meaning error. Two words are synonyms when they share a meaning without sharing every shade of it, which is why dictionaries print graded lists rather than tidy pairs. The practical test is whether a sentence built on the swap still sounds like the same speaker.",
+        "The practical test is whether a sentence built on the swap still sounds like the same speaker. Two words are synonyms when they share a meaning without sharing every shade of it, which is why dictionaries print graded lists rather than tidy pairs. Deep and profound overlap, but one suits a well and the other suits an idea, and choosing wrongly is usually a register error rather than a meaning error."
+      ],
+      "tl": "synonym",
+      "bis": "synonym"
+    },
+    {
+      "id": "eng-basic-vocabulary-000005",
+      "topic": "english-basic-vocabulary",
+      "intent": "definition",
+      "concept": "antonym",
+      "keywords": [
+        "antonym",
+        "opposite",
+        "meaning",
+        "complement",
+        "gradable",
+        "scale",
+        "word",
+        "every",
+        "true"
+      ],
+      "patterns": [
+        "what is antonym",
+        "antonym",
+        "explain antonym",
+        "definition of antonym",
+        "antonym meaning",
+        "what is an antonym",
+        "difference between antonym and complement",
+        "list of antonyms",
+        "ano ang antonym",
+        "unsa ang antonym"
+      ],
+      "answer": "An antonym is a word with an opposite meaning, and not every opposite is a true antonym, because some are merely complements. Hot and cold invert each other, but wet and dry are simply the two ends of one scale, and a learner hunting for a neat rule trips over pairs like borrow and lend, which invert roles rather than meanings. A good antonym is also gradable, so the opposite of big is small and the opposite of beautiful is ugly.",
+      "variations": [
+        "Hot and cold invert each other, but wet and dry are simply the two ends of one scale, and a learner hunting for a neat rule trips over pairs like borrow and lend, which invert roles rather than meanings. An antonym is a word with an opposite meaning, and not every opposite is a true antonym, because some are merely complements. A good antonym is also gradable, so the opposite of big is small and the opposite of beautiful is ugly.",
+        "A good antonym is also gradable, so the opposite of big is small and the opposite of beautiful is ugly. An antonym is a word with an opposite meaning, and not every opposite is a true antonym, because some are merely complements. Hot and cold invert each other, but wet and dry are simply the two ends of one scale, and a learner hunting for a neat rule trips over pairs like borrow and lend, which invert roles rather than meanings."
+      ],
+      "tl": "antonym",
+      "bis": "antonym"
+    },
+    {
+      "id": "eng-basic-vocabulary-000006",
+      "topic": "english-basic-vocabulary",
+      "intent": "definition",
+      "concept": "idiom",
+      "keywords": [
+        "idiom",
+        "phrase",
+        "meaning",
+        "parts",
+        "phrasal",
+        "particle",
+        "alone",
+        "means",
+        "touch"
+      ],
+      "patterns": [
+        "what is idiom",
+        "idiom",
+        "explain idiom",
+        "definition of idiom",
+        "idiom meaning",
+        "what is an idiom",
+        "is let it alone literal",
+        "phrasal verb meaning",
+        "ano ang idiom",
+        "unsa ang idiom"
+      ],
+      "answer": "An idiom is a phrase whose meaning is not the sum of its parts, so let it alone means do not touch it and also means stop interfering. Idioms are stored whole in memory rather than assembled on the spot, which is exactly why they often seem arbitrary. The productive ones follow patterns, and the group worth watching is the phrasal verbs, where a particle changes the verb entirely as in give up, give in and give out.",
+      "variations": [
+        "Idioms are stored whole in memory rather than assembled on the spot, which is exactly why they often seem arbitrary. An idiom is a phrase whose meaning is not the sum of its parts, so let it alone means do not touch it and also means stop interfering. The productive ones follow patterns, and the group worth watching is the phrasal verbs, where a particle changes the verb entirely as in give up, give in and give out.",
+        "The productive ones follow patterns, and the group worth watching is the phrasal verbs, where a particle changes the verb entirely as in give up, give in and give out. An idiom is a phrase whose meaning is not the sum of its parts, so let it alone means do not touch it and also means stop interfering. Idioms are stored whole in memory rather than assembled on the spot, which is exactly why they often seem arbitrary."
+      ],
+      "tl": "idiom",
+      "bis": "idiom"
+    },
+    {
+      "id": "eng-basic-vocabulary-000007",
+      "topic": "english-basic-vocabulary",
+      "intent": "definition",
+      "concept": "collocation",
+      "keywords": [
+        "collocation",
+        "natural",
+        "native",
+        "pairing",
+        "translate",
+        "phrase",
+        "sounds",
+        "speaker"
+      ],
+      "patterns": [
+        "what is collocation",
+        "collocation",
+        "explain collocation",
+        "definition of collocation",
+        "collocation meaning",
+        "what is a collocation",
+        "collocation examples",
+        "why collocation matters",
+        "ano ang collocation",
+        "unsa ang collocation"
+      ],
+      "answer": "A collocation is a pairing that sounds natural to a native speaker and wrong when translated word for word, and it is the most visible mark of a non-native writer. The individual words are correct, they simply do not belong together, so British English prefers the machine was being repaired where American English prefers fixed. Learning collocations beats learning rules here, because you are memorising a finished phrase rather than deriving one.",
+      "variations": [
+        "The individual words are correct, they simply do not belong together, so British English prefers the machine was being repaired where American English prefers fixed. A collocation is a pairing that sounds natural to a native speaker and wrong when translated word for word, and it is the most visible mark of a non-native writer. Learning collocations beats learning rules here, because you are memorising a finished phrase rather than deriving one.",
+        "Learning collocations beats learning rules here, because you are memorising a finished phrase rather than deriving one. A collocation is a pairing that sounds natural to a native speaker and wrong when translated word for word, and it is the most visible mark of a non-native writer. The individual words are correct, they simply do not belong together, so British English prefers the machine was being repaired where American English prefers fixed."
+      ],
+      "tl": "collocation",
+      "bis": "collocation"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "basic-vocabulary",
+  "title": "Basic vocabulary",
+  "groupTitle": "English"
+}

@@ -1,0 +1,43 @@
+{
+  "topic": "programming-algorithms",
+  "entries": [
+    {
+      "id": "pro-algorithms-000001",
+      "topic": "programming-algorithms",
+      "intent": "definition",
+      "concept": "algorithm",
+      "keywords": [
+        "algorithm",
+        "complexity",
+        "efficient",
+        "performance",
+        "step",
+        "method",
+        "solving",
+        "problem",
+        "people"
+      ],
+      "patterns": [
+        "what is algorithm",
+        "algorithm",
+        "explain algorithm",
+        "definition of algorithm",
+        "algorithm meaning",
+        "big o",
+        "what is an algorithm",
+        "big o notation",
+        "what is time complexity"
+      ],
+      "answer": "An algorithm is a step-by-step method for solving a problem. When people compare algorithms they usually mean how the work grows as the input grows, written as Big O notation. An O(n) loop visits each item once; an O(n squared) loop compares every item to every other, so ten times the input means a hundred times the work. Choosing the right complexity is often the whole optimisation.",
+      "variations": [
+        "When people compare algorithms they usually mean how the work grows as the input grows, written as Big O notation. An algorithm is a step-by-step method for solving a problem. An O(n) loop visits each item once; an O(n squared) loop compares every item to every other, so ten times the input means a hundred times the work. Choosing the right complexity is often the whole optimisation.",
+        "An O(n) loop visits each item once; an O(n squared) loop compares every item to every other, so ten times the input means a hundred times the work. An algorithm is a step-by-step method for solving a problem. When people compare algorithms they usually mean how the work grows as the input grows, written as Big O notation. Choosing the right complexity is often the whole optimisation."
+      ]
+    }
+  ],
+  "lang": "english",
+  "group": "programming",
+  "sub": "algorithms",
+  "title": "Algorithms",
+  "groupTitle": "Programming"
+}

@@ -1,0 +1,232 @@
+{
+  "topic": "english-emotions",
+  "entries": [
+    {
+      "id": "eng-emotions-000001",
+      "topic": "english-emotions",
+      "intent": "definition",
+      "concept": "happy",
+      "keywords": [
+        "happy",
+        "pleased",
+        "glad",
+        "willing",
+        "solution",
+        "state",
+        "emotional",
+        "drifted",
+        "long"
+      ],
+      "patterns": [
+        "what is happy",
+        "happy",
+        "explain happy",
+        "definition of happy",
+        "happy meaning",
+        "what does happy mean",
+        "is happy an emotion",
+        "happy to help meaning",
+        "ano ang happy",
+        "unsa ang happy"
+      ],
+      "answer": "Happy names an emotional state but has drifted a long way from it, now also meaning pleased about a circumstance, as in a happy solution, or willing, as in I would be happy to help. The drift has all been towards the agreeable, so the word now covers anything at all the speaker is glad about. It also fits a moment better than a person, since anyone can be happy about a thing without being what anyone would call a happy person.",
+      "variations": [
+        "The drift has all been towards the agreeable, so the word now covers anything at all the speaker is glad about. Happy names an emotional state but has drifted a long way from it, now also meaning pleased about a circumstance, as in a happy solution, or willing, as in I would be happy to help. It also fits a moment better than a person, since anyone can be happy about a thing without being what anyone would call a happy person.",
+        "It also fits a moment better than a person, since anyone can be happy about a thing without being what anyone would call a happy person. Happy names an emotional state but has drifted a long way from it, now also meaning pleased about a circumstance, as in a happy solution, or willing, as in I would be happy to help. The drift has all been towards the agreeable, so the word now covers anything at all the speaker is glad about."
+      ],
+      "tl": "happy",
+      "bis": "happy"
+    },
+    {
+      "id": "eng-emotions-000002",
+      "topic": "english-emotions",
+      "intent": "definition",
+      "concept": "sad",
+      "keywords": [
+        "sad",
+        "sorrow",
+        "downcast",
+        "grieving",
+        "song",
+        "failure",
+        "covers",
+        "enormous",
+        "range",
+        "genuinely"
+      ],
+      "patterns": [
+        "what is sad",
+        "sad",
+        "explain sad",
+        "definition of sad",
+        "sad meaning",
+        "difference between sad and sorrow",
+        "is sad an emotion",
+        "meaning of a sad failure",
+        "ano ang sad",
+        "unsa ang sad"
+      ],
+      "answer": "Sad covers an enormous range, from downcast to genuinely grieving, and English does not mark the difference the way some languages do with separate terms for sorrow and for disappointment. It also does service outside emotion, so a sad song and a sad failure are both ordinary. The noun sadness is the formal one and the everyday form is being sad, which is what people actually say, and the difference is one of register rather than meaning.",
+      "variations": [
+        "It also does service outside emotion, so a sad song and a sad failure are both ordinary. Sad covers an enormous range, from downcast to genuinely grieving, and English does not mark the difference the way some languages do with separate terms for sorrow and for disappointment. The noun sadness is the formal one and the everyday form is being sad, which is what people actually say, and the difference is one of register rather than meaning.",
+        "The noun sadness is the formal one and the everyday form is being sad, which is what people actually say, and the difference is one of register rather than meaning. Sad covers an enormous range, from downcast to genuinely grieving, and English does not mark the difference the way some languages do with separate terms for sorrow and for disappointment. It also does service outside emotion, so a sad song and a sad failure are both ordinary."
+      ],
+      "tl": "sad",
+      "bis": "sad"
+    },
+    {
+      "id": "eng-emotions-000003",
+      "topic": "english-emotions",
+      "intent": "definition",
+      "concept": "angry",
+      "keywords": [
+        "angry",
+        "frustrated",
+        "irritated",
+        "furious",
+        "livid",
+        "degree",
+        "state",
+        "english",
+        "splits",
+        "cause"
+      ],
+      "patterns": [
+        "what is angry",
+        "angry",
+        "explain angry",
+        "definition of angry",
+        "angry meaning",
+        "difference between angry and frustrated",
+        "is angry an emotion",
+        "angry sky meaning",
+        "ano ang angry",
+        "unsa ang angry"
+      ],
+      "answer": "Angry names a state that English splits by cause rather than by degree, so frustrated, irritated, annoyed, livid and furious are all separate words rather than degrees of one. Choosing correctly is therefore a matter of reading the situation rather than of reaching for the strongest term available. The word also applies to something inanimate, as in an angry sky, which is a poetic extension rather than a mistake.",
+      "variations": [
+        "Choosing correctly is therefore a matter of reading the situation rather than of reaching for the strongest term available. Angry names a state that English splits by cause rather than by degree, so frustrated, irritated, annoyed, livid and furious are all separate words rather than degrees of one. The word also applies to something inanimate, as in an angry sky, which is a poetic extension rather than a mistake.",
+        "The word also applies to something inanimate, as in an angry sky, which is a poetic extension rather than a mistake. Angry names a state that English splits by cause rather than by degree, so frustrated, irritated, annoyed, livid and furious are all separate words rather than degrees of one. Choosing correctly is therefore a matter of reading the situation rather than of reaching for the strongest term available."
+      ],
+      "tl": "angry",
+      "bis": "angry"
+    },
+    {
+      "id": "eng-emotions-000004",
+      "topic": "english-emotions",
+      "intent": "definition",
+      "concept": "anxious",
+      "keywords": [
+        "anxious",
+        "worry",
+        "uncertain",
+        "nervous",
+        "afraid",
+        "condition",
+        "kulab",
+        "state",
+        "something"
+      ],
+      "patterns": [
+        "what is anxious",
+        "anxious",
+        "explain anxious",
+        "definition of anxious",
+        "anxious meaning",
+        "difference between anxious and nervous",
+        "is anxiety a medical condition",
+        "anxious about meaning",
+        "ano ang anxious",
+        "unsa ang kulab"
+      ],
+      "answer": "Anxious names a state of worry about something uncertain, and the word has widened considerably, so anxious about a result and anxious to meet them are both ordinary. It sits between nervous and afraid, nearer nervous when the thing is expected and nearer afraid when it is not. In medical use anxiety also names a condition, and a condition is not the same thing as the ordinary feeling of it.",
+      "variations": [
+        "It sits between nervous and afraid, nearer nervous when the thing is expected and nearer afraid when it is not. Anxious names a state of worry about something uncertain, and the word has widened considerably, so anxious about a result and anxious to meet them are both ordinary. In medical use anxiety also names a condition, and a condition is not the same thing as the ordinary feeling of it.",
+        "In medical use anxiety also names a condition, and a condition is not the same thing as the ordinary feeling of it. Anxious names a state of worry about something uncertain, and the word has widened considerably, so anxious about a result and anxious to meet them are both ordinary. It sits between nervous and afraid, nearer nervous when the thing is expected and nearer afraid when it is not."
+      ],
+      "tl": "anxious",
+      "bis": "kulab"
+    },
+    {
+      "id": "eng-emotions-000005",
+      "topic": "english-emotions",
+      "intent": "definition",
+      "concept": "grateful",
+      "keywords": [
+        "grateful",
+        "thankful",
+        "appreciative",
+        "obliged",
+        "register",
+        "feedback",
+        "gratitude",
+        "plain",
+        "adjective",
+        "thankfulness",
+        "english",
+        "offers"
+      ],
+      "patterns": [
+        "what is grateful",
+        "grateful",
+        "explain grateful",
+        "definition of grateful",
+        "grateful meaning",
+        "difference between grateful and thankful",
+        "is obliged still used",
+        "what does appreciative mean",
+        "ano ang grateful",
+        "unsa ang gratitude"
+      ],
+      "answer": "Grateful is the plain adjective for thankfulness, and English offers a small set of near-synonyms in being thankful, appreciative and obliged, each at a slightly different register. Grateful is the commonest, while appreciative tends to be used when the thing thanked is an experience rather than a person, as in appreciative of the feedback. Obliged is the oldest and the most formal, and it survives mainly in British official writing.",
+      "variations": [
+        "Grateful is the commonest, while appreciative tends to be used when the thing thanked is an experience rather than a person, as in appreciative of the feedback. Grateful is the plain adjective for thankfulness, and English offers a small set of near-synonyms in being thankful, appreciative and obliged, each at a slightly different register. Obliged is the oldest and the most formal, and it survives mainly in British official writing.",
+        "Obliged is the oldest and the most formal, and it survives mainly in British official writing. Grateful is the plain adjective for thankfulness, and English offers a small set of near-synonyms in being thankful, appreciative and obliged, each at a slightly different register. Grateful is the commonest, while appreciative tends to be used when the thing thanked is an experience rather than a person, as in appreciative of the feedback."
+      ],
+      "tl": "grateful",
+      "bis": "gratitude"
+    },
+    {
+      "id": "eng-emotions-000006",
+      "topic": "english-emotions",
+      "intent": "definition",
+      "concept": "embarrassed",
+      "keywords": [
+        "embarrassed",
+        "ashamed",
+        "exposed",
+        "judgement",
+        "compliment",
+        "shame",
+        "maulaw",
+        "feeling",
+        "being",
+        "personally"
+      ],
+      "patterns": [
+        "what is embarrassed",
+        "embarrassed",
+        "explain embarrassed",
+        "definition of embarrassed",
+        "embarrassed meaning",
+        "difference between embarrassed and ashamed",
+        "is embarrassment a feeling",
+        "meaning of embarrassed",
+        "ano ang embarrassed",
+        "unsa ang maulaw"
+      ],
+      "answer": "Embarrassed names the feeling of being personally exposed, and what separates it from ashamed is the target, since embarrassment is about how others see the situation while shame is about your own judgement of yourself. That is why a compliment can embarrass without shaming, and why the two words are not interchangeable. The noun embarrassment is the formal one, while the everyday phrase is feeling embarrassed, and the difference between them is register alone.",
+      "variations": [
+        "That is why a compliment can embarrass without shaming, and why the two words are not interchangeable. Embarrassed names the feeling of being personally exposed, and what separates it from ashamed is the target, since embarrassment is about how others see the situation while shame is about your own judgement of yourself. The noun embarrassment is the formal one, while the everyday phrase is feeling embarrassed, and the difference between them is register alone.",
+        "The noun embarrassment is the formal one, while the everyday phrase is feeling embarrassed, and the difference between them is register alone. Embarrassed names the feeling of being personally exposed, and what separates it from ashamed is the target, since embarrassment is about how others see the situation while shame is about your own judgement of yourself. That is why a compliment can embarrass without shaming, and why the two words are not interchangeable."
+      ],
+      "tl": "embarrassed",
+      "bis": "maulaw"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "emotions",
+  "title": "Emotions",
+  "groupTitle": "English"
+}

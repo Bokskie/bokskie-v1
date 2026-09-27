@@ -1,0 +1,4 @@
+# programming-python.kb - Programming / Python
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 1 entries, one genuinely distinct fact per line.
+python | definition | Python is a programming language built to be readable. It uses clear English-like syntax and indentation instead of braces, so beginners get to working code quickly. It is used for data analysis, automation, artificial intelligence, and backends. It is the most common language beginners start with. | scripting, snake | what is python, python language |  |

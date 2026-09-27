@@ -1,0 +1,239 @@
+{
+  "topic": "conversations-apologies",
+  "entries": [
+    {
+      "id": "con-apologies-000001",
+      "topic": "conversations-apologies",
+      "intent": "definition",
+      "concept": "sorry",
+      "keywords": [
+        "sorry",
+        "regret",
+        "polite",
+        "foot",
+        "message",
+        "emphatic",
+        "english",
+        "unrelated",
+        "jobs",
+        "being",
+        "word"
+      ],
+      "patterns": [
+        "what is sorry",
+        "sorry",
+        "explain sorry",
+        "definition of sorry",
+        "sorry meaning",
+        "what does sorry mean",
+        "is sorry an apology",
+        "I am so sorry meaning",
+        "ano ang sorry",
+        "unsa ang sorry"
+      ],
+      "answer": "Sorry in English does two unrelated jobs, being a word of regret and a word of politeness, and the second grew out of the first. This is why sorry is acceptable for stepping on somebody's foot and also for failing to answer a message, which is not an injury anyone. The doubled form, as in I am so sorry, reads as more emphatic in American English and slightly less natural in British English, where one sorry is usually enough.",
+      "variations": [
+        "This is why sorry is acceptable for stepping on somebody's foot and also for failing to answer a message, which is not an injury anyone. Sorry in English does two unrelated jobs, being a word of regret and a word of politeness, and the second grew out of the first. The doubled form, as in I am so sorry, reads as more emphatic in American English and slightly less natural in British English, where one sorry is usually enough.",
+        "The doubled form, as in I am so sorry, reads as more emphatic in American English and slightly less natural in British English, where one sorry is usually enough. Sorry in English does two unrelated jobs, being a word of regret and a word of politeness, and the second grew out of the first. This is why sorry is acceptable for stepping on somebody's foot and also for failing to answer a message, which is not an injury anyone."
+      ],
+      "tl": "sorry",
+      "bis": "sorry"
+    },
+    {
+      "id": "con-apologies-000002",
+      "topic": "conversations-apologies",
+      "intent": "definition",
+      "concept": "apology",
+      "keywords": [
+        "apology",
+        "acknowledge",
+        "regret",
+        "promise",
+        "repeat",
+        "admit",
+        "humay",
+        "statement",
+        "acknowledging",
+        "wrong",
+        "noun"
+      ],
+      "patterns": [
+        "what is apology",
+        "apology",
+        "explain apology",
+        "definition of apology",
+        "apology meaning",
+        "what is an apology",
+        "how to apologise properly",
+        "difference between apologising and explaining",
+        "ano ang apology",
+        "unsa ang humay"
+      ],
+      "answer": "An apology is a statement acknowledging that you did something wrong, and the noun has moved well past the bare request for pardon. It now names the whole thing: the acknowledgement, the expression of regret, and the promise not to repeat it, which is why an apology missing the third part usually lands as evasion. The distinction that matters most is between apologising for the effect and admitting the act, and the second is the one people are actually looking for.",
+      "variations": [
+        "It now names the whole thing: the acknowledgement, the expression of regret, and the promise not to repeat it, which is why an apology missing the third part usually lands as evasion. An apology is a statement acknowledging that you did something wrong, and the noun has moved well past the bare request for pardon. The distinction that matters most is between apologising for the effect and admitting the act, and the second is the one people are actually looking for.",
+        "The distinction that matters most is between apologising for the effect and admitting the act, and the second is the one people are actually looking for. An apology is a statement acknowledging that you did something wrong, and the noun has moved well past the bare request for pardon. It now names the whole thing: the acknowledgement, the expression of regret, and the promise not to repeat it, which is why an apology missing the third part usually lands as evasion."
+      ],
+      "tl": "apology",
+      "bis": "humay"
+    },
+    {
+      "id": "con-apologies-000003",
+      "topic": "conversations-apologies",
+      "intent": "definition",
+      "concept": "excuse",
+      "keywords": [
+        "excuse",
+        "explain",
+        "reason",
+        "accepted",
+        "understand",
+        "reply",
+        "dahilan",
+        "explains",
+        "done",
+        "english",
+        "drifted"
+      ],
+      "patterns": [
+        "what is excuse",
+        "excuse",
+        "explain excuse",
+        "definition of excuse",
+        "excuse meaning",
+        "what is an excuse",
+        "excuse vs reason",
+        "difference between excuse and apology",
+        "ano ang excuse",
+        "unsa ang dahilan"
+      ],
+      "answer": "An excuse explains why something was not done, and in English it has drifted towards meaning the explanation is not accepted. That drift is recent and is the source of most cross-language confusion, since in Tagalog and Bisaya the word is closer to a straightforward reason. The practical test is the reply: if the person says I understand, it was heard as a reason; if they say everyone has reasons, it was heard as an excuse.",
+      "variations": [
+        "That drift is recent and is the source of most cross-language confusion, since in Tagalog and Bisaya the word is closer to a straightforward reason. An excuse explains why something was not done, and in English it has drifted towards meaning the explanation is not accepted. The practical test is the reply: if the person says I understand, it was heard as a reason; if they say everyone has reasons, it was heard as an excuse.",
+        "The practical test is the reply: if the person says I understand, it was heard as a reason; if they say everyone has reasons, it was heard as an excuse. An excuse explains why something was not done, and in English it has drifted towards meaning the explanation is not accepted. That drift is recent and is the source of most cross-language confusion, since in Tagalog and Bisaya the word is closer to a straightforward reason."
+      ],
+      "tl": "excuse",
+      "bis": "dahilan"
+    },
+    {
+      "id": "con-apologies-000004",
+      "topic": "conversations-apologies",
+      "intent": "definition",
+      "concept": "forgive",
+      "keywords": [
+        "forgive",
+        "wrong",
+        "decision",
+        "reconciliation",
+        "compensation",
+        "ready",
+        "ipagawanag",
+        "stop",
+        "holding",
+        "against",
+        "somebody"
+      ],
+      "patterns": [
+        "what is forgive",
+        "forgive",
+        "explain forgive",
+        "definition of forgive",
+        "forgive meaning",
+        "what does forgive mean",
+        "difference between forgiveness and reconciliation",
+        "is forgiveness automatic",
+        "ano ang forgive",
+        "unsa ang ipagawanag"
+      ],
+      "answer": "To forgive is to stop holding a wrong against somebody, and the word implies a decision rather than a feeling, which is why people say I forgive you and not I have forgiven you so far. It also usually implies giving up the right to compensation or apology, which is the part people are not always ready for. Forgiveness is not the same as reconciliation, since one can be given to somebody you never speak to again, and the two are constantly confused.",
+      "variations": [
+        "It also usually implies giving up the right to compensation or apology, which is the part people are not always ready for. To forgive is to stop holding a wrong against somebody, and the word implies a decision rather than a feeling, which is why people say I forgive you and not I have forgiven you so far. Forgiveness is not the same as reconciliation, since one can be given to somebody you never speak to again, and the two are constantly confused.",
+        "Forgiveness is not the same as reconciliation, since one can be given to somebody you never speak to again, and the two are constantly confused. To forgive is to stop holding a wrong against somebody, and the word implies a decision rather than a feeling, which is why people say I forgive you and not I have forgiven you so far. It also usually implies giving up the right to compensation or apology, which is the part people are not always ready for."
+      ],
+      "tl": "forgive",
+      "bis": "ipagawanag"
+    },
+    {
+      "id": "con-apologies-000005",
+      "topic": "conversations-apologies",
+      "intent": "definition",
+      "concept": "admit fault",
+      "keywords": [
+        "admit fault",
+        "admit",
+        "fault",
+        "responsibility",
+        "cause",
+        "apology",
+        "concede",
+        "kinukula",
+        "agree",
+        "yours",
+        "phrase"
+      ],
+      "patterns": [
+        "what is admit fault",
+        "admit fault",
+        "explain admit fault",
+        "definition of admit fault",
+        "admit fault meaning",
+        "what does admit fault mean",
+        "is admitting fault admitting liability",
+        "how to apologise at work",
+        "ano ang admit fault",
+        "unsa ang kinukula"
+      ],
+      "answer": "To admit fault is to agree that the responsibility was yours, and the phrase is more specific than an apology because it names the cause rather than the feeling. It is the sentence that makes an apology land, since a regret without the admission reads as conditional. The reason organisations resist it is that admission carries legal and financial consequences, which is a different kind of reason from a person not wanting to concede a point.",
+      "variations": [
+        "It is the sentence that makes an apology land, since a regret without the admission reads as conditional. To admit fault is to agree that the responsibility was yours, and the phrase is more specific than an apology because it names the cause rather than the feeling. The reason organisations resist it is that admission carries legal and financial consequences, which is a different kind of reason from a person not wanting to concede a point.",
+        "The reason organisations resist it is that admission carries legal and financial consequences, which is a different kind of reason from a person not wanting to concede a point. To admit fault is to agree that the responsibility was yours, and the phrase is more specific than an apology because it names the cause rather than the feeling. It is the sentence that makes an apology land, since a regret without the admission reads as conditional."
+      ],
+      "tl": "admit fault",
+      "bis": "kinukula"
+    },
+    {
+      "id": "con-apologies-000006",
+      "topic": "conversations-apologies",
+      "intent": "definition",
+      "concept": "make amends",
+      "keywords": [
+        "make amends",
+        "amend",
+        "repair",
+        "wrong",
+        "compensation",
+        "cost",
+        "intent",
+        "ayusin",
+        "amends",
+        "right",
+        "done",
+        "phrase"
+      ],
+      "patterns": [
+        "what is make amends",
+        "make amends",
+        "explain make amends",
+        "definition of make amends",
+        "make amends meaning",
+        "what does make amends mean",
+        "difference between apology and making amends",
+        "how do you make amends",
+        "ano ang make amends",
+        "unsa ang ayusin"
+      ],
+      "answer": "To make amends is to do something to put right a wrong you have done, and the phrase is formal and almost always about something in the past rather than a current repair. It separates the two halves of repair that English otherwise runs together, being the regret and the compensation. What makes it a distinct act is that it costs something, which is why it is stronger evidence of change than any statement of intent.",
+      "variations": [
+        "It separates the two halves of repair that English otherwise runs together, being the regret and the compensation. To make amends is to do something to put right a wrong you have done, and the phrase is formal and almost always about something in the past rather than a current repair. What makes it a distinct act is that it costs something, which is why it is stronger evidence of change than any statement of intent.",
+        "What makes it a distinct act is that it costs something, which is why it is stronger evidence of change than any statement of intent. To make amends is to do something to put right a wrong you have done, and the phrase is formal and almost always about something in the past rather than a current repair. It separates the two halves of repair that English otherwise runs together, being the regret and the compensation."
+      ],
+      "tl": "make amends",
+      "bis": "ayusin"
+    }
+  ],
+  "lang": "english",
+  "group": "conversations",
+  "sub": "apologies",
+  "title": "Apologies",
+  "groupTitle": "Conversations"
+}

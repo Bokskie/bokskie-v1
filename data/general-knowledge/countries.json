@@ -1,0 +1,325 @@
+{
+  "topic": "general-knowledge-countries",
+  "entries": [
+    {
+      "id": "gen-countries-000001",
+      "topic": "general-knowledge-countries",
+      "intent": "definition",
+      "concept": "Japan",
+      "keywords": [
+        "Japan",
+        "archipelago",
+        "tokyo",
+        "yen",
+        "fuji",
+        "Hapon",
+        "island",
+        "asia",
+        "islands"
+      ],
+      "patterns": [
+        "what is japan",
+        "japan",
+        "explain japan",
+        "definition of japan",
+        "japan meaning",
+        "how many islands does japan have",
+        "is tokyo the capital of japan",
+        "ano ang Hapon",
+        "unsa ang Hapon"
+      ],
+      "answer": "Japan is an island country in East Asia made up of more than 6,000 islands, the largest of which are Honshu, Hokkaido, Kyushu and Shoku. Its capital is Tokyo, its currency is the yen, and its population is roughly 125 million. Shinto and Buddhism have both shaped the country for centuries, and Mount Fuji at 3,776 metres is the highest point.",
+      "variations": [
+        "Its capital is Tokyo, its currency is the yen, and its population is roughly 125 million. Japan is an island country in East Asia made up of more than 6,000 islands, the largest of which are Honshu, Hokkaido, Kyushu and Shoku. Shinto and Buddhism have both shaped the country for centuries, and Mount Fuji at 3,776 metres is the highest point.",
+        "Shinto and Buddhism have both shaped the country for centuries, and Mount Fuji at 3,776 metres is the highest point. Japan is an island country in East Asia made up of more than 6,000 islands, the largest of which are Honshu, Hokkaido, Kyushu and Shoku. Its capital is Tokyo, its currency is the yen, and its population is roughly 125 million."
+      ],
+      "tl": "Hapon",
+      "bis": "Hapon"
+    },
+    {
+      "id": "gen-countries-000002",
+      "topic": "general-knowledge-countries",
+      "intent": "definition",
+      "concept": "Brazil",
+      "keywords": [
+        "Brazil",
+        "brasilia",
+        "amazon",
+        "portuguese",
+        "real",
+        "rainforest",
+        "Brasil",
+        "largest",
+        "south",
+        "america",
+        "fifth"
+      ],
+      "patterns": [
+        "what is brazil",
+        "brazil",
+        "explain brazil",
+        "definition of brazil",
+        "brazil meaning",
+        "what is the capital of brazil",
+        "why is brasilia not the biggest city in brazil",
+        "ano ang Brasil",
+        "unsa ang Brasil"
+      ],
+      "answer": "Brazil is the largest country in South America and the fifth largest in the world by area, covering most of the eastern part of the continent. Its capital is Brasilia, which was built from scratch in the 1960s to replace Rio de Janeiro as the seat of government. The Amazon rainforest covers roughly two thirds of the country, Portuguese is the official language, and the real is the currency.",
+      "variations": [
+        "Its capital is Brasilia, which was built from scratch in the 1960s to replace Rio de Janeiro as the seat of government. Brazil is the largest country in South America and the fifth largest in the world by area, covering most of the eastern part of the continent. The Amazon rainforest covers roughly two thirds of the country, Portuguese is the official language, and the real is the currency.",
+        "The Amazon rainforest covers roughly two thirds of the country, Portuguese is the official language, and the real is the currency. Brazil is the largest country in South America and the fifth largest in the world by area, covering most of the eastern part of the continent. Its capital is Brasilia, which was built from scratch in the 1960s to replace Rio de Janeiro as the seat of government."
+      ],
+      "tl": "Brasil",
+      "bis": "Brasil"
+    },
+    {
+      "id": "gen-countries-000003",
+      "topic": "general-knowledge-countries",
+      "intent": "definition",
+      "concept": "Egypt",
+      "keywords": [
+        "Egypt",
+        "cairo",
+        "nile",
+        "pyramid",
+        "giza",
+        "suez",
+        "pharaoh",
+        "Ehipto",
+        "north",
+        "africa",
+        "almost"
+      ],
+      "patterns": [
+        "what is egypt",
+        "egypt",
+        "explain egypt",
+        "definition of egypt",
+        "egypt meaning",
+        "what is egypt famous for",
+        "is the nile in egypt",
+        "where is the suez canal",
+        "ano ang Ehipto",
+        "unsa ang Ehipto"
+      ],
+      "answer": "Egypt is a country in north-east Africa, almost entirely desert, and about ninety-five percent of its people live along the Nile. Cairo is both the capital and the largest city. The ancient pyramids at Giza were built as tombs for pharaohs of the Old Kingdom, and the Suez Canal links the Mediterranean to the Red Sea, which has made Egypt a crossroads of world trade for two thousand years.",
+      "variations": [
+        "Cairo is both the capital and the largest city. Egypt is a country in north-east Africa, almost entirely desert, and about ninety-five percent of its people live along the Nile. The ancient pyramids at Giza were built as tombs for pharaohs of the Old Kingdom, and the Suez Canal links the Mediterranean to the Red Sea, which has made Egypt a crossroads of world trade for two thousand years.",
+        "The ancient pyramids at Giza were built as tombs for pharaohs of the Old Kingdom, and the Suez Canal links the Mediterranean to the Red Sea, which has made Egypt a crossroads of world trade for two thousand years. Egypt is a country in north-east Africa, almost entirely desert, and about ninety-five percent of its people live along the Nile. Cairo is both the capital and the largest city."
+      ],
+      "tl": "Ehipto",
+      "bis": "Ehipto"
+    },
+    {
+      "id": "gen-countries-000004",
+      "topic": "general-knowledge-countries",
+      "intent": "definition",
+      "concept": "Kenya",
+      "keywords": [
+        "Kenya",
+        "nairobi",
+        "swahili",
+        "serengeti",
+        "wildebeest",
+        "africa",
+        "capital"
+      ],
+      "patterns": [
+        "what is kenya",
+        "kenya",
+        "explain kenya",
+        "definition of kenya",
+        "kenya meaning",
+        "what is the great rift valley",
+        "where is the wildebeest migration",
+        "ano ang Kenya",
+        "unsa ang Kenya"
+      ],
+      "answer": "Kenya is a country in East Africa whose capital is Nairobi. Swahili and English are the official languages, and Kenya is one of the few countries where you can drive across two climate zones in a single day. The Great Rift Valley runs through it, and the annual wildebeest migration between the Serengeti in Tanzania and the Maasai Mara in Kenya is one of the largest animal movements on the planet.",
+      "variations": [
+        "Swahili and English are the official languages, and Kenya is one of the few countries where you can drive across two climate zones in a single day. Kenya is a country in East Africa whose capital is Nairobi. The Great Rift Valley runs through it, and the annual wildebeest migration between the Serengeti in Tanzania and the Maasai Mara in Kenya is one of the largest animal movements on the planet.",
+        "The Great Rift Valley runs through it, and the annual wildebeest migration between the Serengeti in Tanzania and the Maasai Mara in Kenya is one of the largest animal movements on the planet. Kenya is a country in East Africa whose capital is Nairobi. Swahili and English are the official languages, and Kenya is one of the few countries where you can drive across two climate zones in a single day."
+      ],
+      "tl": "Kenya",
+      "bis": "Kenya"
+    },
+    {
+      "id": "gen-countries-000005",
+      "topic": "general-knowledge-countries",
+      "intent": "definition",
+      "concept": "Canada",
+      "keywords": [
+        "Canada",
+        "ottawa",
+        "bilingual",
+        "Kanada",
+        "second",
+        "largest",
+        "world",
+        "total"
+      ],
+      "patterns": [
+        "what is canada",
+        "canada",
+        "explain canada",
+        "definition of canada",
+        "canada meaning",
+        "why is ottawa the capital of canada",
+        "what languages are spoken in canada",
+        "ano ang Kanada",
+        "unsa ang Kanada"
+      ],
+      "answer": "Canada is the second largest country in the world by total area, and the largest that has only two coastlines. Its capital is Ottawa, which surprises people who assume it is Toronto or Montreal. English and French are both official, the maple leaf is the national symbol, and the country spans six time zones from the Pacific to the Atlantic. Most of the population lives within a few hundred kilometres of the southern border.",
+      "variations": [
+        "Its capital is Ottawa, which surprises people who assume it is Toronto or Montreal. Canada is the second largest country in the world by total area, and the largest that has only two coastlines. English and French are both official, the maple leaf is the national symbol, and the country spans six time zones from the Pacific to the Atlantic. Most of the population lives within a few hundred kilometres of the southern border.",
+        "English and French are both official, the maple leaf is the national symbol, and the country spans six time zones from the Pacific to the Atlantic. Canada is the second largest country in the world by total area, and the largest that has only two coastlines. Its capital is Ottawa, which surprises people who assume it is Toronto or Montreal. Most of the population lives within a few hundred kilometres of the southern border."
+      ],
+      "tl": "Kanada",
+      "bis": "Kanada"
+    },
+    {
+      "id": "gen-countries-000006",
+      "topic": "general-knowledge-countries",
+      "intent": "definition",
+      "concept": "Australia",
+      "keywords": [
+        "Australia",
+        "canberra",
+        "kangaroo",
+        "koala",
+        "marsupial",
+        "Australya",
+        "both",
+        "smallest",
+        "continent",
+        "nation"
+      ],
+      "patterns": [
+        "what is australia",
+        "australia",
+        "explain australia",
+        "definition of australia",
+        "australia meaning",
+        "why is canberra the capital of australia",
+        "what animals live only in australia",
+        "ano ang Australya",
+        "unsa ang Australya"
+      ],
+      "answer": "Australia is both a country and the smallest continent, and it is the only nation whose entire territory lies within a single continent. The capital is Canberra, chosen as a compromise between Sydney and Melbourne rather than either of them. It is home to most of the world's marsupials, including kangaroos, koalas and wombats, and the Great Barrier Reef off Queensland is the largest structure built by living organisms anywhere on Earth.",
+      "variations": [
+        "The capital is Canberra, chosen as a compromise between Sydney and Melbourne rather than either of them. Australia is both a country and the smallest continent, and it is the only nation whose entire territory lies within a single continent. It is home to most of the world's marsupials, including kangaroos, koalas and wombats, and the Great Barrier Reef off Queensland is the largest structure built by living organisms anywhere on Earth.",
+        "It is home to most of the world's marsupials, including kangaroos, koalas and wombats, and the Great Barrier Reef off Queensland is the largest structure built by living organisms anywhere on Earth. Australia is both a country and the smallest continent, and it is the only nation whose entire territory lies within a single continent. The capital is Canberra, chosen as a compromise between Sydney and Melbourne rather than either of them."
+      ],
+      "tl": "Australya",
+      "bis": "Australya"
+    },
+    {
+      "id": "gen-countries-000007",
+      "topic": "general-knowledge-countries",
+      "intent": "definition",
+      "concept": "Norway",
+      "keywords": [
+        "Norway",
+        "oslo",
+        "fjord",
+        "scandinavia",
+        "Norwega",
+        "capital",
+        "coastline"
+      ],
+      "patterns": [
+        "what is norway",
+        "norway",
+        "explain norway",
+        "definition of norway",
+        "norway meaning",
+        "what is a fjord",
+        "where can you see the northern lights",
+        "ano ang Norwega",
+        "unsa ang Norwega"
+      ],
+      "answer": "Norway is a country in Scandinavia whose capital is Oslo. Its coastline is defined by deep fjords, narrow sea-filled valleys cut by glaciers, which is why it is sometimes said to have the longest coastline in Europe relative to its size. The aurora borealis is visible in the far north during the dark winter months, and offshore petroleum has made it one of the wealthiest countries per person in the world.",
+      "variations": [
+        "Its coastline is defined by deep fjords, narrow sea-filled valleys cut by glaciers, which is why it is sometimes said to have the longest coastline in Europe relative to its size. Norway is a country in Scandinavia whose capital is Oslo. The aurora borealis is visible in the far north during the dark winter months, and offshore petroleum has made it one of the wealthiest countries per person in the world.",
+        "The aurora borealis is visible in the far north during the dark winter months, and offshore petroleum has made it one of the wealthiest countries per person in the world. Norway is a country in Scandinavia whose capital is Oslo. Its coastline is defined by deep fjords, narrow sea-filled valleys cut by glaciers, which is why it is sometimes said to have the longest coastline in Europe relative to its size."
+      ],
+      "tl": "Norwega",
+      "bis": "Norwega"
+    },
+    {
+      "id": "gen-countries-000008",
+      "topic": "general-knowledge-countries",
+      "intent": "definition",
+      "concept": "Iceland",
+      "keywords": [
+        "Iceland",
+        "reykjavik",
+        "volcano",
+        "geyser",
+        "geothermal",
+        "north",
+        "atlantic",
+        "built",
+        "ridge"
+      ],
+      "patterns": [
+        "what is iceland",
+        "iceland",
+        "explain iceland",
+        "definition of iceland",
+        "iceland meaning",
+        "why does iceland have no mosquitoes",
+        "are there volcanoes in iceland",
+        "ano ang Iceland",
+        "unsa ang Iceland"
+      ],
+      "answer": "Iceland is a country in the North Atlantic built on the Mid-Atlantic Ridge, where tectonic plates pull apart and the crust is continuously replaced. Reykjavik is the capital and the largest city. It has almost no mosquitoes, largely because of the cool, windy, wet climate, and its hot springs and geysers are heated by magma rather than by fuel.",
+      "variations": [
+        "Reykjavik is the capital and the largest city. Iceland is a country in the North Atlantic built on the Mid-Atlantic Ridge, where tectonic plates pull apart and the crust is continuously replaced. It has almost no mosquitoes, largely because of the cool, windy, wet climate, and its hot springs and geysers are heated by magma rather than by fuel.",
+        "It has almost no mosquitoes, largely because of the cool, windy, wet climate, and its hot springs and geysers are heated by magma rather than by fuel. Iceland is a country in the North Atlantic built on the Mid-Atlantic Ridge, where tectonic plates pull apart and the crust is continuously replaced. Reykjavik is the capital and the largest city."
+      ],
+      "tl": "Iceland",
+      "bis": "Iceland"
+    },
+    {
+      "id": "gen-countries-000009",
+      "topic": "general-knowledge-countries",
+      "intent": "definition",
+      "concept": "Peru",
+      "keywords": [
+        "Peru",
+        "lima",
+        "inca",
+        "andes",
+        "western",
+        "coast",
+        "south",
+        "america"
+      ],
+      "patterns": [
+        "what is peru",
+        "peru",
+        "explain peru",
+        "definition of peru",
+        "peru meaning",
+        "what is machu picchu",
+        "who built machu picchu",
+        "ano ang Peru",
+        "unsa ang Peru"
+      ],
+      "answer": "Peru is a country on the western coast of South America whose capital is Lima. It is three-quarters of the way down the Andes, so it has a stretch of Amazon rainforest in the east and a narrow desert coast in the west. Machu Picchu, the Inca citadel in the cloud forest, was built in the fifteenth century and is still standing. The Nazca Lines in the south were made by removing dark stones to expose lighter ground beneath.",
+      "variations": [
+        "It is three-quarters of the way down the Andes, so it has a stretch of Amazon rainforest in the east and a narrow desert coast in the west. Peru is a country on the western coast of South America whose capital is Lima. Machu Picchu, the Inca citadel in the cloud forest, was built in the fifteenth century and is still standing. The Nazca Lines in the south were made by removing dark stones to expose lighter ground beneath.",
+        "Machu Picchu, the Inca citadel in the cloud forest, was built in the fifteenth century and is still standing. Peru is a country on the western coast of South America whose capital is Lima. It is three-quarters of the way down the Andes, so it has a stretch of Amazon rainforest in the east and a narrow desert coast in the west. The Nazca Lines in the south were made by removing dark stones to expose lighter ground beneath."
+      ],
+      "tl": "Peru",
+      "bis": "Peru"
+    }
+  ],
+  "lang": "english",
+  "group": "general-knowledge",
+  "sub": "countries",
+  "title": "Countries",
+  "groupTitle": "General Knowledge"
+}

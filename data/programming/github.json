@@ -1,0 +1,45 @@
+{
+  "topic": "programming-github",
+  "entries": [
+    {
+      "id": "pro-github-000001",
+      "topic": "programming-github",
+      "intent": "definition",
+      "concept": "github",
+      "keywords": [
+        "github",
+        "issue",
+        "repository",
+        "licence",
+        "place",
+        "host",
+        "repositories",
+        "collaborate",
+        "around"
+      ],
+      "patterns": [
+        "what is github",
+        "github",
+        "explain github",
+        "definition of github",
+        "github meaning",
+        "what is a pull request",
+        "is github the same as git",
+        "ano ang github",
+        "unsa ang github"
+      ],
+      "answer": "GitHub is a place to host git repositories and collaborate around them, and it is not the same thing as git itself. The useful parts beyond storage are pull requests, which let a change be reviewed before it lands, and issues, where work gets discussed. Being hosted on GitHub does not make something open source, and the licence file is what decides that.",
+      "variations": [
+        "The useful parts beyond storage are pull requests, which let a change be reviewed before it lands, and issues, where work gets discussed. GitHub is a place to host git repositories and collaborate around them, and it is not the same thing as git itself. Being hosted on GitHub does not make something open source, and the licence file is what decides that.",
+        "Being hosted on GitHub does not make something open source, and the licence file is what decides that. GitHub is a place to host git repositories and collaborate around them, and it is not the same thing as git itself. The useful parts beyond storage are pull requests, which let a change be reviewed before it lands, and issues, where work gets discussed."
+      ],
+      "tl": "github",
+      "bis": "github"
+    }
+  ],
+  "lang": "english",
+  "group": "programming",
+  "sub": "github",
+  "title": "GitHub",
+  "groupTitle": "Programming"
+}

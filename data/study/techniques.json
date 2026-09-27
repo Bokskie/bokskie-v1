@@ -1,0 +1,195 @@
+{
+  "topic": "study-techniques",
+  "entries": [
+    {
+      "id": "stu-techniques-000001",
+      "topic": "study-techniques",
+      "intent": "definition",
+      "concept": "flashcard",
+      "keywords": [
+        "flashcard",
+        "question",
+        "answer",
+        "card",
+        "puts",
+        "side",
+        "whole"
+      ],
+      "patterns": [
+        "what is flashcard",
+        "flashcard",
+        "explain flashcard",
+        "definition of flashcard",
+        "flashcard meaning",
+        "what is a flashcard",
+        "should you use flashcards",
+        "how to write a good flashcard",
+        "ano ang flashcard",
+        "unsa ang flashcard"
+      ],
+      "answer": "A flashcard puts one question on one side and one answer on the other, and the whole method depends on you trying to answer before turning it over. Used that way it is a form of self-testing, which is why it works far better than reading a list of facts aloud. Used the other way, flipping through cards you already know, it becomes re-reading in a more expensive form. The design rule is one idea per card, and a card asking what are the three causes of the war will fail every time.",
+      "variations": [
+        "Used that way it is a form of self-testing, which is why it works far better than reading a list of facts aloud. A flashcard puts one question on one side and one answer on the other, and the whole method depends on you trying to answer before turning it over. Used the other way, flipping through cards you already know, it becomes re-reading in a more expensive form. The design rule is one idea per card, and a card asking what are the three causes of the war will fail every time.",
+        "Used the other way, flipping through cards you already know, it becomes re-reading in a more expensive form. A flashcard puts one question on one side and one answer on the other, and the whole method depends on you trying to answer before turning it over. Used that way it is a form of self-testing, which is why it works far better than reading a list of facts aloud. The design rule is one idea per card, and a card asking what are the three causes of the war will fail every time."
+      ],
+      "tl": "flashcard",
+      "bis": "flashcard"
+    },
+    {
+      "id": "stu-techniques-000002",
+      "topic": "study-techniques",
+      "intent": "definition",
+      "concept": "revision",
+      "keywords": [
+        "revision",
+        "review",
+        "familiar",
+        "recall",
+        "gap",
+        "confidence",
+        "ulit",
+        "going",
+        "material",
+        "already",
+        "studied",
+        "word"
+      ],
+      "patterns": [
+        "what is revision",
+        "revision",
+        "explain revision",
+        "definition of revision",
+        "revision meaning",
+        "how long should revision take",
+        "is rereading revision",
+        "ano ang revision",
+        "unsa ang ulit"
+      ],
+      "answer": "Revision is going over material you have already studied, and the word covers everything from a five-minute look the night before to a full re-do of a term's work. The reason the night-before version feels effective is that familiarity is easy to mistake for recall, and the two are not related. Revision is worth doing in the sense that it finds gaps, and it is not worth doing as a way of feeling more confident, since confidence is the one thing reading reliably produces.",
+      "variations": [
+        "The reason the night-before version feels effective is that familiarity is easy to mistake for recall, and the two are not related. Revision is going over material you have already studied, and the word covers everything from a five-minute look the night before to a full re-do of a term's work. Revision is worth doing in the sense that it finds gaps, and it is not worth doing as a way of feeling more confident, since confidence is the one thing reading reliably produces.",
+        "Revision is worth doing in the sense that it finds gaps, and it is not worth doing as a way of feeling more confident, since confidence is the one thing reading reliably produces. Revision is going over material you have already studied, and the word covers everything from a five-minute look the night before to a full re-do of a term's work. The reason the night-before version feels effective is that familiarity is easy to mistake for recall, and the two are not related."
+      ],
+      "tl": "revision",
+      "bis": "ulit"
+    },
+    {
+      "id": "stu-techniques-000003",
+      "topic": "study-techniques",
+      "intent": "definition",
+      "concept": "mind map",
+      "keywords": [
+        "mind map",
+        "central",
+        "branch",
+        "classify",
+        "memory",
+        "reconstruct",
+        "mind",
+        "puts",
+        "idea",
+        "middle",
+        "branches"
+      ],
+      "patterns": [
+        "what is mind map",
+        "mind map",
+        "explain mind map",
+        "definition of mind map",
+        "mind map meaning",
+        "what is a mind map",
+        "are mind maps effective",
+        "how to make a mind map",
+        "ano ang mind map",
+        "unsa ang mind map"
+      ],
+      "answer": "A mind map puts a central idea in the middle with branches radiating out, and the value is that it forces you to decide what belongs where, which is a harder task than listing. That classification is the useful part; the drawing is not, and an hour on the layout is an hour not spent on the material. It works best as a reconstruction rather than a copy, so you map from memory and then check, and a map made by copying the chapter is a decorated outline.",
+      "variations": [
+        "That classification is the useful part; the drawing is not, and an hour on the layout is an hour not spent on the material. A mind map puts a central idea in the middle with branches radiating out, and the value is that it forces you to decide what belongs where, which is a harder task than listing. It works best as a reconstruction rather than a copy, so you map from memory and then check, and a map made by copying the chapter is a decorated outline.",
+        "It works best as a reconstruction rather than a copy, so you map from memory and then check, and a map made by copying the chapter is a decorated outline. A mind map puts a central idea in the middle with branches radiating out, and the value is that it forces you to decide what belongs where, which is a harder task than listing. That classification is the useful part; the drawing is not, and an hour on the layout is an hour not spent on the material."
+      ],
+      "tl": "mind map",
+      "bis": "mind map"
+    },
+    {
+      "id": "stu-techniques-000004",
+      "topic": "study-techniques",
+      "intent": "definition",
+      "concept": "elaborate",
+      "keywords": [
+        "elaborate",
+        "connect",
+        "example",
+        "attach",
+        "explain",
+        "detail",
+        "ipaliwanag",
+        "connection",
+        "something",
+        "already",
+        "half"
+      ],
+      "patterns": [
+        "what is elaborate",
+        "elaborate",
+        "explain elaborate",
+        "definition of elaborate",
+        "elaborate meaning",
+        "what does elaborate mean",
+        "why does explaining help",
+        "how to elaborate on an idea",
+        "ano ang elaborate",
+        "unsa ang ipaliwanag"
+      ],
+      "answer": "To elaborate is to add a connection or an example to something you already half know, and it works because the new material is attached to something existing rather than stored alone. This is why explaining a concept to somebody else is such a reliable test, since the gaps show up in the explanation rather than the knowledge. The trap is adding detail that is easy and not detail that matters, so a long explanation of the mechanism is not the same as understanding why it is asked.",
+      "variations": [
+        "This is why explaining a concept to somebody else is such a reliable test, since the gaps show up in the explanation rather than the knowledge. To elaborate is to add a connection or an example to something you already half know, and it works because the new material is attached to something existing rather than stored alone. The trap is adding detail that is easy and not detail that matters, so a long explanation of the mechanism is not the same as understanding why it is asked.",
+        "The trap is adding detail that is easy and not detail that matters, so a long explanation of the mechanism is not the same as understanding why it is asked. To elaborate is to add a connection or an example to something you already half know, and it works because the new material is attached to something existing rather than stored alone. This is why explaining a concept to somebody else is such a reliable test, since the gaps show up in the explanation rather than the knowledge."
+      ],
+      "tl": "elaborate",
+      "bis": "ipaliwanag"
+    },
+    {
+      "id": "stu-techniques-000005",
+      "topic": "study-techniques",
+      "intent": "definition",
+      "concept": "interleaving",
+      "keywords": [
+        "interleaving",
+        "mix",
+        "topic",
+        "blocking",
+        "method",
+        "retention",
+        "mixing",
+        "different",
+        "topics",
+        "practice",
+        "session"
+      ],
+      "patterns": [
+        "what is interleaving",
+        "interleaving",
+        "explain interleaving",
+        "definition of interleaving",
+        "interleaving meaning",
+        "is blocked practice better",
+        "how to mix topics when revising",
+        "ano ang interleaving",
+        "unsa ang interleaving"
+      ],
+      "answer": "Interleaving is mixing different topics in one practice session rather than blocking each one separately, and it feels harder and works better. Blocking, where all the fractions are done then all the decimals, produces a high score during practice and a poor one later, because the skill being tested is recognising which method applies. Interleaved practice is less comfortable and produces better retention, which is an uncomfortable combination that students consistently under-choose.",
+      "variations": [
+        "Blocking, where all the fractions are done then all the decimals, produces a high score during practice and a poor one later, because the skill being tested is recognising which method applies. Interleaving is mixing different topics in one practice session rather than blocking each one separately, and it feels harder and works better. Interleaved practice is less comfortable and produces better retention, which is an uncomfortable combination that students consistently under-choose.",
+        "Interleaved practice is less comfortable and produces better retention, which is an uncomfortable combination that students consistently under-choose. Interleaving is mixing different topics in one practice session rather than blocking each one separately, and it feels harder and works better. Blocking, where all the fractions are done then all the decimals, produces a high score during practice and a poor one later, because the skill being tested is recognising which method applies."
+      ],
+      "tl": "interleaving",
+      "bis": "interleaving"
+    }
+  ],
+  "lang": "english",
+  "group": "study",
+  "sub": "techniques",
+  "title": "Study techniques",
+  "groupTitle": "Study"
+}

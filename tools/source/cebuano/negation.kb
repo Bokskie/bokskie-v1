@@ -1,0 +1,4 @@
+# cebuano-negation.kb - Cebuano / Negation
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 1 entries, one genuinely distinct fact per line.
+dili | definition | Dili means no or not, and it is the negative word. It goes straight before the verb, so dili ko buhaton means I will not do it, with no separate do not needed. This is the same structure as the Tagalog hindi, and both languages put the negative first and the verb last. | no, not, dili, negative, negation | dili meaning, unsaon nga mo dili | dili | hindi

@@ -1,0 +1,126 @@
+{
+  "topic": "health-medicine-vocabulary",
+  "entries": [
+    {
+      "id": "hea-medicine-vocabulary-000001",
+      "topic": "health-medicine-vocabulary",
+      "intent": "definition",
+      "concept": "cold remedies",
+      "keywords": [
+        "cold remedies",
+        "cold",
+        "cough",
+        "syrup",
+        "antibiotic",
+        "virus",
+        "colds",
+        "caused",
+        "viruses",
+        "antibiotics",
+        "nothing",
+        "against"
+      ],
+      "patterns": [
+        "what is cold remedies",
+        "cold remedies",
+        "explain cold remedies",
+        "definition of cold remedies",
+        "cold remedies meaning",
+        "do cold medicines work",
+        "should i take antibiotics for a cold",
+        "is honey good for a cough",
+        "ano ang gamot sa ubo",
+        "unsa ang gamot sa ubo"
+      ],
+      "answer": "Colds are caused by viruses, and antibiotics do nothing against viruses, so taking them for a cold is the most common reason they stop working when they are genuinely needed. Most over-the-counter cold medicines treat congestion and cough rather than shortening the illness, and the things that reliably help are time, fluids and rest. Warm honey liquid has some evidence behind it for soothing a cough in adults and children over one year, and must never be given to an infant. See a doctor if a cold lasts more than about ten days, worsens after improving, or comes with high fever, breathing difficulty or severe pain.",
+      "variations": [
+        "Most over-the-counter cold medicines treat congestion and cough rather than shortening the illness, and the things that reliably help are time, fluids and rest. Colds are caused by viruses, and antibiotics do nothing against viruses, so taking them for a cold is the most common reason they stop working when they are genuinely needed. Warm honey liquid has some evidence behind it for soothing a cough in adults and children over one year, and must never be given to an infant. See a doctor if a cold lasts more than about ten days, worsens after improving, or comes with high fever, breathing difficulty or severe pain.",
+        "Warm honey liquid has some evidence behind it for soothing a cough in adults and children over one year, and must never be given to an infant. Colds are caused by viruses, and antibiotics do nothing against viruses, so taking them for a cold is the most common reason they stop working when they are genuinely needed. Most over-the-counter cold medicines treat congestion and cough rather than shortening the illness, and the things that reliably help are time, fluids and rest. See a doctor if a cold lasts more than about ten days, worsens after improving, or comes with high fever, breathing difficulty or severe pain."
+      ],
+      "tl": "gamot sa ubo",
+      "bis": "gamot sa ubo",
+      "source": "CDC notes antibiotics are ineffective against viral colds. Evidence for specific over-the-counter cold remedies is mixed, and honey for cough must not be given to infants under one year.",
+      "confidence": 0.7
+    },
+    {
+      "id": "hea-medicine-vocabulary-000002",
+      "topic": "health-medicine-vocabulary",
+      "intent": "definition",
+      "concept": "antibiotics",
+      "keywords": [
+        "antibiotics",
+        "antibiotic",
+        "penicillin",
+        "bacteria",
+        "resistance",
+        "antibayot",
+        "medicines",
+        "kill",
+        "stop",
+        "reproducing"
+      ],
+      "patterns": [
+        "what is antibiotics",
+        "antibiotics",
+        "explain antibiotics",
+        "definition of antibiotics",
+        "antibiotics meaning",
+        "why do antibiotics not work on viruses",
+        "when should i take antibiotics",
+        "what is antibiotic resistance",
+        "ano ang antibayot",
+        "unsa ang antibayot"
+      ],
+      "answer": "Antibiotics are medicines that kill bacteria or stop them reproducing, and they have no effect whatsoever on viruses. Using them for a viral infection does nothing for the patient and drives resistance, which is the reason many infections have become harder to treat. They should only be taken when prescribed, for the full duration given, and never shared or saved for later. Taking leftover or borrowed antibiotics is a common and entirely avoidable cause of harm.",
+      "variations": [
+        "Using them for a viral infection does nothing for the patient and drives resistance, which is the reason many infections have become harder to treat. Antibiotics are medicines that kill bacteria or stop them reproducing, and they have no effect whatsoever on viruses. They should only be taken when prescribed, for the full duration given, and never shared or saved for later. Taking leftover or borrowed antibiotics is a common and entirely avoidable cause of harm.",
+        "They should only be taken when prescribed, for the full duration given, and never shared or saved for later. Antibiotics are medicines that kill bacteria or stop them reproducing, and they have no effect whatsoever on viruses. Using them for a viral infection does nothing for the patient and drives resistance, which is the reason many infections have become harder to treat. Taking leftover or borrowed antibiotics is a common and entirely avoidable cause of harm."
+      ],
+      "tl": "antibayot",
+      "bis": "antibayot"
+    },
+    {
+      "id": "hea-medicine-vocabulary-000003",
+      "topic": "health-medicine-vocabulary",
+      "intent": "definition",
+      "concept": "mental health",
+      "keywords": [
+        "mental health",
+        "mental",
+        "depression",
+        "anxiety",
+        "wellbeing",
+        "therapy",
+        "kaloobloob",
+        "health",
+        "emotional",
+        "psychological",
+        "social",
+        "state"
+      ],
+      "patterns": [
+        "what is mental health",
+        "mental health",
+        "explain mental health",
+        "definition of mental health",
+        "mental health meaning",
+        "how do i know if i am depressed",
+        "is depression curable",
+        "ano ang kaloobloob",
+        "unsa ang kaloobloob"
+      ],
+      "answer": "Mental health is the emotional, psychological and social state of a person, and it moves along a range rather than sitting at a fixed level. Common conditions include anxiety disorders, depression, bipolar disorder and post-traumatic stress, and all of them are treatable. Difficulty sleeping, loss of interest in things you used to enjoy, hopelessness and changes in appetite or concentration are worth taking seriously rather than explained away. Help is available through general practitioners as well as specialists, and seeking it is ordinary maintenance rather than an admission of serious illness.",
+      "variations": [
+        "Common conditions include anxiety disorders, depression, bipolar disorder and post-traumatic stress, and all of them are treatable. Mental health is the emotional, psychological and social state of a person, and it moves along a range rather than sitting at a fixed level. Difficulty sleeping, loss of interest in things you used to enjoy, hopelessness and changes in appetite or concentration are worth taking seriously rather than explained away. Help is available through general practitioners as well as specialists, and seeking it is ordinary maintenance rather than an admission of serious illness.",
+        "Difficulty sleeping, loss of interest in things you used to enjoy, hopelessness and changes in appetite or concentration are worth taking seriously rather than explained away. Mental health is the emotional, psychological and social state of a person, and it moves along a range rather than sitting at a fixed level. Common conditions include anxiety disorders, depression, bipolar disorder and post-traumatic stress, and all of them are treatable. Help is available through general practitioners as well as specialists, and seeking it is ordinary maintenance rather than an admission of serious illness."
+      ],
+      "tl": "kaloobloob",
+      "bis": "kaloobloob"
+    }
+  ],
+  "lang": "english",
+  "group": "health",
+  "sub": "medicine-vocabulary",
+  "title": "Medicine vocabulary",
+  "groupTitle": "Health"
+}

@@ -1,0 +1,49 @@
+{
+  "topic": "health-nutrition",
+  "entries": [
+    {
+      "id": "hea-nutrition-000001",
+      "topic": "health-nutrition",
+      "intent": "definition",
+      "concept": "vitamins",
+      "keywords": [
+        "vitamins",
+        "vitamin",
+        "supplement",
+        "nutrient",
+        "folate",
+        "deficiency",
+        "bitamina",
+        "organic",
+        "compounds",
+        "body",
+        "small",
+        "amounts"
+      ],
+      "patterns": [
+        "what is vitamins",
+        "vitamins",
+        "explain vitamins",
+        "definition of vitamins",
+        "vitamins meaning",
+        "do i need vitamin tablets",
+        "is it safe to take high dose vitamins",
+        "where do vitamins come from",
+        "ano ang bitamina",
+        "unsa ang bitamina"
+      ],
+      "answer": "Vitamins are organic compounds the body needs in small amounts and cannot make for itself. The fat-soluble ones, which are A, D, E and K, are stored in the liver and fatty tissue, so large doses can accumulate and cause harm. The water-soluble ones, the B group and vitamin C, are excreted in urine and shortages are more common, particularly in people who eat a very restricted diet. A varied diet generally supplies enough, and supplement tablets are most useful where there is a genuine deficiency, a diagnosed reason, or a dietary restriction. Megadoses of fat-soluble vitamins are a real risk, not a free boost.",
+      "variations": [
+        "The fat-soluble ones, which are A, D, E and K, are stored in the liver and fatty tissue, so large doses can accumulate and cause harm. Vitamins are organic compounds the body needs in small amounts and cannot make for itself. The water-soluble ones, the B group and vitamin C, are excreted in urine and shortages are more common, particularly in people who eat a very restricted diet. A varied diet generally supplies enough, and supplement tablets are most useful where there is a genuine deficiency, a diagnosed reason, or a dietary restriction. Megadoses of fat-soluble vitamins are a real risk, not a free boost.",
+        "The water-soluble ones, the B group and vitamin C, are excreted in urine and shortages are more common, particularly in people who eat a very restricted diet. Vitamins are organic compounds the body needs in small amounts and cannot make for itself. The fat-soluble ones, which are A, D, E and K, are stored in the liver and fatty tissue, so large doses can accumulate and cause harm. A varied diet generally supplies enough, and supplement tablets are most useful where there is a genuine deficiency, a diagnosed reason, or a dietary restriction. Megadoses of fat-soluble vitamins are a real risk, not a free boost."
+      ],
+      "tl": "bitamina",
+      "bis": "bitamina"
+    }
+  ],
+  "lang": "english",
+  "group": "health",
+  "sub": "nutrition",
+  "title": "Nutrition",
+  "groupTitle": "Health"
+}

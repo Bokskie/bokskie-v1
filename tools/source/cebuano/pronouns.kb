@@ -1,0 +1,5 @@
+# cebuano-pronouns.kb - Cebuano / Pronouns
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 2 entries, one genuinely distinct fact per line.
+kami | definition | Kami means we or they, and in Cebuano it covers both, which is a genuine difference from Tagalog where tayo and kami are carefully kept apart. As a pronoun it can be inclusive or exclusive depending on context, so the meaning comes from who is speaking. It is also the polite plural form of kamaw, which is the singular you. | we, they, kami, plural, group | kami meaning, kami o kita | kami | kami
+ikaw | definition | Ikaw means you, singular and familiar, and it is the everyday form used with friends, family and children. The polite form is kamaw, and that is the one to use with a customer, an elder or a stranger. Using ikaw to someone you have just met can come across as too familiar, so kamaw is the safer default in a shop. | you, ikaw, kamaw, familiar, polite | ikaw meaning, ikaw o kamaw which is polite | ikaw | ikaw

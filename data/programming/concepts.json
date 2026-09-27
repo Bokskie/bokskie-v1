@@ -1,0 +1,252 @@
+{
+  "topic": "programming-concepts",
+  "entries": [
+    {
+      "id": "pro-concepts-000001",
+      "topic": "programming-concepts",
+      "intent": "definition",
+      "concept": "variable",
+      "keywords": [
+        "variable",
+        "assignment",
+        "scope",
+        "let",
+        "const",
+        "named",
+        "container",
+        "value",
+        "something",
+        "refer"
+      ],
+      "patterns": [
+        "what is variable",
+        "variable",
+        "explain variable",
+        "definition of variable",
+        "variable meaning",
+        "what is a variable",
+        "variables in programming"
+      ],
+      "answer": "A variable is a named container for a value. You put something in it, refer to it by name later, and can change what is inside. In modern JavaScript you declare with let, which can be reassigned, or const, which cannot. Scope decides how long the name stays visible, and getting scope wrong is one of the most common sources of bugs.",
+      "variations": [
+        "You put something in it, refer to it by name later, and can change what is inside. A variable is a named container for a value. In modern JavaScript you declare with let, which can be reassigned, or const, which cannot. Scope decides how long the name stays visible, and getting scope wrong is one of the most common sources of bugs.",
+        "In modern JavaScript you declare with let, which can be reassigned, or const, which cannot. A variable is a named container for a value. You put something in it, refer to it by name later, and can change what is inside. Scope decides how long the name stays visible, and getting scope wrong is one of the most common sources of bugs."
+      ]
+    },
+    {
+      "id": "pro-concepts-000002",
+      "topic": "programming-concepts",
+      "intent": "definition",
+      "concept": "function",
+      "keywords": [
+        "function",
+        "argument",
+        "parameter",
+        "return",
+        "reusable",
+        "block",
+        "code",
+        "takes",
+        "inputs"
+      ],
+      "patterns": [
+        "what is function",
+        "function",
+        "explain function",
+        "definition of function",
+        "function meaning",
+        "what is a function",
+        "functions explained"
+      ],
+      "answer": "A function is a reusable block of code that takes inputs, does something, and returns a result. The inputs are parameters, the output is the return value. Functions exist so you write something once and reuse it, and so each piece of a program does one job you can name and test on its own.",
+      "variations": [
+        "The inputs are parameters, the output is the return value. A function is a reusable block of code that takes inputs, does something, and returns a result. Functions exist so you write something once and reuse it, and so each piece of a program does one job you can name and test on its own.",
+        "Functions exist so you write something once and reuse it, and so each piece of a program does one job you can name and test on its own. A function is a reusable block of code that takes inputs, does something, and returns a result. The inputs are parameters, the output is the return value."
+      ]
+    },
+    {
+      "id": "pro-concepts-000003",
+      "topic": "programming-concepts",
+      "intent": "definition",
+      "concept": "frontend",
+      "keywords": [
+        "frontend",
+        "backend",
+        "fullstack",
+        "client",
+        "server",
+        "runs",
+        "browser",
+        "user",
+        "sees",
+        "layout"
+      ],
+      "patterns": [
+        "what is frontend",
+        "frontend",
+        "explain frontend",
+        "definition of frontend",
+        "frontend meaning",
+        "difference between frontend and backend",
+        "what is backend"
+      ],
+      "answer": "The frontend is what runs in the browser and that the user sees: layout, buttons, styling. The backend runs on a server the user never sees - it holds the data, checks permissions, does the real work, and sends results back. Splitting them lets the same backend serve a web app, a mobile app and an API at once.",
+      "variations": [
+        "The backend runs on a server the user never sees - it holds the data, checks permissions, does the real work, and sends results back. The frontend is what runs in the browser and that the user sees: layout, buttons, styling. Splitting them lets the same backend serve a web app, a mobile app and an API at once.",
+        "Splitting them lets the same backend serve a web app, a mobile app and an API at once. The frontend is what runs in the browser and that the user sees: layout, buttons, styling. The backend runs on a server the user never sees - it holds the data, checks permissions, does the real work, and sends results back."
+      ]
+    },
+    {
+      "id": "pro-concepts-000004",
+      "topic": "programming-concepts",
+      "intent": "definition",
+      "concept": "type system",
+      "keywords": [
+        "type system",
+        "types",
+        "typing",
+        "static",
+        "dynamic",
+        "compiler",
+        "safety",
+        "type",
+        "system",
+        "rules",
+        "values",
+        "program",
+        "hold"
+      ],
+      "patterns": [
+        "what is type system",
+        "type system",
+        "explain type system",
+        "definition of type system",
+        "type system meaning",
+        "what is a type system",
+        "static vs dynamic typing",
+        "should i use typescript",
+        "ano ang type system",
+        "unsa ang type system"
+      ],
+      "answer": "A type system is a set of rules about what values a program may hold and what can be done with them, and in statically typed languages it is a compile-time discipline rather than a runtime one. Its value is that whole categories of bug become impossible rather than merely unlikely. The honest cost is verbosity and a real learning curve, and the honest benefit is that a typed codebase is navigable because a function's contract is written down.",
+      "variations": [
+        "Its value is that whole categories of bug become impossible rather than merely unlikely. A type system is a set of rules about what values a program may hold and what can be done with them, and in statically typed languages it is a compile-time discipline rather than a runtime one. The honest cost is verbosity and a real learning curve, and the honest benefit is that a typed codebase is navigable because a function's contract is written down.",
+        "The honest cost is verbosity and a real learning curve, and the honest benefit is that a typed codebase is navigable because a function's contract is written down. A type system is a set of rules about what values a program may hold and what can be done with them, and in statically typed languages it is a compile-time discipline rather than a runtime one. Its value is that whole categories of bug become impossible rather than merely unlikely."
+      ],
+      "tl": "type system",
+      "bis": "type system"
+    },
+    {
+      "id": "pro-concepts-000005",
+      "topic": "programming-concepts",
+      "intent": "definition",
+      "concept": "object",
+      "keywords": [
+        "object",
+        "dictionary",
+        "key",
+        "value",
+        "property",
+        "structure",
+        "collection",
+        "related",
+        "values",
+        "bundled",
+        "name"
+      ],
+      "patterns": [
+        "what is object",
+        "object",
+        "explain object",
+        "definition of object",
+        "object meaning",
+        "what is an object in programming",
+        "difference between an object and an array",
+        "ano ang object",
+        "unsa ang object"
+      ],
+      "answer": "An object is a collection of related values bundled under one name, and it is the basic unit of organisation in most languages. In JavaScript objects are also the basis for arrays, functions and dates, which is why the language is sometimes described as having one data structure. The practical consequence is that almost nothing is deeply immutable, so a function that mutates what you passed it is a common source of bugs.",
+      "variations": [
+        "In JavaScript objects are also the basis for arrays, functions and dates, which is why the language is sometimes described as having one data structure. An object is a collection of related values bundled under one name, and it is the basic unit of organisation in most languages. The practical consequence is that almost nothing is deeply immutable, so a function that mutates what you passed it is a common source of bugs.",
+        "The practical consequence is that almost nothing is deeply immutable, so a function that mutates what you passed it is a common source of bugs. An object is a collection of related values bundled under one name, and it is the basic unit of organisation in most languages. In JavaScript objects are also the basis for arrays, functions and dates, which is why the language is sometimes described as having one data structure."
+      ],
+      "tl": "object",
+      "bis": "object"
+    },
+    {
+      "id": "pro-concepts-000006",
+      "topic": "programming-concepts",
+      "intent": "definition",
+      "concept": "loop",
+      "keywords": [
+        "loop",
+        "iteration",
+        "while",
+        "for",
+        "infinite",
+        "repeats",
+        "work",
+        "until",
+        "condition",
+        "fails"
+      ],
+      "patterns": [
+        "what is loop",
+        "loop",
+        "explain loop",
+        "definition of loop",
+        "loop meaning",
+        "what is a loop",
+        "what is an off by one error",
+        "what is an infinite loop",
+        "ano ang loop",
+        "unsa ang loop"
+      ],
+      "answer": "A loop repeats work until a condition fails, and the interesting part is always the exit condition. A loop whose condition never becomes false is an infinite loop, and one that stops one iteration early is an off-by-one, which is why the boundary is worth stating in terms of the first invalid value rather than the last valid one. The most common bug is mutating the thing being iterated, which behaves differently in every language.",
+      "variations": [
+        "A loop whose condition never becomes false is an infinite loop, and one that stops one iteration early is an off-by-one, which is why the boundary is worth stating in terms of the first invalid value rather than the last valid one. A loop repeats work until a condition fails, and the interesting part is always the exit condition. The most common bug is mutating the thing being iterated, which behaves differently in every language.",
+        "The most common bug is mutating the thing being iterated, which behaves differently in every language. A loop repeats work until a condition fails, and the interesting part is always the exit condition. A loop whose condition never becomes false is an infinite loop, and one that stops one iteration early is an off-by-one, which is why the boundary is worth stating in terms of the first invalid value rather than the last valid one."
+      ],
+      "tl": "loop",
+      "bis": "loop"
+    },
+    {
+      "id": "pro-concepts-000007",
+      "topic": "programming-concepts",
+      "intent": "definition",
+      "concept": "recursion",
+      "keywords": [
+        "recursion",
+        "tree",
+        "function",
+        "solves",
+        "problem",
+        "calling",
+        "itself"
+      ],
+      "patterns": [
+        "what is recursion",
+        "recursion",
+        "explain recursion",
+        "definition of recursion",
+        "recursion meaning",
+        "what is a base case",
+        "what is a stack overflow",
+        "ano ang recursion",
+        "unsa ang recursion"
+      ],
+      "answer": "Recursion is a function that solves a problem by calling itself on a smaller version of the same problem, and every recursion needs a base case that stops it. The call stack is what makes it work, since each call pushes a frame popped when it returns, and the practical limit is how deep that stack can go. Recursion is clearest for problems that split, like trees and sorting, and usually worse than a loop for plain iteration.",
+      "variations": [
+        "The call stack is what makes it work, since each call pushes a frame popped when it returns, and the practical limit is how deep that stack can go. Recursion is a function that solves a problem by calling itself on a smaller version of the same problem, and every recursion needs a base case that stops it. Recursion is clearest for problems that split, like trees and sorting, and usually worse than a loop for plain iteration.",
+        "Recursion is clearest for problems that split, like trees and sorting, and usually worse than a loop for plain iteration. Recursion is a function that solves a problem by calling itself on a smaller version of the same problem, and every recursion needs a base case that stops it. The call stack is what makes it work, since each call pushes a frame popped when it returns, and the practical limit is how deep that stack can go."
+      ],
+      "tl": "recursion",
+      "bis": "recursion"
+    }
+  ],
+  "lang": "english",
+  "group": "programming",
+  "sub": "concepts",
+  "title": "Programming concepts",
+  "groupTitle": "Programming"
+}

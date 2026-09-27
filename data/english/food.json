@@ -1,0 +1,231 @@
+{
+  "topic": "english-food",
+  "entries": [
+    {
+      "id": "eng-food-000001",
+      "topic": "english-food",
+      "intent": "definition",
+      "concept": "rice",
+      "keywords": [
+        "rice",
+        "grain",
+        "staple",
+        "white",
+        "brown",
+        "fibre",
+        "bigas",
+        "cereal",
+        "food",
+        "roughly"
+      ],
+      "patterns": [
+        "what is rice",
+        "rice",
+        "explain rice",
+        "definition of rice",
+        "rice meaning",
+        "brown rice vs white rice",
+        "is rice a staple food",
+        "ano ang rice",
+        "unsa ang bigas"
+      ],
+      "answer": "Rice is a cereal grain and the staple food for roughly half the world's population, which makes it more significant than its plain appearance suggests. Most of the world eats milled white rice, while the brown and wholegrain versions keep the bran and germ and so carry more fibre and more nutrients at the price of texture. In the Philippines it appears at every meal, while across much of Europe it is a side rather than the centre of the plate.",
+      "variations": [
+        "Most of the world eats milled white rice, while the brown and wholegrain versions keep the bran and germ and so carry more fibre and more nutrients at the price of texture. Rice is a cereal grain and the staple food for roughly half the world's population, which makes it more significant than its plain appearance suggests. In the Philippines it appears at every meal, while across much of Europe it is a side rather than the centre of the plate.",
+        "In the Philippines it appears at every meal, while across much of Europe it is a side rather than the centre of the plate. Rice is a cereal grain and the staple food for roughly half the world's population, which makes it more significant than its plain appearance suggests. Most of the world eats milled white rice, while the brown and wholegrain versions keep the bran and germ and so carry more fibre and more nutrients at the price of texture."
+      ],
+      "tl": "rice",
+      "bis": "bigas"
+    },
+    {
+      "id": "eng-food-000002",
+      "topic": "english-food",
+      "intent": "definition",
+      "concept": "bread",
+      "keywords": [
+        "bread",
+        "flour",
+        "yeast",
+        "rise",
+        "knead",
+        "gluten",
+        "tinapay",
+        "water",
+        "salt",
+        "makes"
+      ],
+      "patterns": [
+        "what is bread",
+        "bread",
+        "explain bread",
+        "definition of bread",
+        "bread meaning",
+        "how is bread made",
+        "why do you knead dough",
+        "what makes dough rise",
+        "ano ang bread",
+        "unsa ang tinapay"
+      ],
+      "answer": "Bread is made from flour, water, yeast and salt, and the yeast makes it rise by producing carbon dioxide that gets trapped in the dough. That is why kneading matters, because the gluten network has to develop enough to hold those bubbles in place. Sandwich, baguette and soda bread differ mostly by the flour and the liquid used, and the word covers an enormous range of what counts as bread from one country to the next.",
+      "variations": [
+        "That is why kneading matters, because the gluten network has to develop enough to hold those bubbles in place. Bread is made from flour, water, yeast and salt, and the yeast makes it rise by producing carbon dioxide that gets trapped in the dough. Sandwich, baguette and soda bread differ mostly by the flour and the liquid used, and the word covers an enormous range of what counts as bread from one country to the next.",
+        "Sandwich, baguette and soda bread differ mostly by the flour and the liquid used, and the word covers an enormous range of what counts as bread from one country to the next. Bread is made from flour, water, yeast and salt, and the yeast makes it rise by producing carbon dioxide that gets trapped in the dough. That is why kneading matters, because the gluten network has to develop enough to hold those bubbles in place."
+      ],
+      "tl": "bread",
+      "bis": "tinapay"
+    },
+    {
+      "id": "eng-food-000003",
+      "topic": "english-food",
+      "intent": "definition",
+      "concept": "fruit",
+      "keywords": [
+        "fruit",
+        "ovary",
+        "seed",
+        "vegetable",
+        "vitamins",
+        "portion",
+        "prutas",
+        "flowering",
+        "plant",
+        "develops",
+        "carries"
+      ],
+      "patterns": [
+        "what is fruit",
+        "fruit",
+        "explain fruit",
+        "definition of fruit",
+        "fruit meaning",
+        "what is a fruit",
+        "is a tomato a fruit",
+        "are fruits healthy",
+        "ano ang fruit",
+        "unsa ang prutas"
+      ],
+      "answer": "A fruit is the part of a flowering plant that develops from the ovary and carries the seed, and botanically that includes tomatoes, peppers and cucumbers, which most kitchens class as vegetables. The everyday and the scientific definitions genuinely disagree here, and not by a small margin. Nutritionally, fruit is the main source of vitamins and fibre in most diets, and the advice to eat several portions a day follows from that rather than from the botanical definition.",
+      "variations": [
+        "The everyday and the scientific definitions genuinely disagree here, and not by a small margin. A fruit is the part of a flowering plant that develops from the ovary and carries the seed, and botanically that includes tomatoes, peppers and cucumbers, which most kitchens class as vegetables. Nutritionally, fruit is the main source of vitamins and fibre in most diets, and the advice to eat several portions a day follows from that rather than from the botanical definition.",
+        "Nutritionally, fruit is the main source of vitamins and fibre in most diets, and the advice to eat several portions a day follows from that rather than from the botanical definition. A fruit is the part of a flowering plant that develops from the ovary and carries the seed, and botanically that includes tomatoes, peppers and cucumbers, which most kitchens class as vegetables. The everyday and the scientific definitions genuinely disagree here, and not by a small margin."
+      ],
+      "tl": "fruit",
+      "bis": "prutas"
+    },
+    {
+      "id": "eng-food-000004",
+      "topic": "english-food",
+      "intent": "definition",
+      "concept": "vegetable",
+      "keywords": [
+        "vegetable",
+        "leaf",
+        "stem",
+        "root",
+        "savoury",
+        "edible",
+        "gulay",
+        "plant",
+        "neither",
+        "fruit",
+        "seed"
+      ],
+      "patterns": [
+        "what is vegetable",
+        "vegetable",
+        "explain vegetable",
+        "definition of vegetable",
+        "vegetable meaning",
+        "what is a vegetable",
+        "is a potato a vegetable",
+        "vegetables vs fruit",
+        "ano ang vegetable",
+        "unsa ang gulay"
+      ],
+      "answer": "A vegetable is the edible part of a plant that is neither a fruit nor a seed, so the word covers leaves, stems, roots and flower buds. The everyday category is looser than that, and the line with fruit tends to be drawn by taste rather than by botany in most kitchens. A practical consequence is that vegetables are usually savoury and cooked, while fruit is usually eaten raw or sweet, and that habit shapes the language more than the science does.",
+      "variations": [
+        "The everyday category is looser than that, and the line with fruit tends to be drawn by taste rather than by botany in most kitchens. A vegetable is the edible part of a plant that is neither a fruit nor a seed, so the word covers leaves, stems, roots and flower buds. A practical consequence is that vegetables are usually savoury and cooked, while fruit is usually eaten raw or sweet, and that habit shapes the language more than the science does.",
+        "A practical consequence is that vegetables are usually savoury and cooked, while fruit is usually eaten raw or sweet, and that habit shapes the language more than the science does. A vegetable is the edible part of a plant that is neither a fruit nor a seed, so the word covers leaves, stems, roots and flower buds. The everyday category is looser than that, and the line with fruit tends to be drawn by taste rather than by botany in most kitchens."
+      ],
+      "tl": "vegetable",
+      "bis": "gulay"
+    },
+    {
+      "id": "eng-food-000005",
+      "topic": "english-food",
+      "intent": "definition",
+      "concept": "staple",
+      "keywords": [
+        "staple",
+        "population",
+        "cheap",
+        "agriculture",
+        "climate",
+        "diet",
+        "food",
+        "eats",
+        "normally"
+      ],
+      "patterns": [
+        "what is staple",
+        "staple",
+        "explain staple",
+        "definition of staple",
+        "staple meaning",
+        "what is a staple food",
+        "what are the main staples",
+        "is a staple food healthy",
+        "ano ang staple",
+        "unsa ang staple"
+      ],
+      "answer": "A staple food is what a population eats most of, and it is normally cheap, filling and suited to local growing, which ties the word to agriculture as much as to diet. Rice, wheat, maize, cassava and millet each became a staple somewhere, and the shift between them tells a story of climate and trade. A staple is not automatically a healthy one, and white rice against brown shows how the same crop can be the stronger or the weaker choice.",
+      "variations": [
+        "Rice, wheat, maize, cassava and millet each became a staple somewhere, and the shift between them tells a story of climate and trade. A staple food is what a population eats most of, and it is normally cheap, filling and suited to local growing, which ties the word to agriculture as much as to diet. A staple is not automatically a healthy one, and white rice against brown shows how the same crop can be the stronger or the weaker choice.",
+        "A staple is not automatically a healthy one, and white rice against brown shows how the same crop can be the stronger or the weaker choice. A staple food is what a population eats most of, and it is normally cheap, filling and suited to local growing, which ties the word to agriculture as much as to diet. Rice, wheat, maize, cassava and millet each became a staple somewhere, and the shift between them tells a story of climate and trade."
+      ],
+      "tl": "staple",
+      "bis": "staple"
+    },
+    {
+      "id": "eng-food-000006",
+      "topic": "english-food",
+      "intent": "definition",
+      "concept": "cuisine",
+      "keywords": [
+        "cuisine",
+        "style",
+        "cooking",
+        "recipe",
+        "tradition",
+        "region",
+        "kusina",
+        "formal",
+        "word",
+        "naming"
+      ],
+      "patterns": [
+        "what is cuisine",
+        "cuisine",
+        "explain cuisine",
+        "definition of cuisine",
+        "cuisine meaning",
+        "difference between cuisine and food",
+        "is cuisine only for countries",
+        "ano ang cuisine",
+        "unsa ang kusina"
+      ],
+      "answer": "Cuisine is a formal word for a style of cooking, naming both the methods and the dishes rather than a single recipe. It is also used loosely of a place, so French cuisine and Filipino cuisine both work, and the term covers real regional variation inside one country. Strictly it implies a tradition with rules and a history behind it, which is why saying someone cooks well is a different claim from saying they cook French.",
+      "variations": [
+        "It is also used loosely of a place, so French cuisine and Filipino cuisine both work, and the term covers real regional variation inside one country. Cuisine is a formal word for a style of cooking, naming both the methods and the dishes rather than a single recipe. Strictly it implies a tradition with rules and a history behind it, which is why saying someone cooks well is a different claim from saying they cook French.",
+        "Strictly it implies a tradition with rules and a history behind it, which is why saying someone cooks well is a different claim from saying they cook French. Cuisine is a formal word for a style of cooking, naming both the methods and the dishes rather than a single recipe. It is also used loosely of a place, so French cuisine and Filipino cuisine both work, and the term covers real regional variation inside one country."
+      ],
+      "tl": "cuisine",
+      "bis": "kusina"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "food",
+  "title": "Food",
+  "groupTitle": "English"
+}

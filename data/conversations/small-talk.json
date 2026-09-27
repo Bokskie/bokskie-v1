@@ -1,0 +1,240 @@
+{
+  "topic": "conversations-small-talk",
+  "entries": [
+    {
+      "id": "con-small-talk-000001",
+      "topic": "conversations-small-talk",
+      "intent": "definition",
+      "concept": "compliment",
+      "keywords": [
+        "compliment",
+        "praise",
+        "specific",
+        "general",
+        "request",
+        "transaction",
+        "praises",
+        "something",
+        "person",
+        "works",
+        "best"
+      ],
+      "patterns": [
+        "what is compliment",
+        "compliment",
+        "explain compliment",
+        "definition of compliment",
+        "compliment meaning",
+        "how to give a compliment",
+        "why is you look well not a compliment",
+        "compliment and asking together",
+        "ano ang compliment",
+        "unsa ang Compliment"
+      ],
+      "answer": "A compliment praises something about a person, and it works best when it is specific, because a general one lands as an attempt to extract something. Saying you look well is heard as an opening, while saying the new haircut suits you is heard as a compliment. The rule that catches people is not to attach a request immediately, because the two together turn the praise into a transaction and the other person can hear it happen.",
+      "variations": [
+        "Saying you look well is heard as an opening, while saying the new haircut suits you is heard as a compliment. A compliment praises something about a person, and it works best when it is specific, because a general one lands as an attempt to extract something. The rule that catches people is not to attach a request immediately, because the two together turn the praise into a transaction and the other person can hear it happen.",
+        "The rule that catches people is not to attach a request immediately, because the two together turn the praise into a transaction and the other person can hear it happen. A compliment praises something about a person, and it works best when it is specific, because a general one lands as an attempt to extract something. Saying you look well is heard as an opening, while saying the new haircut suits you is heard as a compliment."
+      ],
+      "tl": "compliment",
+      "bis": "Compliment"
+    },
+    {
+      "id": "con-small-talk-000002",
+      "topic": "conversations-small-talk",
+      "intent": "definition",
+      "concept": "common ground",
+      "keywords": [
+        "common ground",
+        "agree",
+        "stranger",
+        "opinion",
+        "flattery",
+        "exchange",
+        "magkakatugma",
+        "common",
+        "ground",
+        "people",
+        "already",
+        "conversation"
+      ],
+      "patterns": [
+        "what is common ground",
+        "common ground",
+        "explain common ground",
+        "definition of common ground",
+        "common ground meaning",
+        "how to find common ground",
+        "is shared opinion good for small talk",
+        "ano ang common ground",
+        "unsa ang magkakatugma"
+      ],
+      "answer": "Common ground is what two people already agree on, and conversation runs on it, which is why finding some is the first job when talking to a stranger. It is usually found in shared circumstance rather than shared opinion, so being in the same queue helps more than discovering you both like the same band. Shared opinions work less well, because agreeing too quickly reads as flattery and disagreeing too quickly ends the exchange.",
+      "variations": [
+        "It is usually found in shared circumstance rather than shared opinion, so being in the same queue helps more than discovering you both like the same band. Common ground is what two people already agree on, and conversation runs on it, which is why finding some is the first job when talking to a stranger. Shared opinions work less well, because agreeing too quickly reads as flattery and disagreeing too quickly ends the exchange.",
+        "Shared opinions work less well, because agreeing too quickly reads as flattery and disagreeing too quickly ends the exchange. Common ground is what two people already agree on, and conversation runs on it, which is why finding some is the first job when talking to a stranger. It is usually found in shared circumstance rather than shared opinion, so being in the same queue helps more than discovering you both like the same band."
+      ],
+      "tl": "common ground",
+      "bis": "magkakatugma"
+    },
+    {
+      "id": "con-small-talk-000003",
+      "topic": "conversations-small-talk",
+      "intent": "definition",
+      "concept": "current events",
+      "keywords": [
+        "current events",
+        "now",
+        "politics",
+        "trap",
+        "safe",
+        "survey",
+        "balita",
+        "current",
+        "events",
+        "happening",
+        "reliable",
+        "small",
+        "talk"
+      ],
+      "patterns": [
+        "what is current events",
+        "current events",
+        "explain current events",
+        "definition of current events",
+        "current events meaning",
+        "is current events good small talk",
+        "why politics is bad small talk",
+        "ano ang current events",
+        "unsa ang balita"
+      ],
+      "answer": "Current events are the things happening now, and they are a reliable small-talk subject for about a week and then a trap. The turn comes when a story develops into something divisive, so a subject that opened a conversation can shut it a fortnight later. The safe version is something with a factual answer and no stake in it, which is why weather and sport outlast politics in nearly every culture ever surveyed.",
+      "variations": [
+        "The turn comes when a story develops into something divisive, so a subject that opened a conversation can shut it a fortnight later. Current events are the things happening now, and they are a reliable small-talk subject for about a week and then a trap. The safe version is something with a factual answer and no stake in it, which is why weather and sport outlast politics in nearly every culture ever surveyed.",
+        "The safe version is something with a factual answer and no stake in it, which is why weather and sport outlast politics in nearly every culture ever surveyed. Current events are the things happening now, and they are a reliable small-talk subject for about a week and then a trap. The turn comes when a story develops into something divisive, so a subject that opened a conversation can shut it a fortnight later."
+      ],
+      "tl": "current events",
+      "bis": "balita"
+    },
+    {
+      "id": "con-small-talk-000004",
+      "topic": "conversations-small-talk",
+      "intent": "definition",
+      "concept": "safe topic",
+      "keywords": [
+        "safe topic",
+        "challenge",
+        "surroundings",
+        "occasion",
+        "food",
+        "host",
+        "safe",
+        "topic",
+        "cannot",
+        "read",
+        "reliable"
+      ],
+      "patterns": [
+        "what is safe topic",
+        "safe topic",
+        "explain safe topic",
+        "definition of safe topic",
+        "safe topic meaning",
+        "what is a safe small talk topic",
+        "best safe topics",
+        "how to avoid a subject",
+        "ano ang safe topic",
+        "unsa ang ligtas na paksa"
+      ],
+      "answer": "A safe topic is one that cannot be read as a challenge, and the reliable examples are the surroundings, the occasion and the food. What makes them safe is not that they are interesting but that everybody already has an answer and nobody is being asked for a view. The unseemly part is how often people use them to dodge a question they were hoping to be asked, and a host who steers every talk to the weather is doing exactly that.",
+      "variations": [
+        "What makes them safe is not that they are interesting but that everybody already has an answer and nobody is being asked for a view. A safe topic is one that cannot be read as a challenge, and the reliable examples are the surroundings, the occasion and the food. The unseemly part is how often people use them to dodge a question they were hoping to be asked, and a host who steers every talk to the weather is doing exactly that.",
+        "The unseemly part is how often people use them to dodge a question they were hoping to be asked, and a host who steers every talk to the weather is doing exactly that. A safe topic is one that cannot be read as a challenge, and the reliable examples are the surroundings, the occasion and the food. What makes them safe is not that they are interesting but that everybody already has an answer and nobody is being asked for a view."
+      ],
+      "tl": "safe topic",
+      "bis": "ligtas na paksa"
+    },
+    {
+      "id": "con-small-talk-000005",
+      "topic": "conversations-small-talk",
+      "intent": "definition",
+      "concept": "open question",
+      "keywords": [
+        "open question",
+        "answer",
+        "extend",
+        "turn",
+        "closed",
+        "group",
+        "open",
+        "question",
+        "cannot",
+        "answered",
+        "word",
+        "entire"
+      ],
+      "patterns": [
+        "what is open question",
+        "open question",
+        "explain open question",
+        "definition of open question",
+        "open question meaning",
+        "what is an open question",
+        "open vs closed questions",
+        "how to ask open questions",
+        "ano ang open question",
+        "unsa ang bukas na tanong"
+      ],
+      "answer": "An open question cannot be answered in one word, and that is its entire function, since a closed question ends a turn while an open one extends it. What did you make of the film invites several sentences; did you like the film invites yes or no. The trade-off is that open questions need somebody willing to answer at length, so in a group they often go unanswered while the closed ones get answered instead.",
+      "variations": [
+        "What did you make of the film invites several sentences; did you like the film invites yes or no. An open question cannot be answered in one word, and that is its entire function, since a closed question ends a turn while an open one extends it. The trade-off is that open questions need somebody willing to answer at length, so in a group they often go unanswered while the closed ones get answered instead.",
+        "The trade-off is that open questions need somebody willing to answer at length, so in a group they often go unanswered while the closed ones get answered instead. An open question cannot be answered in one word, and that is its entire function, since a closed question ends a turn while an open one extends it. What did you make of the film invites several sentences; did you like the film invites yes or no."
+      ],
+      "tl": "open question",
+      "bis": "bukas na tanong"
+    },
+    {
+      "id": "con-small-talk-000006",
+      "topic": "conversations-small-talk",
+      "intent": "definition",
+      "concept": "chat",
+      "keywords": [
+        "chat",
+        "agenda",
+        "company",
+        "discussion",
+        "conclusion",
+        "friendly",
+        "usap",
+        "talk",
+        "without",
+        "word",
+        "implies"
+      ],
+      "patterns": [
+        "what is chat",
+        "chat",
+        "explain chat",
+        "definition of chat",
+        "chat meaning",
+        "what does chat mean",
+        "have a chat meaning",
+        "difference between chat and discussion",
+        "ano ang chat",
+        "unsa ang usap"
+      ],
+      "answer": "To chat is to talk without an agenda, and the word implies a low-stakes conversation where the point is the company rather than an outcome. It is also a countable noun in British usage, where have a chat means a friendly talk, and that survives in a few fixed phrases. The difference from a discussion is the absence of a conclusion, and the difference from small talk is that a chat can go on for as long as the people want.",
+      "variations": [
+        "It is also a countable noun in British usage, where have a chat means a friendly talk, and that survives in a few fixed phrases. To chat is to talk without an agenda, and the word implies a low-stakes conversation where the point is the company rather than an outcome. The difference from a discussion is the absence of a conclusion, and the difference from small talk is that a chat can go on for as long as the people want.",
+        "The difference from a discussion is the absence of a conclusion, and the difference from small talk is that a chat can go on for as long as the people want. To chat is to talk without an agenda, and the word implies a low-stakes conversation where the point is the company rather than an outcome. It is also a countable noun in British usage, where have a chat means a friendly talk, and that survives in a few fixed phrases."
+      ],
+      "tl": "chat",
+      "bis": "usap"
+    }
+  ],
+  "lang": "english",
+  "group": "conversations",
+  "sub": "small-talk",
+  "title": "Small talk",
+  "groupTitle": "Conversations"
+}

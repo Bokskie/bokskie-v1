@@ -1,0 +1,158 @@
+{
+  "topic": "technology-software",
+  "entries": [
+    {
+      "id": "tec-software-000001",
+      "topic": "technology-software",
+      "intent": "definition",
+      "concept": "crypto",
+      "keywords": [
+        "crypto",
+        "bitcoin",
+        "blockchain",
+        "ethereum",
+        "wallet",
+        "decentralized",
+        "cryptocurrency",
+        "digital",
+        "record",
+        "keeping",
+        "system",
+        "central"
+      ],
+      "patterns": [
+        "what is crypto",
+        "crypto",
+        "explain crypto",
+        "definition of crypto",
+        "crypto meaning",
+        "what is bitcoin",
+        "what is blockchain",
+        "what is cryptocurrency"
+      ],
+      "answer": "A cryptocurrency is a digital record-keeping system with no central authority. Bitcoin introduced the blockchain: a public list of transactions, each linked cryptographically to the one before, which makes altering history require redoing all the work since. It solves a real problem around trust without a middleman, and the trade-off is that it is slow, publicly visible, and irreversible once confirmed.",
+      "variations": [
+        "Bitcoin introduced the blockchain: a public list of transactions, each linked cryptographically to the one before, which makes altering history require redoing all the work since. A cryptocurrency is a digital record-keeping system with no central authority. It solves a real problem around trust without a middleman, and the trade-off is that it is slow, publicly visible, and irreversible once confirmed.",
+        "It solves a real problem around trust without a middleman, and the trade-off is that it is slow, publicly visible, and irreversible once confirmed. A cryptocurrency is a digital record-keeping system with no central authority. Bitcoin introduced the blockchain: a public list of transactions, each linked cryptographically to the one before, which makes altering history require redoing all the work since."
+      ]
+    },
+    {
+      "id": "tec-software-000002",
+      "topic": "technology-software",
+      "intent": "definition",
+      "concept": "offline",
+      "keywords": [
+        "offline",
+        "local",
+        "privacy",
+        "server",
+        "cloud",
+        "install",
+        "app",
+        "real",
+        "difference",
+        "software",
+        "runs",
+        "machine",
+        "calls"
+      ],
+      "patterns": [
+        "what is offline",
+        "offline",
+        "explain offline",
+        "definition of offline",
+        "offline meaning",
+        "can this work offline",
+        "do you need internet",
+        "what is a local model"
+      ],
+      "answer": "There is a real difference between software that runs on your machine and software that calls a company. The first keeps your data where it is and keeps working without a connection; the second is often better at its job and knows who you are. Local tools such as a browser app or Ollama never send anything anywhere, at the cost of needing capable hardware and no live data.",
+      "variations": [
+        "The first keeps your data where it is and keeps working without a connection; the second is often better at its job and knows who you are. There is a real difference between software that runs on your machine and software that calls a company. Local tools such as a browser app or Ollama never send anything anywhere, at the cost of needing capable hardware and no live data.",
+        "Local tools such as a browser app or Ollama never send anything anywhere, at the cost of needing capable hardware and no live data. There is a real difference between software that runs on your machine and software that calls a company. The first keeps your data where it is and keeps working without a connection; the second is often better at its job and knows who you are."
+      ]
+    },
+    {
+      "id": "tec-software-000003",
+      "topic": "technology-software",
+      "intent": "definition",
+      "concept": "open source",
+      "keywords": [
+        "open source",
+        "licence",
+        "mit",
+        "apache",
+        "gpl",
+        "repository",
+        "open",
+        "source",
+        "means",
+        "code",
+        "available",
+        "read"
+      ],
+      "patterns": [
+        "what is open source",
+        "open source",
+        "explain open source",
+        "definition of open source",
+        "open source meaning",
+        "what does open source mean",
+        "difference between mit and gpl",
+        "is public github open source",
+        "ano ang open source",
+        "unsa ang open source"
+      ],
+      "answer": "Open source means the source code is available to read, modify and redistribute, and the licence is what makes it a right rather than a gift. MIT, Apache and GPL are the common licences, and the difference that matters is whether a derivative must also be open. GPL requires it and MIT does not, which is why the same codebase can be commercial under one and not the other. Public on GitHub is not the same as open source, because a public repository can carry a proprietary licence.",
+      "variations": [
+        "MIT, Apache and GPL are the common licences, and the difference that matters is whether a derivative must also be open. Open source means the source code is available to read, modify and redistribute, and the licence is what makes it a right rather than a gift. GPL requires it and MIT does not, which is why the same codebase can be commercial under one and not the other. Public on GitHub is not the same as open source, because a public repository can carry a proprietary licence.",
+        "GPL requires it and MIT does not, which is why the same codebase can be commercial under one and not the other. Open source means the source code is available to read, modify and redistribute, and the licence is what makes it a right rather than a gift. MIT, Apache and GPL are the common licences, and the difference that matters is whether a derivative must also be open. Public on GitHub is not the same as open source, because a public repository can carry a proprietary licence."
+      ],
+      "tl": "open source",
+      "bis": "open source"
+    },
+    {
+      "id": "tec-software-000004",
+      "topic": "technology-software",
+      "intent": "definition",
+      "concept": "blockchain",
+      "keywords": [
+        "blockchain",
+        "ledger",
+        "tamper",
+        "hash",
+        "consensus",
+        "distributed",
+        "list",
+        "records",
+        "linked",
+        "changing",
+        "earlier"
+      ],
+      "patterns": [
+        "what is blockchain",
+        "blockchain",
+        "explain blockchain",
+        "definition of blockchain",
+        "blockchain meaning",
+        "what is a blockchain",
+        "what problem does blockchain solve",
+        "is blockchain secure",
+        "ano ang blockchain",
+        "unsa ang blockchain"
+      ],
+      "answer": "A blockchain is a list of records linked so that changing an earlier one means recomputing every link after it, which is what makes tampering expensive rather than impossible. The guarantee is about integrity of the record, not about the truth of what was written, so a majority agreement on a false entry is still a majority agreement. The cost of that design is that every node keeps a copy and every write is visible, which is why it scales badly compared with simply having one database.",
+      "variations": [
+        "The guarantee is about integrity of the record, not about the truth of what was written, so a majority agreement on a false entry is still a majority agreement. A blockchain is a list of records linked so that changing an earlier one means recomputing every link after it, which is what makes tampering expensive rather than impossible. The cost of that design is that every node keeps a copy and every write is visible, which is why it scales badly compared with simply having one database.",
+        "The cost of that design is that every node keeps a copy and every write is visible, which is why it scales badly compared with simply having one database. A blockchain is a list of records linked so that changing an earlier one means recomputing every link after it, which is what makes tampering expensive rather than impossible. The guarantee is about integrity of the record, not about the truth of what was written, so a majority agreement on a false entry is still a majority agreement."
+      ],
+      "tl": "blockchain",
+      "bis": "blockchain"
+    }
+  ],
+  "lang": "english",
+  "group": "technology",
+  "sub": "software",
+  "title": "Software",
+  "groupTitle": "Technology"
+}

@@ -1,0 +1,159 @@
+{
+  "topic": "courses-criminology",
+  "entries": [
+    {
+      "id": "cou-criminology-000001",
+      "topic": "courses-criminology",
+      "intent": "definition",
+      "concept": "criminology",
+      "keywords": [
+        "criminology",
+        "crime",
+        "offender",
+        "police",
+        "data",
+        "report",
+        "kriminolohiya",
+        "study",
+        "offenders",
+        "systems",
+        "respond"
+      ],
+      "patterns": [
+        "what is criminology",
+        "criminology",
+        "explain criminology",
+        "definition of criminology",
+        "criminology meaning",
+        "is criminology easy",
+        "what does a criminologist do",
+        "ano ang criminology",
+        "unsa ang kriminolohiya"
+      ],
+      "answer": "Criminology is the study of crime, offenders and the systems that respond to them, and the discipline is defined by its causes as much as by its effects. Its largest methodological problem is that the data comes from police records, which count what was reported and detected rather than what happened, so most crimes are measured by a system built to record a different number. The field has consequently shifted towards self-report surveys and victim studies, which capture more but have their own problems.",
+      "variations": [
+        "Its largest methodological problem is that the data comes from police records, which count what was reported and detected rather than what happened, so most crimes are measured by a system built to record a different number. Criminology is the study of crime, offenders and the systems that respond to them, and the discipline is defined by its causes as much as by its effects. The field has consequently shifted towards self-report surveys and victim studies, which capture more but have their own problems.",
+        "The field has consequently shifted towards self-report surveys and victim studies, which capture more but have their own problems. Criminology is the study of crime, offenders and the systems that respond to them, and the discipline is defined by its causes as much as by its effects. Its largest methodological problem is that the data comes from police records, which count what was reported and detected rather than what happened, so most crimes are measured by a system built to record a different number."
+      ],
+      "tl": "criminology",
+      "bis": "kriminolohiya"
+    },
+    {
+      "id": "cou-criminology-000002",
+      "topic": "courses-criminology",
+      "intent": "definition",
+      "concept": "rehabilitation",
+      "keywords": [
+        "rehabilitation",
+        "reoffend",
+        "punishment",
+        "deterrence",
+        "reform",
+        "prison",
+        "rehabilitasyon",
+        "goal",
+        "reducing",
+        "person's",
+        "likelihood",
+        "reoffending"
+      ],
+      "patterns": [
+        "what is rehabilitation",
+        "rehabilitation",
+        "explain rehabilitation",
+        "definition of rehabilitation",
+        "rehabilitation meaning",
+        "does prison reduce crime",
+        "what is the point of prison",
+        "ano ang rehabilitation",
+        "unsa ang rehabilitasyon"
+      ],
+      "answer": "Rehabilitation is the goal of reducing a person's likelihood of reoffending, and it is the least popular of the three purposes of punishment, which are retribution, deterrence and reform. The evidence broadly supports it for reducing reoffending, and the mechanism is thought to be a changed life rather than a changed attitude, since skills and housing move the number more reliably than instruction. What works is rarely dramatic: stable accommodation, work, and treating addiction as a health problem rather than a character one.",
+      "variations": [
+        "The evidence broadly supports it for reducing reoffending, and the mechanism is thought to be a changed life rather than a changed attitude, since skills and housing move the number more reliably than instruction. Rehabilitation is the goal of reducing a person's likelihood of reoffending, and it is the least popular of the three purposes of punishment, which are retribution, deterrence and reform. What works is rarely dramatic: stable accommodation, work, and treating addiction as a health problem rather than a character one.",
+        "What works is rarely dramatic: stable accommodation, work, and treating addiction as a health problem rather than a character one. Rehabilitation is the goal of reducing a person's likelihood of reoffending, and it is the least popular of the three purposes of punishment, which are retribution, deterrence and reform. The evidence broadly supports it for reducing reoffending, and the mechanism is thought to be a changed life rather than a changed attitude, since skills and housing move the number more reliably than instruction."
+      ],
+      "tl": "rehabilitation",
+      "bis": "rehabilitasyon"
+    },
+    {
+      "id": "cou-criminology-000003",
+      "topic": "courses-criminology",
+      "intent": "definition",
+      "concept": "deterrence",
+      "keywords": [
+        "deterrence",
+        "prevent",
+        "crime",
+        "penalty",
+        "severe",
+        "prison",
+        "deterrente",
+        "attempt",
+        "consequences"
+      ],
+      "patterns": [
+        "what is deterrence",
+        "deterrence",
+        "explain deterrence",
+        "definition of deterrence",
+        "deterrence meaning",
+        "does harsher punishment reduce crime",
+        "is deterrence effective",
+        "ano ang deterrence",
+        "unsa ang deterrente"
+      ],
+      "answer": "Deterrence is the attempt to prevent crime by making the consequences known and severe enough to outweigh the gain, and the evidence for it is weak. People rarely calculate the expected penalty before deciding, and the ones most likely to commit an offence are the least likely to be deterred by it. General deterrence, aimed at everyone, has almost no measurable effect; specific deterrence, aimed at somebody who has already offended, has more, mainly because prison is genuinely unpleasant.",
+      "variations": [
+        "People rarely calculate the expected penalty before deciding, and the ones most likely to commit an offence are the least likely to be deterred by it. Deterrence is the attempt to prevent crime by making the consequences known and severe enough to outweigh the gain, and the evidence for it is weak. General deterrence, aimed at everyone, has almost no measurable effect; specific deterrence, aimed at somebody who has already offended, has more, mainly because prison is genuinely unpleasant.",
+        "General deterrence, aimed at everyone, has almost no measurable effect; specific deterrence, aimed at somebody who has already offended, has more, mainly because prison is genuinely unpleasant. Deterrence is the attempt to prevent crime by making the consequences known and severe enough to outweigh the gain, and the evidence for it is weak. People rarely calculate the expected penalty before deciding, and the ones most likely to commit an offence are the least likely to be deterred by it."
+      ],
+      "tl": "deterrence",
+      "bis": "deterrente"
+    },
+    {
+      "id": "cou-criminology-000004",
+      "topic": "courses-criminology",
+      "intent": "definition",
+      "concept": "why people commit crime",
+      "keywords": [
+        "why people commit crime",
+        "cause",
+        "poverty",
+        "record",
+        "opportunity",
+        "age",
+        "people",
+        "commit",
+        "crime",
+        "small",
+        "reasons",
+        "researchers"
+      ],
+      "patterns": [
+        "what is why people commit crime",
+        "why people commit crime",
+        "explain why people commit crime",
+        "definition of why people commit crime",
+        "why people commit crime meaning",
+        "why do people commit crime",
+        "is it because of poverty",
+        "what causes crime",
+        "ano ang why people commit crime",
+        "unsa ang bakit nag-aangal"
+      ],
+      "answer": "People commit crime for a small set of reasons that researchers keep failing to find a single one of, and the strongest predictors are practical rather than moral. Poverty alone explains little, since most people in poverty do not offend. The better-supported factors are a criminal record already, being male and young, substance use, and the local opportunity, which is why a street with no supervision and plenty of targets sees more of it. Almost all of these are chances rather than choices, which is the uncomfortable part of the finding.",
+      "variations": [
+        "Poverty alone explains little, since most people in poverty do not offend. People commit crime for a small set of reasons that researchers keep failing to find a single one of, and the strongest predictors are practical rather than moral. The better-supported factors are a criminal record already, being male and young, substance use, and the local opportunity, which is why a street with no supervision and plenty of targets sees more of it. Almost all of these are chances rather than choices, which is the uncomfortable part of the finding.",
+        "The better-supported factors are a criminal record already, being male and young, substance use, and the local opportunity, which is why a street with no supervision and plenty of targets sees more of it. People commit crime for a small set of reasons that researchers keep failing to find a single one of, and the strongest predictors are practical rather than moral. Poverty alone explains little, since most people in poverty do not offend. Almost all of these are chances rather than choices, which is the uncomfortable part of the finding."
+      ],
+      "tl": "why people commit crime",
+      "bis": "bakit nag-aangal"
+    }
+  ],
+  "lang": "english",
+  "group": "courses",
+  "sub": "criminology",
+  "title": "Criminology",
+  "groupTitle": "Courses"
+}

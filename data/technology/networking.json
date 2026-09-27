@@ -1,0 +1,301 @@
+{
+  "topic": "technology-networking",
+  "entries": [
+    {
+      "id": "tec-networking-000001",
+      "topic": "technology-networking",
+      "intent": "definition",
+      "concept": "ip address",
+      "keywords": [
+        "ip address",
+        "ipv4",
+        "ipv6",
+        "address",
+        "subnet",
+        "private",
+        "public",
+        "identifies",
+        "device",
+        "network",
+        "uses"
+      ],
+      "patterns": [
+        "what is ip address",
+        "ip address",
+        "explain ip address",
+        "definition of ip address",
+        "ip address meaning",
+        "what is an ip address",
+        "difference between ipv4 and ipv6",
+        "what is a private ip",
+        "ano ang ip address",
+        "unsa ang ip address"
+      ],
+      "answer": "An IP address identifies a device on a network, and IPv4 uses four numbers from 0 to 255 while IPv6 uses a far larger space. The important part is the split into network and host portions, because that split is what a router uses to decide whether to forward a packet or answer it itself. Private ranges are reserved for internal networks and are not routable publicly, which is why a home router always has one.",
+      "variations": [
+        "The important part is the split into network and host portions, because that split is what a router uses to decide whether to forward a packet or answer it itself. An IP address identifies a device on a network, and IPv4 uses four numbers from 0 to 255 while IPv6 uses a far larger space. Private ranges are reserved for internal networks and are not routable publicly, which is why a home router always has one.",
+        "Private ranges are reserved for internal networks and are not routable publicly, which is why a home router always has one. An IP address identifies a device on a network, and IPv4 uses four numbers from 0 to 255 while IPv6 uses a far larger space. The important part is the split into network and host portions, because that split is what a router uses to decide whether to forward a packet or answer it itself."
+      ],
+      "tl": "ip address",
+      "bis": "ip address"
+    },
+    {
+      "id": "tec-networking-000002",
+      "topic": "technology-networking",
+      "intent": "definition",
+      "concept": "tcp",
+      "keywords": [
+        "tcp",
+        "handshake",
+        "reliable",
+        "ordered",
+        "retransmit",
+        "transport",
+        "protocol",
+        "delivers",
+        "every",
+        "byte",
+        "order"
+      ],
+      "patterns": [
+        "what is tcp",
+        "tcp",
+        "explain tcp",
+        "definition of tcp",
+        "tcp meaning",
+        "why is tcp slower than udp",
+        "what is the three way handshake",
+        "ano ang tcp",
+        "unsa ang tcp"
+      ],
+      "answer": "TCP is a transport protocol that delivers every byte in order and retransmits anything lost, which is what makes it reliable. It establishes a connection with a handshake before any data flows, and that setup cost is why it is slower than UDP where a late packet is worse than a lost one. HTTP, SSH and most database traffic run over it.",
+      "variations": [
+        "It establishes a connection with a handshake before any data flows, and that setup cost is why it is slower than UDP where a late packet is worse than a lost one. TCP is a transport protocol that delivers every byte in order and retransmits anything lost, which is what makes it reliable. HTTP, SSH and most database traffic run over it.",
+        "HTTP, SSH and most database traffic run over it. TCP is a transport protocol that delivers every byte in order and retransmits anything lost, which is what makes it reliable. It establishes a connection with a handshake before any data flows, and that setup cost is why it is slower than UDP where a late packet is worse than a lost one."
+      ],
+      "tl": "tcp",
+      "bis": "tcp"
+    },
+    {
+      "id": "tec-networking-000003",
+      "topic": "technology-networking",
+      "intent": "definition",
+      "concept": "udp",
+      "keywords": [
+        "udp",
+        "fast",
+        "connectionless",
+        "dns",
+        "live",
+        "sends",
+        "data",
+        "without",
+        "connecting",
+        "ordering",
+        "retransmitting"
+      ],
+      "patterns": [
+        "what is udp",
+        "udp",
+        "explain udp",
+        "definition of udp",
+        "udp meaning",
+        "when to use udp instead of tcp",
+        "is udp reliable",
+        "ano ang udp",
+        "unsa ang udp"
+      ],
+      "answer": "UDP sends data without connecting, ordering or retransmitting, which makes it fast and cheap but not reliable. That trade is correct for live things where a late packet is worthless, such as a video call, a game or a DNS lookup. A packet lost in a video call is invisible, while the same packet lost in a file transfer means a corrupt file.",
+      "variations": [
+        "That trade is correct for live things where a late packet is worthless, such as a video call, a game or a DNS lookup. UDP sends data without connecting, ordering or retransmitting, which makes it fast and cheap but not reliable. A packet lost in a video call is invisible, while the same packet lost in a file transfer means a corrupt file.",
+        "A packet lost in a video call is invisible, while the same packet lost in a file transfer means a corrupt file. UDP sends data without connecting, ordering or retransmitting, which makes it fast and cheap but not reliable. That trade is correct for live things where a late packet is worthless, such as a video call, a game or a DNS lookup."
+      ],
+      "tl": "udp",
+      "bis": "udp"
+    },
+    {
+      "id": "tec-networking-000004",
+      "topic": "technology-networking",
+      "intent": "definition",
+      "concept": "dns",
+      "keywords": [
+        "dns",
+        "domain",
+        "resolve",
+        "nameserver",
+        "mx",
+        "cname",
+        "translates",
+        "human",
+        "name",
+        "address",
+        "machine"
+      ],
+      "patterns": [
+        "what is dns",
+        "dns",
+        "explain dns",
+        "definition of dns",
+        "dns meaning",
+        "how does dns work",
+        "what is an mx record",
+        "ano ang dns",
+        "unsa ang dns"
+      ],
+      "answer": "DNS translates a human name like a domain into an IP address a machine can route to, which is why it is called the phonebook of the internet. The lookup is hierarchical, so a resolver asks a root, which points at a top-level domain server, which points at the authoritative one. Other record types matter too, as MX points at mail servers and CNAME aliases one name to another.",
+      "variations": [
+        "The lookup is hierarchical, so a resolver asks a root, which points at a top-level domain server, which points at the authoritative one. DNS translates a human name like a domain into an IP address a machine can route to, which is why it is called the phonebook of the internet. Other record types matter too, as MX points at mail servers and CNAME aliases one name to another.",
+        "Other record types matter too, as MX points at mail servers and CNAME aliases one name to another. DNS translates a human name like a domain into an IP address a machine can route to, which is why it is called the phonebook of the internet. The lookup is hierarchical, so a resolver asks a root, which points at a top-level domain server, which points at the authoritative one."
+      ],
+      "tl": "dns",
+      "bis": "dns"
+    },
+    {
+      "id": "tec-networking-000005",
+      "topic": "technology-networking",
+      "intent": "definition",
+      "concept": "router",
+      "keywords": [
+        "router",
+        "nat",
+        "gateway",
+        "wireless",
+        "forwarding",
+        "forwards",
+        "packets",
+        "different",
+        "networks",
+        "home"
+      ],
+      "patterns": [
+        "what is router",
+        "router",
+        "explain router",
+        "definition of router",
+        "router meaning",
+        "what is a router",
+        "what does nat do",
+        "what is a home router",
+        "ano ang router",
+        "unsa ang router"
+      ],
+      "answer": "A router forwards packets between different networks, and a home router also assigns addresses, runs the wireless access point, bridges to the wired ports, and usually runs NAT. NAT is the part people forget, and it is why a home network can share one public address among many devices by rewriting them all to look like the same machine.",
+      "variations": [
+        "NAT is the part people forget, and it is why a home network can share one public address among many devices by rewriting them all to look like the same machine. A router forwards packets between different networks, and a home router also assigns addresses, runs the wireless access point, bridges to the wired ports, and usually runs NAT."
+      ],
+      "tl": "router",
+      "bis": "router"
+    },
+    {
+      "id": "tec-networking-000006",
+      "topic": "technology-networking",
+      "intent": "definition",
+      "concept": "firewall",
+      "keywords": [
+        "firewall",
+        "filter",
+        "rule",
+        "stateful",
+        "block",
+        "enforces",
+        "connections",
+        "allowed",
+        "filtering"
+      ],
+      "patterns": [
+        "what is firewall",
+        "firewall",
+        "explain firewall",
+        "definition of firewall",
+        "firewall meaning",
+        "what is a firewall",
+        "what is a stateful firewall",
+        "can a firewall stop all attacks",
+        "ano ang firewall",
+        "unsa ang firewall"
+      ],
+      "answer": "A firewall enforces a rule set about which connections are allowed in or out, filtering by address, port and sometimes by inspecting the traffic. Stateful firewalls remember which connections were opened from inside and let the returning traffic through, which is why an unsolicited incoming connection is usually dropped. It is a perimeter control rather than a guarantee, because traffic that is allowed can still carry something harmful.",
+      "variations": [
+        "Stateful firewalls remember which connections were opened from inside and let the returning traffic through, which is why an unsolicited incoming connection is usually dropped. A firewall enforces a rule set about which connections are allowed in or out, filtering by address, port and sometimes by inspecting the traffic. It is a perimeter control rather than a guarantee, because traffic that is allowed can still carry something harmful.",
+        "It is a perimeter control rather than a guarantee, because traffic that is allowed can still carry something harmful. A firewall enforces a rule set about which connections are allowed in or out, filtering by address, port and sometimes by inspecting the traffic. Stateful firewalls remember which connections were opened from inside and let the returning traffic through, which is why an unsolicited incoming connection is usually dropped."
+      ],
+      "tl": "firewall",
+      "bis": "firewall"
+    },
+    {
+      "id": "tec-networking-000007",
+      "topic": "technology-networking",
+      "intent": "definition",
+      "concept": "latency",
+      "keywords": [
+        "latency",
+        "ping",
+        "delay",
+        "bandwidth",
+        "before",
+        "data",
+        "begins",
+        "arrive"
+      ],
+      "patterns": [
+        "what is latency",
+        "latency",
+        "explain latency",
+        "definition of latency",
+        "latency meaning",
+        "difference between latency and bandwidth",
+        "what is a good ping",
+        "ano ang latency",
+        "unsa ang latency"
+      ],
+      "answer": "Latency is the delay before data begins to arrive, and it is not the same as bandwidth, which is how much can arrive at once. A fast connection with high latency feels worse for interactive work than a slow one with low latency, because every round trip is felt. Physical distance sets a floor, since light cannot beat its own speed in glass.",
+      "variations": [
+        "A fast connection with high latency feels worse for interactive work than a slow one with low latency, because every round trip is felt. Latency is the delay before data begins to arrive, and it is not the same as bandwidth, which is how much can arrive at once. Physical distance sets a floor, since light cannot beat its own speed in glass.",
+        "Physical distance sets a floor, since light cannot beat its own speed in glass. Latency is the delay before data begins to arrive, and it is not the same as bandwidth, which is how much can arrive at once. A fast connection with high latency feels worse for interactive work than a slow one with low latency, because every round trip is felt."
+      ],
+      "tl": "latency",
+      "bis": "latency"
+    },
+    {
+      "id": "tec-networking-000008",
+      "topic": "technology-networking",
+      "intent": "definition",
+      "concept": "vpn",
+      "keywords": [
+        "vpn",
+        "tunnel",
+        "encrypted",
+        "privacy",
+        "remote",
+        "builds",
+        "points",
+        "traffic",
+        "appears"
+      ],
+      "patterns": [
+        "what is vpn",
+        "vpn",
+        "explain vpn",
+        "definition of vpn",
+        "vpn meaning",
+        "what is a vpn",
+        "does a vpn make you anonymous",
+        "what is a vpn tunnel",
+        "ano ang vpn",
+        "unsa ang vpn"
+      ],
+      "answer": "A VPN builds an encrypted tunnel between two points so that traffic appears to come from somewhere else, which hides it from the local network but not from the endpoints. A full VPN shifts trust from your internet provider to the VPN operator, which is a real trade rather than a pure gain. It does not make you anonymous, because the service you connect to can still see you.",
+      "variations": [
+        "A full VPN shifts trust from your internet provider to the VPN operator, which is a real trade rather than a pure gain. A VPN builds an encrypted tunnel between two points so that traffic appears to come from somewhere else, which hides it from the local network but not from the endpoints. It does not make you anonymous, because the service you connect to can still see you.",
+        "It does not make you anonymous, because the service you connect to can still see you. A VPN builds an encrypted tunnel between two points so that traffic appears to come from somewhere else, which hides it from the local network but not from the endpoints. A full VPN shifts trust from your internet provider to the VPN operator, which is a real trade rather than a pure gain."
+      ],
+      "tl": "vpn",
+      "bis": "vpn"
+    }
+  ],
+  "lang": "english",
+  "group": "technology",
+  "sub": "networking",
+  "title": "Networking",
+  "groupTitle": "Technology"
+}

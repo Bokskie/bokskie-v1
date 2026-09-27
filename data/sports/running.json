@@ -1,0 +1,195 @@
+{
+  "topic": "sports-running",
+  "entries": [
+    {
+      "id": "spo-running-000001",
+      "topic": "sports-running",
+      "intent": "definition",
+      "concept": "marathon",
+      "keywords": [
+        "marathon",
+        "42",
+        "standardise",
+        "1904",
+        "olympic",
+        "course",
+        "maraton",
+        "kilometres",
+        "distance",
+        "arbitrary",
+        "standardised"
+      ],
+      "patterns": [
+        "what is marathon",
+        "marathon",
+        "explain marathon",
+        "definition of marathon",
+        "marathon meaning",
+        "how long is a marathon",
+        "why is a marathon 42.195 km",
+        "is a marathon run on a track",
+        "ano ang marathon",
+        "unsa ang maraton"
+      ],
+      "answer": "A marathon is 42.195 kilometres, and the distance is not arbitrary: it was standardised in 1904 for the Olympic Games, and the extra 195 metres were added so the course would finish exactly at the stadium. Most races now use the rounded 42 kilometres while records still count the full figure. The event is run on the road rather than the track, which is why it is one of the few races where records are possible, since no two city courses are the same.",
+      "variations": [
+        "Most races now use the rounded 42 kilometres while records still count the full figure. 195 kilometres, and the distance is not arbitrary: it was standardised in 1904 for the Olympic Games, and the extra 195 metres were added so the course would finish exactly at the stadium. The event is run on the road rather than the track, which is why it is one of the few races where records are possible, since no two city courses are the same.",
+        "The event is run on the road rather than the track, which is why it is one of the few races where records are possible, since no two city courses are the same. 195 kilometres, and the distance is not arbitrary: it was standardised in 1904 for the Olympic Games, and the extra 195 metres were added so the course would finish exactly at the stadium. Most races now use the rounded 42 kilometres while records still count the full figure."
+      ],
+      "tl": "marathon",
+      "bis": "maraton"
+    },
+    {
+      "id": "spo-running-000002",
+      "topic": "sports-running",
+      "intent": "definition",
+      "concept": "pace",
+      "keywords": [
+        "pace",
+        "kilometre",
+        "speed",
+        "manage",
+        "discipline",
+        "fast",
+        "time",
+        "taken",
+        "number",
+        "runners"
+      ],
+      "patterns": [
+        "what is pace",
+        "pace",
+        "explain pace",
+        "definition of pace",
+        "pace meaning",
+        "what is pace in running",
+        "how is pace different from speed",
+        "what is negative split",
+        "ano ang pace",
+        "unsa ang pace"
+      ],
+      "answer": "Pace is the time taken per kilometre, and it is the number runners actually manage themselves by rather than speed, which is easier to hold steady. Saying the pace is five minutes a kilometre is a different measurement from saying the speed is twelve kilometres an hour, and the two are inverses of each other. Race strategy is largely about pace discipline, because going out fast enough to be unable to hold is the single most common way to lose.",
+      "variations": [
+        "Saying the pace is five minutes a kilometre is a different measurement from saying the speed is twelve kilometres an hour, and the two are inverses of each other. Pace is the time taken per kilometre, and it is the number runners actually manage themselves by rather than speed, which is easier to hold steady. Race strategy is largely about pace discipline, because going out fast enough to be unable to hold is the single most common way to lose.",
+        "Race strategy is largely about pace discipline, because going out fast enough to be unable to hold is the single most common way to lose. Pace is the time taken per kilometre, and it is the number runners actually manage themselves by rather than speed, which is easier to hold steady. Saying the pace is five minutes a kilometre is a different measurement from saying the speed is twelve kilometres an hour, and the two are inverses of each other."
+      ],
+      "tl": "pace",
+      "bis": "pace"
+    },
+    {
+      "id": "spo-running-000003",
+      "topic": "sports-running",
+      "intent": "definition",
+      "concept": "taper",
+      "keywords": [
+        "taper",
+        "training",
+        "reduce",
+        "race",
+        "fatigue",
+        "fitness",
+        "reduction",
+        "days",
+        "before"
+      ],
+      "patterns": [
+        "what is taper",
+        "taper",
+        "explain taper",
+        "definition of taper",
+        "taper meaning",
+        "what is a taper",
+        "should you train the week before a race",
+        "why does tapering feel wrong",
+        "ano ang taper",
+        "unsa ang taper"
+      ],
+      "answer": "A taper is the reduction of training in the days before a race, and it feels wrong because the fitness is still there while the work stops. The physiology is the opposite of what people expect: accumulated fitness survives a week or two of reduced volume, while accumulated fatigue does not. Athletes who taper consistently report feeling slower in training and faster on the day, and a genuine three-week taper typically produces the best result they race all season.",
+      "variations": [
+        "The physiology is the opposite of what people expect: accumulated fitness survives a week or two of reduced volume, while accumulated fatigue does not. A taper is the reduction of training in the days before a race, and it feels wrong because the fitness is still there while the work stops. Athletes who taper consistently report feeling slower in training and faster on the day, and a genuine three-week taper typically produces the best result they race all season.",
+        "Athletes who taper consistently report feeling slower in training and faster on the day, and a genuine three-week taper typically produces the best result they race all season. A taper is the reduction of training in the days before a race, and it feels wrong because the fitness is still there while the work stops. The physiology is the opposite of what people expect: accumulated fitness survives a week or two of reduced volume, while accumulated fatigue does not."
+      ],
+      "tl": "taper",
+      "bis": "taper"
+    },
+    {
+      "id": "spo-running-000004",
+      "topic": "sports-running",
+      "intent": "definition",
+      "concept": "jog",
+      "keywords": [
+        "jog",
+        "slow",
+        "conversation",
+        "pace",
+        "fitness",
+        "run",
+        "taken",
+        "slowly",
+        "enough",
+        "hold",
+        "threshold"
+      ],
+      "patterns": [
+        "what is jog",
+        "jog",
+        "explain jog",
+        "definition of jog",
+        "jog meaning",
+        "what is a jog",
+        "difference between jogging and running",
+        "is jogging good for you",
+        "ano ang jog",
+        "unsa ang jog"
+      ],
+      "answer": "A jog is a run taken slowly enough that you could hold a conversation, and the threshold varies with fitness, so the same pace is a jog for one person and a run for another. English has no single agreed boundary between jogging and running, unlike some languages with a fixed term for a slow gait. The practical boundary that matters is conversational pace, and it is the recommended intensity for most of an adult week.",
+      "variations": [
+        "English has no single agreed boundary between jogging and running, unlike some languages with a fixed term for a slow gait. A jog is a run taken slowly enough that you could hold a conversation, and the threshold varies with fitness, so the same pace is a jog for one person and a run for another. The practical boundary that matters is conversational pace, and it is the recommended intensity for most of an adult week.",
+        "The practical boundary that matters is conversational pace, and it is the recommended intensity for most of an adult week. A jog is a run taken slowly enough that you could hold a conversation, and the threshold varies with fitness, so the same pace is a jog for one person and a run for another. English has no single agreed boundary between jogging and running, unlike some languages with a fixed term for a slow gait."
+      ],
+      "tl": "jog",
+      "bis": "jog"
+    },
+    {
+      "id": "spo-running-000005",
+      "topic": "sports-running",
+      "intent": "definition",
+      "concept": "sprint",
+      "keywords": [
+        "sprint",
+        "burst",
+        "speed",
+        "energy",
+        "oxygen",
+        "effect",
+        "short",
+        "near",
+        "maximum"
+      ],
+      "patterns": [
+        "what is sprint",
+        "sprint",
+        "explain sprint",
+        "definition of sprint",
+        "sprint meaning",
+        "what is a sprint",
+        "how long is a sprint",
+        "why is sprinting exhausting",
+        "ano ang sprint",
+        "unsa ang sprint"
+      ],
+      "answer": "A sprint is a short burst at or near maximum speed, and it lasts only as long as the body's energy supply does, which in a trained athlete is roughly ten seconds before the effect fades. The energy comes from a system that does not need oxygen, which is why sprinting is exhausting in a completely different way from a long run. A sprint effect is trained by practising at that intensity despite it feeling disproportionately bad in the moment.",
+      "variations": [
+        "The energy comes from a system that does not need oxygen, which is why sprinting is exhausting in a completely different way from a long run. A sprint is a short burst at or near maximum speed, and it lasts only as long as the body's energy supply does, which in a trained athlete is roughly ten seconds before the effect fades. A sprint effect is trained by practising at that intensity despite it feeling disproportionately bad in the moment.",
+        "A sprint effect is trained by practising at that intensity despite it feeling disproportionately bad in the moment. A sprint is a short burst at or near maximum speed, and it lasts only as long as the body's energy supply does, which in a trained athlete is roughly ten seconds before the effect fades. The energy comes from a system that does not need oxygen, which is why sprinting is exhausting in a completely different way from a long run."
+      ],
+      "tl": "sprint",
+      "bis": "sprint"
+    }
+  ],
+  "lang": "english",
+  "group": "sports",
+  "sub": "running",
+  "title": "Running",
+  "groupTitle": "Sports"
+}

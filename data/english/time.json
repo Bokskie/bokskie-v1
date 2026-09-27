@@ -1,0 +1,233 @@
+{
+  "topic": "english-time",
+  "entries": [
+    {
+      "id": "eng-time-000001",
+      "topic": "english-time",
+      "intent": "definition",
+      "concept": "hour",
+      "keywords": [
+        "hour",
+        "sixty",
+        "minute",
+        "day",
+        "clock",
+        "loosely",
+        "oras",
+        "minutes",
+        "quarter",
+        "largest",
+        "unit"
+      ],
+      "patterns": [
+        "what is hour",
+        "hour",
+        "explain hour",
+        "definition of hour",
+        "hour meaning",
+        "how many minutes in an hour",
+        "is an hour exactly a quarter day",
+        "meaning of for an hour",
+        "ano ang hour",
+        "unsa ang oras"
+      ],
+      "answer": "An hour is sixty minutes and a quarter of a day, and it is the largest unit that divides a day evenly, which is why calendars and clocks are built around it. The word is also used loosely for any period at all, as in I will be there for an hour meaning approximately that long. Historically an hour was divided locally into sixty minutes, so what a minute meant depended on where you stood, and that is why astronomical time became the standard.",
+      "variations": [
+        "The word is also used loosely for any period at all, as in I will be there for an hour meaning approximately that long. An hour is sixty minutes and a quarter of a day, and it is the largest unit that divides a day evenly, which is why calendars and clocks are built around it. Historically an hour was divided locally into sixty minutes, so what a minute meant depended on where you stood, and that is why astronomical time became the standard.",
+        "Historically an hour was divided locally into sixty minutes, so what a minute meant depended on where you stood, and that is why astronomical time became the standard. An hour is sixty minutes and a quarter of a day, and it is the largest unit that divides a day evenly, which is why calendars and clocks are built around it. The word is also used loosely for any period at all, as in I will be there for an hour meaning approximately that long."
+      ],
+      "tl": "hour",
+      "bis": "oras"
+    },
+    {
+      "id": "eng-time-000002",
+      "topic": "english-time",
+      "intent": "definition",
+      "concept": "minute",
+      "keywords": [
+        "minute",
+        "sixty",
+        "second",
+        "small",
+        "detail",
+        "estimate",
+        "minuto",
+        "seconds",
+        "sixtieth",
+        "hour",
+        "unit"
+      ],
+      "patterns": [
+        "what is minute",
+        "minute",
+        "explain minute",
+        "definition of minute",
+        "minute meaning",
+        "how many seconds in a minute",
+        "minute as a small amount",
+        "difference between minute detail and a minute late",
+        "ano ang minute",
+        "unsa ang minuto"
+      ],
+      "answer": "A minute is sixty seconds and a sixtieth of an hour, and it is the unit people actually estimate with when judging whether something will take long. The word is also an adjective, as in a minute hand, a minute detail and a minute is not small. That double use for both a unit of time and something tiny is a real ambiguity, so I will be a minute late and that is a minute detail are not the same claim at all.",
+      "variations": [
+        "The word is also an adjective, as in a minute hand, a minute detail and a minute is not small. A minute is sixty seconds and a sixtieth of an hour, and it is the unit people actually estimate with when judging whether something will take long. That double use for both a unit of time and something tiny is a real ambiguity, so I will be a minute late and that is a minute detail are not the same claim at all.",
+        "That double use for both a unit of time and something tiny is a real ambiguity, so I will be a minute late and that is a minute detail are not the same claim at all. A minute is sixty seconds and a sixtieth of an hour, and it is the unit people actually estimate with when judging whether something will take long. The word is also an adjective, as in a minute hand, a minute detail and a minute is not small."
+      ],
+      "tl": "minute",
+      "bis": "minuto"
+    },
+    {
+      "id": "eng-time-000003",
+      "topic": "english-time",
+      "intent": "definition",
+      "concept": "second",
+      "keywords": [
+        "second",
+        "base",
+        "unit",
+        "ordinal",
+        "arc",
+        "sixtieth",
+        "segundo",
+        "attempt"
+      ],
+      "patterns": [
+        "what is second",
+        "second",
+        "explain second",
+        "definition of second",
+        "second meaning",
+        "how long is a second",
+        "is a second a unit of time",
+        "meaning of in a second",
+        "ano ang second",
+        "unsa ang segundo"
+      ],
+      "answer": "A second is the base unit of time and also an ordinal, as in the second attempt, and the two senses rarely collide but do occasionally. As a unit it is a sixtieth of a minute, and an arc-second is a further sixtieth of that in the sky, so the subdivision runs all the way through astronomy. The informal use, meaning a very short while, is far more common in speech than the precise one, and English is comfortable with both.",
+      "variations": [
+        "As a unit it is a sixtieth of a minute, and an arc-second is a further sixtieth of that in the sky, so the subdivision runs all the way through astronomy. A second is the base unit of time and also an ordinal, as in the second attempt, and the two senses rarely collide but do occasionally. The informal use, meaning a very short while, is far more common in speech than the precise one, and English is comfortable with both.",
+        "The informal use, meaning a very short while, is far more common in speech than the precise one, and English is comfortable with both. A second is the base unit of time and also an ordinal, as in the second attempt, and the two senses rarely collide but do occasionally. As a unit it is a sixtieth of a minute, and an arc-second is a further sixtieth of that in the sky, so the subdivision runs all the way through astronomy."
+      ],
+      "tl": "second",
+      "bis": "segundo"
+    },
+    {
+      "id": "eng-time-000004",
+      "topic": "english-time",
+      "intent": "definition",
+      "concept": "deadline",
+      "keywords": [
+        "deadline",
+        "finish",
+        "target",
+        "fixed",
+        "concentrate",
+        "effort",
+        "taning",
+        "something",
+        "must",
+        "finished",
+        "word"
+      ],
+      "patterns": [
+        "what is deadline",
+        "deadline",
+        "explain deadline",
+        "definition of deadline",
+        "deadline meaning",
+        "what is a deadline",
+        "deadline vs target",
+        "why do deadlines work",
+        "ano ang deadline",
+        "unsa ang taning"
+      ],
+      "answer": "A deadline is a time by which something must be finished, and the word quietly assumes the time was set from outside. That is the whole difference from a target, because a target can move and a deadline that moves has stopped being one. Deadlines earn their keep by concentrating effort, and the concentration is the entire benefit, since without a fixed finish people spread the work evenly across an unlimited span and complete none of it.",
+      "variations": [
+        "That is the whole difference from a target, because a target can move and a deadline that moves has stopped being one. A deadline is a time by which something must be finished, and the word quietly assumes the time was set from outside. Deadlines earn their keep by concentrating effort, and the concentration is the entire benefit, since without a fixed finish people spread the work evenly across an unlimited span and complete none of it.",
+        "Deadlines earn their keep by concentrating effort, and the concentration is the entire benefit, since without a fixed finish people spread the work evenly across an unlimited span and complete none of it. A deadline is a time by which something must be finished, and the word quietly assumes the time was set from outside. That is the whole difference from a target, because a target can move and a deadline that moves has stopped being one."
+      ],
+      "tl": "deadline",
+      "bis": "taning"
+    },
+    {
+      "id": "eng-time-000005",
+      "topic": "english-time",
+      "intent": "definition",
+      "concept": "schedule",
+      "keywords": [
+        "schedule",
+        "plan",
+        "timetable",
+        "arrange",
+        "fixed",
+        "publish",
+        "iskedyed",
+        "listing",
+        "meant",
+        "happen",
+        "differs"
+      ],
+      "patterns": [
+        "what is schedule",
+        "schedule",
+        "explain schedule",
+        "definition of schedule",
+        "schedule meaning",
+        "difference between schedule and timetable",
+        "what is a schedule",
+        "do trains have a schedule",
+        "ano ang schedule",
+        "unsa ang iskedyed"
+      ],
+      "answer": "A schedule is a plan listing when things are meant to happen, and it differs from a timetable by being a plan rather than a published list. A timetable is fixed and external, as for trains, while a schedule is something a person or team arranges and changes. This is why a doctor has a schedule and a station has a timetable, and why rescheduling is an ordinary verb while retimetabling is not one.",
+      "variations": [
+        "A timetable is fixed and external, as for trains, while a schedule is something a person or team arranges and changes. A schedule is a plan listing when things are meant to happen, and it differs from a timetable by being a plan rather than a published list. This is why a doctor has a schedule and a station has a timetable, and why rescheduling is an ordinary verb while retimetabling is not one.",
+        "This is why a doctor has a schedule and a station has a timetable, and why rescheduling is an ordinary verb while retimetabling is not one. A schedule is a plan listing when things are meant to happen, and it differs from a timetable by being a plan rather than a published list. A timetable is fixed and external, as for trains, while a schedule is something a person or team arranges and changes."
+      ],
+      "tl": "schedule",
+      "bis": "iskedyed"
+    },
+    {
+      "id": "eng-time-000006",
+      "topic": "english-time",
+      "intent": "definition",
+      "concept": "duration",
+      "keywords": [
+        "duration",
+        "length",
+        "term",
+        "lifespan",
+        "measure",
+        "law",
+        "tagal",
+        "something",
+        "takes",
+        "word"
+      ],
+      "patterns": [
+        "what is duration",
+        "duration",
+        "explain duration",
+        "definition of duration",
+        "duration meaning",
+        "difference between duration and term",
+        "how to use duration",
+        "ano ang duration",
+        "unsa ang tagal"
+      ],
+      "answer": "Duration is the length of time something takes, and the word matters in law and in planning, where the same activity lasts a different amount depending on who is measuring. A task has a duration, a person has a lifespan and a subscription has a term, and English keeps those apart on purpose. Saying how long something lasts describes the thing itself, while saying how long it took describes the waiting, and the two can differ sharply.",
+      "variations": [
+        "A task has a duration, a person has a lifespan and a subscription has a term, and English keeps those apart on purpose. Duration is the length of time something takes, and the word matters in law and in planning, where the same activity lasts a different amount depending on who is measuring. Saying how long something lasts describes the thing itself, while saying how long it took describes the waiting, and the two can differ sharply.",
+        "Saying how long something lasts describes the thing itself, while saying how long it took describes the waiting, and the two can differ sharply. Duration is the length of time something takes, and the word matters in law and in planning, where the same activity lasts a different amount depending on who is measuring. A task has a duration, a person has a lifespan and a subscription has a term, and English keeps those apart on purpose."
+      ],
+      "tl": "duration",
+      "bis": "tagal"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "time",
+  "title": "Time",
+  "groupTitle": "English"
+}

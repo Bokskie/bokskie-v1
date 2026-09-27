@@ -1,0 +1,193 @@
+{
+  "topic": "english-programming",
+  "entries": [
+    {
+      "id": "eng-programming-000001",
+      "topic": "english-programming",
+      "intent": "definition",
+      "concept": "code",
+      "keywords": [
+        "code",
+        "program",
+        "language",
+        "text",
+        "quality",
+        "verb",
+        "programmer",
+        "writes",
+        "word"
+      ],
+      "patterns": [
+        "what is code",
+        "code",
+        "explain code",
+        "definition of code",
+        "code meaning",
+        "difference between code and program",
+        "what does bad code mean",
+        "ano ang code",
+        "unsa ang code"
+      ],
+      "answer": "Code is the text a programmer writes, and the word is also a verb meaning to write it, which is a fairly recent extension. It is worth separating from a program, since code is one language and a program is the behaviour, and the same behaviour can be reached by different code. The word also carries a slightly negative connotation about quality, where bad code is what people say when something has been written carelessly.",
+      "variations": [
+        "It is worth separating from a program, since code is one language and a program is the behaviour, and the same behaviour can be reached by different code. Code is the text a programmer writes, and the word is also a verb meaning to write it, which is a fairly recent extension. The word also carries a slightly negative connotation about quality, where bad code is what people say when something has been written carelessly.",
+        "The word also carries a slightly negative connotation about quality, where bad code is what people say when something has been written carelessly. Code is the text a programmer writes, and the word is also a verb meaning to write it, which is a fairly recent extension. It is worth separating from a program, since code is one language and a program is the behaviour, and the same behaviour can be reached by different code."
+      ],
+      "tl": "code",
+      "bis": "code"
+    },
+    {
+      "id": "eng-programming-000002",
+      "topic": "english-programming",
+      "intent": "definition",
+      "concept": "syntax",
+      "keywords": [
+        "syntax",
+        "rule",
+        "error",
+        "runtime",
+        "grammar",
+        "meaning",
+        "rules",
+        "governing",
+        "program",
+        "written",
+        "deliberately"
+      ],
+      "patterns": [
+        "what is syntax",
+        "syntax",
+        "explain syntax",
+        "definition of syntax",
+        "syntax meaning",
+        "syntax error vs runtime error",
+        "is syntax the same as grammar",
+        "ano ang syntax",
+        "unsa ang syntax"
+      ],
+      "answer": "Syntax is the set of rules governing how a program is written down, and it is deliberately separate from meaning, so a sentence can be grammatically perfect and still say nothing. This is the difference between a syntax error and a runtime fault, and it decides when a mistake is caught: a syntax error is found before anything runs, while a wrong result is found later or never. Every language has its own syntax, and none of them is a superset of another.",
+      "variations": [
+        "This is the difference between a syntax error and a runtime fault, and it decides when a mistake is caught: a syntax error is found before anything runs, while a wrong result is found later or never. Syntax is the set of rules governing how a program is written down, and it is deliberately separate from meaning, so a sentence can be grammatically perfect and still say nothing. Every language has its own syntax, and none of them is a superset of another.",
+        "Every language has its own syntax, and none of them is a superset of another. Syntax is the set of rules governing how a program is written down, and it is deliberately separate from meaning, so a sentence can be grammatically perfect and still say nothing. This is the difference between a syntax error and a runtime fault, and it decides when a mistake is caught: a syntax error is found before anything runs, while a wrong result is found later or never."
+      ],
+      "tl": "syntax",
+      "bis": "syntax"
+    },
+    {
+      "id": "eng-programming-000003",
+      "topic": "english-programming",
+      "intent": "definition",
+      "concept": "compiler",
+      "keywords": [
+        "compiler",
+        "translate",
+        "interpreter",
+        "artefact",
+        "virtual",
+        "translates",
+        "whole",
+        "program",
+        "another",
+        "machine"
+      ],
+      "patterns": [
+        "what is compiler",
+        "compiler",
+        "explain compiler",
+        "definition of compiler",
+        "compiler meaning",
+        "what is a compiler",
+        "difference between compiler and interpreter",
+        "what is machine code",
+        "ano ang compiler",
+        "unsa ang compiler"
+      ],
+      "answer": "A compiler translates a whole program into another program, usually machine code, before any of it runs, and the result is a separate artefact that can be run repeatedly. An interpreter instead executes the source line by line as it reads it, so there is no separate artefact and errors surface at the moment they are reached. Most modern languages use a mixture, compiling to an intermediate form and running a virtual machine over it, which is why the distinction now describes a spectrum.",
+      "variations": [
+        "An interpreter instead executes the source line by line as it reads it, so there is no separate artefact and errors surface at the moment they are reached. A compiler translates a whole program into another program, usually machine code, before any of it runs, and the result is a separate artefact that can be run repeatedly. Most modern languages use a mixture, compiling to an intermediate form and running a virtual machine over it, which is why the distinction now describes a spectrum.",
+        "Most modern languages use a mixture, compiling to an intermediate form and running a virtual machine over it, which is why the distinction now describes a spectrum. A compiler translates a whole program into another program, usually machine code, before any of it runs, and the result is a separate artefact that can be run repeatedly. An interpreter instead executes the source line by line as it reads it, so there is no separate artefact and errors surface at the moment they are reached."
+      ],
+      "tl": "compiler",
+      "bis": "compiler"
+    },
+    {
+      "id": "eng-programming-000004",
+      "topic": "english-programming",
+      "intent": "definition",
+      "concept": "library",
+      "keywords": [
+        "library",
+        "code",
+        "framework",
+        "reuse",
+        "call",
+        "structure",
+        "someone",
+        "else",
+        "wrote"
+      ],
+      "patterns": [
+        "what is library",
+        "library",
+        "explain library",
+        "definition of library",
+        "library meaning",
+        "what is a library",
+        "library vs framework",
+        "why not write your own",
+        "ano ang library",
+        "unsa ang library"
+      ],
+      "answer": "A library is a set of code someone else wrote that you call rather than rewrite, and the word assumes the pieces are independent enough to be picked individually. A framework is the stronger case, where the structure is decided for you and your code fills in the gaps, and that is why the saying about frameworks differing in size is half true. The practical question is whether you need one particular job done or a whole application built, and the two lead to opposite answers.",
+      "variations": [
+        "A framework is the stronger case, where the structure is decided for you and your code fills in the gaps, and that is why the saying about frameworks differing in size is half true. A library is a set of code someone else wrote that you call rather than rewrite, and the word assumes the pieces are independent enough to be picked individually. The practical question is whether you need one particular job done or a whole application built, and the two lead to opposite answers.",
+        "The practical question is whether you need one particular job done or a whole application built, and the two lead to opposite answers. A library is a set of code someone else wrote that you call rather than rewrite, and the word assumes the pieces are independent enough to be picked individually. A framework is the stronger case, where the structure is decided for you and your code fills in the gaps, and that is why the saying about frameworks differing in size is half true."
+      ],
+      "tl": "library",
+      "bis": "library"
+    },
+    {
+      "id": "eng-programming-000005",
+      "topic": "english-programming",
+      "intent": "definition",
+      "concept": "comment",
+      "keywords": [
+        "comment",
+        "ignore",
+        "reader",
+        "machine",
+        "review",
+        "decision",
+        "text",
+        "program",
+        "ignored",
+        "language",
+        "exists"
+      ],
+      "patterns": [
+        "what is comment",
+        "comment",
+        "explain comment",
+        "definition of comment",
+        "comment meaning",
+        "what is a comment in code",
+        "what should a comment explain",
+        "comment in code review",
+        "ano ang comment",
+        "unsa ang comment"
+      ],
+      "answer": "A comment is text in a program that is ignored by the language, and it exists for the reader rather than the machine, which is the whole reason the distinction matters. What belongs in one is a genuine judgement, because anything obvious is noise, and the best comments explain why a decision was made rather than restating what the line does. The same word also means a remark, and in a review the verb means to leave those remarks in the code.",
+      "variations": [
+        "What belongs in one is a genuine judgement, because anything obvious is noise, and the best comments explain why a decision was made rather than restating what the line does. A comment is text in a program that is ignored by the language, and it exists for the reader rather than the machine, which is the whole reason the distinction matters. The same word also means a remark, and in a review the verb means to leave those remarks in the code.",
+        "The same word also means a remark, and in a review the verb means to leave those remarks in the code. A comment is text in a program that is ignored by the language, and it exists for the reader rather than the machine, which is the whole reason the distinction matters. What belongs in one is a genuine judgement, because anything obvious is noise, and the best comments explain why a decision was made rather than restating what the line does."
+      ],
+      "tl": "comment",
+      "bis": "comment"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "programming",
+  "title": "Programming",
+  "groupTitle": "English"
+}

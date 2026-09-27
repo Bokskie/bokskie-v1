@@ -1,0 +1,162 @@
+{
+  "topic": "courses-culinary",
+  "entries": [
+    {
+      "id": "cou-culinary-000001",
+      "topic": "courses-culinary",
+      "intent": "definition",
+      "concept": "culinary",
+      "keywords": [
+        "culinary",
+        "cooking",
+        "chef",
+        "kitchen",
+        "technique",
+        "cost",
+        "arts",
+        "study",
+        "professional",
+        "discipline"
+      ],
+      "patterns": [
+        "what is culinary",
+        "culinary",
+        "explain culinary",
+        "definition of culinary",
+        "culinary meaning",
+        "what is culinary arts",
+        "is culinary hard",
+        "what does a chef study",
+        "ano ang culinary",
+        "unsa ang culinary"
+      ],
+      "answer": "Culinary arts is the study of cooking as a professional discipline, covering technique, food science, safety and cost, and the word distinguishes it from cooking as a domestic activity. What a course adds is the parts that are invisible at home: holding a temperature, costing a portion, and working to a service time. The professional kitchen is also a study in repetition under pressure, so the practical training is long and unpaid for longer than most students expect.",
+      "variations": [
+        "What a course adds is the parts that are invisible at home: holding a temperature, costing a portion, and working to a service time. Culinary arts is the study of cooking as a professional discipline, covering technique, food science, safety and cost, and the word distinguishes it from cooking as a domestic activity. The professional kitchen is also a study in repetition under pressure, so the practical training is long and unpaid for longer than most students expect.",
+        "The professional kitchen is also a study in repetition under pressure, so the practical training is long and unpaid for longer than most students expect. Culinary arts is the study of cooking as a professional discipline, covering technique, food science, safety and cost, and the word distinguishes it from cooking as a domestic activity. What a course adds is the parts that are invisible at home: holding a temperature, costing a portion, and working to a service time."
+      ],
+      "tl": "culinary",
+      "bis": "culinary"
+    },
+    {
+      "id": "cou-culinary-000002",
+      "topic": "courses-culinary",
+      "intent": "definition",
+      "concept": "knife skill",
+      "keywords": [
+        "knife skill",
+        "knife",
+        "chop",
+        "slice",
+        "dice",
+        "cut",
+        "edge",
+        "skill",
+        "ability",
+        "main",
+        "three",
+        "cuts"
+      ],
+      "patterns": [
+        "what is knife skill",
+        "knife skill",
+        "explain knife skill",
+        "definition of knife skill",
+        "knife skill meaning",
+        "what are knife skills",
+        "which knife should i buy",
+        "why is a sharp knife safer",
+        "ano ang knife skill",
+        "unsa ang knife skill"
+      ],
+      "answer": "A knife skill is the ability to use the main three cuts accurately and quickly, and those are chop, slice and dice, with everything else built from them. The cuts are not about speed at first, since an uneven dice cooks unevenly and ruins the dish. A dull knife is more dangerous than a sharp one, because it has to be forced and it slips, so the first rule taught is keeping the edge.",
+      "variations": [
+        "The cuts are not about speed at first, since an uneven dice cooks unevenly and ruins the dish. A knife skill is the ability to use the main three cuts accurately and quickly, and those are chop, slice and dice, with everything else built from them. A dull knife is more dangerous than a sharp one, because it has to be forced and it slips, so the first rule taught is keeping the edge.",
+        "A dull knife is more dangerous than a sharp one, because it has to be forced and it slips, so the first rule taught is keeping the edge. A knife skill is the ability to use the main three cuts accurately and quickly, and those are chop, slice and dice, with everything else built from them. The cuts are not about speed at first, since an uneven dice cooks unevenly and ruins the dish."
+      ],
+      "tl": "knife skill",
+      "bis": "knife skill"
+    },
+    {
+      "id": "cou-culinary-000003",
+      "topic": "courses-culinary",
+      "intent": "definition",
+      "concept": "cross contamination",
+      "keywords": [
+        "cross contamination",
+        "transfer",
+        "microbe",
+        "raw",
+        "surface",
+        "toxin",
+        "cross",
+        "contamination",
+        "microbes",
+        "food",
+        "another"
+      ],
+      "patterns": [
+        "what is cross contamination",
+        "cross contamination",
+        "explain cross contamination",
+        "definition of cross contamination",
+        "cross contamination meaning",
+        "how do i prevent cross contamination",
+        "is washing vegetables enough",
+        "ano ang cross contamination",
+        "unsa ang cross contamination"
+      ],
+      "answer": "Cross contamination is the transfer of microbes from one food to another, and it happens far more often than people expect because raw preparation is the main source. The standard control is separate equipment and surfaces for raw meat, ready-to-eat food and vegetables, and washing hands between them. It matters more than undercooking for some organisms, since cooking kills bacteria but not the toxins some of them leave behind, so a dish can be thoroughly cooked and still unsafe.",
+      "variations": [
+        "The standard control is separate equipment and surfaces for raw meat, ready-to-eat food and vegetables, and washing hands between them. Cross contamination is the transfer of microbes from one food to another, and it happens far more often than people expect because raw preparation is the main source. It matters more than undercooking for some organisms, since cooking kills bacteria but not the toxins some of them leave behind, so a dish can be thoroughly cooked and still unsafe.",
+        "It matters more than undercooking for some organisms, since cooking kills bacteria but not the toxins some of them leave behind, so a dish can be thoroughly cooked and still unsafe. Cross contamination is the transfer of microbes from one food to another, and it happens far more often than people expect because raw preparation is the main source. The standard control is separate equipment and surfaces for raw meat, ready-to-eat food and vegetables, and washing hands between them."
+      ],
+      "tl": "cross contamination",
+      "bis": "cross contamination"
+    },
+    {
+      "id": "cou-culinary-000004",
+      "topic": "courses-culinary",
+      "intent": "definition",
+      "concept": "mise en place",
+      "keywords": [
+        "mise en place",
+        "prepare",
+        "arrange",
+        "assembly",
+        "service",
+        "search",
+        "mise",
+        "place",
+        "means",
+        "everything",
+        "practice",
+        "preparing"
+      ],
+      "patterns": [
+        "what is mise en place",
+        "mise en place",
+        "explain mise en place",
+        "definition of mise en place",
+        "mise en place meaning",
+        "what does mise en place mean",
+        "is mise en place important",
+        "what is mise en place in cooking",
+        "ano ang mise en place",
+        "unsa ang mise en place"
+      ],
+      "answer": "Mise en place means everything in its place, and it is the practice of preparing and arranging all ingredients before cooking begins rather than during. The point is not tidiness: it is that every step after it becomes assembly, which removes the last-minute searching that causes most kitchen errors. It is also the clearest example of the professional habit the training installs, since a service kitchen has to run on preparation done earlier.",
+      "variations": [
+        "The point is not tidiness: it is that every step after it becomes assembly, which removes the last-minute searching that causes most kitchen errors. Mise en place means everything in its place, and it is the practice of preparing and arranging all ingredients before cooking begins rather than during. It is also the clearest example of the professional habit the training installs, since a service kitchen has to run on preparation done earlier.",
+        "It is also the clearest example of the professional habit the training installs, since a service kitchen has to run on preparation done earlier. Mise en place means everything in its place, and it is the practice of preparing and arranging all ingredients before cooking begins rather than during. The point is not tidiness: it is that every step after it becomes assembly, which removes the last-minute searching that causes most kitchen errors."
+      ],
+      "tl": "mise en place",
+      "bis": "mise en place"
+    }
+  ],
+  "lang": "english",
+  "group": "courses",
+  "sub": "culinary",
+  "title": "Culinary",
+  "groupTitle": "Courses"
+}

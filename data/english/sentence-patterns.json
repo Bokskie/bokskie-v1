@@ -1,0 +1,220 @@
+{
+  "topic": "english-sentence-patterns",
+  "entries": [
+    {
+      "id": "eng-sentence-patterns-000001",
+      "topic": "english-sentence-patterns",
+      "intent": "definition",
+      "concept": "clause",
+      "keywords": [
+        "clause",
+        "subject",
+        "verb",
+        "phrase",
+        "subordinate",
+        "linker",
+        "stand",
+        "separates"
+      ],
+      "patterns": [
+        "what is clause",
+        "clause",
+        "explain clause",
+        "definition of clause",
+        "clause meaning",
+        "what is a clause",
+        "clause vs phrase",
+        "how many clauses in a sentence",
+        "ano ang clause",
+        "unsa ang clause"
+      ],
+      "answer": "A clause has a subject and a verb and can stand as a phrase, which is what separates it from a phrase like in the morning, which has neither. Main clauses stand alone, and subordinate clauses cannot, which is why they carry a linker such as although, because or that. Every sentence contains at least one main clause, and the number of subordinate ones is what makes it feel long or short.",
+      "variations": [
+        "Main clauses stand alone, and subordinate clauses cannot, which is why they carry a linker such as although, because or that. A clause has a subject and a verb and can stand as a phrase, which is what separates it from a phrase like in the morning, which has neither. Every sentence contains at least one main clause, and the number of subordinate ones is what makes it feel long or short.",
+        "Every sentence contains at least one main clause, and the number of subordinate ones is what makes it feel long or short. A clause has a subject and a verb and can stand as a phrase, which is what separates it from a phrase like in the morning, which has neither. Main clauses stand alone, and subordinate clauses cannot, which is why they carry a linker such as although, because or that."
+      ],
+      "tl": "clause",
+      "bis": "clause"
+    },
+    {
+      "id": "eng-sentence-patterns-000002",
+      "topic": "english-sentence-patterns",
+      "intent": "definition",
+      "concept": "sentence",
+      "keywords": [
+        "sentence",
+        "fragment",
+        "thought",
+        "subject",
+        "complete",
+        "pangungusap",
+        "unit",
+        "verb"
+      ],
+      "patterns": [
+        "what is sentence",
+        "sentence",
+        "explain sentence",
+        "definition of sentence",
+        "sentence meaning",
+        "what is a sentence",
+        "sentence vs fragment",
+        "is a headline a sentence",
+        "ano ang sentence",
+        "unsa ang pangungusap"
+      ],
+      "answer": "A sentence is a complete unit of thought with a subject and a verb and a full stop at the end, and the full stop is what makes it a sentence rather than a fragment. Fragments are extremely common in speech and in headlines, and they work there because the reader supplies the missing part. A sentence is not the same as a thought, since one thought may need two sentences and one sentence may carry two thoughts joined by a semicolon.",
+      "variations": [
+        "Fragments are extremely common in speech and in headlines, and they work there because the reader supplies the missing part. A sentence is a complete unit of thought with a subject and a verb and a full stop at the end, and the full stop is what makes it a sentence rather than a fragment. A sentence is not the same as a thought, since one thought may need two sentences and one sentence may carry two thoughts joined by a semicolon.",
+        "A sentence is not the same as a thought, since one thought may need two sentences and one sentence may carry two thoughts joined by a semicolon. A sentence is a complete unit of thought with a subject and a verb and a full stop at the end, and the full stop is what makes it a sentence rather than a fragment. Fragments are extremely common in speech and in headlines, and they work there because the reader supplies the missing part."
+      ],
+      "tl": "sentence",
+      "bis": "pangungusap"
+    },
+    {
+      "id": "eng-sentence-patterns-000003",
+      "topic": "english-sentence-patterns",
+      "intent": "definition",
+      "concept": "predicate",
+      "keywords": [
+        "predicate",
+        "subject",
+        "grammar",
+        "verb",
+        "judgement",
+        "attach",
+        "everything",
+        "except",
+        "word"
+      ],
+      "patterns": [
+        "what is predicate",
+        "predicate",
+        "explain predicate",
+        "definition of predicate",
+        "predicate meaning",
+        "what is the predicate",
+        "predicate in grammar",
+        "meaning of predicate outside grammar",
+        "ano ang predicate",
+        "unsa ang predicate"
+      ],
+      "answer": "The predicate is everything in a sentence except the subject, and the word names the part that says something about the subject. It is a grammatical term that English learners rarely need, but it is how grammars describe what a verb is doing and what else is attached to it. In everyday English predicate has drifted into meaning a judgement, as in that is a strange thing to predicate, where it no longer refers to grammar at all.",
+      "variations": [
+        "It is a grammatical term that English learners rarely need, but it is how grammars describe what a verb is doing and what else is attached to it. The predicate is everything in a sentence except the subject, and the word names the part that says something about the subject. In everyday English predicate has drifted into meaning a judgement, as in that is a strange thing to predicate, where it no longer refers to grammar at all.",
+        "In everyday English predicate has drifted into meaning a judgement, as in that is a strange thing to predicate, where it no longer refers to grammar at all. The predicate is everything in a sentence except the subject, and the word names the part that says something about the subject. It is a grammatical term that English learners rarely need, but it is how grammars describe what a verb is doing and what else is attached to it."
+      ],
+      "tl": "predicate",
+      "bis": "predicate"
+    },
+    {
+      "id": "eng-sentence-patterns-000004",
+      "topic": "english-sentence-patterns",
+      "intent": "definition",
+      "concept": "compound",
+      "keywords": [
+        "compound",
+        "clause",
+        "conjunction",
+        "semicolon",
+        "equal",
+        "join",
+        "joins",
+        "clauses",
+        "coordinating"
+      ],
+      "patterns": [
+        "what is compound",
+        "compound",
+        "explain compound",
+        "definition of compound",
+        "compound meaning",
+        "what is a compound sentence",
+        "compound vs complex",
+        "list of coordinating conjunctions",
+        "ano ang compound",
+        "unsa ang compound"
+      ],
+      "answer": "A compound sentence joins two or more main clauses with a coordinating conjunction, a semicolon or a comma, and the joining word is what tells you it is compound rather than complex. The coordinating conjunctions are few enough to memorise, being for, and, nor, but, or, yet and so, and the commas rule is that a comma alone is not enough. A compound sentence says two things of equal weight, where a complex one makes one subordinate to the other.",
+      "variations": [
+        "The coordinating conjunctions are few enough to memorise, being for, and, nor, but, or, yet and so, and the commas rule is that a comma alone is not enough. A compound sentence joins two or more main clauses with a coordinating conjunction, a semicolon or a comma, and the joining word is what tells you it is compound rather than complex. A compound sentence says two things of equal weight, where a complex one makes one subordinate to the other.",
+        "A compound sentence says two things of equal weight, where a complex one makes one subordinate to the other. A compound sentence joins two or more main clauses with a coordinating conjunction, a semicolon or a comma, and the joining word is what tells you it is compound rather than complex. The coordinating conjunctions are few enough to memorise, being for, and, nor, but, or, yet and so, and the commas rule is that a comma alone is not enough."
+      ],
+      "tl": "compound",
+      "bis": "compound"
+    },
+    {
+      "id": "eng-sentence-patterns-000005",
+      "topic": "english-sentence-patterns",
+      "intent": "definition",
+      "concept": "complex",
+      "keywords": [
+        "complex",
+        "clause",
+        "subordinate",
+        "linker",
+        "condition",
+        "contains"
+      ],
+      "patterns": [
+        "what is complex",
+        "complex",
+        "explain complex",
+        "definition of complex",
+        "complex meaning",
+        "what is a complex sentence",
+        "complex vs compound",
+        "what is a run on sentence",
+        "ano ang complex",
+        "unsa ang complex"
+      ],
+      "answer": "A complex sentence contains a main clause and at least one subordinate clause, and the two are not equal, since the subordinate part cannot stand alone. The linkers are numerous and the relationships they signal are different, because although and because both report causes while if and unless report conditions. The commonest error is joining two main clauses with a comma alone, which produces a run-on rather than a complex sentence, and it is the mark of an untrained writer.",
+      "variations": [
+        "The linkers are numerous and the relationships they signal are different, because although and because both report causes while if and unless report conditions. A complex sentence contains a main clause and at least one subordinate clause, and the two are not equal, since the subordinate part cannot stand alone. The commonest error is joining two main clauses with a comma alone, which produces a run-on rather than a complex sentence, and it is the mark of an untrained writer.",
+        "The commonest error is joining two main clauses with a comma alone, which produces a run-on rather than a complex sentence, and it is the mark of an untrained writer. A complex sentence contains a main clause and at least one subordinate clause, and the two are not equal, since the subordinate part cannot stand alone. The linkers are numerous and the relationships they signal are different, because although and because both report causes while if and unless report conditions."
+      ],
+      "tl": "complex",
+      "bis": "complex"
+    },
+    {
+      "id": "eng-sentence-patterns-000006",
+      "topic": "english-sentence-patterns",
+      "intent": "definition",
+      "concept": "simple",
+      "keywords": [
+        "simple",
+        "clause",
+        "one",
+        "subject",
+        "verb",
+        "clarity",
+        "contains",
+        "nothing"
+      ],
+      "patterns": [
+        "what is simple",
+        "simple",
+        "explain simple",
+        "definition of simple",
+        "simple meaning",
+        "what is a simple sentence",
+        "is a simple sentence a weak sentence",
+        "simple vs compound",
+        "ano ang simple",
+        "unsa ang simple"
+      ],
+      "answer": "A simple sentence contains one main clause and nothing else, so it has a single subject and a single verb and no linker at all. It is not a lesser sentence, and plenty of effective writing is made of them stacked in sequence. The advantage is clarity and the disadvantage is that each one asserts a single relationship, so complex ideas need more of them or need joining. In examinations the short simple sentence often scores precisely because it cannot be ambiguous.",
+      "variations": [
+        "It is not a lesser sentence, and plenty of effective writing is made of them stacked in sequence. A simple sentence contains one main clause and nothing else, so it has a single subject and a single verb and no linker at all. The advantage is clarity and the disadvantage is that each one asserts a single relationship, so complex ideas need more of them or need joining. In examinations the short simple sentence often scores precisely because it cannot be ambiguous.",
+        "The advantage is clarity and the disadvantage is that each one asserts a single relationship, so complex ideas need more of them or need joining. A simple sentence contains one main clause and nothing else, so it has a single subject and a single verb and no linker at all. It is not a lesser sentence, and plenty of effective writing is made of them stacked in sequence. In examinations the short simple sentence often scores precisely because it cannot be ambiguous."
+      ],
+      "tl": "simple",
+      "bis": "simple"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "sentence-patterns",
+  "title": "Sentence patterns",
+  "groupTitle": "English"
+}

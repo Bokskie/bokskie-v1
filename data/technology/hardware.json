@@ -1,0 +1,192 @@
+{
+  "topic": "technology-hardware",
+  "entries": [
+    {
+      "id": "tec-hardware-000001",
+      "topic": "technology-hardware",
+      "intent": "definition",
+      "concept": "cpu",
+      "keywords": [
+        "cpu",
+        "processor",
+        "core",
+        "ghz",
+        "clock",
+        "throttle",
+        "executes",
+        "instructions",
+        "speed",
+        "gigahertz",
+        "measure"
+      ],
+      "patterns": [
+        "what is cpu",
+        "cpu",
+        "explain cpu",
+        "definition of cpu",
+        "cpu meaning",
+        "what is a cpu",
+        "what does ghz mean",
+        "what is cpu throttling",
+        "ano ang cpu",
+        "unsa ang cpu"
+      ],
+      "answer": "The CPU executes instructions, and the clock speed in gigahertz is one measure of how many it can retire per second, though architecture matters at least as much. Modern CPUs have multiple cores, so total throughput is cores times per-core speed in the best case. The practical limit is usually thermal rather than electronic, which is why a faster generation can throttle itself back under sustained load.",
+      "variations": [
+        "Modern CPUs have multiple cores, so total throughput is cores times per-core speed in the best case. The CPU executes instructions, and the clock speed in gigahertz is one measure of how many it can retire per second, though architecture matters at least as much. The practical limit is usually thermal rather than electronic, which is why a faster generation can throttle itself back under sustained load.",
+        "The practical limit is usually thermal rather than electronic, which is why a faster generation can throttle itself back under sustained load. The CPU executes instructions, and the clock speed in gigahertz is one measure of how many it can retire per second, though architecture matters at least as much. Modern CPUs have multiple cores, so total throughput is cores times per-core speed in the best case."
+      ],
+      "tl": "cpu",
+      "bis": "cpu"
+    },
+    {
+      "id": "tec-hardware-000002",
+      "topic": "technology-hardware",
+      "intent": "definition",
+      "concept": "ram",
+      "keywords": [
+        "ram",
+        "memory",
+        "swap",
+        "volatile",
+        "megabyte",
+        "gigabyte",
+        "working",
+        "computer",
+        "uses",
+        "right",
+        "fast"
+      ],
+      "patterns": [
+        "what is ram",
+        "ram",
+        "explain ram",
+        "definition of ram",
+        "ram meaning",
+        "why is my computer slow",
+        "what is swapping",
+        "ano ang ram",
+        "unsa ang ram"
+      ],
+      "answer": "RAM is the working memory a computer uses right now, and it is fast but volatile, so everything in it is lost when power goes. Its size decides what can be open at once rather than how fast a program runs, which is why too little RAM shows up as swapping to disk and feels like a hard freeze. Disk is not a substitute: it is orders of magnitude slower, so anything pushed out of RAM is felt immediately.",
+      "variations": [
+        "Its size decides what can be open at once rather than how fast a program runs, which is why too little RAM shows up as swapping to disk and feels like a hard freeze. RAM is the working memory a computer uses right now, and it is fast but volatile, so everything in it is lost when power goes. Disk is not a substitute: it is orders of magnitude slower, so anything pushed out of RAM is felt immediately.",
+        "Disk is not a substitute: it is orders of magnitude slower, so anything pushed out of RAM is felt immediately. RAM is the working memory a computer uses right now, and it is fast but volatile, so everything in it is lost when power goes. Its size decides what can be open at once rather than how fast a program runs, which is why too little RAM shows up as swapping to disk and feels like a hard freeze."
+      ],
+      "tl": "ram",
+      "bis": "ram"
+    },
+    {
+      "id": "tec-hardware-000003",
+      "topic": "technology-hardware",
+      "intent": "definition",
+      "concept": "ssd",
+      "keywords": [
+        "ssd",
+        "flash",
+        "speed",
+        "wear",
+        "storage",
+        "moving",
+        "makes",
+        "dramatically",
+        "faster"
+      ],
+      "patterns": [
+        "what is ssd",
+        "ssd",
+        "explain ssd",
+        "definition of ssd",
+        "ssd meaning",
+        "difference between ssd and hdd",
+        "why is an ssd faster",
+        "do ssds wear out",
+        "ano ang ssd",
+        "unsa ang ssd"
+      ],
+      "answer": "An SSD is flash storage with no moving parts, which makes it dramatically faster and more shock-resistant than a spinning disk. The speed comes from there being no seek time, since data is addressed directly rather than located on a platter. It also changes how you maintain it, because flash wears out after a limited number of writes even though nothing shows that in a health readout.",
+      "variations": [
+        "The speed comes from there being no seek time, since data is addressed directly rather than located on a platter. An SSD is flash storage with no moving parts, which makes it dramatically faster and more shock-resistant than a spinning disk. It also changes how you maintain it, because flash wears out after a limited number of writes even though nothing shows that in a health readout.",
+        "It also changes how you maintain it, because flash wears out after a limited number of writes even though nothing shows that in a health readout. An SSD is flash storage with no moving parts, which makes it dramatically faster and more shock-resistant than a spinning disk. The speed comes from there being no seek time, since data is addressed directly rather than located on a platter."
+      ],
+      "tl": "ssd",
+      "bis": "ssd"
+    },
+    {
+      "id": "tec-hardware-000004",
+      "topic": "technology-hardware",
+      "intent": "definition",
+      "concept": "binary",
+      "keywords": [
+        "binary",
+        "bit",
+        "byte",
+        "counting",
+        "symbols",
+        "normally",
+        "every",
+        "piece"
+      ],
+      "patterns": [
+        "what is binary",
+        "binary",
+        "explain binary",
+        "definition of binary",
+        "binary meaning",
+        "how many bits in a byte",
+        "why do computers use binary",
+        "ano ang binary",
+        "unsa ang binary"
+      ],
+      "answer": "Binary is counting with two symbols, normally 0 and 1, and every piece of data in a computer is ultimately a pattern of them. One digit is a bit, and eight bits make a byte, which is enough to represent one character. The reason computers are built this way is that a two-state physical system is far more reliable and cheaper to read than one with many distinguishable states.",
+      "variations": [
+        "One digit is a bit, and eight bits make a byte, which is enough to represent one character. Binary is counting with two symbols, normally 0 and 1, and every piece of data in a computer is ultimately a pattern of them. The reason computers are built this way is that a two-state physical system is far more reliable and cheaper to read than one with many distinguishable states.",
+        "The reason computers are built this way is that a two-state physical system is far more reliable and cheaper to read than one with many distinguishable states. Binary is counting with two symbols, normally 0 and 1, and every piece of data in a computer is ultimately a pattern of them. One digit is a bit, and eight bits make a byte, which is enough to represent one character."
+      ],
+      "tl": "binary",
+      "bis": "binary"
+    },
+    {
+      "id": "tec-hardware-000005",
+      "topic": "technology-hardware",
+      "intent": "definition",
+      "concept": "cache",
+      "keywords": [
+        "cache",
+        "locality",
+        "memory",
+        "speed",
+        "hit",
+        "small",
+        "fast",
+        "store",
+        "placed",
+        "front"
+      ],
+      "patterns": [
+        "what is cache",
+        "cache",
+        "explain cache",
+        "definition of cache",
+        "cache meaning",
+        "what is a cache",
+        "what is cpu cache",
+        "what is locality",
+        "ano ang cache",
+        "unsa ang cache"
+      ],
+      "answer": "A cache is a small fast store placed in front of something large and slow, and the design problem is deciding what to keep. Caches work on locality, so the assumption is that recent access predicts future access, which holds well in practice. There are several at different speeds, from the CPU core outward, and the more aggressive the placement the smaller and faster it has to be.",
+      "variations": [
+        "Caches work on locality, so the assumption is that recent access predicts future access, which holds well in practice. A cache is a small fast store placed in front of something large and slow, and the design problem is deciding what to keep. There are several at different speeds, from the CPU core outward, and the more aggressive the placement the smaller and faster it has to be.",
+        "There are several at different speeds, from the CPU core outward, and the more aggressive the placement the smaller and faster it has to be. A cache is a small fast store placed in front of something large and slow, and the design problem is deciding what to keep. Caches work on locality, so the assumption is that recent access predicts future access, which holds well in practice."
+      ],
+      "tl": "cache",
+      "bis": "cache"
+    }
+  ],
+  "lang": "english",
+  "group": "technology",
+  "sub": "hardware",
+  "title": "Hardware",
+  "groupTitle": "Technology"
+}

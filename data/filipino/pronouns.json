@@ -1,0 +1,187 @@
+{
+  "topic": "filipino-pronouns",
+  "entries": [
+    {
+      "id": "fil-pronouns-000001",
+      "topic": "filipino-pronouns",
+      "intent": "definition",
+      "concept": "tayo",
+      "keywords": [
+        "tayo",
+        "we",
+        "inclusive",
+        "group",
+        "stand",
+        "kita",
+        "means",
+        "refers",
+        "includes",
+        "speaker"
+      ],
+      "patterns": [
+        "what is tayo",
+        "tayo",
+        "explain tayo",
+        "definition of tayo",
+        "tayo meaning",
+        "what does tayo mean",
+        "tayo or kami difference",
+        "ano ang tayo",
+        "unsa ang kita"
+      ],
+      "answer": "Tayo means we, and it refers to a group that includes the speaker. It is also the polite form of the verb stand, so the word genuinely does two different jobs. The plural kami is the group excluding the speaker, and ako is the speaker alone, so Filipino marks exactly who is included rather than leaving it to context.",
+      "variations": [
+        "It is also the polite form of the verb stand, so the word genuinely does two different jobs. Tayo means we, and it refers to a group that includes the speaker. The plural kami is the group excluding the speaker, and ako is the speaker alone, so Filipino marks exactly who is included rather than leaving it to context.",
+        "The plural kami is the group excluding the speaker, and ako is the speaker alone, so Filipino marks exactly who is included rather than leaving it to context. Tayo means we, and it refers to a group that includes the speaker. It is also the polite form of the verb stand, so the word genuinely does two different jobs."
+      ],
+      "tl": "tayo",
+      "bis": "kita"
+    },
+    {
+      "id": "fil-pronouns-000002",
+      "topic": "filipino-pronouns",
+      "intent": "definition",
+      "concept": "kami",
+      "keywords": [
+        "kami",
+        "we",
+        "they",
+        "exclusive",
+        "group",
+        "means",
+        "refers",
+        "excludes",
+        "speaker"
+      ],
+      "patterns": [
+        "what is kami",
+        "kami",
+        "explain kami",
+        "definition of kami",
+        "kami meaning",
+        "what does kami mean",
+        "kami or tayo which is correct",
+        "ano ang kami",
+        "unsa ang kami"
+      ],
+      "answer": "Kami means we or they, and it refers to a group that excludes the speaker. The distinction from tayo is the single most consistent feature of Filipino pronouns, as kami excludes the listener and the speaker while tayo includes both. In practice tayo is the normal everyday choice.",
+      "variations": [
+        "The distinction from tayo is the single most consistent feature of Filipino pronouns, as kami excludes the listener and the speaker while tayo includes both. Kami means we or they, and it refers to a group that excludes the speaker. In practice tayo is the normal everyday choice.",
+        "In practice tayo is the normal everyday choice. Kami means we or they, and it refers to a group that excludes the speaker. The distinction from tayo is the single most consistent feature of Filipino pronouns, as kami excludes the listener and the speaker while tayo includes both."
+      ],
+      "tl": "kami",
+      "bis": "kami"
+    },
+    {
+      "id": "fil-pronouns-000003",
+      "topic": "filipino-pronouns",
+      "intent": "definition",
+      "concept": "natin",
+      "keywords": [
+        "natin",
+        "we",
+        "us",
+        "inclusive",
+        "object",
+        "means",
+        "specifically",
+        "including",
+        "speaker"
+      ],
+      "patterns": [
+        "what is natin",
+        "natin",
+        "explain natin",
+        "definition of natin",
+        "natin meaning",
+        "what does natin mean",
+        "natin or amin difference",
+        "ano ang natin",
+        "unsa ang natin"
+      ],
+      "answer": "Natin means we or us, specifically us including the speaker, and it is the object and possessive form of tayo. Namin is the exclusive equivalent. The natin and nila forms are the ones learners find hardest, because English collapses them all into a single we and us while Filipino keeps them apart.",
+      "variations": [
+        "Namin is the exclusive equivalent. Natin means we or us, specifically us including the speaker, and it is the object and possessive form of tayo. The natin and nila forms are the ones learners find hardest, because English collapses them all into a single we and us while Filipino keeps them apart.",
+        "The natin and nila forms are the ones learners find hardest, because English collapses them all into a single we and us while Filipino keeps them apart. Natin means we or us, specifically us including the speaker, and it is the object and possessive form of tayo. Namin is the exclusive equivalent."
+      ],
+      "tl": "natin",
+      "bis": "natin"
+    },
+    {
+      "id": "fil-pronouns-000004",
+      "topic": "filipino-pronouns",
+      "intent": "definition",
+      "concept": "kayo",
+      "keywords": [
+        "kayo",
+        "you",
+        "polite",
+        "po",
+        "respect",
+        "ikaw",
+        "means",
+        "addresses",
+        "person",
+        "people",
+        "being"
+      ],
+      "patterns": [
+        "what is kayo",
+        "kayo",
+        "explain kayo",
+        "definition of kayo",
+        "kayo meaning",
+        "what does kayo mean",
+        "kayo or ikaw which to use",
+        "ano ang kayo",
+        "unsa ang ikaw"
+      ],
+      "answer": "Kayo means you, and it addresses the person or people being spoken to. With po it becomes the polite form, and kayo po is the respectful address used to a customer, an elder or anyone being treated with respect. It is the word to use with strangers, whereas ikaw is what you use with friends, family and children.",
+      "variations": [
+        "With po it becomes the polite form, and kayo po is the respectful address used to a customer, an elder or anyone being treated with respect. Kayo means you, and it addresses the person or people being spoken to. It is the word to use with strangers, whereas ikaw is what you use with friends, family and children.",
+        "It is the word to use with strangers, whereas ikaw is what you use with friends, family and children. Kayo means you, and it addresses the person or people being spoken to. With po it becomes the polite form, and kayo po is the respectful address used to a customer, an elder or anyone being treated with respect."
+      ],
+      "tl": "kayo",
+      "bis": "ikaw"
+    },
+    {
+      "id": "fil-pronouns-000005",
+      "topic": "filipino-pronouns",
+      "intent": "definition",
+      "concept": "ikaw",
+      "keywords": [
+        "ikaw",
+        "you",
+        "familiar",
+        "singular",
+        "friend",
+        "means",
+        "friends",
+        "family"
+      ],
+      "patterns": [
+        "what is ikaw",
+        "ikaw",
+        "explain ikaw",
+        "definition of ikaw",
+        "ikaw meaning",
+        "what does ikaw mean",
+        "ikaw or kayo which is polite",
+        "ano ang ikaw",
+        "unsa ang ikaw"
+      ],
+      "answer": "Ikaw means you, singular and familiar. It is the form used with friends, family, children and anyone you are comfortable with, while kayo is the polite and plural form. Using ikaw to a stranger can come across as rude or too familiar, which is why kayo is the safer default in a shop or an office.",
+      "variations": [
+        "It is the form used with friends, family, children and anyone you are comfortable with, while kayo is the polite and plural form. Ikaw means you, singular and familiar. Using ikaw to a stranger can come across as rude or too familiar, which is why kayo is the safer default in a shop or an office.",
+        "Using ikaw to a stranger can come across as rude or too familiar, which is why kayo is the safer default in a shop or an office. Ikaw means you, singular and familiar. It is the form used with friends, family, children and anyone you are comfortable with, while kayo is the polite and plural form."
+      ],
+      "tl": "ikaw",
+      "bis": "ikaw"
+    }
+  ],
+  "lang": "tagalog",
+  "group": "filipino",
+  "sub": "pronouns",
+  "title": "Pronouns",
+  "groupTitle": "Filipino"
+}

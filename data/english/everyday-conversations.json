@@ -1,0 +1,233 @@
+{
+  "topic": "english-everyday-conversations",
+  "entries": [
+    {
+      "id": "eng-everyday-conversations-000001",
+      "topic": "english-everyday-conversations",
+      "intent": "definition",
+      "concept": "small talk",
+      "keywords": [
+        "small talk",
+        "weather",
+        "polite",
+        "contact",
+        "relationship",
+        "steer",
+        "small",
+        "talk",
+        "conversation",
+        "real",
+        "content",
+        "purpose"
+      ],
+      "patterns": [
+        "what is small talk",
+        "small talk",
+        "explain small talk",
+        "definition of small talk",
+        "small talk meaning",
+        "how to make small talk",
+        "small talk topics to avoid",
+        "ano ang small talk",
+        "unsa ang small talk"
+      ],
+      "answer": "Small talk is conversation with no real content, and its purpose is to keep the contact going rather than to exchange information. That is not a criticism, because it does the work of establishing a relationship before anything harder can be attempted. The subjects that work are weather, traffic, and anything happening in the room, and the subjects that fail are politics, money and other people. The rules are unwritten and learnable only by watching what people steer back to.",
+      "variations": [
+        "That is not a criticism, because it does the work of establishing a relationship before anything harder can be attempted. Small talk is conversation with no real content, and its purpose is to keep the contact going rather than to exchange information. The subjects that work are weather, traffic, and anything happening in the room, and the subjects that fail are politics, money and other people. The rules are unwritten and learnable only by watching what people steer back to.",
+        "The subjects that work are weather, traffic, and anything happening in the room, and the subjects that fail are politics, money and other people. Small talk is conversation with no real content, and its purpose is to keep the contact going rather than to exchange information. That is not a criticism, because it does the work of establishing a relationship before anything harder can be attempted. The rules are unwritten and learnable only by watching what people steer back to."
+      ],
+      "tl": "small talk",
+      "bis": "small talk"
+    },
+    {
+      "id": "eng-everyday-conversations-000002",
+      "topic": "english-everyday-conversations",
+      "intent": "definition",
+      "concept": "catch up",
+      "keywords": [
+        "catch up",
+        "current",
+        "gap",
+        "news",
+        "reopen",
+        "backlog",
+        "catch",
+        "means",
+        "bring",
+        "yourself",
+        "after"
+      ],
+      "patterns": [
+        "what is catch up",
+        "catch up",
+        "explain catch up",
+        "definition of catch up",
+        "catch up meaning",
+        "what does catch up mean",
+        "how to catch up with someone",
+        "catch up with work",
+        "ano ang catch up",
+        "unsa ang catch up"
+      ],
+      "answer": "To catch up means to bring yourself current after a gap, and the phrase covers news, on people, and on lost time, all with the same sense of a debt being cleared. Asking to catch up is a normal way to reopen a conversation with someone you have not seen, and it is more specific than how are you because it asks about the gap. Catching up with work means the same thing in miniature, and people who never do it accumulate a backlog rather than a single debt.",
+      "variations": [
+        "Asking to catch up is a normal way to reopen a conversation with someone you have not seen, and it is more specific than how are you because it asks about the gap. To catch up means to bring yourself current after a gap, and the phrase covers news, on people, and on lost time, all with the same sense of a debt being cleared. Catching up with work means the same thing in miniature, and people who never do it accumulate a backlog rather than a single debt.",
+        "Catching up with work means the same thing in miniature, and people who never do it accumulate a backlog rather than a single debt. To catch up means to bring yourself current after a gap, and the phrase covers news, on people, and on lost time, all with the same sense of a debt being cleared. Asking to catch up is a normal way to reopen a conversation with someone you have not seen, and it is more specific than how are you because it asks about the gap."
+      ],
+      "tl": "catch up",
+      "bis": "catch up"
+    },
+    {
+      "id": "eng-everyday-conversations-000003",
+      "topic": "english-everyday-conversations",
+      "intent": "definition",
+      "concept": "weekend",
+      "keywords": [
+        "weekend",
+        "friday",
+        "sunday",
+        "period",
+        "hours",
+        "arrange",
+        "week",
+        "roughly",
+        "evening"
+      ],
+      "patterns": [
+        "what is weekend",
+        "weekend",
+        "explain weekend",
+        "definition of weekend",
+        "weekend meaning",
+        "when does the weekend start",
+        "is weekend plural",
+        "what happens on a weekend",
+        "ano ang weekend",
+        "unsa ang weekend"
+      ],
+      "answer": "The weekend is the part of the week from roughly Friday evening to Sunday evening, and the exact boundary varies by employer and by country. Its word is plural, which reflects that it covers two days rather than one period, and that is a small clue about what people mean by it. The weekend also carries a strong cultural weight, since it is the main period in which people see family and friends, and everything from opening hours to transport is arranged around it.",
+      "variations": [
+        "Its word is plural, which reflects that it covers two days rather than one period, and that is a small clue about what people mean by it. The weekend is the part of the week from roughly Friday evening to Sunday evening, and the exact boundary varies by employer and by country. The weekend also carries a strong cultural weight, since it is the main period in which people see family and friends, and everything from opening hours to transport is arranged around it.",
+        "The weekend also carries a strong cultural weight, since it is the main period in which people see family and friends, and everything from opening hours to transport is arranged around it. The weekend is the part of the week from roughly Friday evening to Sunday evening, and the exact boundary varies by employer and by country. Its word is plural, which reflects that it covers two days rather than one period, and that is a small clue about what people mean by it."
+      ],
+      "tl": "weekend",
+      "bis": "weekend"
+    },
+    {
+      "id": "eng-everyday-conversations-000004",
+      "topic": "english-everyday-conversations",
+      "intent": "definition",
+      "concept": "weather chat",
+      "keywords": [
+        "weather chat",
+        "forecast",
+        "conversation",
+        "uncountable",
+        "opinion",
+        "talking",
+        "weather",
+        "universally",
+        "safe",
+        "opening"
+      ],
+      "patterns": [
+        "what is weather chat",
+        "weather chat",
+        "explain weather chat",
+        "definition of weather chat",
+        "weather chat meaning",
+        "how to talk about the weather",
+        "is weather small talk",
+        "why is weather safe to discuss",
+        "ano ang weather chat",
+        "unsa ang weather talk"
+      ],
+      "answer": "Talking about the weather is the most universally safe opening in a conversation, because everybody has an opinion and nobody can be wrong. It is also the fallback topic people retreat to when they want to avoid a question, and a host who steers every talk to the forecast is usually doing that on purpose. The linguistic interest is that English treats weather as uncountable, where a language like Tagalog or Bisaya counts rain and wind as separate words, which changes what each one can be used to describe.",
+      "variations": [
+        "It is also the fallback topic people retreat to when they want to avoid a question, and a host who steers every talk to the forecast is usually doing that on purpose. Talking about the weather is the most universally safe opening in a conversation, because everybody has an opinion and nobody can be wrong. The linguistic interest is that English treats weather as uncountable, where a language like Tagalog or Bisaya counts rain and wind as separate words, which changes what each one can be used to describe.",
+        "The linguistic interest is that English treats weather as uncountable, where a language like Tagalog or Bisaya counts rain and wind as separate words, which changes what each one can be used to describe. Talking about the weather is the most universally safe opening in a conversation, because everybody has an opinion and nobody can be wrong. It is also the fallback topic people retreat to when they want to avoid a question, and a host who steers every talk to the forecast is usually doing that on purpose."
+      ],
+      "tl": "weather chat",
+      "bis": "weather talk"
+    },
+    {
+      "id": "eng-everyday-conversations-000005",
+      "topic": "english-everyday-conversations",
+      "intent": "definition",
+      "concept": "opinion",
+      "keywords": [
+        "opinion",
+        "belief",
+        "fact",
+        "evidence",
+        "rumour",
+        "claim",
+        "held",
+        "without"
+      ],
+      "patterns": [
+        "what is opinion",
+        "opinion",
+        "explain opinion",
+        "definition of opinion",
+        "opinion meaning",
+        "what is an opinion",
+        "difference between fact and opinion",
+        "is in my opinion a claim",
+        "ano ang opinion",
+        "unsa ang opinion"
+      ],
+      "answer": "An opinion is a belief held without the evidence that would make it a fact, and the word is neutral about whether that is good or bad. English marks the difference sharply, being fact, opinion, belief and rumour, where many languages use one word for all of them. This is why the phrase in my opinion exists, because it marks the claim as the speaker's own and not the listener's obligation. Being wrong about an opinion is not an error the way being wrong about a fact is.",
+      "variations": [
+        "English marks the difference sharply, being fact, opinion, belief and rumour, where many languages use one word for all of them. An opinion is a belief held without the evidence that would make it a fact, and the word is neutral about whether that is good or bad. This is why the phrase in my opinion exists, because it marks the claim as the speaker's own and not the listener's obligation. Being wrong about an opinion is not an error the way being wrong about a fact is.",
+        "This is why the phrase in my opinion exists, because it marks the claim as the speaker's own and not the listener's obligation. An opinion is a belief held without the evidence that would make it a fact, and the word is neutral about whether that is good or bad. English marks the difference sharply, being fact, opinion, belief and rumour, where many languages use one word for all of them. Being wrong about an opinion is not an error the way being wrong about a fact is."
+      ],
+      "tl": "opinion",
+      "bis": "opinion"
+    },
+    {
+      "id": "eng-everyday-conversations-000006",
+      "topic": "english-everyday-conversations",
+      "intent": "definition",
+      "concept": "rumour",
+      "keywords": [
+        "rumour",
+        "unchecked",
+        "gossip",
+        "hearsay",
+        "verified",
+        "travel",
+        "tsismis",
+        "piece",
+        "information",
+        "passed",
+        "without",
+        "being"
+      ],
+      "patterns": [
+        "what is rumour",
+        "rumour",
+        "explain rumour",
+        "definition of rumour",
+        "rumour meaning",
+        "what is a rumour",
+        "difference between rumour and gossip",
+        "is hearsay the same as rumour",
+        "ano ang rumour",
+        "unsa ang tsismis"
+      ],
+      "answer": "A rumour is a piece of information passed on without being checked, and the word carries the doubt openly, so a rumour is a claim whose source the speaker is not vouching for. English is unusually honest here, offering gossip, hearsay and rumour with slightly different shades, and none of them claims to be verified. What makes the word necessary is that unchecked information travels fast, and marking it keeps people from passing it on as fact.",
+      "variations": [
+        "English is unusually honest here, offering gossip, hearsay and rumour with slightly different shades, and none of them claims to be verified. A rumour is a piece of information passed on without being checked, and the word carries the doubt openly, so a rumour is a claim whose source the speaker is not vouching for. What makes the word necessary is that unchecked information travels fast, and marking it keeps people from passing it on as fact.",
+        "What makes the word necessary is that unchecked information travels fast, and marking it keeps people from passing it on as fact. A rumour is a piece of information passed on without being checked, and the word carries the doubt openly, so a rumour is a claim whose source the speaker is not vouching for. English is unusually honest here, offering gossip, hearsay and rumour with slightly different shades, and none of them claims to be verified."
+      ],
+      "tl": "rumour",
+      "bis": "tsismis"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "everyday-conversations",
+  "title": "Everyday conversations",
+  "groupTitle": "English"
+}

@@ -1,0 +1,224 @@
+{
+  "topic": "english-numbers",
+  "entries": [
+    {
+      "id": "eng-numbers-000001",
+      "topic": "english-numbers",
+      "intent": "definition",
+      "concept": "integer",
+      "keywords": [
+        "integer",
+        "whole",
+        "negative",
+        "zero",
+        "exact",
+        "store",
+        "fractional",
+        "includes"
+      ],
+      "patterns": [
+        "what is integer",
+        "integer",
+        "explain integer",
+        "definition of integer",
+        "integer meaning",
+        "what is an integer",
+        "is zero an integer",
+        "why 0.1 plus 0.2 is not 0.3",
+        "ano ang integer",
+        "unsa ang integer"
+      ],
+      "answer": "An integer is a whole number with no fractional part, and it includes zero and the negative numbers, which is where everyday speech is narrower than the mathematical sense. People often use whole number to mean positive only, and then the two words stop being interchangeable. Integers are the only values a computer stores exactly, so 0.1 plus 0.2 is not 0.3 even though it prints that way, and the error is small but permanent.",
+      "variations": [
+        "People often use whole number to mean positive only, and then the two words stop being interchangeable. An integer is a whole number with no fractional part, and it includes zero and the negative numbers, which is where everyday speech is narrower than the mathematical sense. 3 even though it prints that way, and the error is small but permanent.",
+        "3 even though it prints that way, and the error is small but permanent. An integer is a whole number with no fractional part, and it includes zero and the negative numbers, which is where everyday speech is narrower than the mathematical sense. People often use whole number to mean positive only, and then the two words stop being interchangeable."
+      ],
+      "tl": "integer",
+      "bis": "integer"
+    },
+    {
+      "id": "eng-numbers-000002",
+      "topic": "english-numbers",
+      "intent": "definition",
+      "concept": "decimal",
+      "keywords": [
+        "decimal",
+        "base",
+        "point",
+        "fraction",
+        "tenth",
+        "written",
+        "separating",
+        "whole"
+      ],
+      "patterns": [
+        "what is decimal",
+        "decimal",
+        "explain decimal",
+        "definition of decimal",
+        "decimal meaning",
+        "what is a decimal number",
+        "decimal vs fraction",
+        "how to read a decimal",
+        "ano ang decimal",
+        "unsa ang decimal"
+      ],
+      "answer": "A decimal number is written in base ten with a point separating the whole part from the fraction, and it is the notation almost the whole world uses for arithmetic. The word also names a small fraction of something, as in a tenth of a cent, so the two senses sit a long way apart. The practical difference from a fraction is place value, because 0.5 and 0.05 are a single value in fraction arithmetic and entirely different numbers written as decimals.",
+      "variations": [
+        "The word also names a small fraction of something, as in a tenth of a cent, so the two senses sit a long way apart. A decimal number is written in base ten with a point separating the whole part from the fraction, and it is the notation almost the whole world uses for arithmetic. 05 are a single value in fraction arithmetic and entirely different numbers written as decimals.",
+        "05 are a single value in fraction arithmetic and entirely different numbers written as decimals. A decimal number is written in base ten with a point separating the whole part from the fraction, and it is the notation almost the whole world uses for arithmetic. The word also names a small fraction of something, as in a tenth of a cent, so the two senses sit a long way apart."
+      ],
+      "tl": "decimal",
+      "bis": "decimal"
+    },
+    {
+      "id": "eng-numbers-000003",
+      "topic": "english-numbers",
+      "intent": "definition",
+      "concept": "odd",
+      "keywords": [
+        "odd",
+        "remainder",
+        "divided",
+        "two",
+        "strange",
+        "unusual",
+        "digit",
+        "leaves",
+        "word",
+        "means"
+      ],
+      "patterns": [
+        "what is odd",
+        "odd",
+        "explain odd",
+        "definition of odd",
+        "odd meaning",
+        "what is an odd number",
+        "how to tell odd from even",
+        "is 3 an odd number",
+        "ano ang odd",
+        "unsa ang odd"
+      ],
+      "answer": "An odd number is one that leaves a remainder of one when divided by two, and the same word also means strange, unusual or unmatched. English is full of overlaps like this and the mathematical sense is the older, appearing long before the word was applied to anything eccentric. Nothing beyond the last digit decides it, and that digit has to be 1, 3, 5, 7 or 9, so the test needs no division at all.",
+      "variations": [
+        "English is full of overlaps like this and the mathematical sense is the older, appearing long before the word was applied to anything eccentric. An odd number is one that leaves a remainder of one when divided by two, and the same word also means strange, unusual or unmatched. Nothing beyond the last digit decides it, and that digit has to be 1, 3, 5, 7 or 9, so the test needs no division at all.",
+        "Nothing beyond the last digit decides it, and that digit has to be 1, 3, 5, 7 or 9, so the test needs no division at all. An odd number is one that leaves a remainder of one when divided by two, and the same word also means strange, unusual or unmatched. English is full of overlaps like this and the mathematical sense is the older, appearing long before the word was applied to anything eccentric."
+      ],
+      "tl": "odd",
+      "bis": "odd"
+    },
+    {
+      "id": "eng-numbers-000004",
+      "topic": "english-numbers",
+      "intent": "definition",
+      "concept": "even",
+      "keywords": [
+        "even",
+        "remainder",
+        "two",
+        "level",
+        "fair",
+        "smooth",
+        "digit",
+        "divides",
+        "word",
+        "means"
+      ],
+      "patterns": [
+        "what is even",
+        "even",
+        "explain even",
+        "definition of even",
+        "even meaning",
+        "what is an even number",
+        "how to check if a number is even",
+        "is 0 an even number",
+        "ano ang even",
+        "unsa ang even"
+      ],
+      "answer": "An even number divides by two with no remainder, and the same word also means level, fair or smooth. Here too the older sense is the arithmetical one, and the everyday sense arrived by way of describing something flat rather than by separate invention. Only the final character matters, and it has to be 0, 2, 4, 6 or 8, which is why the whole test fits in one glance.",
+      "variations": [
+        "Here too the older sense is the arithmetical one, and the everyday sense arrived by way of describing something flat rather than by separate invention. An even number divides by two with no remainder, and the same word also means level, fair or smooth. Only the final character matters, and it has to be 0, 2, 4, 6 or 8, which is why the whole test fits in one glance.",
+        "Only the final character matters, and it has to be 0, 2, 4, 6 or 8, which is why the whole test fits in one glance. An even number divides by two with no remainder, and the same word also means level, fair or smooth. Here too the older sense is the arithmetical one, and the everyday sense arrived by way of describing something flat rather than by separate invention."
+      ],
+      "tl": "even",
+      "bis": "even"
+    },
+    {
+      "id": "eng-numbers-000005",
+      "topic": "english-numbers",
+      "intent": "definition",
+      "concept": "negative",
+      "keywords": [
+        "negative",
+        "zero",
+        "sign",
+        "minus",
+        "unfavourable",
+        "result",
+        "negatibo",
+        "carries",
+        "rather"
+      ],
+      "patterns": [
+        "what is negative",
+        "negative",
+        "explain negative",
+        "definition of negative",
+        "negative meaning",
+        "what is a negative number",
+        "how do you write a negative",
+        "meaning of a negative result",
+        "ano ang negative",
+        "unsa ang negatibo"
+      ],
+      "answer": "A negative number is less than zero, and it carries a sign rather than being a separate kind of quantity, which is why the minus is written in front instead of being subtracted. The word also means unfavourable, as in a negative result, and that overlap is exactly why a negative medical result is worth stating in plain words. Arithmetically both signs are present, and the single point that separates them is what defines which is which.",
+      "variations": [
+        "The word also means unfavourable, as in a negative result, and that overlap is exactly why a negative medical result is worth stating in plain words. A negative number is less than zero, and it carries a sign rather than being a separate kind of quantity, which is why the minus is written in front instead of being subtracted. Arithmetically both signs are present, and the single point that separates them is what defines which is which.",
+        "Arithmetically both signs are present, and the single point that separates them is what defines which is which. A negative number is less than zero, and it carries a sign rather than being a separate kind of quantity, which is why the minus is written in front instead of being subtracted. The word also means unfavourable, as in a negative result, and that overlap is exactly why a negative medical result is worth stating in plain words."
+      ],
+      "tl": "negative",
+      "bis": "negatibo"
+    },
+    {
+      "id": "eng-numbers-000006",
+      "topic": "english-numbers",
+      "intent": "definition",
+      "concept": "digit",
+      "keywords": [
+        "digit",
+        "symbol",
+        "number",
+        "seven",
+        "seventeen",
+        "string",
+        "single"
+      ],
+      "patterns": [
+        "what is digit",
+        "digit",
+        "explain digit",
+        "definition of digit",
+        "digit meaning",
+        "what is a digit",
+        "difference between digit and number",
+        "how many digits in 1729",
+        "ano ang digit",
+        "unsa ang digit"
+      ],
+      "answer": "A digit is one symbol from 0 to 9, and a number is a string of them, so seven is a single digit and seventeen is two. English blurs the pair constantly, because most people say number when they mean digit and nothing breaks until place value comes up. The distinction carries real weight in mathematics teaching, where counting digits is a different exercise from counting numbers, and in computing, where a numeric type is described by how many digits it holds.",
+      "variations": [
+        "English blurs the pair constantly, because most people say number when they mean digit and nothing breaks until place value comes up. A digit is one symbol from 0 to 9, and a number is a string of them, so seven is a single digit and seventeen is two. The distinction carries real weight in mathematics teaching, where counting digits is a different exercise from counting numbers, and in computing, where a numeric type is described by how many digits it holds.",
+        "The distinction carries real weight in mathematics teaching, where counting digits is a different exercise from counting numbers, and in computing, where a numeric type is described by how many digits it holds. A digit is one symbol from 0 to 9, and a number is a string of them, so seven is a single digit and seventeen is two. English blurs the pair constantly, because most people say number when they mean digit and nothing breaks until place value comes up."
+      ],
+      "tl": "digit",
+      "bis": "digit"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "numbers",
+  "title": "Numbers",
+  "groupTitle": "English"
+}

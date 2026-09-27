@@ -1,0 +1,4 @@
+# cebuano-basic-words.kb - Cebuano / Basic words
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 1 entries, one genuinely distinct fact per line.
+oo | definition | Oo means yes, and it is the ordinary affirmative answer in Cebuano. Alongside it is a third response, the polite or acknowledging yes that neither fully agrees nor refuses, and treating that as a plain yes is a common misunderstanding. Oo can also be a surprise marker, meaning oh, as in oo, ikaw man na. | yes, oo, oh, surprise, agree | oo meaning, unsaon nga mo sabutin oo | oo | oo

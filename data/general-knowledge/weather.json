@@ -1,0 +1,195 @@
+{
+  "topic": "general-knowledge-weather",
+  "entries": [
+    {
+      "id": "gen-weather-000001",
+      "topic": "general-knowledge-weather",
+      "intent": "definition",
+      "concept": "weather",
+      "keywords": [
+        "weather",
+        "atmosphere",
+        "today",
+        "live",
+        "temperature",
+        "forecast",
+        "panahon",
+        "state",
+        "place",
+        "hours",
+        "days"
+      ],
+      "patterns": [
+        "what is weather",
+        "weather",
+        "explain weather",
+        "definition of weather",
+        "weather meaning",
+        "what is the weather",
+        "what is the weather today",
+        "why can i not get the weather",
+        "ano ang weather",
+        "unsa ang panahon"
+      ],
+      "answer": "Weather is the state of the atmosphere at a place over hours or days, and I can explain the system that produces it, but I cannot tell you what it is doing in your town right now. There is no live source behind me, and a made-up temperature is worse than no answer. What I can do is describe how weather works, why forecasts are uncertain, and how to read one properly.",
+      "variations": [
+        "There is no live source behind me, and a made-up temperature is worse than no answer. Weather is the state of the atmosphere at a place over hours or days, and I can explain the system that produces it, but I cannot tell you what it is doing in your town right now. What I can do is describe how weather works, why forecasts are uncertain, and how to read one properly.",
+        "What I can do is describe how weather works, why forecasts are uncertain, and how to read one properly. Weather is the state of the atmosphere at a place over hours or days, and I can explain the system that produces it, but I cannot tell you what it is doing in your town right now. There is no live source behind me, and a made-up temperature is worse than no answer."
+      ],
+      "tl": "weather",
+      "bis": "panahon"
+    },
+    {
+      "id": "gen-weather-000002",
+      "topic": "general-knowledge-weather",
+      "intent": "definition",
+      "concept": "forecast",
+      "keywords": [
+        "forecast",
+        "probably",
+        "simulate",
+        "observation",
+        "range",
+        "statement",
+        "weather",
+        "word",
+        "doing"
+      ],
+      "patterns": [
+        "what is forecast",
+        "forecast",
+        "explain forecast",
+        "definition of forecast",
+        "forecast meaning",
+        "how are weather forecasts made",
+        "how far ahead is a forecast accurate",
+        "why is a forecast wrong",
+        "ano ang forecast",
+        "unsa ang forecast"
+      ],
+      "answer": "A forecast is a statement about what the weather will probably do, and the word probably is doing more work than most people notice. It is produced by simulating the atmosphere with current observations fed in, so the further ahead it goes the more it depends on assumptions that can fail. Skill varies sharply with lead time and with geography: a sea breeze is predictable, a convective storm three hours out is close to a coin toss, which is why forecasts are given as ranges.",
+      "variations": [
+        "It is produced by simulating the atmosphere with current observations fed in, so the further ahead it goes the more it depends on assumptions that can fail. A forecast is a statement about what the weather will probably do, and the word probably is doing more work than most people notice. Skill varies sharply with lead time and with geography: a sea breeze is predictable, a convective storm three hours out is close to a coin toss, which is why forecasts are given as ranges.",
+        "Skill varies sharply with lead time and with geography: a sea breeze is predictable, a convective storm three hours out is close to a coin toss, which is why forecasts are given as ranges. A forecast is a statement about what the weather will probably do, and the word probably is doing more work than most people notice. It is produced by simulating the atmosphere with current observations fed in, so the further ahead it goes the more it depends on assumptions that can fail."
+      ],
+      "tl": "forecast",
+      "bis": "forecast"
+    },
+    {
+      "id": "gen-weather-000003",
+      "topic": "general-knowledge-weather",
+      "intent": "definition",
+      "concept": "climate",
+      "keywords": [
+        "climate",
+        "weather",
+        "average",
+        "decade",
+        "heatwave",
+        "extreme",
+        "klima",
+        "averaged",
+        "decades",
+        "whole",
+        "difference"
+      ],
+      "patterns": [
+        "what is climate",
+        "climate",
+        "explain climate",
+        "definition of climate",
+        "climate meaning",
+        "is climate change the same as weather",
+        "why does climate matter",
+        "ano ang climate",
+        "unsa ang klima"
+      ],
+      "answer": "Climate is the weather averaged over decades, which is the whole difference and the reason the two words are used loosely. A cold week is not climate change, and a warm decade is not weather. The metrics are averages and extremes, and both matter, since a heatwave that becomes routine is the more serious signal even though the average has barely moved. This is also why climate is discussed in tens of years while weather is discussed in hours.",
+      "variations": [
+        "A cold week is not climate change, and a warm decade is not weather. Climate is the weather averaged over decades, which is the whole difference and the reason the two words are used loosely. The metrics are averages and extremes, and both matter, since a heatwave that becomes routine is the more serious signal even though the average has barely moved. This is also why climate is discussed in tens of years while weather is discussed in hours.",
+        "The metrics are averages and extremes, and both matter, since a heatwave that becomes routine is the more serious signal even though the average has barely moved. Climate is the weather averaged over decades, which is the whole difference and the reason the two words are used loosely. A cold week is not climate change, and a warm decade is not weather. This is also why climate is discussed in tens of years while weather is discussed in hours."
+      ],
+      "tl": "climate",
+      "bis": "klima"
+    },
+    {
+      "id": "gen-weather-000004",
+      "topic": "general-knowledge-weather",
+      "intent": "definition",
+      "concept": "storm",
+      "keywords": [
+        "storm",
+        "wind",
+        "rain",
+        "cyclone",
+        "thunder",
+        "lightning",
+        "bagyo",
+        "system",
+        "organised",
+        "produced"
+      ],
+      "patterns": [
+        "what is storm",
+        "storm",
+        "explain storm",
+        "definition of storm",
+        "storm meaning",
+        "what causes storms",
+        "are storms dangerous",
+        "what is a tropical cyclone",
+        "ano ang storm",
+        "unsa ang bagyo"
+      ],
+      "answer": "A storm is a system of organised wind and rain produced by air rising, and storms are named by type depending on what sustains them. Tropical cyclones need warm ocean water and rotate because of the planet's spin, which is why they do not form near the equator. Thunderstorms are convection on a small scale, and the danger in them is lightning rather than wind, which is why the advice is to get indoors rather than to shelter from the rain.",
+      "variations": [
+        "Tropical cyclones need warm ocean water and rotate because of the planet's spin, which is why they do not form near the equator. A storm is a system of organised wind and rain produced by air rising, and storms are named by type depending on what sustains them. Thunderstorms are convection on a small scale, and the danger in them is lightning rather than wind, which is why the advice is to get indoors rather than to shelter from the rain.",
+        "Thunderstorms are convection on a small scale, and the danger in them is lightning rather than wind, which is why the advice is to get indoors rather than to shelter from the rain. A storm is a system of organised wind and rain produced by air rising, and storms are named by type depending on what sustains them. Tropical cyclones need warm ocean water and rotate because of the planet's spin, which is why they do not form near the equator."
+      ],
+      "tl": "storm",
+      "bis": "bagyo"
+    },
+    {
+      "id": "gen-weather-000005",
+      "topic": "general-knowledge-weather",
+      "intent": "definition",
+      "concept": "humidity",
+      "keywords": [
+        "humidity",
+        "vapour",
+        "air",
+        "relative",
+        "percentage",
+        "sweat",
+        "basang",
+        "amount",
+        "water",
+        "number",
+        "people"
+      ],
+      "patterns": [
+        "what is humidity",
+        "humidity",
+        "explain humidity",
+        "definition of humidity",
+        "humidity meaning",
+        "why does humidity make heat feel worse",
+        "what is relative humidity",
+        "ano ang humidity",
+        "unsa ang basang"
+      ],
+      "answer": "Humidity is the amount of water vapour in air, and the number people quote is usually relative humidity, which is the amount as a percentage of what the air could hold at that temperature. That makes the figure hard to read on its own: 60 per cent feels very different at 15 degrees and at 35. The thing that actually affects people is how quickly sweat evaporates, which is why humid heat feels worse than dry heat at the same temperature.",
+      "variations": [
+        "That makes the figure hard to read on its own: 60 per cent feels very different at 15 degrees and at 35. Humidity is the amount of water vapour in air, and the number people quote is usually relative humidity, which is the amount as a percentage of what the air could hold at that temperature. The thing that actually affects people is how quickly sweat evaporates, which is why humid heat feels worse than dry heat at the same temperature.",
+        "The thing that actually affects people is how quickly sweat evaporates, which is why humid heat feels worse than dry heat at the same temperature. Humidity is the amount of water vapour in air, and the number people quote is usually relative humidity, which is the amount as a percentage of what the air could hold at that temperature. That makes the figure hard to read on its own: 60 per cent feels very different at 15 degrees and at 35."
+      ],
+      "tl": "humidity",
+      "bis": "basang"
+    }
+  ],
+  "lang": "english",
+  "group": "general-knowledge",
+  "sub": "weather",
+  "title": "Weather",
+  "groupTitle": "General Knowledge"
+}

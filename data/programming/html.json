@@ -1,0 +1,152 @@
+{
+  "topic": "programming-html",
+  "entries": [
+    {
+      "id": "pro-html-000001",
+      "topic": "programming-html",
+      "intent": "definition",
+      "concept": "html",
+      "keywords": [
+        "html",
+        "hypertext",
+        "markup",
+        "tag",
+        "language",
+        "gives",
+        "page",
+        "structure",
+        "styling"
+      ],
+      "patterns": [
+        "what is html",
+        "html",
+        "explain html",
+        "definition of html",
+        "html meaning"
+      ],
+      "answer": "HTML is the language that gives a web page its structure. It is not styling and not behaviour - it is the skeleton: headings, paragraphs, images, links, forms. Every page you have ever opened is built out of HTML tags such as h1 for a heading or p for a paragraph. CSS handles how it looks, JavaScript handles what it does.",
+      "variations": [
+        "It is not styling and not behaviour - it is the skeleton: headings, paragraphs, images, links, forms. HTML is the language that gives a web page its structure. Every page you have ever opened is built out of HTML tags such as h1 for a heading or p for a paragraph. CSS handles how it looks, JavaScript handles what it does.",
+        "Every page you have ever opened is built out of HTML tags such as h1 for a heading or p for a paragraph. HTML is the language that gives a web page its structure. It is not styling and not behaviour - it is the skeleton: headings, paragraphs, images, links, forms. CSS handles how it looks, JavaScript handles what it does."
+      ]
+    },
+    {
+      "id": "pro-html-000002",
+      "topic": "programming-html",
+      "intent": "definition",
+      "concept": "dom",
+      "keywords": [
+        "dom",
+        "tree",
+        "node",
+        "mutation",
+        "reflow",
+        "layout",
+        "browser's",
+        "live",
+        "representation",
+        "document",
+        "object"
+      ],
+      "patterns": [
+        "what is dom",
+        "dom",
+        "explain dom",
+        "definition of dom",
+        "dom meaning",
+        "what is the dom",
+        "why is my dom manipulation slow",
+        "what is layout thrashing",
+        "ano ang DOM",
+        "unsa ang DOM"
+      ],
+      "answer": "The DOM is the browser's live tree representation of the document, and it is a live object rather than a snapshot, so changing a node updates the screen and observing a change fires a mutation. Scripting the DOM is how a page becomes an application. The expensive operation is repeatedly reading layout properties, because the browser must recalculate geometry, so interleaving a read and a write in a loop causes layout thrashing; batching all reads then all writes avoids it.",
+      "variations": [
+        "Scripting the DOM is how a page becomes an application. The DOM is the browser's live tree representation of the document, and it is a live object rather than a snapshot, so changing a node updates the screen and observing a change fires a mutation. The expensive operation is repeatedly reading layout properties, because the browser must recalculate geometry, so interleaving a read and a write in a loop causes layout thrashing; batching all reads then all writes avoids it.",
+        "The expensive operation is repeatedly reading layout properties, because the browser must recalculate geometry, so interleaving a read and a write in a loop causes layout thrashing; batching all reads then all writes avoids it. The DOM is the browser's live tree representation of the document, and it is a live object rather than a snapshot, so changing a node updates the screen and observing a change fires a mutation. Scripting the DOM is how a page becomes an application."
+      ],
+      "tl": "DOM",
+      "bis": "DOM"
+    },
+    {
+      "id": "pro-html-000003",
+      "topic": "programming-html",
+      "intent": "definition",
+      "concept": "semantic html",
+      "keywords": [
+        "semantic html",
+        "semantics",
+        "accessible",
+        "markup",
+        "accessibility",
+        "semantik",
+        "semantic",
+        "html",
+        "means",
+        "choosing",
+        "element",
+        "meaning"
+      ],
+      "patterns": [
+        "what is semantic html",
+        "semantic html",
+        "explain semantic html",
+        "definition of semantic html",
+        "semantic html meaning",
+        "what does semantic html mean",
+        "why use semantic html",
+        "does semantic html help seo",
+        "ano ang semantik",
+        "unsa ang semantik"
+      ],
+      "answer": "Semantic HTML means choosing the element for its meaning rather than for how it looks, so a button is a button and a navigation is a nav. It costs nothing at runtime, and it is what gives you keyboard focus, screen reader announcements and browser behaviour for free. The classic test is turning off the CSS: a well-built page is still a readable document in the right order, while a div soup becomes an undifferentiated wall.",
+      "variations": [
+        "It costs nothing at runtime, and it is what gives you keyboard focus, screen reader announcements and browser behaviour for free. Semantic HTML means choosing the element for its meaning rather than for how it looks, so a button is a button and a navigation is a nav. The classic test is turning off the CSS: a well-built page is still a readable document in the right order, while a div soup becomes an undifferentiated wall.",
+        "The classic test is turning off the CSS: a well-built page is still a readable document in the right order, while a div soup becomes an undifferentiated wall. Semantic HTML means choosing the element for its meaning rather than for how it looks, so a button is a button and a navigation is a nav. It costs nothing at runtime, and it is what gives you keyboard focus, screen reader announcements and browser behaviour for free."
+      ],
+      "tl": "semantik",
+      "bis": "semantik"
+    },
+    {
+      "id": "pro-html-000004",
+      "topic": "programming-html",
+      "intent": "definition",
+      "concept": "accessibility",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "aria",
+        "keyboard",
+        "contrast",
+        "means",
+        "page",
+        "works",
+        "everyone",
+        "large"
+      ],
+      "patterns": [
+        "what is accessibility",
+        "accessibility",
+        "explain accessibility",
+        "definition of accessibility",
+        "accessibility meaning",
+        "do i need aria labels",
+        "how do i test keyboard navigation",
+        "ano ang accessibility",
+        "unsa ang accessibility"
+      ],
+      "answer": "Accessibility means the page works for everyone, and a large part of it is nearly free: use real elements, keep the DOM order matching the visual order, label every control, make focus visible, and never remove the outline without replacing it. Beyond that, contrast matters, text must be resizable, and nothing may be conveyed by colour alone. The most useful habit is testing with the keyboard only, because anything you cannot reach with Tab you cannot operate without a mouse, and a screen reader will read the page in DOM order whether or not that is the order you designed for.",
+      "variations": [
+        "Beyond that, contrast matters, text must be resizable, and nothing may be conveyed by colour alone. Accessibility means the page works for everyone, and a large part of it is nearly free: use real elements, keep the DOM order matching the visual order, label every control, make focus visible, and never remove the outline without replacing it. The most useful habit is testing with the keyboard only, because anything you cannot reach with Tab you cannot operate without a mouse, and a screen reader will read the page in DOM order whether or not that is the order you designed for.",
+        "The most useful habit is testing with the keyboard only, because anything you cannot reach with Tab you cannot operate without a mouse, and a screen reader will read the page in DOM order whether or not that is the order you designed for. Accessibility means the page works for everyone, and a large part of it is nearly free: use real elements, keep the DOM order matching the visual order, label every control, make focus visible, and never remove the outline without replacing it. Beyond that, contrast matters, text must be resizable, and nothing may be conveyed by colour alone."
+      ],
+      "tl": "accessibility",
+      "bis": "accessibility"
+    }
+  ],
+  "lang": "english",
+  "group": "programming",
+  "sub": "html",
+  "title": "HTML",
+  "groupTitle": "Programming"
+}

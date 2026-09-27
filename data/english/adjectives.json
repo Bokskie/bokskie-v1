@@ -1,0 +1,233 @@
+{
+  "topic": "english-adjectives",
+  "entries": [
+    {
+      "id": "eng-adjectives-000001",
+      "topic": "english-adjectives",
+      "intent": "definition",
+      "concept": "comparative",
+      "keywords": [
+        "comparative",
+        "two",
+        "er",
+        "more",
+        "syllable",
+        "irregular",
+        "measures",
+        "takes",
+        "taller",
+        "careful",
+        "superlative"
+      ],
+      "patterns": [
+        "what is comparative",
+        "comparative",
+        "explain comparative",
+        "definition of comparative",
+        "comparative meaning",
+        "what is a comparative",
+        "comparative vs superlative",
+        "when to use more instead of er",
+        "ano ang comparative",
+        "unsa ang comparative"
+      ],
+      "answer": "A comparative measures two things and takes -er or more, as in taller and more careful, while a superlative measures a whole group and takes -est or most. The irregular set is small but worth learning as pairs, so good, better and best, and far and further. The rule people get wrong is the length limit, where more is required beyond about three syllables because an -er form stops being readable, and mixing the two is the usual slip.",
+      "variations": [
+        "The irregular set is small but worth learning as pairs, so good, better and best, and far and further. A comparative measures two things and takes -er or more, as in taller and more careful, while a superlative measures a whole group and takes -est or most. The rule people get wrong is the length limit, where more is required beyond about three syllables because an -er form stops being readable, and mixing the two is the usual slip.",
+        "The rule people get wrong is the length limit, where more is required beyond about three syllables because an -er form stops being readable, and mixing the two is the usual slip. A comparative measures two things and takes -er or more, as in taller and more careful, while a superlative measures a whole group and takes -est or most. The irregular set is small but worth learning as pairs, so good, better and best, and far and further."
+      ],
+      "tl": "comparative",
+      "bis": "comparative"
+    },
+    {
+      "id": "eng-adjectives-000002",
+      "topic": "english-adjectives",
+      "intent": "definition",
+      "concept": "superlative",
+      "keywords": [
+        "superlative",
+        "highest",
+        "three",
+        "the",
+        "degree",
+        "refuse",
+        "marks",
+        "group",
+        "therefore"
+      ],
+      "patterns": [
+        "what is superlative",
+        "superlative",
+        "explain superlative",
+        "definition of superlative",
+        "superlative meaning",
+        "what is a superlative",
+        "do superlatives take the",
+        "can a superlative be used with two things",
+        "ano ang superlative",
+        "unsa ang superlative"
+      ],
+      "answer": "A superlative marks the highest degree in a group and therefore needs at least three items, since comparing two is already a comparative. It also takes the definite article, as in the fastest car on the road, and that article is the part most often left out. A small set refuses comparison altogether, so a full glass cannot be fuller, which is why forcing a superlative can sound wrong rather than merely emphatic.",
+      "variations": [
+        "It also takes the definite article, as in the fastest car on the road, and that article is the part most often left out. A superlative marks the highest degree in a group and therefore needs at least three items, since comparing two is already a comparative. A small set refuses comparison altogether, so a full glass cannot be fuller, which is why forcing a superlative can sound wrong rather than merely emphatic.",
+        "A small set refuses comparison altogether, so a full glass cannot be fuller, which is why forcing a superlative can sound wrong rather than merely emphatic. A superlative marks the highest degree in a group and therefore needs at least three items, since comparing two is already a comparative. It also takes the definite article, as in the fastest car on the road, and that article is the part most often left out."
+      ],
+      "tl": "superlative",
+      "bis": "superlative"
+    },
+    {
+      "id": "eng-adjectives-000003",
+      "topic": "english-adjectives",
+      "intent": "definition",
+      "concept": "attributive",
+      "keywords": [
+        "attributive",
+        "before",
+        "noun",
+        "position",
+        "describe",
+        "permanent",
+        "adjective",
+        "sits",
+        "directly"
+      ],
+      "patterns": [
+        "what is attributive",
+        "attributive",
+        "explain attributive",
+        "definition of attributive",
+        "attributive meaning",
+        "what does attributive mean",
+        "attributive vs predicative",
+        "where do adjectives go",
+        "ano ang attributive",
+        "unsa ang attributive"
+      ],
+      "answer": "An attributive adjective sits directly before the noun it modifies, as in a charming house, and a predicative one follows a linking verb, as in the house is charming. The same word does both jobs with a shift in meaning, since the tired traveller describes the traveller while the traveller is tired describes a state. Some words refuse one position entirely, and the wooden chair works where the chair is wooden implies something less permanent.",
+      "variations": [
+        "The same word does both jobs with a shift in meaning, since the tired traveller describes the traveller while the traveller is tired describes a state. An attributive adjective sits directly before the noun it modifies, as in a charming house, and a predicative one follows a linking verb, as in the house is charming. Some words refuse one position entirely, and the wooden chair works where the chair is wooden implies something less permanent.",
+        "Some words refuse one position entirely, and the wooden chair works where the chair is wooden implies something less permanent. An attributive adjective sits directly before the noun it modifies, as in a charming house, and a predicative one follows a linking verb, as in the house is charming. The same word does both jobs with a shift in meaning, since the tired traveller describes the traveller while the traveller is tired describes a state."
+      ],
+      "tl": "attributive",
+      "bis": "attributive"
+    },
+    {
+      "id": "eng-adjectives-000004",
+      "topic": "english-adjectives",
+      "intent": "definition",
+      "concept": "predicate",
+      "keywords": [
+        "predicate",
+        "linking",
+        "subject",
+        "sense",
+        "smell",
+        "state",
+        "predicative",
+        "adjective",
+        "follows",
+        "verb",
+        "describes"
+      ],
+      "patterns": [
+        "what is predicate",
+        "predicate",
+        "explain predicate",
+        "definition of predicate",
+        "predicate meaning",
+        "what is a predicative adjective",
+        "list of linking verbs",
+        "linking verb or not",
+        "ano ang predicate",
+        "unsa ang predicate"
+      ],
+      "answer": "A predicative adjective follows a linking verb and describes the subject rather than naming it, as in the soup tastes strange or the room feels cold. Linking verbs cover being, seeming and the five senses, which is where the whole class lives. The trap is that the same verbs also take ordinary objects, so he smells the milk and the milk smells sour are structurally different sentences built from the same word.",
+      "variations": [
+        "Linking verbs cover being, seeming and the five senses, which is where the whole class lives. A predicative adjective follows a linking verb and describes the subject rather than naming it, as in the soup tastes strange or the room feels cold. The trap is that the same verbs also take ordinary objects, so he smells the milk and the milk smells sour are structurally different sentences built from the same word.",
+        "The trap is that the same verbs also take ordinary objects, so he smells the milk and the milk smells sour are structurally different sentences built from the same word. A predicative adjective follows a linking verb and describes the subject rather than naming it, as in the soup tastes strange or the room feels cold. Linking verbs cover being, seeming and the five senses, which is where the whole class lives."
+      ],
+      "tl": "predicate",
+      "bis": "predicate"
+    },
+    {
+      "id": "eng-adjectives-000005",
+      "topic": "english-adjectives",
+      "intent": "definition",
+      "concept": "abstract",
+      "keywords": [
+        "abstract",
+        "quality",
+        "idea",
+        "honesty",
+        "point",
+        "physical",
+        "noun",
+        "names",
+        "state",
+        "action"
+      ],
+      "patterns": [
+        "what is abstract",
+        "abstract",
+        "explain abstract",
+        "definition of abstract",
+        "abstract meaning",
+        "what is an abstract noun",
+        "abstract vs concrete",
+        "list of abstract nouns",
+        "ano ang abstract",
+        "unsa ang abstract"
+      ],
+      "answer": "An abstract noun names a quality, state, action or idea that cannot be pointed at, covering honesty, freedom, arrival and kindness. The test is physical, since anything you could pick up is concrete, and that test handles the borderline cases cleanly. These are the nouns most often replaced by clumsy constructions in learner writing, because a concrete paraphrase feels safer even when it is vaguer and longer.",
+      "variations": [
+        "The test is physical, since anything you could pick up is concrete, and that test handles the borderline cases cleanly. An abstract noun names a quality, state, action or idea that cannot be pointed at, covering honesty, freedom, arrival and kindness. These are the nouns most often replaced by clumsy constructions in learner writing, because a concrete paraphrase feels safer even when it is vaguer and longer.",
+        "These are the nouns most often replaced by clumsy constructions in learner writing, because a concrete paraphrase feels safer even when it is vaguer and longer. An abstract noun names a quality, state, action or idea that cannot be pointed at, covering honesty, freedom, arrival and kindness. The test is physical, since anything you could pick up is concrete, and that test handles the borderline cases cleanly."
+      ],
+      "tl": "abstract",
+      "bis": "abstract"
+    },
+    {
+      "id": "eng-adjectives-000006",
+      "topic": "english-adjectives",
+      "intent": "definition",
+      "concept": "concrete",
+      "keywords": [
+        "concrete",
+        "sensory",
+        "count",
+        "article",
+        "table",
+        "class",
+        "noun",
+        "names",
+        "something",
+        "perceived",
+        "directly"
+      ],
+      "patterns": [
+        "what is concrete",
+        "concrete",
+        "explain concrete",
+        "definition of concrete",
+        "concrete meaning",
+        "what is a concrete noun",
+        "concrete vs abstract",
+        "can a word be both",
+        "ano ang concrete",
+        "unsa ang concrete"
+      ],
+      "answer": "A concrete noun names something perceived directly by sight, touch, sound or smell, and it contrasts with the abstract. The distinction is not about importance, since freedom matters far more than a table, and it is not fixed either, because a word can move between classes. What actually changes with the shift is countability, since an idea takes an article while an idea of mine takes a possessive.",
+      "variations": [
+        "The distinction is not about importance, since freedom matters far more than a table, and it is not fixed either, because a word can move between classes. A concrete noun names something perceived directly by sight, touch, sound or smell, and it contrasts with the abstract. What actually changes with the shift is countability, since an idea takes an article while an idea of mine takes a possessive.",
+        "What actually changes with the shift is countability, since an idea takes an article while an idea of mine takes a possessive. A concrete noun names something perceived directly by sight, touch, sound or smell, and it contrasts with the abstract. The distinction is not about importance, since freedom matters far more than a table, and it is not fixed either, because a word can move between classes."
+      ],
+      "tl": "concrete",
+      "bis": "concrete"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "adjectives",
+  "title": "Adjectives",
+  "groupTitle": "English"
+}

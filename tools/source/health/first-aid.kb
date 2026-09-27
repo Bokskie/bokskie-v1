@@ -1,0 +1,4 @@
+# health-first-aid.kb - Health / First aid
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 1 entries, one genuinely distinct fact per line.
+first aid | definition | The basics of first aid are worth knowing because the first few minutes matter more than anything done later. For bleeding, apply firm direct pressure with a clean cloth and keep pressing. For a burn, cool it under cool running water for about twenty minutes, and do not apply butter, toothpaste or ice. If someone is unresponsive and not breathing normally, call emergency services and start chest compressions, which is far better than doing nothing. A suspected spinal injury should not be moved unless necessary for safety. | first aid, bleeding, burn, cpr, emergency | what should i do in an emergency, how do i stop bleeding, what is cpr | first aid | first aid

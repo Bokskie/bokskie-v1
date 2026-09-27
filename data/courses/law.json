@@ -1,0 +1,163 @@
+{
+  "topic": "courses-law",
+  "entries": [
+    {
+      "id": "cou-law-000001",
+      "topic": "courses-law",
+      "intent": "definition",
+      "concept": "law degree",
+      "keywords": [
+        "law degree",
+        "lawyer",
+        "rule",
+        "apply",
+        "integration",
+        "reading",
+        "abugad",
+        "degree",
+        "teaches",
+        "reason",
+        "rules",
+        "facts"
+      ],
+      "patterns": [
+        "what is law degree",
+        "law degree",
+        "explain law degree",
+        "definition of law degree",
+        "law degree meaning",
+        "what is a law degree",
+        "how do i become a lawyer",
+        "is law hard",
+        "ano ang law degree",
+        "unsa ang abugad"
+      ],
+      "answer": "A law degree teaches how to reason about rules and how to apply them to facts nobody has seen before, which is the part that transfers to work outside law as well. In the Philippines the bachelor of laws is four years of study and a further year of practical training before the integration exam, and the graduate is then called a lawyer even before practising. The course is heavy on reading and writing, and the writing is the part that is underestimated.",
+      "variations": [
+        "In the Philippines the bachelor of laws is four years of study and a further year of practical training before the integration exam, and the graduate is then called a lawyer even before practising. A law degree teaches how to reason about rules and how to apply them to facts nobody has seen before, which is the part that transfers to work outside law as well. The course is heavy on reading and writing, and the writing is the part that is underestimated.",
+        "The course is heavy on reading and writing, and the writing is the part that is underestimated. A law degree teaches how to reason about rules and how to apply them to facts nobody has seen before, which is the part that transfers to work outside law as well. In the Philippines the bachelor of laws is four years of study and a further year of practical training before the integration exam, and the graduate is then called a lawyer even before practising."
+      ],
+      "tl": "law degree",
+      "bis": "abugad"
+    },
+    {
+      "id": "cou-law-000002",
+      "topic": "courses-law",
+      "intent": "definition",
+      "concept": "case brief",
+      "keywords": [
+        "case brief",
+        "case",
+        "issue",
+        "holding",
+        "reasoning",
+        "decision",
+        "brief",
+        "structured",
+        "summary",
+        "decided",
+        "structure",
+        "rather"
+      ],
+      "patterns": [
+        "what is case brief",
+        "case brief",
+        "explain case brief",
+        "definition of case brief",
+        "case brief meaning",
+        "what is a case brief",
+        "how to brief a case",
+        "what is IRAC",
+        "ano ang case brief",
+        "unsa ang case brief"
+      ],
+      "answer": "A case brief is a structured summary of a decided case, and the structure is the point rather than the length. The standard parts are the facts, the issue, the rule, the holding and the reasoning, in that order, and a brief that cannot state the issue in one sentence has not understood it. Doing them repeatedly is how the reading converts into usable skill, since the discipline is separating what a court decided from what somebody afterwards said about it.",
+      "variations": [
+        "The standard parts are the facts, the issue, the rule, the holding and the reasoning, in that order, and a brief that cannot state the issue in one sentence has not understood it. A case brief is a structured summary of a decided case, and the structure is the point rather than the length. Doing them repeatedly is how the reading converts into usable skill, since the discipline is separating what a court decided from what somebody afterwards said about it.",
+        "Doing them repeatedly is how the reading converts into usable skill, since the discipline is separating what a court decided from what somebody afterwards said about it. A case brief is a structured summary of a decided case, and the structure is the point rather than the length. The standard parts are the facts, the issue, the rule, the holding and the reasoning, in that order, and a brief that cannot state the issue in one sentence has not understood it."
+      ],
+      "tl": "case brief",
+      "bis": "case brief"
+    },
+    {
+      "id": "cou-law-000003",
+      "topic": "courses-law",
+      "intent": "definition",
+      "concept": "statute",
+      "keywords": [
+        "statute",
+        "legislature",
+        "law",
+        "case",
+        "binding",
+        "principle",
+        "passed",
+        "word",
+        "distinguishes",
+        "decision"
+      ],
+      "patterns": [
+        "what is statute",
+        "statute",
+        "explain statute",
+        "definition of statute",
+        "statute meaning",
+        "what is a statute",
+        "is a statute law",
+        "difference between statute and common law",
+        "ano ang statute",
+        "unsa ang statute"
+      ],
+      "answer": "A statute is a law passed by a legislature, and the word distinguishes it from a case, which is a decision a court made. In common-law systems both are binding, and the relationship is that a statute overrides an inconsistent earlier decision. Legislation is also easier to amend, since a legislature can change it, which is why detailed rules end up there and general principles end up in judgments.",
+      "variations": [
+        "In common-law systems both are binding, and the relationship is that a statute overrides an inconsistent earlier decision. A statute is a law passed by a legislature, and the word distinguishes it from a case, which is a decision a court made. Legislation is also easier to amend, since a legislature can change it, which is why detailed rules end up there and general principles end up in judgments.",
+        "Legislation is also easier to amend, since a legislature can change it, which is why detailed rules end up there and general principles end up in judgments. A statute is a law passed by a legislature, and the word distinguishes it from a case, which is a decision a court made. In common-law systems both are binding, and the relationship is that a statute overrides an inconsistent earlier decision."
+      ],
+      "tl": "statute",
+      "bis": "statute"
+    },
+    {
+      "id": "cou-law-000004",
+      "topic": "courses-law",
+      "intent": "definition",
+      "concept": "pro bono",
+      "keywords": [
+        "pro bono",
+        "free",
+        "unpaid",
+        "experience",
+        "community",
+        "bono",
+        "means",
+        "done",
+        "without",
+        "charge",
+        "describes"
+      ],
+      "patterns": [
+        "what is pro bono",
+        "pro bono",
+        "explain pro bono",
+        "definition of pro bono",
+        "pro bono meaning",
+        "what does pro bono mean",
+        "is pro bono work unpaid",
+        "why do lawyers do pro bono",
+        "ano ang pro bono",
+        "unsa ang pro bono"
+      ],
+      "answer": "Pro bono means done without charge, and in law it describes work given free to somebody who cannot pay, usually with an expectation of court costs being reduced. The term has broadened outside law to any unpaid professional work, sometimes with the board serving the community rather than the client. It is also a route into practice, since the experience counts and the exposure is real, though it is unpaid and the hours are often unglamorous.",
+      "variations": [
+        "The term has broadened outside law to any unpaid professional work, sometimes with the board serving the community rather than the client. Pro bono means done without charge, and in law it describes work given free to somebody who cannot pay, usually with an expectation of court costs being reduced. It is also a route into practice, since the experience counts and the exposure is real, though it is unpaid and the hours are often unglamorous.",
+        "It is also a route into practice, since the experience counts and the exposure is real, though it is unpaid and the hours are often unglamorous. Pro bono means done without charge, and in law it describes work given free to somebody who cannot pay, usually with an expectation of court costs being reduced. The term has broadened outside law to any unpaid professional work, sometimes with the board serving the community rather than the client."
+      ],
+      "tl": "pro bono",
+      "bis": "pro bono"
+    }
+  ],
+  "lang": "english",
+  "group": "courses",
+  "sub": "law",
+  "title": "Law",
+  "groupTitle": "Courses"
+}

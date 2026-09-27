@@ -1,0 +1,4 @@
+# science-general-science.kb - Science / General science
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 1 entries, one genuinely distinct fact per line.
+quantum | definition | Quantum mechanics describes matter and energy at very small scales, where particles behave in ways everyday intuition gets wrong. A quantum state can be a superposition of several possibilities at once until it is measured, and two particles can be entangled so that measuring one instantly constrains the other, however far apart. It is not a guess - it is the most precisely tested theory in physics, and it is what gives us semiconductors and lasers. | entanglement, qubit, superposition, wave | what is quantum, what is quantum entanglement, explain quantum |  |

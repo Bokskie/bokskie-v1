@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>bokskie.v1 · understanding engine</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>bokskie.v1 <span>understanding engine</span></h1>
+  <p class="sub">
+    An offline retrieval engine. It answers from a hand-written knowledge bank
+    and <strong>says it does not know</strong> when the bank has nothing close.
+    That refusal is the feature.
+  </p>
+  <div id="status" class="status">loading knowledge bank…</div>
+</header>
+
+<main>
+  <div class="stats" id="stats"></div>
+
+  <form id="form" autocomplete="off">
+    <input id="q" placeholder="ask something — e.g. “what is javascript”" disabled>
+    <button id="go" disabled>Ask</button>
+  </form>
+
+  <div class="chips" id="chips"></div>
+
+  <section id="out" class="out">
+    <p class="empty">Ask a question to see the pipeline run.</p>
+  </section>
+</main>
+
+<footer>
+  <p>
+    Try a question it <em>can</em> answer, then one it cannot.
+    The second is the important one.
+  </p>
+  <ul>
+    <li><b>In scope:</b> what is javascript · how does gravity work · kumusta ka · who are you</li>
+    <li><b>Out of scope:</b> who won the 2019 basketball world cup · how to bake sourdough</li>
+  </ul>
+</footer>
+
+<!-- Plain script tags, in dependency order. No bundler, no build step. -->
+<script src="../engine/tokenizer.js"></script>
+<script src="../engine/similarity.js"></script>
+<script src="../engine/intent.js"></script>
+<script src="../engine/context.js"></script>
+<script src="../engine/kb.js"></script>
+<script src="../engine/generator.js"></script>
+<script src="../engine/index.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

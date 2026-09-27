@@ -1,0 +1,232 @@
+{
+  "topic": "english-pronouns",
+  "entries": [
+    {
+      "id": "eng-pronouns-000001",
+      "topic": "english-pronouns",
+      "intent": "definition",
+      "concept": "possessive",
+      "keywords": [
+        "possessive",
+        "mine",
+        "yours",
+        "ownership",
+        "hers",
+        "theirs",
+        "aking-ari",
+        "stands",
+        "something",
+        "shows"
+      ],
+      "patterns": [
+        "what is possessive",
+        "possessive",
+        "explain possessive",
+        "definition of possessive",
+        "possessive meaning",
+        "what is a possessive pronoun",
+        "mine or my",
+        "difference between my and mine",
+        "ano ang possessive",
+        "unsa ang aking-ari"
+      ],
+      "answer": "A possessive pronoun stands in for something and shows ownership at the same time, as in mine, yours, hers, ours and theirs. The form changes with the owner rather than with the thing owned, so it is my book but the book is mine. The confusing part is that the ending looks like a plural, and hers really is hers whether it is one book or many, which is why the form has no number at all.",
+      "variations": [
+        "The form changes with the owner rather than with the thing owned, so it is my book but the book is mine. A possessive pronoun stands in for something and shows ownership at the same time, as in mine, yours, hers, ours and theirs. The confusing part is that the ending looks like a plural, and hers really is hers whether it is one book or many, which is why the form has no number at all.",
+        "The confusing part is that the ending looks like a plural, and hers really is hers whether it is one book or many, which is why the form has no number at all. A possessive pronoun stands in for something and shows ownership at the same time, as in mine, yours, hers, ours and theirs. The form changes with the owner rather than with the thing owned, so it is my book but the book is mine."
+      ],
+      "tl": "possessive",
+      "bis": "aking-ari"
+    },
+    {
+      "id": "eng-pronouns-000002",
+      "topic": "english-pronouns",
+      "intent": "definition",
+      "concept": "reflexive",
+      "keywords": [
+        "reflexive",
+        "myself",
+        "yourself",
+        "herself",
+        "emphatic",
+        "burn",
+        "kaugsa",
+        "points",
+        "back",
+        "subject",
+        "obligatory"
+      ],
+      "patterns": [
+        "what is reflexive",
+        "reflexive",
+        "explain reflexive",
+        "definition of reflexive",
+        "reflexive meaning",
+        "what is a reflexive pronoun",
+        "when do we use myself",
+        "yourself vs yourselves",
+        "ano ang reflexive",
+        "unsa ang kaugsa"
+      ],
+      "answer": "A reflexive pronoun points back at the subject, and it is only obligatory when something is done to the subject itself, as in she burned herself. Everywhere else it is emphatic, so I did it myself means nobody helped rather than the pronoun being required. The set is small, being myself, yourself, himself, herself, itself, ourselves, yourselves and themselves, and the plural forms are the ones people most often get wrong.",
+      "variations": [
+        "Everywhere else it is emphatic, so I did it myself means nobody helped rather than the pronoun being required. A reflexive pronoun points back at the subject, and it is only obligatory when something is done to the subject itself, as in she burned herself. The set is small, being myself, yourself, himself, herself, itself, ourselves, yourselves and themselves, and the plural forms are the ones people most often get wrong.",
+        "The set is small, being myself, yourself, himself, herself, itself, ourselves, yourselves and themselves, and the plural forms are the ones people most often get wrong. A reflexive pronoun points back at the subject, and it is only obligatory when something is done to the subject itself, as in she burned herself. Everywhere else it is emphatic, so I did it myself means nobody helped rather than the pronoun being required."
+      ],
+      "tl": "reflexive",
+      "bis": "kaugsa"
+    },
+    {
+      "id": "eng-pronouns-000003",
+      "topic": "english-pronouns",
+      "intent": "definition",
+      "concept": "demonstrative",
+      "keywords": [
+        "demonstrative",
+        "this",
+        "that",
+        "these",
+        "those",
+        "distance",
+        "ini",
+        "points",
+        "speaker",
+        "giving"
+      ],
+      "patterns": [
+        "what is demonstrative",
+        "demonstrative",
+        "explain demonstrative",
+        "definition of demonstrative",
+        "demonstrative meaning",
+        "what is a demonstrative pronoun",
+        "difference between this and that",
+        "this as a determiner",
+        "ano ang demonstrative",
+        "unsa ang ini"
+      ],
+      "answer": "A demonstrative pronoun points at a thing by its distance from the speaker, giving this, that, these and those. The pair splits by number as well, so this is one nearby thing and these is several, and the same split runs through the far set. They are also the words that turn into determiners when a noun follows, as this book, which is the same word doing a different job rather than a different word.",
+      "variations": [
+        "The pair splits by number as well, so this is one nearby thing and these is several, and the same split runs through the far set. A demonstrative pronoun points at a thing by its distance from the speaker, giving this, that, these and those. They are also the words that turn into determiners when a noun follows, as this book, which is the same word doing a different job rather than a different word.",
+        "They are also the words that turn into determiners when a noun follows, as this book, which is the same word doing a different job rather than a different word. A demonstrative pronoun points at a thing by its distance from the speaker, giving this, that, these and those. The pair splits by number as well, so this is one nearby thing and these is several, and the same split runs through the far set."
+      ],
+      "tl": "demonstrative",
+      "bis": "ini"
+    },
+    {
+      "id": "eng-pronouns-000004",
+      "topic": "english-pronouns",
+      "intent": "definition",
+      "concept": "indefinite",
+      "keywords": [
+        "indefinite",
+        "someone",
+        "anyone",
+        "everyone",
+        "nobody",
+        "each",
+        "stands",
+        "without",
+        "pointing",
+        "anything"
+      ],
+      "patterns": [
+        "what is indefinite",
+        "indefinite",
+        "explain indefinite",
+        "definition of indefinite",
+        "indefinite meaning",
+        "what is an indefinite pronoun",
+        "difference between someone and anyone",
+        "everyone vs all",
+        "ano ang indefinite",
+        "unsa ang walong tiyak"
+      ],
+      "answer": "An indefinite pronoun stands in without pointing at anything particular, covering someone, something, anyone, everyone, nobody and each. The interesting property is negation baked into the word, since no one is not the same as not everyone, and the quantifier everyone is not the same as all. A learner who treats these as interchangeable statements can say something quite strong by accident, which is why the distinctions matter more here than in most classes.",
+      "variations": [
+        "The interesting property is negation baked into the word, since no one is not the same as not everyone, and the quantifier everyone is not the same as all. An indefinite pronoun stands in without pointing at anything particular, covering someone, something, anyone, everyone, nobody and each. A learner who treats these as interchangeable statements can say something quite strong by accident, which is why the distinctions matter more here than in most classes.",
+        "A learner who treats these as interchangeable statements can say something quite strong by accident, which is why the distinctions matter more here than in most classes. An indefinite pronoun stands in without pointing at anything particular, covering someone, something, anyone, everyone, nobody and each. The interesting property is negation baked into the word, since no one is not the same as not everyone, and the quantifier everyone is not the same as all."
+      ],
+      "tl": "indefinite",
+      "bis": "walong tiyak"
+    },
+    {
+      "id": "eng-pronouns-000005",
+      "topic": "english-pronouns",
+      "intent": "definition",
+      "concept": "relative",
+      "keywords": [
+        "relative",
+        "who",
+        "which",
+        "whom",
+        "clause",
+        "describe",
+        "relatibo",
+        "introduces",
+        "describes",
+        "noun"
+      ],
+      "patterns": [
+        "what is relative",
+        "relative",
+        "explain relative",
+        "definition of relative",
+        "relative meaning",
+        "what is a relative pronoun",
+        "who or which",
+        "difference between who and whom",
+        "ano ang relative",
+        "unsa ang relatibo"
+      ],
+      "answer": "A relative pronoun introduces a clause that describes a noun, as in the man who called, the woman whose car broke, and the book that I read. The choice is restricted by the word before it, so who follows a person, which a thing and that a person or a thing, and whom is the object form after a preposition. The other job is standing in for the whole clause, where which can refer to a whole previous sentence.",
+      "variations": [
+        "The choice is restricted by the word before it, so who follows a person, which a thing and that a person or a thing, and whom is the object form after a preposition. A relative pronoun introduces a clause that describes a noun, as in the man who called, the woman whose car broke, and the book that I read. The other job is standing in for the whole clause, where which can refer to a whole previous sentence.",
+        "The other job is standing in for the whole clause, where which can refer to a whole previous sentence. A relative pronoun introduces a clause that describes a noun, as in the man who called, the woman whose car broke, and the book that I read. The choice is restricted by the word before it, so who follows a person, which a thing and that a person or a thing, and whom is the object form after a preposition."
+      ],
+      "tl": "relative",
+      "bis": "relatibo"
+    },
+    {
+      "id": "eng-pronouns-000006",
+      "topic": "english-pronouns",
+      "intent": "definition",
+      "concept": "reciprocal",
+      "keywords": [
+        "reciprocal",
+        "themselves",
+        "mutual",
+        "pair",
+        "balikan",
+        "expresses",
+        "people",
+        "something",
+        "english"
+      ],
+      "patterns": [
+        "what is reciprocal",
+        "reciprocal",
+        "explain reciprocal",
+        "definition of reciprocal",
+        "reciprocal meaning",
+        "what is a reciprocal pronoun",
+        "each other or one another",
+        "difference between each other and themselves",
+        "ano ang reciprocal",
+        "unsa ang balikan"
+      ],
+      "answer": "A reciprocal pronoun expresses that two people do something to each other, and English offers each other, one another and themselves. The choice between each other and one another is not a hard rule in modern usage, though each other reads more naturally with a small number and one another with a larger or uncountable set. The reflexive is the one to watch, because they helped each other and they helped themselves mean opposite things.",
+      "variations": [
+        "The choice between each other and one another is not a hard rule in modern usage, though each other reads more naturally with a small number and one another with a larger or uncountable set. A reciprocal pronoun expresses that two people do something to each other, and English offers each other, one another and themselves. The reflexive is the one to watch, because they helped each other and they helped themselves mean opposite things.",
+        "The reflexive is the one to watch, because they helped each other and they helped themselves mean opposite things. A reciprocal pronoun expresses that two people do something to each other, and English offers each other, one another and themselves. The choice between each other and one another is not a hard rule in modern usage, though each other reads more naturally with a small number and one another with a larger or uncountable set."
+      ],
+      "tl": "reciprocal",
+      "bis": "balikan"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "pronouns",
+  "title": "Pronouns",
+  "groupTitle": "English"
+}

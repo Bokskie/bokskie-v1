@@ -1,0 +1,4 @@
+# mathematics-algebra.kb - Mathematics / Algebra
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 1 entries, one genuinely distinct fact per line.
+quadratic | howto | A quadratic equation has the form ax squared plus bx plus c, equals zero. The quadratic formula solves it: x equals minus b, plus or minus the square root of b squared minus 4ac, all over 2a. The part under the square root is the discriminant - if it is positive there are two real roots, zero means one, negative means none. Graphically the curve is a parabola and the roots are where it crosses the axis. | equation, solve, roots, discriminant, parabola | how do i solve a quadratic, quadratic formula, how to solve equations |  |

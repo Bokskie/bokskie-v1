@@ -1,0 +1,230 @@
+{
+  "topic": "english-school",
+  "entries": [
+    {
+      "id": "eng-school-000001",
+      "topic": "english-school",
+      "intent": "definition",
+      "concept": "teacher",
+      "keywords": [
+        "teacher",
+        "learn",
+        "tutor",
+        "lecturer",
+        "instructor",
+        "guide",
+        "guro",
+        "someone",
+        "work",
+        "helping",
+        "people"
+      ],
+      "patterns": [
+        "what is teacher",
+        "teacher",
+        "explain teacher",
+        "definition of teacher",
+        "teacher meaning",
+        "what is a teacher",
+        "difference between teacher and lecturer",
+        "is a schoolteacher a specific job",
+        "ano ang teacher",
+        "unsa ang guro"
+      ],
+      "answer": "A teacher is someone whose work is helping other people learn, and the word is defined by that activity rather than by any qualification. Tutor, lecturer and instructor each name a part of the same job at a different level, and schoolteacher in British usage specifically teaches young children. The word has since widened to anyone who instructs at all, which is why a tour guide teaches as well and nobody finds that odd.",
+      "variations": [
+        "Tutor, lecturer and instructor each name a part of the same job at a different level, and schoolteacher in British usage specifically teaches young children. A teacher is someone whose work is helping other people learn, and the word is defined by that activity rather than by any qualification. The word has since widened to anyone who instructs at all, which is why a tour guide teaches as well and nobody finds that odd.",
+        "The word has since widened to anyone who instructs at all, which is why a tour guide teaches as well and nobody finds that odd. A teacher is someone whose work is helping other people learn, and the word is defined by that activity rather than by any qualification. Tutor, lecturer and instructor each name a part of the same job at a different level, and schoolteacher in British usage specifically teaches young children."
+      ],
+      "tl": "teacher",
+      "bis": "guro"
+    },
+    {
+      "id": "eng-school-000002",
+      "topic": "english-school",
+      "intent": "definition",
+      "concept": "student",
+      "keywords": [
+        "student",
+        "study",
+        "pupil",
+        "university",
+        "school",
+        "master",
+        "mag-aaral",
+        "person",
+        "studies",
+        "imply"
+      ],
+      "patterns": [
+        "what is student",
+        "student",
+        "explain student",
+        "definition of student",
+        "student meaning",
+        "what is a student",
+        "difference between student and pupil",
+        "students of a master meaning",
+        "ano ang student",
+        "unsa ang mag-aaral"
+      ],
+      "answer": "A student is a person who studies, and the word does not imply a school age, since university students are the largest group in most countries. That is a real difference from a pupil, which in British English does specify a child in school. Outside education the word widened further, so the students of a master means people studying under that person, and older writing uses it for anyone being taught anything at all.",
+      "variations": [
+        "That is a real difference from a pupil, which in British English does specify a child in school. A student is a person who studies, and the word does not imply a school age, since university students are the largest group in most countries. Outside education the word widened further, so the students of a master means people studying under that person, and older writing uses it for anyone being taught anything at all.",
+        "Outside education the word widened further, so the students of a master means people studying under that person, and older writing uses it for anyone being taught anything at all. A student is a person who studies, and the word does not imply a school age, since university students are the largest group in most countries. That is a real difference from a pupil, which in British English does specify a child in school."
+      ],
+      "tl": "student",
+      "bis": "mag-aaral"
+    },
+    {
+      "id": "eng-school-000003",
+      "topic": "english-school",
+      "intent": "definition",
+      "concept": "classroom",
+      "keywords": [
+        "classroom",
+        "room",
+        "teaching",
+        "phrase",
+        "group",
+        "underfunded",
+        "silid-aralan",
+        "happens",
+        "compound"
+      ],
+      "patterns": [
+        "what is classroom",
+        "classroom",
+        "explain classroom",
+        "definition of classroom",
+        "classroom meaning",
+        "what is a classroom",
+        "classrooms as a meaning",
+        "difference between classroom and class",
+        "ano ang classroom",
+        "unsa ang silid-aralan"
+      ],
+      "answer": "A classroom is the room where teaching happens, and the word is a compound that simply marks the purpose of the space rather than anything about its shape or size. The awkward modern usage is classrooms standing for the teaching itself, as in classrooms across the country are underfunded, where no room is involved. An older sense of a teaching group survives in the phrase, which still means a class as well as a room.",
+      "variations": [
+        "The awkward modern usage is classrooms standing for the teaching itself, as in classrooms across the country are underfunded, where no room is involved. A classroom is the room where teaching happens, and the word is a compound that simply marks the purpose of the space rather than anything about its shape or size. An older sense of a teaching group survives in the phrase, which still means a class as well as a room.",
+        "An older sense of a teaching group survives in the phrase, which still means a class as well as a room. A classroom is the room where teaching happens, and the word is a compound that simply marks the purpose of the space rather than anything about its shape or size. The awkward modern usage is classrooms standing for the teaching itself, as in classrooms across the country are underfunded, where no room is involved."
+      ],
+      "tl": "classroom",
+      "bis": "silid-aralan"
+    },
+    {
+      "id": "eng-school-000004",
+      "topic": "english-school",
+      "intent": "definition",
+      "concept": "assignment",
+      "keywords": [
+        "assignment",
+        "work",
+        "school",
+        "project",
+        "deadline",
+        "appointment",
+        "gawain",
+        "piece",
+        "somebody"
+      ],
+      "patterns": [
+        "what is assignment",
+        "assignment",
+        "explain assignment",
+        "definition of assignment",
+        "assignment meaning",
+        "what is an assignment",
+        "difference between assignment and homework",
+        "assignment at work",
+        "ano ang assignment",
+        "unsa ang gawain"
+      ],
+      "answer": "An assignment is a piece of work set to somebody, and the word is used at school, at university and at work for that same idea at different weights. At school it is routine and dated, and at work it usually means a particular project with a deadline attached. An older academic sense meaning an appointment to a post survives in the phrase, and in practice the two senses never meet.",
+      "variations": [
+        "At school it is routine and dated, and at work it usually means a particular project with a deadline attached. An assignment is a piece of work set to somebody, and the word is used at school, at university and at work for that same idea at different weights. An older academic sense meaning an appointment to a post survives in the phrase, and in practice the two senses never meet.",
+        "An older academic sense meaning an appointment to a post survives in the phrase, and in practice the two senses never meet. An assignment is a piece of work set to somebody, and the word is used at school, at university and at work for that same idea at different weights. At school it is routine and dated, and at work it usually means a particular project with a deadline attached."
+      ],
+      "tl": "assignment",
+      "bis": "gawain"
+    },
+    {
+      "id": "eng-school-000005",
+      "topic": "english-school",
+      "intent": "definition",
+      "concept": "exam",
+      "keywords": [
+        "exam",
+        "examination",
+        "test",
+        "quiz",
+        "revision",
+        "review",
+        "pagsubok",
+        "formal",
+        "knowledge",
+        "british",
+        "english"
+      ],
+      "patterns": [
+        "what is exam",
+        "exam",
+        "explain exam",
+        "definition of exam",
+        "exam meaning",
+        "difference between exam and test",
+        "what is a quiz",
+        "exam or examination spelling",
+        "ano ang exam",
+        "unsa ang pagsubok"
+      ],
+      "answer": "An exam is a formal test of knowledge, and in British English the full word examination is written out while in American usage the short form is normal for both. It differs from a test in standing, since an exam is graded and certificated while a test is a smaller check on one topic. The term quiz came in much later for a short informal check, and revision is the study done beforehand while review is the check afterwards.",
+      "variations": [
+        "It differs from a test in standing, since an exam is graded and certificated while a test is a smaller check on one topic. An exam is a formal test of knowledge, and in British English the full word examination is written out while in American usage the short form is normal for both. The term quiz came in much later for a short informal check, and revision is the study done beforehand while review is the check afterwards.",
+        "The term quiz came in much later for a short informal check, and revision is the study done beforehand while review is the check afterwards. An exam is a formal test of knowledge, and in British English the full word examination is written out while in American usage the short form is normal for both. It differs from a test in standing, since an exam is graded and certificated while a test is a smaller check on one topic."
+      ],
+      "tl": "exam",
+      "bis": "pagsubok"
+    },
+    {
+      "id": "eng-school-000006",
+      "topic": "english-school",
+      "intent": "definition",
+      "concept": "semester",
+      "keywords": [
+        "semester",
+        "term",
+        "academic",
+        "half",
+        "year",
+        "semestre",
+        "belongs",
+        "american"
+      ],
+      "patterns": [
+        "what is semester",
+        "semester",
+        "explain semester",
+        "definition of semester",
+        "semester meaning",
+        "what is a semester",
+        "difference between semester and term",
+        "how long is a semester",
+        "ano ang semester",
+        "unsa ang semestre"
+      ],
+      "answer": "A semester is one half of an academic year, and it belongs to the American system, while British and Commonwealth institutions use a term, which can run to three a year or only two, and the two words are not interchangeable in practice. Inside a semester there are usually teaching weeks followed by reading weeks with no classes at all. The word comes from a Latin term meaning six months, though a semester is nearer four or five, so the name overstates it.",
+      "variations": [
+        "Inside a semester there are usually teaching weeks followed by reading weeks with no classes at all. A semester is one half of an academic year, and it belongs to the American system, while British and Commonwealth institutions use a term, which can run to three a year or only two, and the two words are not interchangeable in practice. The word comes from a Latin term meaning six months, though a semester is nearer four or five, so the name overstates it.",
+        "The word comes from a Latin term meaning six months, though a semester is nearer four or five, so the name overstates it. A semester is one half of an academic year, and it belongs to the American system, while British and Commonwealth institutions use a term, which can run to three a year or only two, and the two words are not interchangeable in practice. Inside a semester there are usually teaching weeks followed by reading weeks with no classes at all."
+      ],
+      "tl": "semester",
+      "bis": "semestre"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "school",
+  "title": "School",
+  "groupTitle": "English"
+}

@@ -1,0 +1,196 @@
+{
+  "topic": "sports-athletics",
+  "entries": [
+    {
+      "id": "spo-athletics-000001",
+      "topic": "sports-athletics",
+      "intent": "definition",
+      "concept": "hurdles",
+      "keywords": [
+        "hurdles",
+        "barrier",
+        "distance",
+        "speed",
+        "technique",
+        "400",
+        "running",
+        "series",
+        "barriers",
+        "spaced",
+        "intervals"
+      ],
+      "patterns": [
+        "what is hurdles",
+        "hurdles",
+        "explain hurdles",
+        "definition of hurdles",
+        "hurdles meaning",
+        "what is a hurdles race",
+        "how high are the hurdles",
+        "why is 400m hurdles flat",
+        "ano ang hurdles",
+        "unsa ang hurdles"
+      ],
+      "answer": "Hurdles is running over a series of barriers spaced at intervals, and the distances are set so the race is evenly divided between speed and technique rather than being a sprint with obstacles in the way. The men's 110 metres and women's 100 metres use 1.067 metre barriers, while the 400 metres hurdles use 0.914, because the longer race allows a lower barrier. The 400 metres version is run almost entirely on the flat because there is no room to jump, which makes it a different event.",
+      "variations": [
+        "914, because the longer race allows a lower barrier. Hurdles is running over a series of barriers spaced at intervals, and the distances are set so the race is evenly divided between speed and technique rather than being a sprint with obstacles in the way. The 400 metres version is run almost entirely on the flat because there is no room to jump, which makes it a different event.",
+        "The 400 metres version is run almost entirely on the flat because there is no room to jump, which makes it a different event. Hurdles is running over a series of barriers spaced at intervals, and the distances are set so the race is evenly divided between speed and technique rather than being a sprint with obstacles in the way. 914, because the longer race allows a lower barrier."
+      ],
+      "tl": "hurdles",
+      "bis": "hurdles"
+    },
+    {
+      "id": "spo-athletics-000002",
+      "topic": "sports-athletics",
+      "intent": "definition",
+      "concept": "relay",
+      "keywords": [
+        "relay",
+        "baton",
+        "leg",
+        "anchor",
+        "exchange",
+        "zone",
+        "passes",
+        "runners",
+        "running",
+        "team"
+      ],
+      "patterns": [
+        "what is relay",
+        "relay",
+        "explain relay",
+        "definition of relay",
+        "relay meaning",
+        "what is a relay race",
+        "who is the anchor",
+        "what happens if you drop the baton",
+        "ano ang relay",
+        "unsa ang relay"
+      ],
+      "answer": "A relay passes a baton between runners, each running one leg, and the team result is the sum of the four times rather than the best individual time. That is why the fourth runner, the anchor, is usually the strongest, since a fast first three can absorb one poor leg. The rules are strict about where the exchange happens, inside a marked zone, and handing the baton rather than throwing it, because an invalid pass disqualifies the team.",
+      "variations": [
+        "That is why the fourth runner, the anchor, is usually the strongest, since a fast first three can absorb one poor leg. A relay passes a baton between runners, each running one leg, and the team result is the sum of the four times rather than the best individual time. The rules are strict about where the exchange happens, inside a marked zone, and handing the baton rather than throwing it, because an invalid pass disqualifies the team.",
+        "The rules are strict about where the exchange happens, inside a marked zone, and handing the baton rather than throwing it, because an invalid pass disqualifies the team. A relay passes a baton between runners, each running one leg, and the team result is the sum of the four times rather than the best individual time. That is why the fourth runner, the anchor, is usually the strongest, since a fast first three can absorb one poor leg."
+      ],
+      "tl": "relay",
+      "bis": "relay"
+    },
+    {
+      "id": "spo-athletics-000003",
+      "topic": "sports-athletics",
+      "intent": "definition",
+      "concept": "long jump",
+      "keywords": [
+        "long jump",
+        "take-off",
+        "board",
+        "sand",
+        "run-up",
+        "fault",
+        "long",
+        "jump",
+        "horizontal",
+        "measured",
+        "nearest"
+      ],
+      "patterns": [
+        "what is long jump",
+        "long jump",
+        "explain long jump",
+        "definition of long jump",
+        "long jump meaning",
+        "why is the take-off board so close",
+        "what counts as a foul",
+        "ano ang long jump",
+        "unsa ang long jump"
+      ],
+      "answer": "The long jump is a horizontal jump measured from the take-off board to the nearest mark in the sand, and the technique is a run-up that has to be consistent and a take-off that has to be in front of the board rather than after it. The physics is that a longer take-off board distance gives a faster approach but reduces the margin for error, which is why the board position is the technical work. Most faults are called for touching the board or the sand, rather than for a short jump.",
+      "variations": [
+        "The physics is that a longer take-off board distance gives a faster approach but reduces the margin for error, which is why the board position is the technical work. The long jump is a horizontal jump measured from the take-off board to the nearest mark in the sand, and the technique is a run-up that has to be consistent and a take-off that has to be in front of the board rather than after it. Most faults are called for touching the board or the sand, rather than for a short jump.",
+        "Most faults are called for touching the board or the sand, rather than for a short jump. The long jump is a horizontal jump measured from the take-off board to the nearest mark in the sand, and the technique is a run-up that has to be consistent and a take-off that has to be in front of the board rather than after it. The physics is that a longer take-off board distance gives a faster approach but reduces the margin for error, which is why the board position is the technical work."
+      ],
+      "tl": "long jump",
+      "bis": "long jump"
+    },
+    {
+      "id": "spo-athletics-000004",
+      "topic": "sports-athletics",
+      "intent": "definition",
+      "concept": "triple jump",
+      "keywords": [
+        "triple jump",
+        "hop",
+        "step",
+        "jump",
+        "stride",
+        "landing",
+        "triple",
+        "three",
+        "linked",
+        "jumps"
+      ],
+      "patterns": [
+        "what is triple jump",
+        "triple jump",
+        "explain triple jump",
+        "definition of triple jump",
+        "triple jump meaning",
+        "what is a triple jump",
+        "what are the three phases",
+        "why is triple jump harder",
+        "ano ang triple jump",
+        "unsa ang triple jump"
+      ],
+      "answer": "The triple jump is three linked jumps, hop, step and jump, and the discipline is that each phase has a purpose rather than being three equal bounds. The hop takes off and absorbs on the same leg, the step extends the stride, and the final jump converts the run into height and distance. It is the harder event of the two jumps, because the athlete must commit to a landing position in the air before knowing how far the previous phase carried them.",
+      "variations": [
+        "The hop takes off and absorbs on the same leg, the step extends the stride, and the final jump converts the run into height and distance. The triple jump is three linked jumps, hop, step and jump, and the discipline is that each phase has a purpose rather than being three equal bounds. It is the harder event of the two jumps, because the athlete must commit to a landing position in the air before knowing how far the previous phase carried them.",
+        "It is the harder event of the two jumps, because the athlete must commit to a landing position in the air before knowing how far the previous phase carried them. The triple jump is three linked jumps, hop, step and jump, and the discipline is that each phase has a purpose rather than being three equal bounds. The hop takes off and absorbs on the same leg, the step extends the stride, and the final jump converts the run into height and distance."
+      ],
+      "tl": "triple jump",
+      "bis": "triple jump"
+    },
+    {
+      "id": "spo-athletics-000005",
+      "topic": "sports-athletics",
+      "intent": "definition",
+      "concept": "sprint start",
+      "keywords": [
+        "sprint start",
+        "blocks",
+        "reaction",
+        "phase",
+        "hand",
+        "sprint",
+        "start",
+        "launch",
+        "worth",
+        "time"
+      ],
+      "patterns": [
+        "what is sprint start",
+        "sprint start",
+        "explain sprint start",
+        "definition of sprint start",
+        "sprint start meaning",
+        "what is a sprint start",
+        "why are starting blocks used",
+        "what is a false start",
+        "ano ang sprint start",
+        "unsa ang sprint start"
+      ],
+      "answer": "A sprint start is the launch from the blocks, and it is worth more time than most athletes expect, since the difference between a good and a poor start is a fifth of a second. The three-point stance is standard: rear foot about two foot-lengths back and roughly a hand's width ahead of the front. The reaction time dominates the first phase, so a false start is penalised even when the athlete was ready, and the rules allow one false start before disqualification in most competitions.",
+      "variations": [
+        "The three-point stance is standard: rear foot about two foot-lengths back and roughly a hand's width ahead of the front. A sprint start is the launch from the blocks, and it is worth more time than most athletes expect, since the difference between a good and a poor start is a fifth of a second. The reaction time dominates the first phase, so a false start is penalised even when the athlete was ready, and the rules allow one false start before disqualification in most competitions.",
+        "The reaction time dominates the first phase, so a false start is penalised even when the athlete was ready, and the rules allow one false start before disqualification in most competitions. A sprint start is the launch from the blocks, and it is worth more time than most athletes expect, since the difference between a good and a poor start is a fifth of a second. The three-point stance is standard: rear foot about two foot-lengths back and roughly a hand's width ahead of the front."
+      ],
+      "tl": "sprint start",
+      "bis": "sprint start"
+    }
+  ],
+  "lang": "english",
+  "group": "sports",
+  "sub": "athletics",
+  "title": "Athletics",
+  "groupTitle": "Sports"
+}

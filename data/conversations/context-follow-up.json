@@ -1,0 +1,235 @@
+{
+  "topic": "conversations-context-follow-up",
+  "entries": [
+    {
+      "id": "con-context-follow-up-000001",
+      "topic": "conversations-context-follow-up",
+      "intent": "definition",
+      "concept": "callback",
+      "keywords": [
+        "callback",
+        "reference",
+        "attention",
+        "link",
+        "recap",
+        "balikan",
+        "back",
+        "something",
+        "earlier",
+        "jobs"
+      ],
+      "patterns": [
+        "what is callback",
+        "callback",
+        "explain callback",
+        "definition of callback",
+        "callback meaning",
+        "what is a callback in conversation",
+        "how to reference something earlier",
+        "why callbacks work",
+        "ano ang callback",
+        "unsa ang balikan"
+      ],
+      "answer": "A callback is a reference back to something said earlier, and it does two jobs at once, since it signals attention and it supplies shared ground for continuing. The reference has to be accurate, because a callback to something that was not said exposes that the listener was not listening. It also works better as a link forward than a summary back, so you did the thing I mentioned yesterday beats a recap of the previous ten minutes.",
+      "variations": [
+        "The reference has to be accurate, because a callback to something that was not said exposes that the listener was not listening. A callback is a reference back to something said earlier, and it does two jobs at once, since it signals attention and it supplies shared ground for continuing. It also works better as a link forward than a summary back, so you did the thing I mentioned yesterday beats a recap of the previous ten minutes.",
+        "It also works better as a link forward than a summary back, so you did the thing I mentioned yesterday beats a recap of the previous ten minutes. A callback is a reference back to something said earlier, and it does two jobs at once, since it signals attention and it supplies shared ground for continuing. The reference has to be accurate, because a callback to something that was not said exposes that the listener was not listening."
+      ],
+      "tl": "callback",
+      "bis": "balikan"
+    },
+    {
+      "id": "con-context-follow-up-000002",
+      "topic": "conversations-context-follow-up",
+      "intent": "definition",
+      "concept": "continuity",
+      "keywords": [
+        "continuity",
+        "ongoing",
+        "context",
+        "carry",
+        "fresh",
+        "remembered",
+        "pagkakapareho",
+        "sense",
+        "conversation",
+        "rather",
+        "series"
+      ],
+      "patterns": [
+        "what is continuity",
+        "continuity",
+        "explain continuity",
+        "definition of continuity",
+        "continuity meaning",
+        "what is continuity in a conversation",
+        "why does an assistant forget context",
+        "how to keep a thread",
+        "ano ang continuity",
+        "unsa ang pagkakapareho"
+      ],
+      "answer": "Continuity is the sense that a conversation is one ongoing thing rather than a series of separate exchanges, and it is what makes a long chat feel like being with a person. It is produced by carrying context forward, and it is lost the moment the assistant treats a new message as a fresh start. The visible symptom is a question that should have been remembered being answered from scratch, which reads as though the earlier half never happened.",
+      "variations": [
+        "It is produced by carrying context forward, and it is lost the moment the assistant treats a new message as a fresh start. Continuity is the sense that a conversation is one ongoing thing rather than a series of separate exchanges, and it is what makes a long chat feel like being with a person. The visible symptom is a question that should have been remembered being answered from scratch, which reads as though the earlier half never happened.",
+        "The visible symptom is a question that should have been remembered being answered from scratch, which reads as though the earlier half never happened. Continuity is the sense that a conversation is one ongoing thing rather than a series of separate exchanges, and it is what makes a long chat feel like being with a person. It is produced by carrying context forward, and it is lost the moment the assistant treats a new message as a fresh start."
+      ],
+      "tl": "continuity",
+      "bis": "pagkakapareho"
+    },
+    {
+      "id": "con-context-follow-up-000003",
+      "topic": "conversations-context-follow-up",
+      "intent": "definition",
+      "concept": "thread",
+      "keywords": [
+        "thread",
+        "conversation",
+        "resume",
+        "digression",
+        "close",
+        "line",
+        "hibla",
+        "running",
+        "picking",
+        "again"
+      ],
+      "patterns": [
+        "what is thread",
+        "thread",
+        "explain thread",
+        "definition of thread",
+        "thread meaning",
+        "what does pick up the thread mean",
+        "how to change the subject back",
+        "what is a conversational thread",
+        "ano ang thread",
+        "unsa ang hibla"
+      ],
+      "answer": "A thread is the running line of a conversation, and picking one up again after a digression is the skill the word names. The failure mode is a second thread being started without the first being closed, after which neither can be resumed, and the conversation becomes a list of near-misses. A sentence that closes a digression explicitly, so going back to what you said about work, is what keeps one thread rather than five.",
+      "variations": [
+        "The failure mode is a second thread being started without the first being closed, after which neither can be resumed, and the conversation becomes a list of near-misses. A thread is the running line of a conversation, and picking one up again after a digression is the skill the word names. A sentence that closes a digression explicitly, so going back to what you said about work, is what keeps one thread rather than five.",
+        "A sentence that closes a digression explicitly, so going back to what you said about work, is what keeps one thread rather than five. A thread is the running line of a conversation, and picking one up again after a digression is the skill the word names. The failure mode is a second thread being started without the first being closed, after which neither can be resumed, and the conversation becomes a list of near-misses."
+      ],
+      "tl": "thread",
+      "bis": "hibla"
+    },
+    {
+      "id": "con-context-follow-up-000004",
+      "topic": "conversations-context-follow-up",
+      "intent": "definition",
+      "concept": "recap",
+      "keywords": [
+        "recap",
+        "summary",
+        "meeting",
+        "discussion",
+        "register",
+        "listener",
+        "buod",
+        "summarises",
+        "happened",
+        "useful",
+        "long"
+      ],
+      "patterns": [
+        "what is recap",
+        "recap",
+        "explain recap",
+        "definition of recap",
+        "recap meaning",
+        "what does recap mean",
+        "when to recap",
+        "is recapping bad",
+        "ano ang recap",
+        "unsa ang buod"
+      ],
+      "answer": "A recap summarises what has happened, and it is useful at the end of a long discussion and almost useless in the middle of one, where the listener already knows. English marks the difference in register rather than in the word, so recapping something two minutes old sounds like the speaker did not follow. The exception is a meeting with several people, where somebody genuinely was not there, and that is what a recap is actually for.",
+      "variations": [
+        "English marks the difference in register rather than in the word, so recapping something two minutes old sounds like the speaker did not follow. A recap summarises what has happened, and it is useful at the end of a long discussion and almost useless in the middle of one, where the listener already knows. The exception is a meeting with several people, where somebody genuinely was not there, and that is what a recap is actually for.",
+        "The exception is a meeting with several people, where somebody genuinely was not there, and that is what a recap is actually for. A recap summarises what has happened, and it is useful at the end of a long discussion and almost useless in the middle of one, where the listener already knows. English marks the difference in register rather than in the word, so recapping something two minutes old sounds like the speaker did not follow."
+      ],
+      "tl": "recap",
+      "bis": "buod"
+    },
+    {
+      "id": "con-context-follow-up-000005",
+      "topic": "conversations-context-follow-up",
+      "intent": "definition",
+      "concept": "return to topic",
+      "keywords": [
+        "return to topic",
+        "return",
+        "topic",
+        "digression",
+        "explicit",
+        "unresolved",
+        "finish",
+        "back",
+        "after",
+        "doing"
+      ],
+      "patterns": [
+        "what is return to topic",
+        "return to topic",
+        "explain return to topic",
+        "definition of return to topic",
+        "return to topic meaning",
+        "how to return to a topic",
+        "how to change the subject back smoothly",
+        "what to say when coming back",
+        "ano ang return to topic",
+        "unsa ang balik sa paksa"
+      ],
+      "answer": "To return to a topic is to come back to it after a digression, and doing it explicitly is better than letting the topic die, because the alternative is that it never gets finished. The mechanics are unglamorous: name where you were, name the specific unresolved part, and continue. What does not work is announcing the return without stating where, as in back to what we were saying, since that leaves the listener doing the work.",
+      "variations": [
+        "The mechanics are unglamorous: name where you were, name the specific unresolved part, and continue. To return to a topic is to come back to it after a digression, and doing it explicitly is better than letting the topic die, because the alternative is that it never gets finished. What does not work is announcing the return without stating where, as in back to what we were saying, since that leaves the listener doing the work.",
+        "What does not work is announcing the return without stating where, as in back to what we were saying, since that leaves the listener doing the work. To return to a topic is to come back to it after a digression, and doing it explicitly is better than letting the topic die, because the alternative is that it never gets finished. The mechanics are unglamorous: name where you were, name the specific unresolved part, and continue."
+      ],
+      "tl": "return to topic",
+      "bis": "balik sa paksa"
+    },
+    {
+      "id": "con-context-follow-up-000006",
+      "topic": "conversations-context-follow-up",
+      "intent": "definition",
+      "concept": "earlier",
+      "keywords": [
+        "earlier",
+        "time",
+        "mention",
+        "locate",
+        "agenda",
+        "remind",
+        "kanina",
+        "word",
+        "real",
+        "work",
+        "conversation"
+      ],
+      "patterns": [
+        "what is earlier",
+        "earlier",
+        "explain earlier",
+        "definition of earlier",
+        "earlier meaning",
+        "meaning of earlier",
+        "earlier in the day vs earlier in the list",
+        "how to refer to something said before",
+        "ano ang earlier",
+        "unsa ang kanina"
+      ],
+      "answer": "Earlier is a time word that does real work in a conversation, because it is how a speaker locates something without restating it. Saying you mentioned this earlier places the point in shared history, while earlier in the day only locates it in time. The ambiguity is with the agenda, where earlier can mean previous in a list, and the fix is naming which. People use the vague version when they want to be reminded without appearing not to have been listening.",
+      "variations": [
+        "Saying you mentioned this earlier places the point in shared history, while earlier in the day only locates it in time. Earlier is a time word that does real work in a conversation, because it is how a speaker locates something without restating it. The ambiguity is with the agenda, where earlier can mean previous in a list, and the fix is naming which. People use the vague version when they want to be reminded without appearing not to have been listening.",
+        "The ambiguity is with the agenda, where earlier can mean previous in a list, and the fix is naming which. Earlier is a time word that does real work in a conversation, because it is how a speaker locates something without restating it. Saying you mentioned this earlier places the point in shared history, while earlier in the day only locates it in time. People use the vague version when they want to be reminded without appearing not to have been listening."
+      ],
+      "tl": "earlier",
+      "bis": "kanina"
+    }
+  ],
+  "lang": "english",
+  "group": "conversations",
+  "sub": "context-follow-up",
+  "title": "Context / follow-up",
+  "groupTitle": "Conversations"
+}

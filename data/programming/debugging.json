@@ -1,0 +1,119 @@
+{
+  "topic": "programming-debugging",
+  "entries": [
+    {
+      "id": "pro-debugging-000001",
+      "topic": "programming-debugging",
+      "intent": "howto",
+      "concept": "bug",
+      "keywords": [
+        "bug",
+        "error",
+        "debug",
+        "fix",
+        "broken",
+        "crash",
+        "reliable",
+        "first",
+        "reproduce",
+        "reliably",
+        "cannot",
+        "trigger"
+      ],
+      "patterns": [
+        "what is bug",
+        "bug",
+        "explain bug",
+        "definition of bug",
+        "bug meaning",
+        "not working",
+        "how do i fix a bug",
+        "debugging",
+        "my code does not work"
+      ],
+      "answer": "A reliable way to find a bug: first reproduce it reliably, because a bug you cannot trigger on demand is a bug you cannot confirm you fixed. Then read the actual error message rather than skimming it - it usually names the line. Then bisect: remove half the code until the problem disappears. Finally change one thing at a time. Adding print statements or a debugger breakpoint beats guessing.",
+      "variations": [
+        "Then read the actual error message rather than skimming it - it usually names the line. A reliable way to find a bug: first reproduce it reliably, because a bug you cannot trigger on demand is a bug you cannot confirm you fixed. Then bisect: remove half the code until the problem disappears. Finally change one thing at a time. Adding print statements or a debugger breakpoint beats guessing.",
+        "Then bisect: remove half the code until the problem disappears. A reliable way to find a bug: first reproduce it reliably, because a bug you cannot trigger on demand is a bug you cannot confirm you fixed. Then read the actual error message rather than skimming it - it usually names the line. Finally change one thing at a time. Adding print statements or a debugger breakpoint beats guessing."
+      ]
+    },
+    {
+      "id": "pro-debugging-000002",
+      "topic": "programming-debugging",
+      "intent": "definition",
+      "concept": "testing",
+      "keywords": [
+        "testing",
+        "integration",
+        "regression",
+        "means",
+        "checking",
+        "code",
+        "useful",
+        "division"
+      ],
+      "patterns": [
+        "what is testing",
+        "testing",
+        "explain testing",
+        "definition of testing",
+        "testing meaning",
+        "what is unit testing",
+        "what is regression testing",
+        "how much test coverage is enough",
+        "ano ang testing",
+        "unsa ang testing"
+      ],
+      "answer": "Testing means checking that code does what it should, and the useful division is by what you are checking for. A unit test checks one piece in isolation and is fast, an integration test checks that pieces work together, and an end-to-end test drives the real thing as a user would. The value is not catching every bug, because tests never do, but in making a change safe, since a failing test names the behaviour that broke.",
+      "variations": [
+        "A unit test checks one piece in isolation and is fast, an integration test checks that pieces work together, and an end-to-end test drives the real thing as a user would. Testing means checking that code does what it should, and the useful division is by what you are checking for. The value is not catching every bug, because tests never do, but in making a change safe, since a failing test names the behaviour that broke.",
+        "The value is not catching every bug, because tests never do, but in making a change safe, since a failing test names the behaviour that broke. Testing means checking that code does what it should, and the useful division is by what you are checking for. A unit test checks one piece in isolation and is fast, an integration test checks that pieces work together, and an end-to-end test drives the real thing as a user would."
+      ],
+      "tl": "testing",
+      "bis": "testing"
+    },
+    {
+      "id": "pro-debugging-000003",
+      "topic": "programming-debugging",
+      "intent": "definition",
+      "concept": "debugging",
+      "keywords": [
+        "debugging",
+        "breakpoint",
+        "reproduce",
+        "bisect",
+        "print",
+        "log",
+        "finding",
+        "code",
+        "expected",
+        "hard",
+        "expectation"
+      ],
+      "patterns": [
+        "what is debugging",
+        "debugging",
+        "explain debugging",
+        "definition of debugging",
+        "debugging meaning",
+        "how do i debug code",
+        "what is a breakpoint",
+        "why use logs instead of a debugger",
+        "ano ang debugging",
+        "unsa ang debugging"
+      ],
+      "answer": "Debugging is finding out why code does not do what you expected, and the hard part is usually that the expectation was wrong rather than the code. The reliable method is to narrow it: reproduce it, bisect by commenting things out, and check the actual value at the point of failure rather than reasoning about what it should be. Print statements beat a debugger when the bug is intermittent, because a debugger changes the timing that caused it.",
+      "variations": [
+        "The reliable method is to narrow it: reproduce it, bisect by commenting things out, and check the actual value at the point of failure rather than reasoning about what it should be. Debugging is finding out why code does not do what you expected, and the hard part is usually that the expectation was wrong rather than the code. Print statements beat a debugger when the bug is intermittent, because a debugger changes the timing that caused it.",
+        "Print statements beat a debugger when the bug is intermittent, because a debugger changes the timing that caused it. Debugging is finding out why code does not do what you expected, and the hard part is usually that the expectation was wrong rather than the code. The reliable method is to narrow it: reproduce it, bisect by commenting things out, and check the actual value at the point of failure rather than reasoning about what it should be."
+      ],
+      "tl": "debugging",
+      "bis": "debugging"
+    }
+  ],
+  "lang": "english",
+  "group": "programming",
+  "sub": "debugging",
+  "title": "Debugging",
+  "groupTitle": "Programming"
+}

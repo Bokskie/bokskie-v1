@@ -1,0 +1,124 @@
+{
+  "topic": "science-chemistry",
+  "entries": [
+    {
+      "id": "sci-chemistry-000001",
+      "topic": "science-chemistry",
+      "intent": "definition",
+      "concept": "atom",
+      "keywords": [
+        "atom",
+        "proton",
+        "neutron",
+        "electron",
+        "nucleus",
+        "smallest",
+        "unit",
+        "ordinary",
+        "matter",
+        "keeps"
+      ],
+      "patterns": [
+        "what is atom",
+        "atom",
+        "explain atom",
+        "definition of atom",
+        "atom meaning",
+        "what is an atom",
+        "what is inside an atom",
+        "what is an atomic number",
+        "ano ang atom",
+        "unsa ang atom"
+      ],
+      "answer": "An atom is the smallest unit of ordinary matter that keeps an element's properties, made of a nucleus of protons and neutrons surrounded by electrons. The number of protons is the atomic number and it alone defines which element it is, so changing it changes the element. The electrons determine the chemistry, and the electron shells filling in a particular pattern is the whole reason the periodic table has a shape.",
+      "variations": [
+        "The number of protons is the atomic number and it alone defines which element it is, so changing it changes the element. An atom is the smallest unit of ordinary matter that keeps an element's properties, made of a nucleus of protons and neutrons surrounded by electrons. The electrons determine the chemistry, and the electron shells filling in a particular pattern is the whole reason the periodic table has a shape.",
+        "The electrons determine the chemistry, and the electron shells filling in a particular pattern is the whole reason the periodic table has a shape. An atom is the smallest unit of ordinary matter that keeps an element's properties, made of a nucleus of protons and neutrons surrounded by electrons. The number of protons is the atomic number and it alone defines which element it is, so changing it changes the element."
+      ],
+      "tl": "atom",
+      "bis": "atom"
+    },
+    {
+      "id": "sci-chemistry-000002",
+      "topic": "science-chemistry",
+      "intent": "definition",
+      "concept": "periodic table",
+      "keywords": [
+        "periodic table",
+        "element",
+        "group",
+        "period",
+        "valence",
+        "atomic",
+        "periodic",
+        "table",
+        "arranges",
+        "elements",
+        "number"
+      ],
+      "patterns": [
+        "what is periodic table",
+        "periodic table",
+        "explain periodic table",
+        "definition of periodic table",
+        "periodic table meaning",
+        "how is the periodic table organised",
+        "what does group number mean",
+        "why are there no gaps",
+        "ano ang periodic table",
+        "unsa ang periodic table"
+      ],
+      "answer": "The periodic table arranges the elements by atomic number, which puts elements with similar electron structures into the same column. That is why it works as a predictor rather than a list, because an element's position tells you how it will react and the group number gives the valence electrons. The table has no gaps and no exceptions, which is a stronger claim about physics than it looks.",
+      "variations": [
+        "That is why it works as a predictor rather than a list, because an element's position tells you how it will react and the group number gives the valence electrons. The periodic table arranges the elements by atomic number, which puts elements with similar electron structures into the same column. The table has no gaps and no exceptions, which is a stronger claim about physics than it looks.",
+        "The table has no gaps and no exceptions, which is a stronger claim about physics than it looks. The periodic table arranges the elements by atomic number, which puts elements with similar electron structures into the same column. That is why it works as a predictor rather than a list, because an element's position tells you how it will react and the group number gives the valence electrons."
+      ],
+      "tl": "periodic table",
+      "bis": "periodic table"
+    },
+    {
+      "id": "sci-chemistry-000003",
+      "topic": "science-chemistry",
+      "intent": "definition",
+      "concept": "chemical bond",
+      "keywords": [
+        "chemical bond",
+        "bond",
+        "covalent",
+        "ionic",
+        "metallic",
+        "electron",
+        "molecule",
+        "atoms",
+        "being",
+        "bonded",
+        "lower",
+        "energy"
+      ],
+      "patterns": [
+        "what is chemical bond",
+        "chemical bond",
+        "explain chemical bond",
+        "definition of chemical bond",
+        "chemical bond meaning",
+        "what is a chemical bond",
+        "difference between ionic and covalent",
+        "what is valence",
+        "ano ang chemical bond",
+        "unsa ang chemical bond"
+      ],
+      "answer": "Atoms bond because being bonded is a lower energy state than being separate, and the type of bond is decided by how the electrons are shared or transferred. Covalent bonds share electron pairs and produce the familiar molecules, ionic bonds are a transfer that leaves charged ions, and metallic bonds are a shared sea of electrons holding a lattice together. Bond type predicts properties well, which is why it is taught before any reaction.",
+      "variations": [
+        "Covalent bonds share electron pairs and produce the familiar molecules, ionic bonds are a transfer that leaves charged ions, and metallic bonds are a shared sea of electrons holding a lattice together. Atoms bond because being bonded is a lower energy state than being separate, and the type of bond is decided by how the electrons are shared or transferred. Bond type predicts properties well, which is why it is taught before any reaction.",
+        "Bond type predicts properties well, which is why it is taught before any reaction. Atoms bond because being bonded is a lower energy state than being separate, and the type of bond is decided by how the electrons are shared or transferred. Covalent bonds share electron pairs and produce the familiar molecules, ionic bonds are a transfer that leaves charged ions, and metallic bonds are a shared sea of electrons holding a lattice together."
+      ],
+      "tl": "chemical bond",
+      "bis": "chemical bond"
+    }
+  ],
+  "lang": "english",
+  "group": "science",
+  "sub": "chemistry",
+  "title": "Chemistry",
+  "groupTitle": "Science"
+}

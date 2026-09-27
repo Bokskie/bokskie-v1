@@ -1,0 +1,231 @@
+{
+  "topic": "english-work",
+  "entries": [
+    {
+      "id": "eng-work-000001",
+      "topic": "english-work",
+      "intent": "definition",
+      "concept": "job",
+      "keywords": [
+        "job",
+        "paid",
+        "work",
+        "career",
+        "occupation",
+        "role",
+        "trabaho",
+        "piece",
+        "word",
+        "deliberately",
+        "vague"
+      ],
+      "patterns": [
+        "what is job",
+        "job",
+        "explain job",
+        "definition of job",
+        "job meaning",
+        "what is a job",
+        "difference between job and career",
+        "do a job meaning",
+        "ano ang job",
+        "unsa ang trabaho"
+      ],
+      "answer": "A job is a piece of paid work, and the word is deliberately vague about whether it is permanent, part time or skilled. That vagueness is why it survives across the whole economy, while a career implies a long series of them and an occupation implies a social standing. In American usage it also names a specific role inside an organisation, and to do a job about mending something is a separate phrase with a quite different meaning.",
+      "variations": [
+        "That vagueness is why it survives across the whole economy, while a career implies a long series of them and an occupation implies a social standing. A job is a piece of paid work, and the word is deliberately vague about whether it is permanent, part time or skilled. In American usage it also names a specific role inside an organisation, and to do a job about mending something is a separate phrase with a quite different meaning.",
+        "In American usage it also names a specific role inside an organisation, and to do a job about mending something is a separate phrase with a quite different meaning. A job is a piece of paid work, and the word is deliberately vague about whether it is permanent, part time or skilled. That vagueness is why it survives across the whole economy, while a career implies a long series of them and an occupation implies a social standing."
+      ],
+      "tl": "job",
+      "bis": "trabaho"
+    },
+    {
+      "id": "eng-work-000002",
+      "topic": "english-work",
+      "intent": "definition",
+      "concept": "salary",
+      "keywords": [
+        "salary",
+        "monthly",
+        "payment",
+        "contract",
+        "wage",
+        "employer",
+        "sahod",
+        "regular",
+        "distinguishes",
+        "shape"
+      ],
+      "patterns": [
+        "what is salary",
+        "salary",
+        "explain salary",
+        "definition of salary",
+        "salary meaning",
+        "what is a salary",
+        "salary vs wage",
+        "how often is a salary paid",
+        "ano ang salary",
+        "unsa ang sahod"
+      ],
+      "answer": "A salary is a regular payment, usually monthly, and what distinguishes it is the shape of the payment rather than its size or the nature of the work. It is normally paired with an employer and a contract, and it is set against wages paid by the hour or by the piece. A salary is what a schoolteacher or a civil engineer receives, and a wage is what a shop assistant receives from the same employer.",
+      "variations": [
+        "It is normally paired with an employer and a contract, and it is set against wages paid by the hour or by the piece. A salary is a regular payment, usually monthly, and what distinguishes it is the shape of the payment rather than its size or the nature of the work. A salary is what a schoolteacher or a civil engineer receives, and a wage is what a shop assistant receives from the same employer.",
+        "A salary is what a schoolteacher or a civil engineer receives, and a wage is what a shop assistant receives from the same employer. A salary is a regular payment, usually monthly, and what distinguishes it is the shape of the payment rather than its size or the nature of the work. It is normally paired with an employer and a contract, and it is set against wages paid by the hour or by the piece."
+      ],
+      "tl": "salary",
+      "bis": "sahod"
+    },
+    {
+      "id": "eng-work-000003",
+      "topic": "english-work",
+      "intent": "definition",
+      "concept": "promotion",
+      "keywords": [
+        "promotion",
+        "responsibility",
+        "pay",
+        "transfer",
+        "demotion",
+        "review",
+        "pagtaas",
+        "move",
+        "inside",
+        "organisation",
+        "carrying"
+      ],
+      "patterns": [
+        "what is promotion",
+        "promotion",
+        "explain promotion",
+        "definition of promotion",
+        "promotion meaning",
+        "what is a promotion",
+        "difference between promotion and transfer",
+        "how do you get promoted",
+        "ano ang promotion",
+        "unsa ang pagtaas"
+      ],
+      "answer": "A promotion is a move up inside an organisation, usually carrying more responsibility and more pay, and the word implies a ladder rather than a change of employer. It is distinct from a transfer, which moves sideways, and from a demotion, which moves down. A promotion may be announced at a review or simply attached to a new role, and the uncomfortable part is that in plenty of organisations the ladder exists on paper and not in practice.",
+      "variations": [
+        "It is distinct from a transfer, which moves sideways, and from a demotion, which moves down. A promotion is a move up inside an organisation, usually carrying more responsibility and more pay, and the word implies a ladder rather than a change of employer. A promotion may be announced at a review or simply attached to a new role, and the uncomfortable part is that in plenty of organisations the ladder exists on paper and not in practice.",
+        "A promotion may be announced at a review or simply attached to a new role, and the uncomfortable part is that in plenty of organisations the ladder exists on paper and not in practice. A promotion is a move up inside an organisation, usually carrying more responsibility and more pay, and the word implies a ladder rather than a change of employer. It is distinct from a transfer, which moves sideways, and from a demotion, which moves down."
+      ],
+      "tl": "promotion",
+      "bis": "pagtaas"
+    },
+    {
+      "id": "eng-work-000004",
+      "topic": "english-work",
+      "intent": "definition",
+      "concept": "colleague",
+      "keywords": [
+        "colleague",
+        "work",
+        "neutral",
+        "supervisor",
+        "peer",
+        "academic",
+        "katrabaho",
+        "someone",
+        "word",
+        "choice"
+      ],
+      "patterns": [
+        "what is colleague",
+        "colleague",
+        "explain colleague",
+        "definition of colleague",
+        "colleague meaning",
+        "what is a colleague",
+        "is colleague formal",
+        "difference between colleague and friend",
+        "ano ang colleague",
+        "unsa ang katrabaho"
+      ],
+      "answer": "A colleague is someone you work with, and the word is the neutral choice because it marks the working relationship without implying friendship or seniority. English marks those relationships far more precisely elsewhere, so a supervisor, a subordinate and a peer are all distinguished in a way the everyday language is not. The word also survives the academic sense, where it means someone working in the same field.",
+      "variations": [
+        "English marks those relationships far more precisely elsewhere, so a supervisor, a subordinate and a peer are all distinguished in a way the everyday language is not. A colleague is someone you work with, and the word is the neutral choice because it marks the working relationship without implying friendship or seniority. The word also survives the academic sense, where it means someone working in the same field.",
+        "The word also survives the academic sense, where it means someone working in the same field. A colleague is someone you work with, and the word is the neutral choice because it marks the working relationship without implying friendship or seniority. English marks those relationships far more precisely elsewhere, so a supervisor, a subordinate and a peer are all distinguished in a way the everyday language is not."
+      ],
+      "tl": "colleague",
+      "bis": "katrabaho"
+    },
+    {
+      "id": "eng-work-000005",
+      "topic": "english-work",
+      "intent": "definition",
+      "concept": "overtime",
+      "keywords": [
+        "overtime",
+        "hours",
+        "contracted",
+        "rate",
+        "pay",
+        "extra",
+        "work",
+        "done",
+        "beyond"
+      ],
+      "patterns": [
+        "what is overtime",
+        "overtime",
+        "explain overtime",
+        "definition of overtime",
+        "overtime meaning",
+        "is overtime paid extra",
+        "overtime as a verb",
+        "ano ang overtime",
+        "unsa ang overtime"
+      ],
+      "answer": "Overtime is work done beyond the contracted hours, and the word covers both those extra hours and the rate they are paid at, which is often higher. That second sense is the one that reaches the public, since the rules on overtime pay are argued over far more than the existence of overtime itself. It is also a verb, as in working overtime, and the abbreviation OT is common in American workplaces.",
+      "variations": [
+        "That second sense is the one that reaches the public, since the rules on overtime pay are argued over far more than the existence of overtime itself. Overtime is work done beyond the contracted hours, and the word covers both those extra hours and the rate they are paid at, which is often higher. It is also a verb, as in working overtime, and the abbreviation OT is common in American workplaces.",
+        "It is also a verb, as in working overtime, and the abbreviation OT is common in American workplaces. Overtime is work done beyond the contracted hours, and the word covers both those extra hours and the rate they are paid at, which is often higher. That second sense is the one that reaches the public, since the rules on overtime pay are argued over far more than the existence of overtime itself."
+      ],
+      "tl": "overtime",
+      "bis": "overtime"
+    },
+    {
+      "id": "eng-work-000006",
+      "topic": "english-work",
+      "intent": "definition",
+      "concept": "wage",
+      "keywords": [
+        "wage",
+        "labour",
+        "hourly",
+        "piece",
+        "minimum",
+        "salary",
+        "sahod",
+        "payment",
+        "british"
+      ],
+      "patterns": [
+        "what is wage",
+        "wage",
+        "explain wage",
+        "definition of wage",
+        "wage meaning",
+        "what is a wage",
+        "wage vs salary",
+        "meaning of minimum wage",
+        "ano ang wage",
+        "unsa ang sahod"
+      ],
+      "answer": "A wage is a payment for labour, usually hourly or by the piece, and in British usage the word also became the general term for what anybody earns, so minimum wage covers a salary too. That widening is a change in the language rather than in the law, since the legal meaning stayed narrower. Historically a wage was what you received per day and a salary what you received per year, and roughly that split is what survives.",
+      "variations": [
+        "That widening is a change in the language rather than in the law, since the legal meaning stayed narrower. A wage is a payment for labour, usually hourly or by the piece, and in British usage the word also became the general term for what anybody earns, so minimum wage covers a salary too. Historically a wage was what you received per day and a salary what you received per year, and roughly that split is what survives.",
+        "Historically a wage was what you received per day and a salary what you received per year, and roughly that split is what survives. A wage is a payment for labour, usually hourly or by the piece, and in British usage the word also became the general term for what anybody earns, so minimum wage covers a salary too. That widening is a change in the language rather than in the law, since the legal meaning stayed narrower."
+      ],
+      "tl": "wage",
+      "bis": "sahod"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "work",
+  "title": "Work",
+  "groupTitle": "English"
+}

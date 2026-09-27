@@ -1,0 +1,237 @@
+{
+  "topic": "english-greetings",
+  "entries": [
+    {
+      "id": "eng-greetings-000001",
+      "topic": "english-greetings",
+      "intent": "definition",
+      "concept": "hello",
+      "keywords": [
+        "hello",
+        "hi",
+        "greeting",
+        "neutral",
+        "informal",
+        "shorten",
+        "everyday",
+        "english",
+        "close",
+        "entirely"
+      ],
+      "patterns": [
+        "what is hello",
+        "hello",
+        "explain hello",
+        "definition of hello",
+        "hello meaning",
+        "how do you say hello",
+        "is hello formal",
+        "difference between hi and hello",
+        "ano ang hello",
+        "unsa ang hello"
+      ],
+      "answer": "Hello is the everyday greeting in English and it is close to entirely neutral, which is why it works in a boardroom and on a playground equally well. It began as a shortened form of a much older expression and shed its religious meaning generations ago. The useful thing about English greetings is how wide the range is, since any of dozens will work, and formality is carried by the rest of the sentence rather than by this word.",
+      "variations": [
+        "It began as a shortened form of a much older expression and shed its religious meaning generations ago. Hello is the everyday greeting in English and it is close to entirely neutral, which is why it works in a boardroom and on a playground equally well. The useful thing about English greetings is how wide the range is, since any of dozens will work, and formality is carried by the rest of the sentence rather than by this word.",
+        "The useful thing about English greetings is how wide the range is, since any of dozens will work, and formality is carried by the rest of the sentence rather than by this word. Hello is the everyday greeting in English and it is close to entirely neutral, which is why it works in a boardroom and on a playground equally well. It began as a shortened form of a much older expression and shed its religious meaning generations ago."
+      ],
+      "tl": "hello",
+      "bis": "hello"
+    },
+    {
+      "id": "eng-greetings-000002",
+      "topic": "english-greetings",
+      "intent": "definition",
+      "concept": "good morning",
+      "keywords": [
+        "good morning",
+        "afternoon",
+        "evening",
+        "greeting",
+        "time",
+        "reply",
+        "good",
+        "morning",
+        "covers",
+        "whole",
+        "period",
+        "sunrise"
+      ],
+      "patterns": [
+        "what is good morning",
+        "good morning",
+        "explain good morning",
+        "definition of good morning",
+        "good morning meaning",
+        "when do you say good morning",
+        "is good morning used at noon",
+        "how to reply",
+        "ano ang good morning",
+        "unsa ang good morning"
+      ],
+      "answer": "Good morning covers the whole period from sunrise until roughly midday, and morning means the entire stretch rather than the hour after waking, so saying it at eleven is entirely normal. Good afternoon takes over until evening and good evening from about six, with the exact boundary a matter of local habit. The reply can be the same phrase handed straight back, which is why the exchange is short.",
+      "variations": [
+        "Good afternoon takes over until evening and good evening from about six, with the exact boundary a matter of local habit. Good morning covers the whole period from sunrise until roughly midday, and morning means the entire stretch rather than the hour after waking, so saying it at eleven is entirely normal. The reply can be the same phrase handed straight back, which is why the exchange is short.",
+        "The reply can be the same phrase handed straight back, which is why the exchange is short. Good morning covers the whole period from sunrise until roughly midday, and morning means the entire stretch rather than the hour after waking, so saying it at eleven is entirely normal. Good afternoon takes over until evening and good evening from about six, with the exact boundary a matter of local habit."
+      ],
+      "tl": "good morning",
+      "bis": "good morning"
+    },
+    {
+      "id": "eng-greetings-000003",
+      "topic": "english-greetings",
+      "intent": "definition",
+      "concept": "how are you",
+      "keywords": [
+        "how are you",
+        "greeting",
+        "question",
+        "polite",
+        "reply",
+        "meet",
+        "functions",
+        "rather",
+        "genuine",
+        "treating"
+      ],
+      "patterns": [
+        "what is how are you",
+        "how are you",
+        "explain how are you",
+        "definition of how are you",
+        "how are you meaning",
+        "is how are you a real question",
+        "how do you reply to how are you",
+        "what to say when meeting someone",
+        "ano ang how are you",
+        "unsa ang kumusta ka"
+      ],
+      "answer": "How are you functions as a greeting rather than as a genuine question, and treating it as a real inquiry is the most common misunderstanding in a first meeting. The expected answer is short and positive, because the exchange exists to open contact rather than to collect information. Answering at length is unusual enough to read as slightly odd, so the normal pattern is a brief reply followed by the question returned.",
+      "variations": [
+        "The expected answer is short and positive, because the exchange exists to open contact rather than to collect information. How are you functions as a greeting rather than as a genuine question, and treating it as a real inquiry is the most common misunderstanding in a first meeting. Answering at length is unusual enough to read as slightly odd, so the normal pattern is a brief reply followed by the question returned.",
+        "Answering at length is unusual enough to read as slightly odd, so the normal pattern is a brief reply followed by the question returned. How are you functions as a greeting rather than as a genuine question, and treating it as a real inquiry is the most common misunderstanding in a first meeting. The expected answer is short and positive, because the exchange exists to open contact rather than to collect information."
+      ],
+      "tl": "how are you",
+      "bis": "kumusta ka"
+    },
+    {
+      "id": "eng-greetings-000004",
+      "topic": "english-greetings",
+      "intent": "definition",
+      "concept": "welcome",
+      "keywords": [
+        "welcome",
+        "thanks",
+        "reply",
+        "doorway",
+        "business",
+        "favour",
+        "standard",
+        "response",
+        "works",
+        "direction",
+        "since"
+      ],
+      "patterns": [
+        "what is welcome",
+        "welcome",
+        "explain welcome",
+        "definition of welcome",
+        "welcome meaning",
+        "how do you reply to thank you",
+        "is welcome a response or a greeting",
+        "welcome to our shop",
+        "ano ang welcome",
+        "unsa ang welcome"
+      ],
+      "answer": "Welcome is the standard response to thanks, and it works in the other direction too, since the person offering thanks may say it as well. In a business context it is a greeting at a doorway rather than an answer, and there it is nearly always plural, as in welcome to our shop. Used as a reply it quietly implies the favour cost the speaker nothing, which is a small but real difference from a stronger expression of thanks.",
+      "variations": [
+        "In a business context it is a greeting at a doorway rather than an answer, and there it is nearly always plural, as in welcome to our shop. Welcome is the standard response to thanks, and it works in the other direction too, since the person offering thanks may say it as well. Used as a reply it quietly implies the favour cost the speaker nothing, which is a small but real difference from a stronger expression of thanks.",
+        "Used as a reply it quietly implies the favour cost the speaker nothing, which is a small but real difference from a stronger expression of thanks. Welcome is the standard response to thanks, and it works in the other direction too, since the person offering thanks may say it as well. In a business context it is a greeting at a doorway rather than an answer, and there it is nearly always plural, as in welcome to our shop."
+      ],
+      "tl": "welcome",
+      "bis": "welcome"
+    },
+    {
+      "id": "eng-greetings-000005",
+      "topic": "english-greetings",
+      "intent": "definition",
+      "concept": "nice to meet you",
+      "keywords": [
+        "nice to meet you",
+        "nice",
+        "meet",
+        "introduce",
+        "reply",
+        "first",
+        "acquaintance",
+        "spoken",
+        "people",
+        "introduced",
+        "normally"
+      ],
+      "patterns": [
+        "what is nice to meet you",
+        "nice to meet you",
+        "explain nice to meet you",
+        "definition of nice to meet you",
+        "nice to meet you meaning",
+        "what to say when introduced",
+        "do you reply nice to meet you",
+        "nice to meet you response",
+        "ano ang nice to meet you",
+        "unsa ang nice to meet you"
+      ],
+      "answer": "Nice to meet you is spoken when two people are introduced, and it is normally reciprocated rather than merely acknowledged. The verb is the point, because it casts the introduction as a single event both people are having, and that is what makes a reply feel balanced. Between people who have met before the same phrase gets used loosely on a later occasion, so it is less precise about first contact than its wording suggests.",
+      "variations": [
+        "The verb is the point, because it casts the introduction as a single event both people are having, and that is what makes a reply feel balanced. Nice to meet you is spoken when two people are introduced, and it is normally reciprocated rather than merely acknowledged. Between people who have met before the same phrase gets used loosely on a later occasion, so it is less precise about first contact than its wording suggests.",
+        "Between people who have met before the same phrase gets used loosely on a later occasion, so it is less precise about first contact than its wording suggests. Nice to meet you is spoken when two people are introduced, and it is normally reciprocated rather than merely acknowledged. The verb is the point, because it casts the introduction as a single event both people are having, and that is what makes a reply feel balanced."
+      ],
+      "tl": "nice to meet you",
+      "bis": "nice to meet you"
+    },
+    {
+      "id": "eng-greetings-000006",
+      "topic": "english-greetings",
+      "intent": "definition",
+      "concept": "long time no see",
+      "keywords": [
+        "long time no see",
+        "idiom",
+        "fixed",
+        "formal",
+        "gap",
+        "familiar",
+        "long",
+        "time",
+        "entered",
+        "english",
+        "native"
+      ],
+      "patterns": [
+        "what is long time no see",
+        "long time no see",
+        "explain long time no see",
+        "definition of long time no see",
+        "long time no see meaning",
+        "what does long time no see mean",
+        "is it formal",
+        "origin of long time no see",
+        "ano ang long time no see",
+        "unsa ang long time no see"
+      ],
+      "answer": "Long time no see is an idiom that entered English from a Native American language and is now completely fixed, which surprises learners who assume idioms are always old. It is used between people genuinely glad to see each other again and it implies the gap was not one of anger or falling out. Where the relationship is formal the phrase is avoided, because its familiarity cuts straight across the usual register.",
+      "variations": [
+        "It is used between people genuinely glad to see each other again and it implies the gap was not one of anger or falling out. Long time no see is an idiom that entered English from a Native American language and is now completely fixed, which surprises learners who assume idioms are always old. Where the relationship is formal the phrase is avoided, because its familiarity cuts straight across the usual register.",
+        "Where the relationship is formal the phrase is avoided, because its familiarity cuts straight across the usual register. Long time no see is an idiom that entered English from a Native American language and is now completely fixed, which surprises learners who assume idioms are always old. It is used between people genuinely glad to see each other again and it implies the gap was not one of anger or falling out."
+      ],
+      "tl": "long time no see",
+      "bis": "long time no see"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "greetings",
+  "title": "Greetings",
+  "groupTitle": "English"
+}

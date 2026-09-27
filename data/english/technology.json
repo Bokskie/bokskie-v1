@@ -1,0 +1,223 @@
+{
+  "topic": "english-technology",
+  "entries": [
+    {
+      "id": "eng-technology-000001",
+      "topic": "english-technology",
+      "intent": "definition",
+      "concept": "computer",
+      "keywords": [
+        "computer",
+        "machine",
+        "program",
+        "calculator",
+        "electronic",
+        "kompyuter",
+        "stores",
+        "carries",
+        "definition"
+      ],
+      "patterns": [
+        "what is computer",
+        "computer",
+        "explain computer",
+        "definition of computer",
+        "computer meaning",
+        "what is a computer",
+        "is a phone a computer",
+        "what makes a computer general purpose",
+        "ano ang computer",
+        "unsa ang kompyuter"
+      ],
+      "answer": "A computer is a machine that stores a program and carries it out, and that definition is why the word covers a phone and a server as readily as a desktop. What all of them share is not a screen but the general-purpose programmability, since a calculator is also electronic and is not usually called one. The word became general in about the 1970s, replacing a computing machine, and the older term survives in mainframe and in the verb to compute.",
+      "variations": [
+        "What all of them share is not a screen but the general-purpose programmability, since a calculator is also electronic and is not usually called one. A computer is a machine that stores a program and carries it out, and that definition is why the word covers a phone and a server as readily as a desktop. The word became general in about the 1970s, replacing a computing machine, and the older term survives in mainframe and in the verb to compute.",
+        "The word became general in about the 1970s, replacing a computing machine, and the older term survives in mainframe and in the verb to compute. A computer is a machine that stores a program and carries it out, and that definition is why the word covers a phone and a server as readily as a desktop. What all of them share is not a screen but the general-purpose programmability, since a calculator is also electronic and is not usually called one."
+      ],
+      "tl": "computer",
+      "bis": "kompyuter"
+    },
+    {
+      "id": "eng-technology-000002",
+      "topic": "english-technology",
+      "intent": "definition",
+      "concept": "smartphone",
+      "keywords": [
+        "smartphone",
+        "mobile",
+        "phone",
+        "software",
+        "install",
+        "battery",
+        "general",
+        "purpose",
+        "computer"
+      ],
+      "patterns": [
+        "what is smartphone",
+        "smartphone",
+        "explain smartphone",
+        "definition of smartphone",
+        "smartphone meaning",
+        "what is a smartphone",
+        "is a smartphone a computer",
+        "why do phones need batteries",
+        "ano ang smartphone",
+        "unsa ang smartphone"
+      ],
+      "answer": "A smartphone is a mobile phone with a general-purpose computer inside it, and the word is a marketing coinage that stuck rather than a technical category. What changed technically is that the phone stopped being a device with a fixed menu and became a computer running software that anyone can install. That is also where the problems started, since a phone that is always general and always connected behaves nothing like a telephone, and the word battery has taken on a second meaning.",
+      "variations": [
+        "What changed technically is that the phone stopped being a device with a fixed menu and became a computer running software that anyone can install. A smartphone is a mobile phone with a general-purpose computer inside it, and the word is a marketing coinage that stuck rather than a technical category. That is also where the problems started, since a phone that is always general and always connected behaves nothing like a telephone, and the word battery has taken on a second meaning.",
+        "That is also where the problems started, since a phone that is always general and always connected behaves nothing like a telephone, and the word battery has taken on a second meaning. A smartphone is a mobile phone with a general-purpose computer inside it, and the word is a marketing coinage that stuck rather than a technical category. What changed technically is that the phone stopped being a device with a fixed menu and became a computer running software that anyone can install."
+      ],
+      "tl": "smartphone",
+      "bis": "smartphone"
+    },
+    {
+      "id": "eng-technology-000003",
+      "topic": "english-technology",
+      "intent": "definition",
+      "concept": "laptop",
+      "keywords": [
+        "laptop",
+        "portable",
+        "hinge",
+        "keyboard",
+        "screen",
+        "repair",
+        "computer",
+        "built"
+      ],
+      "patterns": [
+        "what is laptop",
+        "laptop",
+        "explain laptop",
+        "definition of laptop",
+        "laptop meaning",
+        "what is a laptop",
+        "difference between laptop and desktop",
+        "can you upgrade a laptop",
+        "ano ang laptop",
+        "unsa ang laptop"
+      ],
+      "answer": "A laptop is a portable computer with a built-in keyboard and screen in one hinged unit, and the word is specifically that rather than any portable machine, since a tablet is portable too. The design exists because the parts that made a desktop too large to move, chiefly the display and the input, became small enough to carry. Its main cost is that everything is harder to repair or upgrade, since the parts that fail are usually the glued ones.",
+      "variations": [
+        "The design exists because the parts that made a desktop too large to move, chiefly the display and the input, became small enough to carry. A laptop is a portable computer with a built-in keyboard and screen in one hinged unit, and the word is specifically that rather than any portable machine, since a tablet is portable too. Its main cost is that everything is harder to repair or upgrade, since the parts that fail are usually the glued ones.",
+        "Its main cost is that everything is harder to repair or upgrade, since the parts that fail are usually the glued ones. A laptop is a portable computer with a built-in keyboard and screen in one hinged unit, and the word is specifically that rather than any portable machine, since a tablet is portable too. The design exists because the parts that made a desktop too large to move, chiefly the display and the input, became small enough to carry."
+      ],
+      "tl": "laptop",
+      "bis": "laptop"
+    },
+    {
+      "id": "eng-technology-000004",
+      "topic": "english-technology",
+      "intent": "definition",
+      "concept": "device",
+      "keywords": [
+        "device",
+        "equipment",
+        "tool",
+        "hardware",
+        "purpose",
+        "electronic",
+        "piece",
+        "built",
+        "every"
+      ],
+      "patterns": [
+        "what is device",
+        "device",
+        "explain device",
+        "definition of device",
+        "device meaning",
+        "what is a device",
+        "is a computer a device",
+        "meaning of hardware device",
+        "ano ang device",
+        "unsa ang device"
+      ],
+      "answer": "A device is a piece of equipment built to do one job, and the word is used at every scale, from a simple tool to a phone or a satellite. What it deliberately does not carry is any implication about how it is built, so a device can be mechanical, electronic or anything else. In computing the narrower sense is a separate piece of hardware such as a disk or a network card, and that narrower use is where most confusion comes from.",
+      "variations": [
+        "What it deliberately does not carry is any implication about how it is built, so a device can be mechanical, electronic or anything else. A device is a piece of equipment built to do one job, and the word is used at every scale, from a simple tool to a phone or a satellite. In computing the narrower sense is a separate piece of hardware such as a disk or a network card, and that narrower use is where most confusion comes from.",
+        "In computing the narrower sense is a separate piece of hardware such as a disk or a network card, and that narrower use is where most confusion comes from. A device is a piece of equipment built to do one job, and the word is used at every scale, from a simple tool to a phone or a satellite. What it deliberately does not carry is any implication about how it is built, so a device can be mechanical, electronic or anything else."
+      ],
+      "tl": "device",
+      "bis": "device"
+    },
+    {
+      "id": "eng-technology-000005",
+      "topic": "english-technology",
+      "intent": "definition",
+      "concept": "gadget",
+      "keywords": [
+        "gadget",
+        "small",
+        "informal",
+        "novelty",
+        "portable",
+        "personal",
+        "device",
+        "markedly"
+      ],
+      "patterns": [
+        "what is gadget",
+        "gadget",
+        "explain gadget",
+        "definition of gadget",
+        "gadget meaning",
+        "what is a gadget",
+        "is gadget a formal word",
+        "difference between gadget and device",
+        "ano ang gadget",
+        "unsa ang gadget"
+      ],
+      "answer": "A gadget is a small device, and the word is markedly informal and carries a mild suggestion of novelty or cuteness that a technical document avoids entirely. It implies something portable and personal rather than installed, which is why a phone is a gadget and a boiler is not. The word also implies the gadget does something specific, since a device that did everything would be called a computer instead.",
+      "variations": [
+        "It implies something portable and personal rather than installed, which is why a phone is a gadget and a boiler is not. A gadget is a small device, and the word is markedly informal and carries a mild suggestion of novelty or cuteness that a technical document avoids entirely. The word also implies the gadget does something specific, since a device that did everything would be called a computer instead.",
+        "The word also implies the gadget does something specific, since a device that did everything would be called a computer instead. A gadget is a small device, and the word is markedly informal and carries a mild suggestion of novelty or cuteness that a technical document avoids entirely. It implies something portable and personal rather than installed, which is why a phone is a gadget and a boiler is not."
+      ],
+      "tl": "gadget",
+      "bis": "gadget"
+    },
+    {
+      "id": "eng-technology-000006",
+      "topic": "english-technology",
+      "intent": "definition",
+      "concept": "charger",
+      "keywords": [
+        "charger",
+        "battery",
+        "cable",
+        "mains",
+        "voltage",
+        "supply",
+        "refills",
+        "names"
+      ],
+      "patterns": [
+        "what is charger",
+        "charger",
+        "explain charger",
+        "definition of charger",
+        "charger meaning",
+        "what is a charger",
+        "is a cable a charger",
+        "difference between charger and power bank",
+        "ano ang charger",
+        "unsa ang charger"
+      ],
+      "answer": "A charger is the supply that refills a battery, and the word names the thing rather than the cable, which people often call a charger too although it carries no power at all. A charger does not in fact store anything, since it converts mains electricity into the voltage and current the battery needs, and the energy comes from the wall. That is why a charger is useless without a socket, unlike a power bank, which stores charge and needs no mains.",
+      "variations": [
+        "A charger does not in fact store anything, since it converts mains electricity into the voltage and current the battery needs, and the energy comes from the wall. A charger is the supply that refills a battery, and the word names the thing rather than the cable, which people often call a charger too although it carries no power at all. That is why a charger is useless without a socket, unlike a power bank, which stores charge and needs no mains.",
+        "That is why a charger is useless without a socket, unlike a power bank, which stores charge and needs no mains. A charger is the supply that refills a battery, and the word names the thing rather than the cable, which people often call a charger too although it carries no power at all. A charger does not in fact store anything, since it converts mains electricity into the voltage and current the battery needs, and the energy comes from the wall."
+      ],
+      "tl": "charger",
+      "bis": "charger"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "technology",
+  "title": "Technology",
+  "groupTitle": "English"
+}

@@ -1,0 +1,152 @@
+{
+  "topic": "technology-ai",
+  "entries": [
+    {
+      "id": "tec-ai-000001",
+      "topic": "technology-ai",
+      "intent": "definition",
+      "concept": "ai",
+      "keywords": [
+        "ai",
+        "llm",
+        "model",
+        "neural",
+        "artificial",
+        "intelligence",
+        "software",
+        "performs",
+        "tasks",
+        "normally"
+      ],
+      "patterns": [
+        "what is ai",
+        "ai",
+        "explain ai",
+        "definition of ai",
+        "ai meaning",
+        "artificial intelligence",
+        "machine learning",
+        "what is artificial intelligence",
+        "what is a language model"
+      ],
+      "answer": "Artificial intelligence is software that performs tasks we would normally call intelligent - recognising images, translating, writing, deciding. Modern AI is mostly machine learning: instead of hand-written rules for every case, a model is shown many examples and learns the pattern. A large language model is trained on a very large amount of text to predict what comes next, which produces broad ability and a real tendency to state plausible things that are not true.",
+      "variations": [
+        "Modern AI is mostly machine learning: instead of hand-written rules for every case, a model is shown many examples and learns the pattern. Artificial intelligence is software that performs tasks we would normally call intelligent - recognising images, translating, writing, deciding. A large language model is trained on a very large amount of text to predict what comes next, which produces broad ability and a real tendency to state plausible things that are not true.",
+        "A large language model is trained on a very large amount of text to predict what comes next, which produces broad ability and a real tendency to state plausible things that are not true. Artificial intelligence is software that performs tasks we would normally call intelligent - recognising images, translating, writing, deciding. Modern AI is mostly machine learning: instead of hand-written rules for every case, a model is shown many examples and learns the pattern."
+      ]
+    },
+    {
+      "id": "tec-ai-000002",
+      "topic": "technology-ai",
+      "intent": "definition",
+      "concept": "hallucinate",
+      "keywords": [
+        "hallucinate",
+        "hallucination",
+        "wrong",
+        "accuracy",
+        "reliable",
+        "trust",
+        "large",
+        "language",
+        "model",
+        "predicts",
+        "likely",
+        "continuation"
+      ],
+      "patterns": [
+        "what is hallucinate",
+        "hallucinate",
+        "explain hallucinate",
+        "definition of hallucinate",
+        "hallucinate meaning",
+        "can ai be wrong",
+        "what is hallucination",
+        "is ai accurate"
+      ],
+      "answer": "A large language model predicts the most likely continuation of text, which means it is optimised to sound plausible rather than to be true. When it does not know something, the same mechanism produces a fluent, well-formed and incorrect answer - called a hallucination. It is not a bug that will be patched away; it follows from how these systems are built. Anything that matters should be checked against a real source, and the model should be treated as a useful draft rather than an authority.",
+      "variations": [
+        "When it does not know something, the same mechanism produces a fluent, well-formed and incorrect answer - called a hallucination. A large language model predicts the most likely continuation of text, which means it is optimised to sound plausible rather than to be true. It is not a bug that will be patched away; it follows from how these systems are built. Anything that matters should be checked against a real source, and the model should be treated as a useful draft rather than an authority.",
+        "It is not a bug that will be patched away; it follows from how these systems are built. A large language model predicts the most likely continuation of text, which means it is optimised to sound plausible rather than to be true. When it does not know something, the same mechanism produces a fluent, well-formed and incorrect answer - called a hallucination. Anything that matters should be checked against a real source, and the model should be treated as a useful draft rather than an authority."
+      ]
+    },
+    {
+      "id": "tec-ai-000003",
+      "topic": "technology-ai",
+      "intent": "definition",
+      "concept": "machine learning",
+      "keywords": [
+        "machine learning",
+        "model",
+        "training",
+        "overfitting",
+        "supervised",
+        "neural",
+        "machine",
+        "learning",
+        "fits",
+        "data",
+        "adjusting"
+      ],
+      "patterns": [
+        "what is machine learning",
+        "machine learning",
+        "explain machine learning",
+        "definition of machine learning",
+        "machine learning meaning",
+        "what is overfitting",
+        "is machine learning the same as ai",
+        "ano ang machine learning",
+        "unsa ang machine learning"
+      ],
+      "answer": "Machine learning fits a model to data by adjusting parameters until its output matches the answers, rather than having the rules written by hand. It is split by what is supervised with labelled examples, unsupervised with none, and reinforcement where the system learns from reward. The failure mode to know about is overfitting, where a model memorises its training data and then performs badly on anything new it has not seen.",
+      "variations": [
+        "It is split by what is supervised with labelled examples, unsupervised with none, and reinforcement where the system learns from reward. Machine learning fits a model to data by adjusting parameters until its output matches the answers, rather than having the rules written by hand. The failure mode to know about is overfitting, where a model memorises its training data and then performs badly on anything new it has not seen.",
+        "The failure mode to know about is overfitting, where a model memorises its training data and then performs badly on anything new it has not seen. Machine learning fits a model to data by adjusting parameters until its output matches the answers, rather than having the rules written by hand. It is split by what is supervised with labelled examples, unsupervised with none, and reinforcement where the system learns from reward."
+      ],
+      "tl": "machine learning",
+      "bis": "machine learning"
+    },
+    {
+      "id": "tec-ai-000004",
+      "topic": "technology-ai",
+      "intent": "definition",
+      "concept": "openai",
+      "keywords": [
+        "openai",
+        "gpt",
+        "token",
+        "llm",
+        "api",
+        "builds",
+        "large",
+        "language",
+        "models",
+        "sells"
+      ],
+      "patterns": [
+        "what is openai",
+        "openai",
+        "explain openai",
+        "definition of openai",
+        "openai meaning",
+        "what is a language model",
+        "why do ai models hallucinate",
+        "ano ang openai",
+        "unsa ang openai"
+      ],
+      "answer": "OpenAI builds large language models and sells access to them through an API, with the models being the product and the API the delivery. A language model predicts the next token, which produces broad ability and a real tendency to state things plausibly and incorrectly. That is the honest framing of what these systems are, and it is why verification matters more with them than with a lookup, which cannot invent an answer.",
+      "variations": [
+        "A language model predicts the next token, which produces broad ability and a real tendency to state things plausibly and incorrectly. OpenAI builds large language models and sells access to them through an API, with the models being the product and the API the delivery. That is the honest framing of what these systems are, and it is why verification matters more with them than with a lookup, which cannot invent an answer.",
+        "That is the honest framing of what these systems are, and it is why verification matters more with them than with a lookup, which cannot invent an answer. OpenAI builds large language models and sells access to them through an API, with the models being the product and the API the delivery. A language model predicts the next token, which produces broad ability and a real tendency to state things plausibly and incorrectly."
+      ],
+      "tl": "openai",
+      "bis": "openai"
+    }
+  ],
+  "lang": "english",
+  "group": "technology",
+  "sub": "ai",
+  "title": "AI",
+  "groupTitle": "Technology"
+}

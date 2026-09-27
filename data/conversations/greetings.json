@@ -1,0 +1,236 @@
+{
+  "topic": "conversations-greetings",
+  "entries": [
+    {
+      "id": "con-greetings-000001",
+      "topic": "conversations-greetings",
+      "intent": "definition",
+      "concept": "introduction",
+      "keywords": [
+        "introduction",
+        "introduce",
+        "name",
+        "courtesy",
+        "script",
+        "room",
+        "yourself",
+        "pagpapaKilala",
+        "moment",
+        "people",
+        "connected",
+        "english",
+        "words"
+      ],
+      "patterns": [
+        "what is introduction",
+        "introduction",
+        "explain introduction",
+        "definition of introduction",
+        "introduction meaning",
+        "how do you introduce two people",
+        "how to introduce yourself",
+        "what to say when introducing",
+        "ano ang introduction",
+        "unsa ang pagpapaKilala"
+      ],
+      "answer": "An introduction is the moment two people are connected, and English words three separate things separately: being named to each other, being named to a room, and being left to do it yourself. The first is a courtesy from the person already present and it comes with a small script, being this is and introducing. The second is a social skill of its own. The third is where most people freeze, because there is nobody left to hand the floor to.",
+      "variations": [
+        "The first is a courtesy from the person already present and it comes with a small script, being this is and introducing. An introduction is the moment two people are connected, and English words three separate things separately: being named to each other, being named to a room, and being left to do it yourself. The second is a social skill of its own. The third is where most people freeze, because there is nobody left to hand the floor to.",
+        "The second is a social skill of its own. An introduction is the moment two people are connected, and English words three separate things separately: being named to each other, being named to a room, and being left to do it yourself. The first is a courtesy from the person already present and it comes with a small script, being this is and introducing. The third is where most people freeze, because there is nobody left to hand the floor to."
+      ],
+      "tl": "introduction",
+      "bis": "pagpapaKilala"
+    },
+    {
+      "id": "con-greetings-000002",
+      "topic": "conversations-greetings",
+      "intent": "definition",
+      "concept": "icebreaker",
+      "keywords": [
+        "icebreaker",
+        "stranger",
+        "question",
+        "room",
+        "easy",
+        "weather",
+        "break-the-ice",
+        "sentence",
+        "open",
+        "conversation",
+        "word"
+      ],
+      "patterns": [
+        "what is icebreaker",
+        "icebreaker",
+        "explain icebreaker",
+        "definition of icebreaker",
+        "icebreaker meaning",
+        "how to break the ice",
+        "icebreaker questions",
+        "what to say to someone new",
+        "ano ang icebreaker",
+        "unsa ang break-the-ice"
+      ],
+      "answer": "An icebreaker is a sentence used to open a conversation with a stranger, and the word assumes a room of people who do not know each other. A good one asks something easy to answer and hard to answer badly, which is exactly why the weather works and income does not. The worst are questions with a correct answer, because they end in agreement and leave nothing to follow. Asking something already answered a minute ago is the other failure.",
+      "variations": [
+        "A good one asks something easy to answer and hard to answer badly, which is exactly why the weather works and income does not. An icebreaker is a sentence used to open a conversation with a stranger, and the word assumes a room of people who do not know each other. The worst are questions with a correct answer, because they end in agreement and leave nothing to follow. Asking something already answered a minute ago is the other failure.",
+        "The worst are questions with a correct answer, because they end in agreement and leave nothing to follow. An icebreaker is a sentence used to open a conversation with a stranger, and the word assumes a room of people who do not know each other. A good one asks something easy to answer and hard to answer badly, which is exactly why the weather works and income does not. Asking something already answered a minute ago is the other failure."
+      ],
+      "tl": "icebreaker",
+      "bis": "break-the-ice"
+    },
+    {
+      "id": "con-greetings-000003",
+      "topic": "conversations-greetings",
+      "intent": "definition",
+      "concept": "rapport",
+      "keywords": [
+        "rapport",
+        "comfort",
+        "conversation",
+        "ease",
+        "agree",
+        "pace",
+        "easy",
+        "mutual",
+        "continue"
+      ],
+      "patterns": [
+        "what is rapport",
+        "rapport",
+        "explain rapport",
+        "definition of rapport",
+        "rapport meaning",
+        "how do you build rapport",
+        "is rapport the same as liking",
+        "ano ang rapport",
+        "unsa ang rapport"
+      ],
+      "answer": "Rapport is the easy mutual comfort that lets a conversation continue without effort, and it is not the same as liking somebody, which can exist without it. It is built from small agreements and matched pace, so two people who speak at the same speed and disagree about nothing yet find they are getting on well. Rapport can be built in a minute and lost in one, and it is usually lost by contradicting somebody in public or by making a joke at their expense.",
+      "variations": [
+        "It is built from small agreements and matched pace, so two people who speak at the same speed and disagree about nothing yet find they are getting on well. Rapport is the easy mutual comfort that lets a conversation continue without effort, and it is not the same as liking somebody, which can exist without it. Rapport can be built in a minute and lost in one, and it is usually lost by contradicting somebody in public or by making a joke at their expense.",
+        "Rapport can be built in a minute and lost in one, and it is usually lost by contradicting somebody in public or by making a joke at their expense. Rapport is the easy mutual comfort that lets a conversation continue without effort, and it is not the same as liking somebody, which can exist without it. It is built from small agreements and matched pace, so two people who speak at the same speed and disagree about nothing yet find they are getting on well."
+      ],
+      "tl": "rapport",
+      "bis": "rapport"
+    },
+    {
+      "id": "con-greetings-000004",
+      "topic": "conversations-greetings",
+      "intent": "definition",
+      "concept": "first impression",
+      "keywords": [
+        "first impression",
+        "impression",
+        "first",
+        "seconds",
+        "judge",
+        "revise",
+        "manner",
+        "judgement",
+        "formed",
+        "research"
+      ],
+      "patterns": [
+        "what is first impression",
+        "first impression",
+        "explain first impression",
+        "definition of first impression",
+        "first impression meaning",
+        "what is a first impression",
+        "how long does a first impression last",
+        "is warmth more important than competence",
+        "ano ang first impression",
+        "unsa ang unang bakasyon"
+      ],
+      "answer": "A first impression is the judgement formed in the first few seconds, and the research on it is unusually consistent: people form one almost immediately and revise it far less than they believe they will. What drives it is warmth before competence, so being liked counts for more than being right. The awkward consequence is that the impression is about manner rather than substance, and someone whose point was excellent can leave thinking they were not taken seriously.",
+      "variations": [
+        "What drives it is warmth before competence, so being liked counts for more than being right. A first impression is the judgement formed in the first few seconds, and the research on it is unusually consistent: people form one almost immediately and revise it far less than they believe they will. The awkward consequence is that the impression is about manner rather than substance, and someone whose point was excellent can leave thinking they were not taken seriously.",
+        "The awkward consequence is that the impression is about manner rather than substance, and someone whose point was excellent can leave thinking they were not taken seriously. A first impression is the judgement formed in the first few seconds, and the research on it is unusually consistent: people form one almost immediately and revise it far less than they believe they will. What drives it is warmth before competence, so being liked counts for more than being right."
+      ],
+      "tl": "first impression",
+      "bis": "unang bakasyon"
+    },
+    {
+      "id": "con-greetings-000005",
+      "topic": "conversations-greetings",
+      "intent": "definition",
+      "concept": "eye contact",
+      "keywords": [
+        "eye contact",
+        "gaze",
+        "culture",
+        "honest",
+        "avoid",
+        "respect",
+        "tingin",
+        "contact",
+        "mutual",
+        "meeting",
+        "gazes",
+        "meaning",
+        "entirely"
+      ],
+      "patterns": [
+        "what is eye contact",
+        "eye contact",
+        "explain eye contact",
+        "definition of eye contact",
+        "eye contact meaning",
+        "why is eye contact important",
+        "is eye contact universal",
+        "ano ang eye contact",
+        "unsa ang tingin"
+      ],
+      "answer": "Eye contact is the mutual meeting of gazes, and its meaning is entirely cultural even though the gesture itself is universal. Across much of Europe and North America a sustained look signals honesty and avoiding it signals evasion. Through much of Asia and in parts of the Middle East the convention reverses, and prolonged direct looking is read as disrespect or aggression. Somebody managing a conversation across that gap has to learn the other rule consciously.",
+      "variations": [
+        "Across much of Europe and North America a sustained look signals honesty and avoiding it signals evasion. Eye contact is the mutual meeting of gazes, and its meaning is entirely cultural even though the gesture itself is universal. Through much of Asia and in parts of the Middle East the convention reverses, and prolonged direct looking is read as disrespect or aggression. Somebody managing a conversation across that gap has to learn the other rule consciously.",
+        "Through much of Asia and in parts of the Middle East the convention reverses, and prolonged direct looking is read as disrespect or aggression. Eye contact is the mutual meeting of gazes, and its meaning is entirely cultural even though the gesture itself is universal. Across much of Europe and North America a sustained look signals honesty and avoiding it signals evasion. Somebody managing a conversation across that gap has to learn the other rule consciously."
+      ],
+      "tl": "eye contact",
+      "bis": "tingin"
+    },
+    {
+      "id": "con-greetings-000006",
+      "topic": "conversations-greetings",
+      "intent": "definition",
+      "concept": "gesture",
+      "keywords": [
+        "gesture",
+        "movement",
+        "signal",
+        "meaning",
+        "social",
+        "learn",
+        "galit",
+        "carries",
+        "word",
+        "covers"
+      ],
+      "patterns": [
+        "what is gesture",
+        "gesture",
+        "explain gesture",
+        "definition of gesture",
+        "gesture meaning",
+        "what is a gesture",
+        "are gestures universal",
+        "is a gesture a form of communication",
+        "ano ang gesture",
+        "unsa ang galit"
+      ],
+      "answer": "A gesture is a movement that carries meaning, and the word covers both the deliberate signals people make and the involuntary ones they cannot help. English adds a social layer of its own, because a movement can be fine among friends and inappropriate at work, and the same gesture reads differently in each place. The real difficulty is that the meaning is learned rather than universal, so people travel into a culture already following rules they have never been told.",
+      "variations": [
+        "English adds a social layer of its own, because a movement can be fine among friends and inappropriate at work, and the same gesture reads differently in each place. A gesture is a movement that carries meaning, and the word covers both the deliberate signals people make and the involuntary ones they cannot help. The real difficulty is that the meaning is learned rather than universal, so people travel into a culture already following rules they have never been told.",
+        "The real difficulty is that the meaning is learned rather than universal, so people travel into a culture already following rules they have never been told. A gesture is a movement that carries meaning, and the word covers both the deliberate signals people make and the involuntary ones they cannot help. English adds a social layer of its own, because a movement can be fine among friends and inappropriate at work, and the same gesture reads differently in each place."
+      ],
+      "tl": "gesture",
+      "bis": "galit"
+    }
+  ],
+  "lang": "english",
+  "group": "conversations",
+  "sub": "greetings",
+  "title": "Greetings",
+  "groupTitle": "Conversations"
+}

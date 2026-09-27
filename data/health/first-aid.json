@@ -1,0 +1,48 @@
+{
+  "topic": "health-first-aid",
+  "entries": [
+    {
+      "id": "hea-first-aid-000001",
+      "topic": "health-first-aid",
+      "intent": "definition",
+      "concept": "first aid",
+      "keywords": [
+        "first aid",
+        "bleeding",
+        "burn",
+        "cpr",
+        "emergency",
+        "basics",
+        "first",
+        "worth",
+        "knowing",
+        "minutes",
+        "matter"
+      ],
+      "patterns": [
+        "what is first aid",
+        "first aid",
+        "explain first aid",
+        "definition of first aid",
+        "first aid meaning",
+        "what should i do in an emergency",
+        "how do i stop bleeding",
+        "what is cpr",
+        "ano ang first aid",
+        "unsa ang first aid"
+      ],
+      "answer": "The basics of first aid are worth knowing because the first few minutes matter more than anything done later. For bleeding, apply firm direct pressure with a clean cloth and keep pressing. For a burn, cool it under cool running water for about twenty minutes, and do not apply butter, toothpaste or ice. If someone is unresponsive and not breathing normally, call emergency services and start chest compressions, which is far better than doing nothing. A suspected spinal injury should not be moved unless necessary for safety.",
+      "variations": [
+        "For bleeding, apply firm direct pressure with a clean cloth and keep pressing. The basics of first aid are worth knowing because the first few minutes matter more than anything done later. For a burn, cool it under cool running water for about twenty minutes, and do not apply butter, toothpaste or ice. If someone is unresponsive and not breathing normally, call emergency services and start chest compressions, which is far better than doing nothing. A suspected spinal injury should not be moved unless necessary for safety.",
+        "For a burn, cool it under cool running water for about twenty minutes, and do not apply butter, toothpaste or ice. The basics of first aid are worth knowing because the first few minutes matter more than anything done later. For bleeding, apply firm direct pressure with a clean cloth and keep pressing. If someone is unresponsive and not breathing normally, call emergency services and start chest compressions, which is far better than doing nothing. A suspected spinal injury should not be moved unless necessary for safety."
+      ],
+      "tl": "first aid",
+      "bis": "first aid"
+    }
+  ],
+  "lang": "english",
+  "group": "health",
+  "sub": "first-aid",
+  "title": "First aid",
+  "groupTitle": "Health"
+}

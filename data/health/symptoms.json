@@ -1,0 +1,198 @@
+{
+  "topic": "health-symptoms",
+  "entries": [
+    {
+      "id": "hea-symptoms-000001",
+      "topic": "health-symptoms",
+      "intent": "definition",
+      "concept": "fever",
+      "keywords": [
+        "fever",
+        "temperature",
+        "thermometer",
+        "chills",
+        "kataas",
+        "lagnat",
+        "body",
+        "above",
+        "degrees",
+        "celsius"
+      ],
+      "patterns": [
+        "what is fever",
+        "fever",
+        "explain fever",
+        "definition of fever",
+        "fever meaning",
+        "what is a fever",
+        "how high is too high a fever",
+        "when should i see a doctor for a fever",
+        "ano ang lagnat",
+        "unsa ang lagnat"
+      ],
+      "answer": "A fever is a body temperature above about 38 degrees Celsius, and it is a symptom rather than an illness in itself, because the immune system raises temperature to make conditions worse for invading germs. Rest and fluids help, and paracetamol or ibuprofen can help if you can take them safely. The pattern matters more than the number on the thermometer, namely how long it lasted and what else came with it. See a doctor if a fever lasts more than three days, or comes with chest pain, a stiff neck, confusion, or a rash that does not fade under pressure.",
+      "variations": [
+        "Rest and fluids help, and paracetamol or ibuprofen can help if you can take them safely. A fever is a body temperature above about 38 degrees Celsius, and it is a symptom rather than an illness in itself, because the immune system raises temperature to make conditions worse for invading germs. The pattern matters more than the number on the thermometer, namely how long it lasted and what else came with it. See a doctor if a fever lasts more than three days, or comes with chest pain, a stiff neck, confusion, or a rash that does not fade under pressure.",
+        "The pattern matters more than the number on the thermometer, namely how long it lasted and what else came with it. A fever is a body temperature above about 38 degrees Celsius, and it is a symptom rather than an illness in itself, because the immune system raises temperature to make conditions worse for invading germs. Rest and fluids help, and paracetamol or ibuprofen can help if you can take them safely. See a doctor if a fever lasts more than three days, or comes with chest pain, a stiff neck, confusion, or a rash that does not fade under pressure."
+      ],
+      "tl": "lagnat",
+      "bis": "lagnat"
+    },
+    {
+      "id": "hea-symptoms-000002",
+      "topic": "health-symptoms",
+      "intent": "definition",
+      "concept": "dehydration",
+      "keywords": [
+        "dehydration",
+        "water",
+        "hydration",
+        "urine",
+        "thirsty",
+        "tubig",
+        "happens",
+        "body",
+        "loses",
+        "fluid",
+        "takes"
+      ],
+      "patterns": [
+        "what is dehydration",
+        "dehydration",
+        "explain dehydration",
+        "definition of dehydration",
+        "dehydration meaning",
+        "how do i know if i am dehydrated",
+        "what colour should urine be",
+        "how much water should i drink",
+        "ano ang tubig",
+        "unsa ang tubig"
+      ],
+      "answer": "Dehydration happens when the body loses more fluid than it takes in, and it is more dangerous in children and older people than in most adults. Thirst is already a late signal, so a practical guide is to watch the colour of urine instead, where pale straw means well hydrated and dark amber means you have been going a while without. Dizziness on standing, a dry mouth, low urine output or confusion are reasons to seek help rather than simply drink more water.",
+      "variations": [
+        "Thirst is already a late signal, so a practical guide is to watch the colour of urine instead, where pale straw means well hydrated and dark amber means you have been going a while without. Dehydration happens when the body loses more fluid than it takes in, and it is more dangerous in children and older people than in most adults. Dizziness on standing, a dry mouth, low urine output or confusion are reasons to seek help rather than simply drink more water.",
+        "Dizziness on standing, a dry mouth, low urine output or confusion are reasons to seek help rather than simply drink more water. Dehydration happens when the body loses more fluid than it takes in, and it is more dangerous in children and older people than in most adults. Thirst is already a late signal, so a practical guide is to watch the colour of urine instead, where pale straw means well hydrated and dark amber means you have been going a while without."
+      ],
+      "tl": "tubig",
+      "bis": "tubig"
+    },
+    {
+      "id": "hea-symptoms-000003",
+      "topic": "health-symptoms",
+      "intent": "definition",
+      "concept": "headache",
+      "keywords": [
+        "headache",
+        "migraine",
+        "tension",
+        "head",
+        "ulo",
+        "mata",
+        "headaches",
+        "type",
+        "both",
+        "diagnosed"
+      ],
+      "patterns": [
+        "what is headache",
+        "headache",
+        "explain headache",
+        "definition of headache",
+        "headache meaning",
+        "what causes headaches",
+        "how do i know if it is a migraine",
+        "when is a headache dangerous",
+        "ano ang ulo",
+        "unsa ang ulo"
+      ],
+      "answer": "Most headaches are tension-type or migraine, and both are diagnosed from a pattern of symptoms rather than a scan. A tension headache is a dull, tight band-like pain, usually worse later in the day, often with neck and shoulder tension. A migraine is typically one-sided, throbbing, worsened by movement, and often comes with nausea and sensitivity to light or sound. The red flags that need a doctor rather than a painkiller are a sudden severe headache unlike any previous one, a headache with fever and a stiff neck, weakness or vision loss, or one that follows a head injury.",
+      "variations": [
+        "A tension headache is a dull, tight band-like pain, usually worse later in the day, often with neck and shoulder tension. Most headaches are tension-type or migraine, and both are diagnosed from a pattern of symptoms rather than a scan. A migraine is typically one-sided, throbbing, worsened by movement, and often comes with nausea and sensitivity to light or sound. The red flags that need a doctor rather than a painkiller are a sudden severe headache unlike any previous one, a headache with fever and a stiff neck, weakness or vision loss, or one that follows a head injury.",
+        "A migraine is typically one-sided, throbbing, worsened by movement, and often comes with nausea and sensitivity to light or sound. Most headaches are tension-type or migraine, and both are diagnosed from a pattern of symptoms rather than a scan. A tension headache is a dull, tight band-like pain, usually worse later in the day, often with neck and shoulder tension. The red flags that need a doctor rather than a painkiller are a sudden severe headache unlike any previous one, a headache with fever and a stiff neck, weakness or vision loss, or one that follows a head injury."
+      ],
+      "tl": "ulo",
+      "bis": "ulo"
+    },
+    {
+      "id": "hea-symptoms-000004",
+      "topic": "health-symptoms",
+      "intent": "definition",
+      "concept": "back pain",
+      "keywords": [
+        "back pain",
+        "back",
+        "pain",
+        "posture",
+        "spine",
+        "likod",
+        "likud",
+        "mechanical",
+        "coming",
+        "muscles",
+        "joints"
+      ],
+      "patterns": [
+        "what is back pain",
+        "back pain",
+        "explain back pain",
+        "definition of back pain",
+        "back pain meaning",
+        "how do i fix my posture",
+        "why does my back hurt",
+        "is sitting bad for your back",
+        "ano ang likod",
+        "unsa ang likud"
+      ],
+      "answer": "Most back pain is mechanical, coming from muscles and joints asked to do more than they can, and it settles within weeks without treatment. The changes that help are unglamorous, such as keeping moving rather than resting flat on a bed, building up the muscles around the spine, and setting screens and desks so you are not folded over a desk all day. Sitting is not by itself dangerous and no single posture is the villain, the awkward position you can hold for a long time is the problem. Sudden severe pain after a fall, numbness around the saddle, or loss of bladder or bowel control are emergencies.",
+      "variations": [
+        "The changes that help are unglamorous, such as keeping moving rather than resting flat on a bed, building up the muscles around the spine, and setting screens and desks so you are not folded over a desk all day. Most back pain is mechanical, coming from muscles and joints asked to do more than they can, and it settles within weeks without treatment. Sitting is not by itself dangerous and no single posture is the villain, the awkward position you can hold for a long time is the problem. Sudden severe pain after a fall, numbness around the saddle, or loss of bladder or bowel control are emergencies.",
+        "Sitting is not by itself dangerous and no single posture is the villain, the awkward position you can hold for a long time is the problem. Most back pain is mechanical, coming from muscles and joints asked to do more than they can, and it settles within weeks without treatment. The changes that help are unglamorous, such as keeping moving rather than resting flat on a bed, building up the muscles around the spine, and setting screens and desks so you are not folded over a desk all day. Sudden severe pain after a fall, numbness around the saddle, or loss of bladder or bowel control are emergencies."
+      ],
+      "tl": "likod",
+      "bis": "likud"
+    },
+    {
+      "id": "hea-symptoms-000005",
+      "topic": "health-symptoms",
+      "intent": "definition",
+      "concept": "allergy",
+      "keywords": [
+        "allergy",
+        "allergic",
+        "pollen",
+        "anaphylaxis",
+        "histamine",
+        "alerji",
+        "immune",
+        "reaction",
+        "substance",
+        "harmless",
+        "people"
+      ],
+      "patterns": [
+        "what is allergy",
+        "allergy",
+        "explain allergy",
+        "definition of allergy",
+        "allergy meaning",
+        "what is an allergy",
+        "can allergies go away",
+        "what is anaphylaxis",
+        "ano ang alerji",
+        "unsa ang alerji"
+      ],
+      "answer": "An allergy is an immune reaction to a substance that is harmless to most people, such as pollen, dust mites, animal dander or certain foods. The immune system treats the trigger as a threat and produces antibodies that cause sneezing, itching, hives or swelling. Severity ranges from a seasonal nuisance to anaphylaxis, which is a medical emergency requiring immediate adrenaline and hospital care. Food allergies are one of the conditions that genuinely requires strict avoidance, and the number of children affected has risen sharply over the past few decades for reasons still debated.",
+      "variations": [
+        "The immune system treats the trigger as a threat and produces antibodies that cause sneezing, itching, hives or swelling. An allergy is an immune reaction to a substance that is harmless to most people, such as pollen, dust mites, animal dander or certain foods. Severity ranges from a seasonal nuisance to anaphylaxis, which is a medical emergency requiring immediate adrenaline and hospital care. Food allergies are one of the conditions that genuinely requires strict avoidance, and the number of children affected has risen sharply over the past few decades for reasons still debated.",
+        "Severity ranges from a seasonal nuisance to anaphylaxis, which is a medical emergency requiring immediate adrenaline and hospital care. An allergy is an immune reaction to a substance that is harmless to most people, such as pollen, dust mites, animal dander or certain foods. The immune system treats the trigger as a threat and produces antibodies that cause sneezing, itching, hives or swelling. Food allergies are one of the conditions that genuinely requires strict avoidance, and the number of children affected has risen sharply over the past few decades for reasons still debated."
+      ],
+      "tl": "alerji",
+      "bis": "alerji"
+    }
+  ],
+  "lang": "english",
+  "group": "health",
+  "sub": "symptoms",
+  "title": "Symptoms",
+  "groupTitle": "Health"
+}

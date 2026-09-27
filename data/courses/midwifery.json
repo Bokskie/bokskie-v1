@@ -1,0 +1,200 @@
+{
+  "topic": "courses-midwifery",
+  "entries": [
+    {
+      "id": "cou-midwifery-000001",
+      "topic": "courses-midwifery",
+      "intent": "definition",
+      "concept": "midwifery",
+      "keywords": [
+        "midwifery",
+        "midwife",
+        "birth",
+        "antenatal",
+        "labour",
+        "course",
+        "degree",
+        "pregnant",
+        "hilap",
+        "care",
+        "women",
+        "pregnancy",
+        "childbirth",
+        "weeks"
+      ],
+      "patterns": [
+        "what is midwifery",
+        "midwifery",
+        "explain midwifery",
+        "definition of midwifery",
+        "midwifery meaning",
+        "is midwifery a course",
+        "what does a midwife do",
+        "ano ang midwifery",
+        "unsa ang hilap"
+      ],
+      "answer": "Midwifery is the care of women through pregnancy, childbirth and the weeks after, and a midwife is trained to do that independently rather than only assist a doctor. The word distinguishes a profession from a specialism, since midwifery used to mean the practice of a midwife and now also the whole field of study leading to it. Where a midwife is qualified, they are trained to recognise and refer the complications they are not able to handle, which is a safety mechanism rather than a limitation.",
+      "variations": [
+        "The word distinguishes a profession from a specialism, since midwifery used to mean the practice of a midwife and now also the whole field of study leading to it. Midwifery is the care of women through pregnancy, childbirth and the weeks after, and a midwife is trained to do that independently rather than only assist a doctor. Where a midwife is qualified, they are trained to recognise and refer the complications they are not able to handle, which is a safety mechanism rather than a limitation.",
+        "Where a midwife is qualified, they are trained to recognise and refer the complications they are not able to handle, which is a safety mechanism rather than a limitation. Midwifery is the care of women through pregnancy, childbirth and the weeks after, and a midwife is trained to do that independently rather than only assist a doctor. The word distinguishes a profession from a specialism, since midwifery used to mean the practice of a midwife and now also the whole field of study leading to it."
+      ],
+      "tl": "midwifery",
+      "bis": "hilap"
+    },
+    {
+      "id": "cou-midwifery-000002",
+      "topic": "courses-midwifery",
+      "intent": "definition",
+      "concept": "midwife",
+      "keywords": [
+        "midwife",
+        "professional",
+        "pregnancy",
+        "labour",
+        "antenatal",
+        "independent",
+        "hilap",
+        "trained",
+        "supports",
+        "women"
+      ],
+      "patterns": [
+        "what is midwife",
+        "midwife",
+        "explain midwife",
+        "definition of midwife",
+        "midwife meaning",
+        "what is a midwife",
+        "is a midwife a nurse",
+        "where does a midwife work",
+        "ano ang midwife",
+        "unsa ang hilap"
+      ],
+      "answer": "A midwife is a trained professional who supports women through pregnancy, labour and the period after, and in many countries the role includes providing routine antenatal care independently of a doctor. The training is different in emphasis from nursing, being centred on the physiological process of birth rather than on illness, which is why the two are separate qualifications in most systems. Where a midwife works in a hospital, the distinction from a nurse is a legal one as much as a practical one, and it decides who may deliver.",
+      "variations": [
+        "The training is different in emphasis from nursing, being centred on the physiological process of birth rather than on illness, which is why the two are separate qualifications in most systems. A midwife is a trained professional who supports women through pregnancy, labour and the period after, and in many countries the role includes providing routine antenatal care independently of a doctor. Where a midwife works in a hospital, the distinction from a nurse is a legal one as much as a practical one, and it decides who may deliver.",
+        "Where a midwife works in a hospital, the distinction from a nurse is a legal one as much as a practical one, and it decides who may deliver. A midwife is a trained professional who supports women through pregnancy, labour and the period after, and in many countries the role includes providing routine antenatal care independently of a doctor. The training is different in emphasis from nursing, being centred on the physiological process of birth rather than on illness, which is why the two are separate qualifications in most systems."
+      ],
+      "tl": "midwife",
+      "bis": "hilap"
+    },
+    {
+      "id": "cou-midwifery-000003",
+      "topic": "courses-midwifery",
+      "intent": "definition",
+      "concept": "antenatal",
+      "keywords": [
+        "antenatal",
+        "pregnancy",
+        "visit",
+        "monitor",
+        "schedule",
+        "complication",
+        "pangangalaga",
+        "care",
+        "medical",
+        "conception",
+        "until",
+        "birth"
+      ],
+      "patterns": [
+        "what is antenatal",
+        "antenatal",
+        "explain antenatal",
+        "definition of antenatal",
+        "antenatal meaning",
+        "what is antenatal care",
+        "how often are antenatal visits",
+        "is antenatal important",
+        "ano ang antenatal",
+        "unsa ang pangangalaga"
+      ],
+      "answer": "Antenatal care is the medical care given from conception until the birth, and it exists to find problems that are cheaper to treat early than late. The schedule is a series of visits at set weeks, each carrying checks appropriate to that stage rather than the same tests every time. Most of what happens is ordinary monitoring, and the value shows up in the conditions picked up that would otherwise be missed, which is why skipping visits for convenience is the most common avoidable risk.",
+      "variations": [
+        "The schedule is a series of visits at set weeks, each carrying checks appropriate to that stage rather than the same tests every time. Antenatal care is the medical care given from conception until the birth, and it exists to find problems that are cheaper to treat early than late. Most of what happens is ordinary monitoring, and the value shows up in the conditions picked up that would otherwise be missed, which is why skipping visits for convenience is the most common avoidable risk.",
+        "Most of what happens is ordinary monitoring, and the value shows up in the conditions picked up that would otherwise be missed, which is why skipping visits for convenience is the most common avoidable risk. Antenatal care is the medical care given from conception until the birth, and it exists to find problems that are cheaper to treat early than late. The schedule is a series of visits at set weeks, each carrying checks appropriate to that stage rather than the same tests every time."
+      ],
+      "tl": "antenatal",
+      "bis": "pangangalaga"
+    },
+    {
+      "id": "cou-midwifery-000004",
+      "topic": "courses-midwifery",
+      "intent": "definition",
+      "concept": "labour",
+      "keywords": [
+        "labour",
+        "childbirth",
+        "dilation",
+        "placenta",
+        "stage",
+        "progress",
+        "panganganak",
+        "process",
+        "conventionally",
+        "divided",
+        "three"
+      ],
+      "patterns": [
+        "what is labour",
+        "labour",
+        "explain labour",
+        "definition of labour",
+        "labour meaning",
+        "how long is labour",
+        "what are the stages of labour",
+        "ano ang labour",
+        "unsa ang panganganak"
+      ],
+      "answer": "Labour is the process of childbirth, conventionally divided into three stages: dilation, delivery of the baby, and delivery of the placenta. The first is the longest and is managed by monitoring rather than by intervention, since a natural labour is safer for both. The word is British in this sense, with American usage preferring labor, and both refer to the whole process rather than only the pushing. A labour that does not progress is a clinical judgement about timing, not a matter of endurance.",
+      "variations": [
+        "The first is the longest and is managed by monitoring rather than by intervention, since a natural labour is safer for both. Labour is the process of childbirth, conventionally divided into three stages: dilation, delivery of the baby, and delivery of the placenta. The word is British in this sense, with American usage preferring labor, and both refer to the whole process rather than only the pushing. A labour that does not progress is a clinical judgement about timing, not a matter of endurance.",
+        "The word is British in this sense, with American usage preferring labor, and both refer to the whole process rather than only the pushing. Labour is the process of childbirth, conventionally divided into three stages: dilation, delivery of the baby, and delivery of the placenta. The first is the longest and is managed by monitoring rather than by intervention, since a natural labour is safer for both. A labour that does not progress is a clinical judgement about timing, not a matter of endurance."
+      ],
+      "tl": "labour",
+      "bis": "panganganak"
+    },
+    {
+      "id": "cou-midwifery-000005",
+      "topic": "courses-midwifery",
+      "intent": "definition",
+      "concept": "birth plan",
+      "keywords": [
+        "birth plan",
+        "preference",
+        "labour",
+        "plan",
+        "decision",
+        "birth",
+        "written",
+        "record",
+        "woman's",
+        "preferences"
+      ],
+      "patterns": [
+        "what is birth plan",
+        "birth plan",
+        "explain birth plan",
+        "definition of birth plan",
+        "birth plan meaning",
+        "what is a birth plan",
+        "do i need a birth plan",
+        "what is a birth plan for",
+        "ano ang birth plan",
+        "unsa ang plano ng panganganak"
+      ],
+      "answer": "A birth plan is a written record of a woman's preferences for labour and birth, kept with her notes so the team knows what she wants. It covers things like who she wants present, position, pain relief and what should happen immediately after the birth. It is a statement of intent rather than a contract, since a complication can override it and staff will say so at the time. Its practical value is that decisions do not have to be argued about in labour, when nobody is in a position to argue well.",
+      "variations": [
+        "It covers things like who she wants present, position, pain relief and what should happen immediately after the birth. A birth plan is a written record of a woman's preferences for labour and birth, kept with her notes so the team knows what she wants. It is a statement of intent rather than a contract, since a complication can override it and staff will say so at the time. Its practical value is that decisions do not have to be argued about in labour, when nobody is in a position to argue well.",
+        "It is a statement of intent rather than a contract, since a complication can override it and staff will say so at the time. A birth plan is a written record of a woman's preferences for labour and birth, kept with her notes so the team knows what she wants. It covers things like who she wants present, position, pain relief and what should happen immediately after the birth. Its practical value is that decisions do not have to be argued about in labour, when nobody is in a position to argue well."
+      ],
+      "tl": "birth plan",
+      "bis": "plano ng panganganak"
+    }
+  ],
+  "lang": "english",
+  "group": "courses",
+  "sub": "midwifery",
+  "title": "Midwifery",
+  "groupTitle": "Courses"
+}

@@ -1,0 +1,197 @@
+{
+  "topic": "sports-basketball",
+  "entries": [
+    {
+      "id": "spo-basketball-000001",
+      "topic": "sports-basketball",
+      "intent": "definition",
+      "concept": "dunk",
+      "keywords": [
+        "dunk",
+        "score",
+        "block",
+        "restricted",
+        "whistle",
+        "dunks",
+        "scoring",
+        "taking",
+        "ball",
+        "hoop",
+        "rather"
+      ],
+      "patterns": [
+        "what is dunk",
+        "dunk",
+        "explain dunk",
+        "definition of dunk",
+        "dunk meaning",
+        "what is a dunk",
+        "how many points is a dunk",
+        "why are dunks restricted",
+        "ano ang dunk",
+        "unsa ang dunks"
+      ],
+      "answer": "A dunk is scoring by taking the ball down through the hoop rather than laying it in, and it is worth two points exactly like a normal basket, so its whole value is that it cannot be blocked. That is also why it is restricted in game situations, since an uncontestable two points would break the game; early rules forbade it entirely in a certain year. The most contested version is one taken in the last seconds, where a team is gambling on the whistle not going.",
+      "variations": [
+        "That is also why it is restricted in game situations, since an uncontestable two points would break the game; early rules forbade it entirely in a certain year. A dunk is scoring by taking the ball down through the hoop rather than laying it in, and it is worth two points exactly like a normal basket, so its whole value is that it cannot be blocked. The most contested version is one taken in the last seconds, where a team is gambling on the whistle not going.",
+        "The most contested version is one taken in the last seconds, where a team is gambling on the whistle not going. A dunk is scoring by taking the ball down through the hoop rather than laying it in, and it is worth two points exactly like a normal basket, so its whole value is that it cannot be blocked. That is also why it is restricted in game situations, since an uncontestable two points would break the game; early rules forbade it entirely in a certain year."
+      ],
+      "tl": "dunk",
+      "bis": "dunks"
+    },
+    {
+      "id": "spo-basketball-000002",
+      "topic": "sports-basketball",
+      "intent": "definition",
+      "concept": "three-pointer",
+      "keywords": [
+        "three-pointer",
+        "arc",
+        "line",
+        "spacing",
+        "corner",
+        "three",
+        "pointer",
+        "shot",
+        "beyond",
+        "metres"
+      ],
+      "patterns": [
+        "what is three-pointer",
+        "three-pointer",
+        "explain three-pointer",
+        "definition of three-pointer",
+        "three-pointer meaning",
+        "what is a three pointer",
+        "how far is the three point line",
+        "how many points is a three",
+        "ano ang three-pointer",
+        "unsa ang three"
+      ],
+      "answer": "A three-pointer is a shot from beyond the arc, a line about 6.7 metres from the basket at the top and closer in the corners, and it is worth one more point than a two. The arc exists because the court is symmetrical: pulling the three line straight would make the corners far more valuable than the wings. The shot became central in the 1990s, and the maths that followed changed how spacing and defending work.",
+      "variations": [
+        "The arc exists because the court is symmetrical: pulling the three line straight would make the corners far more valuable than the wings. 7 metres from the basket at the top and closer in the corners, and it is worth one more point than a two. The shot became central in the 1990s, and the maths that followed changed how spacing and defending work.",
+        "The shot became central in the 1990s, and the maths that followed changed how spacing and defending work. 7 metres from the basket at the top and closer in the corners, and it is worth one more point than a two. The arc exists because the court is symmetrical: pulling the three line straight would make the corners far more valuable than the wings."
+      ],
+      "tl": "three-pointer",
+      "bis": "three"
+    },
+    {
+      "id": "spo-basketball-000003",
+      "topic": "sports-basketball",
+      "intent": "definition",
+      "concept": "rebound",
+      "keywords": [
+        "rebound",
+        "offensive",
+        "defensive",
+        "possession",
+        "miss",
+        "regaining",
+        "after",
+        "shot",
+        "missed"
+      ],
+      "patterns": [
+        "what is rebound",
+        "rebound",
+        "explain rebound",
+        "definition of rebound",
+        "rebound meaning",
+        "what is a rebound",
+        "offensive vs defensive rebound",
+        "why is rebounding important",
+        "ano ang rebound",
+        "unsa ang rebound"
+      ],
+      "answer": "A rebound is regaining possession after a shot that missed, and the word covers both the offensive rebound that keeps an attack alive and the defensive one that starts a break. The arithmetic favours the defence, since a miss sends everybody to the same place, which is why the best rebounding teams are usually good in transition. Box outs and positioning decide far more of them than size does.",
+      "variations": [
+        "The arithmetic favours the defence, since a miss sends everybody to the same place, which is why the best rebounding teams are usually good in transition. A rebound is regaining possession after a shot that missed, and the word covers both the offensive rebound that keeps an attack alive and the defensive one that starts a break. Box outs and positioning decide far more of them than size does.",
+        "Box outs and positioning decide far more of them than size does. A rebound is regaining possession after a shot that missed, and the word covers both the offensive rebound that keeps an attack alive and the defensive one that starts a break. The arithmetic favours the defence, since a miss sends everybody to the same place, which is why the best rebounding teams are usually good in transition."
+      ],
+      "tl": "rebound",
+      "bis": "rebound"
+    },
+    {
+      "id": "spo-basketball-000004",
+      "topic": "sports-basketball",
+      "intent": "definition",
+      "concept": "triple double",
+      "keywords": [
+        "triple double",
+        "points",
+        "rebounds",
+        "assists",
+        "ten",
+        "rare",
+        "triple",
+        "double",
+        "single",
+        "game",
+        "player",
+        "records"
+      ],
+      "patterns": [
+        "what is triple double",
+        "triple double",
+        "explain triple double",
+        "definition of triple double",
+        "triple double meaning",
+        "what is a triple double",
+        "how many points for a triple double",
+        "is a quadruple double possible",
+        "ano ang triple double",
+        "unsa ang triple double"
+      ],
+      "answer": "A triple double is a single game in which one player records at least ten in each of points, rebounds and assists, and it is the closest basketball has to a single-game measure of all-round contribution. The same ten-point threshold applies to blocks and steals, and a quadruple double is possible though it has never been recorded in an official game. The number was chosen to be rare enough to mean something, and a close game is worth more to a team than a big individual number.",
+      "variations": [
+        "The same ten-point threshold applies to blocks and steals, and a quadruple double is possible though it has never been recorded in an official game. A triple double is a single game in which one player records at least ten in each of points, rebounds and assists, and it is the closest basketball has to a single-game measure of all-round contribution. The number was chosen to be rare enough to mean something, and a close game is worth more to a team than a big individual number.",
+        "The number was chosen to be rare enough to mean something, and a close game is worth more to a team than a big individual number. A triple double is a single game in which one player records at least ten in each of points, rebounds and assists, and it is the closest basketball has to a single-game measure of all-round contribution. The same ten-point threshold applies to blocks and steals, and a quadruple double is possible though it has never been recorded in an official game."
+      ],
+      "tl": "triple double",
+      "bis": "triple double"
+    },
+    {
+      "id": "spo-basketball-000005",
+      "topic": "sports-basketball",
+      "intent": "definition",
+      "concept": "dribble",
+      "keywords": [
+        "dribble",
+        "bounce",
+        "move",
+        "pass",
+        "crossover",
+        "balance",
+        "ball",
+        "moving",
+        "illegal",
+        "almost"
+      ],
+      "patterns": [
+        "what is dribble",
+        "dribble",
+        "explain dribble",
+        "definition of dribble",
+        "dribble meaning",
+        "what is a dribble",
+        "why can't you dribble in football",
+        "what is a crossover",
+        "ano ang dribble",
+        "unsa ang dribble"
+      ],
+      "answer": "To dribble is to bounce the ball while moving, and it is illegal in almost every other sport, which makes it basketball's defining skill. Its purpose is to create an advantage in position, and a player who only dribbles to get somewhere has already given up the other option of passing. The hardest version is the crossover, where the ball is moved between legs to change direction, and it costs more in balance than it appears to.",
+      "variations": [
+        "Its purpose is to create an advantage in position, and a player who only dribbles to get somewhere has already given up the other option of passing. To dribble is to bounce the ball while moving, and it is illegal in almost every other sport, which makes it basketball's defining skill. The hardest version is the crossover, where the ball is moved between legs to change direction, and it costs more in balance than it appears to.",
+        "The hardest version is the crossover, where the ball is moved between legs to change direction, and it costs more in balance than it appears to. To dribble is to bounce the ball while moving, and it is illegal in almost every other sport, which makes it basketball's defining skill. Its purpose is to create an advantage in position, and a player who only dribbles to get somewhere has already given up the other option of passing."
+      ],
+      "tl": "dribble",
+      "bis": "dribble"
+    }
+  ],
+  "lang": "english",
+  "group": "sports",
+  "sub": "basketball",
+  "title": "Basketball",
+  "groupTitle": "Sports"
+}

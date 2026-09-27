@@ -1,0 +1,200 @@
+{
+  "topic": "conversations-goodbyes",
+  "entries": [
+    {
+      "id": "con-goodbyes-000001",
+      "topic": "conversations-goodbyes",
+      "intent": "definition",
+      "concept": "parting",
+      "keywords": [
+        "parting",
+        "separate",
+        "final",
+        "sudden",
+        "ways",
+        "divide",
+        "paghiwalay",
+        "occasion",
+        "separating",
+        "word",
+        "carries",
+        "finality"
+      ],
+      "patterns": [
+        "what is parting",
+        "parting",
+        "explain parting",
+        "definition of parting",
+        "parting meaning",
+        "what does parting mean",
+        "parting of ways",
+        "is a parting final",
+        "ano ang parting",
+        "unsa ang paghiwalay"
+      ],
+      "answer": "A parting is the occasion of separating, and the word carries more finality than leaving does, which is why it appears in phrases rather than in ordinary speech. The useful contrast is between a parting that is expected and one that is sudden, since English marks the difference in the surrounding words rather than in the word itself. A parting of ways is a mutual and usually amicable separation, and the phrase survives from a much older sense of dividing property.",
+      "variations": [
+        "The useful contrast is between a parting that is expected and one that is sudden, since English marks the difference in the surrounding words rather than in the word itself. A parting is the occasion of separating, and the word carries more finality than leaving does, which is why it appears in phrases rather than in ordinary speech. A parting of ways is a mutual and usually amicable separation, and the phrase survives from a much older sense of dividing property.",
+        "A parting of ways is a mutual and usually amicable separation, and the phrase survives from a much older sense of dividing property. A parting is the occasion of separating, and the word carries more finality than leaving does, which is why it appears in phrases rather than in ordinary speech. The useful contrast is between a parting that is expected and one that is sudden, since English marks the difference in the surrounding words rather than in the word itself."
+      ],
+      "tl": "parting",
+      "bis": "paghiwalay"
+    },
+    {
+      "id": "con-goodbyes-000002",
+      "topic": "conversations-goodbyes",
+      "intent": "definition",
+      "concept": "send off",
+      "keywords": [
+        "send off",
+        "journey",
+        "leave",
+        "ritual",
+        "public",
+        "dismiss",
+        "ipadala",
+        "send",
+        "somebody",
+        "start"
+      ],
+      "patterns": [
+        "what is send off",
+        "send off",
+        "explain send off",
+        "definition of send off",
+        "send off meaning",
+        "what does see someone off mean",
+        "is send off plural",
+        "send someone off meaning fired",
+        "ano ang send off",
+        "unsa ang ipadala"
+      ],
+      "answer": "To send somebody off is to see them leave at the start of a journey, and it is a public act with a ritual attached, which is why it is nearly always plural. Somebody staying behind sees them off; somebody going does not send themselves off. The word also means dismissing somebody harshly, and that second sense is common enough that the two are worth keeping apart in writing.",
+      "variations": [
+        "Somebody staying behind sees them off; somebody going does not send themselves off. To send somebody off is to see them leave at the start of a journey, and it is a public act with a ritual attached, which is why it is nearly always plural. The word also means dismissing somebody harshly, and that second sense is common enough that the two are worth keeping apart in writing.",
+        "The word also means dismissing somebody harshly, and that second sense is common enough that the two are worth keeping apart in writing. To send somebody off is to see them leave at the start of a journey, and it is a public act with a ritual attached, which is why it is nearly always plural. Somebody staying behind sees them off; somebody going does not send themselves off."
+      ],
+      "tl": "send off",
+      "bis": "ipadala"
+    },
+    {
+      "id": "con-goodbyes-000003",
+      "topic": "conversations-goodbyes",
+      "intent": "definition",
+      "concept": "exit line",
+      "keywords": [
+        "exit line",
+        "last",
+        "remember",
+        "warm",
+        "joke",
+        "reply",
+        "exit",
+        "line",
+        "conversation",
+        "ends",
+        "work"
+      ],
+      "patterns": [
+        "what is exit line",
+        "exit line",
+        "explain exit line",
+        "definition of exit line",
+        "exit line meaning",
+        "what is an exit line",
+        "how to end a conversation",
+        "what to say when leaving a party",
+        "ano ang exit line",
+        "unsa ang panghuling pahayag"
+      ],
+      "answer": "An exit line is the last thing said as a conversation ends, and it does more work than its size suggests, because the other person will remember it rather than the middle. The convention across cultures is to end warmly, but English also allows a joke at the very end, which is the most common way to signal that nothing has gone badly. What is avoided is a remark that needs a reply, since that does not end anything.",
+      "variations": [
+        "The convention across cultures is to end warmly, but English also allows a joke at the very end, which is the most common way to signal that nothing has gone badly. An exit line is the last thing said as a conversation ends, and it does more work than its size suggests, because the other person will remember it rather than the middle. What is avoided is a remark that needs a reply, since that does not end anything.",
+        "What is avoided is a remark that needs a reply, since that does not end anything. An exit line is the last thing said as a conversation ends, and it does more work than its size suggests, because the other person will remember it rather than the middle. The convention across cultures is to end warmly, but English also allows a joke at the very end, which is the most common way to signal that nothing has gone badly."
+      ],
+      "tl": "exit line",
+      "bis": "panghuling pahayag"
+    },
+    {
+      "id": "con-goodbyes-000004",
+      "topic": "conversations-goodbyes",
+      "intent": "definition",
+      "concept": "wrap up",
+      "keywords": [
+        "wrap up",
+        "finish",
+        "tie",
+        "meeting",
+        "close",
+        "bundle",
+        "tapusin",
+        "wrap",
+        "means",
+        "something",
+        "word",
+        "physical"
+      ],
+      "patterns": [
+        "what is wrap up",
+        "wrap up",
+        "explain wrap up",
+        "definition of wrap up",
+        "wrap up meaning",
+        "what does wrap up mean",
+        "how to end a meeting",
+        "wrap up meaning in a meal",
+        "ano ang wrap up",
+        "unsa ang tapusin"
+      ],
+      "answer": "To wrap up means to finish something, and the word came from physical objects being tied up in a bundle, so it carries a sense of tidying as well as finishing. In a meeting it means formally closing the discussion rather than running out of time, and the two are not the same. The verb also works for eating a meal quickly, where the sense is finishing it off, and that use is common enough to be worth knowing.",
+      "variations": [
+        "In a meeting it means formally closing the discussion rather than running out of time, and the two are not the same. To wrap up means to finish something, and the word came from physical objects being tied up in a bundle, so it carries a sense of tidying as well as finishing. The verb also works for eating a meal quickly, where the sense is finishing it off, and that use is common enough to be worth knowing.",
+        "The verb also works for eating a meal quickly, where the sense is finishing it off, and that use is common enough to be worth knowing. To wrap up means to finish something, and the word came from physical objects being tied up in a bundle, so it carries a sense of tidying as well as finishing. In a meeting it means formally closing the discussion rather than running out of time, and the two are not the same."
+      ],
+      "tl": "wrap up",
+      "bis": "tapusin"
+    },
+    {
+      "id": "con-goodbyes-000005",
+      "topic": "conversations-goodbyes",
+      "intent": "definition",
+      "concept": "remain in touch",
+      "keywords": [
+        "remain in touch",
+        "remain",
+        "touch",
+        "contact",
+        "resume",
+        "promise",
+        "keep",
+        "word",
+        "formal",
+        "register"
+      ],
+      "patterns": [
+        "what is remain in touch",
+        "remain in touch",
+        "explain remain in touch",
+        "definition of remain in touch",
+        "remain in touch meaning",
+        "what does remain in touch mean",
+        "difference between stay in touch and keep in touch",
+        "is remain in touch formal",
+        "ano ang remain in touch",
+        "unsa ang manatiling nakikita"
+      ],
+      "answer": "To remain in touch is to keep contact, and the word is the formal register of what is otherwise a very casual idea, being keep in touch. Remain adds a sense of continuing rather than resuming, which matters after a long gap. What makes the phrase social rather than practical is that it implies something will be done, and it is one of the promises people most often make and least often keep.",
+      "variations": [
+        "Remain adds a sense of continuing rather than resuming, which matters after a long gap. To remain in touch is to keep contact, and the word is the formal register of what is otherwise a very casual idea, being keep in touch. What makes the phrase social rather than practical is that it implies something will be done, and it is one of the promises people most often make and least often keep.",
+        "What makes the phrase social rather than practical is that it implies something will be done, and it is one of the promises people most often make and least often keep. To remain in touch is to keep contact, and the word is the formal register of what is otherwise a very casual idea, being keep in touch. Remain adds a sense of continuing rather than resuming, which matters after a long gap."
+      ],
+      "tl": "remain in touch",
+      "bis": "manatiling nakikita"
+    }
+  ],
+  "lang": "english",
+  "group": "conversations",
+  "sub": "goodbyes",
+  "title": "Goodbyes",
+  "groupTitle": "Conversations"
+}

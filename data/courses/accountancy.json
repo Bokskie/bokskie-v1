@@ -1,0 +1,161 @@
+{
+  "topic": "courses-accountancy",
+  "entries": [
+    {
+      "id": "cou-accountancy-000001",
+      "topic": "courses-accountancy",
+      "intent": "definition",
+      "concept": "accountancy",
+      "keywords": [
+        "accountancy",
+        "accountant",
+        "record",
+        "classify",
+        "report",
+        "advisory",
+        "accounting",
+        "recording",
+        "classifying",
+        "reporting",
+        "financial",
+        "transactions"
+      ],
+      "patterns": [
+        "what is accountancy",
+        "accountancy",
+        "explain accountancy",
+        "definition of accountancy",
+        "accountancy meaning",
+        "is accountancy a good career",
+        "what does an accountant do",
+        "ano ang accountancy",
+        "unsa ang accounting"
+      ],
+      "answer": "Accountancy is recording, classifying and reporting financial transactions so that somebody else can make a decision from them. The skill is less about arithmetic than about judgement about what belongs where, since a transaction is often ambiguous until you decide what it is really for. The work has also shifted heavily towards analysis and advisory, since routine bookkeeping is the part that software took first.",
+      "variations": [
+        "The skill is less about arithmetic than about judgement about what belongs where, since a transaction is often ambiguous until you decide what it is really for. Accountancy is recording, classifying and reporting financial transactions so that somebody else can make a decision from them. The work has also shifted heavily towards analysis and advisory, since routine bookkeeping is the part that software took first.",
+        "The work has also shifted heavily towards analysis and advisory, since routine bookkeeping is the part that software took first. Accountancy is recording, classifying and reporting financial transactions so that somebody else can make a decision from them. The skill is less about arithmetic than about judgement about what belongs where, since a transaction is often ambiguous until you decide what it is really for."
+      ],
+      "tl": "accountancy",
+      "bis": "accounting"
+    },
+    {
+      "id": "cou-accountancy-000002",
+      "topic": "courses-accountancy",
+      "intent": "definition",
+      "concept": "debit and credit",
+      "keywords": [
+        "debit and credit",
+        "debit",
+        "credit",
+        "entry",
+        "column",
+        "balance",
+        "asset",
+        "sides",
+        "every",
+        "accounting"
+      ],
+      "patterns": [
+        "what is debit and credit",
+        "debit and credit",
+        "explain debit and credit",
+        "definition of debit and credit",
+        "debit and credit meaning",
+        "what is the difference between debit and credit",
+        "does debit always mean increase",
+        "how does accounting balance",
+        "ano ang debit and credit",
+        "unsa ang debit at kredito"
+      ],
+      "answer": "A debit and a credit are the two sides of every accounting entry, and they are the source of nearly all beginner confusion. What trips people up is that debit and credit simply mean the two columns, not an increase and a decrease: a debit increases an asset and decreases a liability, while a credit does the reverse. The rule that holds in every case is that the two sides of each entry are equal, so the books balance or the entry is wrong.",
+      "variations": [
+        "What trips people up is that debit and credit simply mean the two columns, not an increase and a decrease: a debit increases an asset and decreases a liability, while a credit does the reverse. A debit and a credit are the two sides of every accounting entry, and they are the source of nearly all beginner confusion. The rule that holds in every case is that the two sides of each entry are equal, so the books balance or the entry is wrong.",
+        "The rule that holds in every case is that the two sides of each entry are equal, so the books balance or the entry is wrong. A debit and a credit are the two sides of every accounting entry, and they are the source of nearly all beginner confusion. What trips people up is that debit and credit simply mean the two columns, not an increase and a decrease: a debit increases an asset and decreases a liability, while a credit does the reverse."
+      ],
+      "tl": "debit and credit",
+      "bis": "debit at kredito"
+    },
+    {
+      "id": "cou-accountancy-000003",
+      "topic": "courses-accountancy",
+      "intent": "definition",
+      "concept": "audit",
+      "keywords": [
+        "audit",
+        "auditor",
+        "assurance",
+        "evidence",
+        "sample",
+        "fraud",
+        "independent",
+        "check",
+        "financial",
+        "statements",
+        "word"
+      ],
+      "patterns": [
+        "what is audit",
+        "audit",
+        "explain audit",
+        "definition of audit",
+        "audit meaning",
+        "what is an audit",
+        "does an audit guarantee no fraud",
+        "is audit the same as accounting",
+        "ano ang audit",
+        "unsa ang audit"
+      ],
+      "answer": "An audit is an independent check on financial statements, and the word carries a specific limit: it gives assurance, not certainty. The auditor tests evidence and reports on whether the statements are reasonable rather than checking every transaction, and sampling is what makes that affordable. An audit does not prevent error, cannot guarantee that fraud is absent, and depends on the honesty of the people providing the information, which is the limitation that matters most.",
+      "variations": [
+        "The auditor tests evidence and reports on whether the statements are reasonable rather than checking every transaction, and sampling is what makes that affordable. An audit is an independent check on financial statements, and the word carries a specific limit: it gives assurance, not certainty. An audit does not prevent error, cannot guarantee that fraud is absent, and depends on the honesty of the people providing the information, which is the limitation that matters most.",
+        "An audit does not prevent error, cannot guarantee that fraud is absent, and depends on the honesty of the people providing the information, which is the limitation that matters most. An audit is an independent check on financial statements, and the word carries a specific limit: it gives assurance, not certainty. The auditor tests evidence and reports on whether the statements are reasonable rather than checking every transaction, and sampling is what makes that affordable."
+      ],
+      "tl": "audit",
+      "bis": "audit"
+    },
+    {
+      "id": "cou-accountancy-000004",
+      "topic": "courses-accountancy",
+      "intent": "definition",
+      "concept": "board exam",
+      "keywords": [
+        "board exam",
+        "board",
+        "exam",
+        "licence",
+        "practical",
+        "hours",
+        "firm",
+        "licensure",
+        "entitles",
+        "graduate",
+        "practise"
+      ],
+      "patterns": [
+        "what is board exam",
+        "board exam",
+        "explain board exam",
+        "definition of board exam",
+        "board exam meaning",
+        "what is the board exam",
+        "is the board exam hard",
+        "do i need experience for the board",
+        "ano ang board exam",
+        "unsa ang board"
+      ],
+      "answer": "The board exam is the licensure exam that entitles a graduate to practise, and in the Philippines the four-year accountancy programme ends in one, along with a specific number of hours of practical experience. Almost nobody passes it on the first sitting, and the standard schedule is to work in a firm first and sit later. The work involved is repetitive by design, so candidates routinely report that the exam is less hard than the preparation, which is a comment about the hours rather than the difficulty.",
+      "variations": [
+        "Almost nobody passes it on the first sitting, and the standard schedule is to work in a firm first and sit later. The board exam is the licensure exam that entitles a graduate to practise, and in the Philippines the four-year accountancy programme ends in one, along with a specific number of hours of practical experience. The work involved is repetitive by design, so candidates routinely report that the exam is less hard than the preparation, which is a comment about the hours rather than the difficulty.",
+        "The work involved is repetitive by design, so candidates routinely report that the exam is less hard than the preparation, which is a comment about the hours rather than the difficulty. The board exam is the licensure exam that entitles a graduate to practise, and in the Philippines the four-year accountancy programme ends in one, along with a specific number of hours of practical experience. Almost nobody passes it on the first sitting, and the standard schedule is to work in a firm first and sit later."
+      ],
+      "tl": "board exam",
+      "bis": "board"
+    }
+  ],
+  "lang": "english",
+  "group": "courses",
+  "sub": "accountancy",
+  "title": "Accountancy",
+  "groupTitle": "Courses"
+}

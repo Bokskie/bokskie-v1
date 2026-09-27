@@ -1,0 +1,4 @@
+# programming-git.kb - Programming / Git
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 1 entries, one genuinely distinct fact per line.
+git | definition | Git is a version control system, so it records the history of a project and lets you see what changed, when and by whom. A commit is one snapshot, and a branch is a movable label pointing at a commit, which is why branching is cheap enough to do per feature. The habit that matters is committing and merging often, because a branch left alone for a month is a conflict nobody wants. | git, commit, branch, merge, repository, version control | what is git, what is a git branch, how do i use git | git | git

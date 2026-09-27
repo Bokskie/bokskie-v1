@@ -1,0 +1,79 @@
+{
+  "topic": "mathematics-geometry",
+  "entries": [
+    {
+      "id": "mat-geometry-000001",
+      "topic": "mathematics-geometry",
+      "intent": "definition",
+      "concept": "pythagorean",
+      "keywords": [
+        "pythagorean",
+        "theorem",
+        "triangle",
+        "hypotenuse",
+        "says",
+        "right",
+        "angled"
+      ],
+      "patterns": [
+        "what is pythagorean",
+        "pythagorean",
+        "explain pythagorean",
+        "definition of pythagorean",
+        "pythagorean meaning",
+        "right angle",
+        "what is the pythagorean theorem",
+        "pythagorean theorem"
+      ],
+      "answer": "The Pythagorean theorem says that in a right-angled triangle, the square of the hypotenuse equals the sum of the squares of the other two sides: a squared plus b squared equals c squared. It holds in every right triangle regardless of size, and knowing two sides always gives you the third.",
+      "variations": [
+        "It holds in every right triangle regardless of size, and knowing two sides always gives you the third. The Pythagorean theorem says that in a right-angled triangle, the square of the hypotenuse equals the sum of the squares of the other two sides: a squared plus b squared equals c squared."
+      ]
+    },
+    {
+      "id": "mat-geometry-000002",
+      "topic": "mathematics-geometry",
+      "intent": "definition",
+      "concept": "triangle",
+      "keywords": [
+        "triangle",
+        "angle",
+        "degree",
+        "acute",
+        "right",
+        "obtuse",
+        "sum",
+        "triangulo",
+        "three",
+        "sides",
+        "interior",
+        "angles",
+        "always"
+      ],
+      "patterns": [
+        "what is triangle",
+        "triangle",
+        "explain triangle",
+        "definition of triangle",
+        "triangle meaning",
+        "what are the angles in a triangle",
+        "how do you classify a triangle",
+        "largest angle opposite longest side",
+        "ano ang triangle",
+        "unsa ang triangulo"
+      ],
+      "answer": "A triangle has three sides, and the three interior angles always sum to 180 degrees, which is the property that makes it useful. The type follows from its angles: acute means all under 90, right means one exactly 90, obtuse means one over 90, and a triangle cannot have two of those. The other key fact is that the longest side lies opposite the largest angle, which is a shortcut for checking work without measuring.",
+      "variations": [
+        "The type follows from its angles: acute means all under 90, right means one exactly 90, obtuse means one over 90, and a triangle cannot have two of those. A triangle has three sides, and the three interior angles always sum to 180 degrees, which is the property that makes it useful. The other key fact is that the longest side lies opposite the largest angle, which is a shortcut for checking work without measuring.",
+        "The other key fact is that the longest side lies opposite the largest angle, which is a shortcut for checking work without measuring. A triangle has three sides, and the three interior angles always sum to 180 degrees, which is the property that makes it useful. The type follows from its angles: acute means all under 90, right means one exactly 90, obtuse means one over 90, and a triangle cannot have two of those."
+      ],
+      "tl": "triangle",
+      "bis": "triangulo"
+    }
+  ],
+  "lang": "english",
+  "group": "mathematics",
+  "sub": "geometry",
+  "title": "Geometry",
+  "groupTitle": "Mathematics"
+}

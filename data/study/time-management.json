@@ -1,0 +1,164 @@
+{
+  "topic": "study-time-management",
+  "entries": [
+    {
+      "id": "stu-time-management-000001",
+      "topic": "study-time-management",
+      "intent": "definition",
+      "concept": "prioritise",
+      "keywords": [
+        "prioritise",
+        "urgent",
+        "important",
+        "consequence",
+        "in-tray",
+        "quadrant",
+        "magbigay-priority",
+        "decide",
+        "comes",
+        "first",
+        "useful",
+        "version"
+      ],
+      "patterns": [
+        "what is prioritise",
+        "prioritise",
+        "explain prioritise",
+        "definition of prioritise",
+        "prioritise meaning",
+        "how to prioritise",
+        "urgent vs important",
+        "what is the Eisenhower matrix",
+        "ano ang prioritise",
+        "unsa ang magbigay-priority"
+      ],
+      "answer": "To prioritise is to decide what comes first, and the useful version decides by consequence rather than by urgency. Urgent and important are different axes: the urgent is whatever is loudest now, and the important is whatever changes the outcome later. Almost every prioritisation mistake is treating the two as the same, so the in-tray empties and nothing has moved. The important and not urgent is the only quadrant with room to work in, and it is the one that gets skipped.",
+      "variations": [
+        "Urgent and important are different axes: the urgent is whatever is loudest now, and the important is whatever changes the outcome later. To prioritise is to decide what comes first, and the useful version decides by consequence rather than by urgency. Almost every prioritisation mistake is treating the two as the same, so the in-tray empties and nothing has moved. The important and not urgent is the only quadrant with room to work in, and it is the one that gets skipped.",
+        "Almost every prioritisation mistake is treating the two as the same, so the in-tray empties and nothing has moved. To prioritise is to decide what comes first, and the useful version decides by consequence rather than by urgency. Urgent and important are different axes: the urgent is whatever is loudest now, and the important is whatever changes the outcome later. The important and not urgent is the only quadrant with room to work in, and it is the one that gets skipped."
+      ],
+      "tl": "prioritise",
+      "bis": "magbigay-priority"
+    },
+    {
+      "id": "stu-time-management-000002",
+      "topic": "study-time-management",
+      "intent": "definition",
+      "concept": "time block",
+      "keywords": [
+        "time block",
+        "schedule",
+        "defend",
+        "interruption",
+        "attention",
+        "visible",
+        "time",
+        "block",
+        "scheduled",
+        "period",
+        "reserved",
+        "work"
+      ],
+      "patterns": [
+        "what is time block",
+        "time block",
+        "explain time block",
+        "definition of time block",
+        "time block meaning",
+        "what is time blocking",
+        "how do I block time",
+        "why do people avoid time blocking",
+        "ano ang time block",
+        "unsa ang time block"
+      ],
+      "answer": "A time block is a scheduled period reserved for one kind of work, and it works because it removes the decision rather than relying on intention. Open time fills with whatever arrives, which is a reasonable default and a poor one for anything needing consecutive attention. A block has to be defended: one interruption does not ruin it, but the expectation that interruptions are acceptable is what collapses it. Blocking also makes the real cost of a request visible, since a two-hour block cannot absorb a two-hour interruption.",
+      "variations": [
+        "Open time fills with whatever arrives, which is a reasonable default and a poor one for anything needing consecutive attention. A time block is a scheduled period reserved for one kind of work, and it works because it removes the decision rather than relying on intention. A block has to be defended: one interruption does not ruin it, but the expectation that interruptions are acceptable is what collapses it. Blocking also makes the real cost of a request visible, since a two-hour block cannot absorb a two-hour interruption.",
+        "A block has to be defended: one interruption does not ruin it, but the expectation that interruptions are acceptable is what collapses it. A time block is a scheduled period reserved for one kind of work, and it works because it removes the decision rather than relying on intention. Open time fills with whatever arrives, which is a reasonable default and a poor one for anything needing consecutive attention. Blocking also makes the real cost of a request visible, since a two-hour block cannot absorb a two-hour interruption."
+      ],
+      "tl": "time block",
+      "bis": "time block"
+    },
+    {
+      "id": "stu-time-management-000003",
+      "topic": "study-time-management",
+      "intent": "definition",
+      "concept": "productivity system",
+      "keywords": [
+        "productivity system",
+        "productivity",
+        "system",
+        "capture",
+        "routine",
+        "list",
+        "choice",
+        "sistema",
+        "fixed",
+        "capturing",
+        "processing"
+      ],
+      "patterns": [
+        "what is productivity system",
+        "productivity system",
+        "explain productivity system",
+        "definition of productivity system",
+        "productivity system meaning",
+        "what is a productivity system",
+        "how do I build one",
+        "is getting things done worth it",
+        "ano ang productivity system",
+        "unsa ang sistema"
+      ],
+      "answer": "A productivity system is a fixed routine for capturing and processing what needs doing, and its value is in removing choices rather than in being efficient. Capture goes into one place and everything else follows from there; a system with a separate list for each context has multiplied the work rather than reduced it. The test of whether one works is whether you would still use it when nobody could see you using it, because most are maintained for the feeling of control rather than for the results.",
+      "variations": [
+        "Capture goes into one place and everything else follows from there; a system with a separate list for each context has multiplied the work rather than reduced it. A productivity system is a fixed routine for capturing and processing what needs doing, and its value is in removing choices rather than in being efficient. The test of whether one works is whether you would still use it when nobody could see you using it, because most are maintained for the feeling of control rather than for the results.",
+        "The test of whether one works is whether you would still use it when nobody could see you using it, because most are maintained for the feeling of control rather than for the results. A productivity system is a fixed routine for capturing and processing what needs doing, and its value is in removing choices rather than in being efficient. Capture goes into one place and everything else follows from there; a system with a separate list for each context has multiplied the work rather than reduced it."
+      ],
+      "tl": "productivity system",
+      "bis": "sistema"
+    },
+    {
+      "id": "stu-time-management-000004",
+      "topic": "study-time-management",
+      "intent": "definition",
+      "concept": "distraction",
+      "keywords": [
+        "distraction",
+        "attention",
+        "restart",
+        "absorb",
+        "resist",
+        "phone",
+        "abalang",
+        "anything",
+        "takes",
+        "away",
+        "important"
+      ],
+      "patterns": [
+        "what is distraction",
+        "distraction",
+        "explain distraction",
+        "definition of distraction",
+        "distraction meaning",
+        "what is a distraction",
+        "why do interruptions cost twice",
+        "how to avoid distraction",
+        "ano ang distraction",
+        "unsa ang abalang"
+      ],
+      "answer": "A distraction is anything that takes attention away, and the important part is that the cost is paid twice: once to stop what you were doing and once to return to it. That restarting cost is why four short checks of a phone can cost more than the checking itself, and it scales with how absorbing the original task was. Removing the choice beats resisting it, which is why a phone in another room outperforms willpower at a desk in a busy office.",
+      "variations": [
+        "That restarting cost is why four short checks of a phone can cost more than the checking itself, and it scales with how absorbing the original task was. A distraction is anything that takes attention away, and the important part is that the cost is paid twice: once to stop what you were doing and once to return to it. Removing the choice beats resisting it, which is why a phone in another room outperforms willpower at a desk in a busy office.",
+        "Removing the choice beats resisting it, which is why a phone in another room outperforms willpower at a desk in a busy office. A distraction is anything that takes attention away, and the important part is that the cost is paid twice: once to stop what you were doing and once to return to it. That restarting cost is why four short checks of a phone can cost more than the checking itself, and it scales with how absorbing the original task was."
+      ],
+      "tl": "distraction",
+      "bis": "abalang"
+    }
+  ],
+  "lang": "english",
+  "group": "study",
+  "sub": "time-management",
+  "title": "Time management",
+  "groupTitle": "Study"
+}

@@ -1,0 +1,188 @@
+{
+  "topic": "general-knowledge-everyday-facts",
+  "entries": [
+    {
+      "id": "gen-everyday-facts-000001",
+      "topic": "general-knowledge-everyday-facts",
+      "intent": "howto",
+      "concept": "budget",
+      "keywords": [
+        "budget",
+        "save",
+        "saving",
+        "money",
+        "expense",
+        "track",
+        "works",
+        "record",
+        "actually",
+        "plan"
+      ],
+      "patterns": [
+        "what is budget",
+        "budget",
+        "explain budget",
+        "definition of budget",
+        "budget meaning",
+        "saving money",
+        "how do i budget",
+        "how to save money",
+        "how to start saving",
+        "ano ang budget",
+        "unsa ang budget"
+      ],
+      "answer": "A budget that works is a record of where money actually went, not a plan of where it should go. For one month, write down every expense and sort it into needs, wants and debt. The surprise is almost always in the middle category. Then set a specific automatic amount to move to savings on payday, before spending money, rather than whatever happens to be left at the end - that is the difference between saving and intending to.",
+      "variations": [
+        "For one month, write down every expense and sort it into needs, wants and debt. A budget that works is a record of where money actually went, not a plan of where it should go. The surprise is almost always in the middle category. Then set a specific automatic amount to move to savings on payday, before spending money, rather than whatever happens to be left at the end - that is the difference between saving and intending to.",
+        "The surprise is almost always in the middle category. A budget that works is a record of where money actually went, not a plan of where it should go. For one month, write down every expense and sort it into needs, wants and debt. Then set a specific automatic amount to move to savings on payday, before spending money, rather than whatever happens to be left at the end - that is the difference between saving and intending to."
+      ],
+      "tl": "budget",
+      "bis": "budget",
+      "langs": {
+        "tagalog": "Ang budget ay plano kung saan pupunta ang pera bago ito gastusin, at ang pinakamkapaki-pakinabang na bersyon ay isinusulat pabaligtad: kunin ang kita, ibawas ang mga nakatakdang gastusin, at tingnan kung ano talaga ang natitira. Iyon ang tunay na budget, at karaniwang humihiya ang pagsasanay - ang agwat sa pagitan ng ipinagpapalagay mong ginastos at talagang ginastos mo ay malaki at tuluy-tuloy. Dalawang bagay ang nagpapatupad nito: hiwalay na account para sa ipon upang hindi ito makipag-away sa natitirang balanse sa katapusan ng buwan, at tapating tingnan ang mga subscription, sapagkat ang maliliit nang paulit-ulit na singil ay mas malaki kaysa inaasahan ng karamihan. Ang budget na masyadong siksik ay hindi na sinusundan makalipas ang ilang linggo, na mas masama kaysa sa mas maluwag na masusundan hanggang sa dulo ng taon.",
+        "bisaya": "Ang budget mao ang plan nga asa pupunta ang pera sa wala pa nga naa gikan, ug ang pinaka-ginana nga version gisulat baligtad: kuhaa ang income, kuhaa ang mga fixed nga commitments, ug tanawa unsa gyud nga nakatira. Kana man nga ang real nga budget, ug kasagaran makahumot ang exercise - ang gap sa between sa imong gipili nga gi-spend ug ang tinuod nga gi-spend mao gyud nga dako ug padayon. Duha ka butang nga magpapatunay niini: separate nga account para sa savings aron dili niini ma-compete sa katapusan nga balance sa bulan, ug honest nga tanaw sa mga subscriptions, tungod nga ang gamay nga recurring charges makaubos sa labaw sa expectations nga daghan. Ang budget nga grabe kaayo dili na ma-follow human sa pipila ka semanaha, nga labaw pa kaayo sa usa nga loose nga naa gyud nga survive ang tuig."
+      },
+      "confidence": null
+    },
+    {
+      "id": "gen-everyday-facts-000002",
+      "topic": "general-knowledge-everyday-facts",
+      "intent": "howto",
+      "concept": "emergency",
+      "keywords": [
+        "emergency",
+        "fund",
+        "safety",
+        "buffer",
+        "cash",
+        "aside",
+        "sudden",
+        "necessary"
+      ],
+      "patterns": [
+        "what is emergency",
+        "emergency",
+        "explain emergency",
+        "definition of emergency",
+        "emergency meaning",
+        "rainy day",
+        "emergency fund",
+        "how much emergency fund",
+        "what is an emergency fund"
+      ],
+      "answer": "An emergency fund is cash set aside for sudden necessary costs - a medical bill, a repair, lost income. Most guidance suggests three to six months of essential expenses, and the lower end is right if your income is steady while a larger fund is wiser if it is not. It belongs somewhere you can reach in a day, so a high-interest savings account rather than an investment, because the whole point is that it is available exactly when something has already gone wrong.",
+      "variations": [
+        "Most guidance suggests three to six months of essential expenses, and the lower end is right if your income is steady while a larger fund is wiser if it is not. An emergency fund is cash set aside for sudden necessary costs - a medical bill, a repair, lost income. It belongs somewhere you can reach in a day, so a high-interest savings account rather than an investment, because the whole point is that it is available exactly when something has already gone wrong.",
+        "It belongs somewhere you can reach in a day, so a high-interest savings account rather than an investment, because the whole point is that it is available exactly when something has already gone wrong. An emergency fund is cash set aside for sudden necessary costs - a medical bill, a repair, lost income. Most guidance suggests three to six months of essential expenses, and the lower end is right if your income is steady while a larger fund is wiser if it is not."
+      ]
+    },
+    {
+      "id": "gen-everyday-facts-000003",
+      "topic": "general-knowledge-everyday-facts",
+      "intent": "definition",
+      "concept": "interest",
+      "keywords": [
+        "interest",
+        "compound",
+        "rate",
+        "apy",
+        "loan",
+        "debt",
+        "cost",
+        "borrowing",
+        "money",
+        "lender",
+        "earns"
+      ],
+      "patterns": [
+        "what is interest",
+        "interest",
+        "explain interest",
+        "definition of interest",
+        "interest meaning",
+        "what is compound interest",
+        "how does interest work"
+      ],
+      "answer": "Interest is the cost of borrowing money, and what a lender earns on lending it. Compound interest means interest is calculated on the original amount plus interest already added, so growth is exponential rather than linear - the same reason a debt you do not pay grows faster than you expect. Time is the dominant factor: starting earlier matters more than starting with more.",
+      "variations": [
+        "Compound interest means interest is calculated on the original amount plus interest already added, so growth is exponential rather than linear - the same reason a debt you do not pay grows faster than you expect. Interest is the cost of borrowing money, and what a lender earns on lending it. Time is the dominant factor: starting earlier matters more than starting with more.",
+        "Time is the dominant factor: starting earlier matters more than starting with more. Interest is the cost of borrowing money, and what a lender earns on lending it. Compound interest means interest is calculated on the original amount plus interest already added, so growth is exponential rather than linear - the same reason a debt you do not pay grows faster than you expect."
+      ]
+    },
+    {
+      "id": "gen-everyday-facts-000004",
+      "topic": "general-knowledge-everyday-facts",
+      "intent": "definition",
+      "concept": "invest",
+      "keywords": [
+        "invest",
+        "investment",
+        "stock",
+        "fund",
+        "portfolio",
+        "risk",
+        "investing",
+        "means",
+        "putting",
+        "money",
+        "assets",
+        "hope"
+      ],
+      "patterns": [
+        "what is invest",
+        "invest",
+        "explain invest",
+        "definition of invest",
+        "invest meaning",
+        "how do i start investing",
+        "what is investing",
+        "should i invest"
+      ],
+      "answer": "Investing means putting money into assets you hope will grow in value or produce income - shares, bonds, or funds. Returns are never guaranteed, and higher expected return always comes with higher risk of loss. Order matters: expensive debt, emergency savings and insurance come before investing. Past performance is not a prediction, and anyone promising reliable high returns is selling something.",
+      "variations": [
+        "Returns are never guaranteed, and higher expected return always comes with higher risk of loss. Investing means putting money into assets you hope will grow in value or produce income - shares, bonds, or funds. Order matters: expensive debt, emergency savings and insurance come before investing. Past performance is not a prediction, and anyone promising reliable high returns is selling something.",
+        "Order matters: expensive debt, emergency savings and insurance come before investing. Investing means putting money into assets you hope will grow in value or produce income - shares, bonds, or funds. Returns are never guaranteed, and higher expected return always comes with higher risk of loss. Past performance is not a prediction, and anyone promising reliable high returns is selling something."
+      ]
+    },
+    {
+      "id": "gen-everyday-facts-000005",
+      "topic": "general-knowledge-everyday-facts",
+      "intent": "howto",
+      "concept": "income",
+      "keywords": [
+        "income",
+        "salary",
+        "raise",
+        "freelance",
+        "earn",
+        "framing",
+        "works",
+        "contribution",
+        "rather",
+        "delivered"
+      ],
+      "patterns": [
+        "what is income",
+        "income",
+        "explain income",
+        "definition of income",
+        "income meaning",
+        "side income",
+        "side hustle",
+        "how to earn more money",
+        "how to ask for a raise",
+        "freelance income"
+      ],
+      "answer": "For a raise, the framing that works is contribution rather than need: what you delivered, what it was worth to the business, and what you will take on next. Research the market rate first so you can argue from a number. On income generally, the reliable routes are a skill in demand, moving into a better-paying field, and owning something that earns without your time - the last being slow to build but the only one that compounds.",
+      "variations": [
+        "Research the market rate first so you can argue from a number. For a raise, the framing that works is contribution rather than need: what you delivered, what it was worth to the business, and what you will take on next. On income generally, the reliable routes are a skill in demand, moving into a better-paying field, and owning something that earns without your time - the last being slow to build but the only one that compounds.",
+        "On income generally, the reliable routes are a skill in demand, moving into a better-paying field, and owning something that earns without your time - the last being slow to build but the only one that compounds. For a raise, the framing that works is contribution rather than need: what you delivered, what it was worth to the business, and what you will take on next. Research the market rate first so you can argue from a number."
+      ]
+    }
+  ],
+  "lang": "english",
+  "group": "general-knowledge",
+  "sub": "everyday-facts",
+  "title": "Everyday facts",
+  "groupTitle": "General Knowledge"
+}

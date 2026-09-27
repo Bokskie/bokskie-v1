@@ -1,0 +1,43 @@
+{
+  "topic": "cebuano-greetings",
+  "entries": [
+    {
+      "id": "ceb-greetings-000001",
+      "topic": "cebuano-greetings",
+      "intent": "definition",
+      "concept": "salamat",
+      "keywords": [
+        "salamat",
+        "gratitude",
+        "thanks",
+        "means",
+        "thank",
+        "word",
+        "tagalog",
+        "languages"
+      ],
+      "patterns": [
+        "what is salamat",
+        "salamat",
+        "explain salamat",
+        "definition of salamat",
+        "salamat meaning",
+        "unsaon nga mo iyang pasalamat",
+        "ano ang salamat",
+        "unsa ang salamat"
+      ],
+      "answer": "Salamat means thank you, and it is the same word as in Tagalog, which is why the two languages are easy to mix in polite speech. The fuller form is salamat kaayo or Salamat sa imong tabang for thank you for your help. A common reply is walay ikaw or no problem, and it is meant literally rather than as a dismissal.",
+      "variations": [
+        "The fuller form is salamat kaayo or Salamat sa imong tabang for thank you for your help. Salamat means thank you, and it is the same word as in Tagalog, which is why the two languages are easy to mix in polite speech. A common reply is walay ikaw or no problem, and it is meant literally rather than as a dismissal.",
+        "A common reply is walay ikaw or no problem, and it is meant literally rather than as a dismissal. Salamat means thank you, and it is the same word as in Tagalog, which is why the two languages are easy to mix in polite speech. The fuller form is salamat kaayo or Salamat sa imong tabang for thank you for your help."
+      ],
+      "tl": "salamat",
+      "bis": "salamat"
+    }
+  ],
+  "lang": "bisaya",
+  "group": "cebuano",
+  "sub": "greetings",
+  "title": "Greetings",
+  "groupTitle": "Cebuano"
+}

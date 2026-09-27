@@ -1,0 +1,235 @@
+{
+  "topic": "conversations-thanks",
+  "entries": [
+    {
+      "id": "con-thanks-000001",
+      "topic": "conversations-thanks",
+      "intent": "definition",
+      "concept": "thank you",
+      "keywords": [
+        "thank you",
+        "gratitude",
+        "warm",
+        "cold",
+        "default",
+        "contrast",
+        "salamat",
+        "thank",
+        "english",
+        "phrase",
+        "power"
+      ],
+      "patterns": [
+        "what is thank you",
+        "thank you",
+        "explain thank you",
+        "definition of thank you",
+        "thank you meaning",
+        "how to say thank you",
+        "is thank you too formal",
+        "when to say thank you",
+        "ano ang thank you",
+        "unsa ang salamat"
+      ],
+      "answer": "Thank you is the default English phrase for gratitude, and its power is precisely that it is unmarked, since anything more emphatic signals that the thanks are unusual. This is why people over-thank in small things and under-thank in large ones. The phrase becomes cold when it is used for something that deserved a real acknowledgement, and it becomes warm when it is used for something small, because the contrast is what carries the tone.",
+      "variations": [
+        "This is why people over-thank in small things and under-thank in large ones. Thank you is the default English phrase for gratitude, and its power is precisely that it is unmarked, since anything more emphatic signals that the thanks are unusual. The phrase becomes cold when it is used for something that deserved a real acknowledgement, and it becomes warm when it is used for something small, because the contrast is what carries the tone.",
+        "The phrase becomes cold when it is used for something that deserved a real acknowledgement, and it becomes warm when it is used for something small, because the contrast is what carries the tone. Thank you is the default English phrase for gratitude, and its power is precisely that it is unmarked, since anything more emphatic signals that the thanks are unusual. This is why people over-thank in small things and under-thank in large ones."
+      ],
+      "tl": "thank you",
+      "bis": "salamat"
+    },
+    {
+      "id": "con-thanks-000002",
+      "topic": "conversations-thanks",
+      "intent": "definition",
+      "concept": "you are welcome",
+      "keywords": [
+        "you are welcome",
+        "welcome",
+        "reply",
+        "thanks",
+        "debt",
+        "praise",
+        "standard",
+        "real",
+        "function",
+        "decline"
+      ],
+      "patterns": [
+        "what is you are welcome",
+        "you are welcome",
+        "explain you are welcome",
+        "definition of you are welcome",
+        "you are welcome meaning",
+        "how do you reply to thank you",
+        "you are welcome vs no problem",
+        "is my pleasure formal",
+        "ano ang you are welcome",
+        "unsa ang walay problema"
+      ],
+      "answer": "You are welcome is the standard reply to thanks, and its real function is to decline the debt rather than to accept the praise, which is why a small no problem works equally well. English is unusually rich here, offering no problem, my pleasure, any time and not at all, and they differ in warmth more than in meaning. The reply that fails is an over-emphatic one, since a long response to a small thanks implies the thanks were hard to hear.",
+      "variations": [
+        "English is unusually rich here, offering no problem, my pleasure, any time and not at all, and they differ in warmth more than in meaning. You are welcome is the standard reply to thanks, and its real function is to decline the debt rather than to accept the praise, which is why a small no problem works equally well. The reply that fails is an over-emphatic one, since a long response to a small thanks implies the thanks were hard to hear.",
+        "The reply that fails is an over-emphatic one, since a long response to a small thanks implies the thanks were hard to hear. You are welcome is the standard reply to thanks, and its real function is to decline the debt rather than to accept the praise, which is why a small no problem works equally well. English is unusually rich here, offering no problem, my pleasure, any time and not at all, and they differ in warmth more than in meaning."
+      ],
+      "tl": "you are welcome",
+      "bis": "walay problema"
+    },
+    {
+      "id": "con-thanks-000003",
+      "topic": "conversations-thanks",
+      "intent": "definition",
+      "concept": "appreciate",
+      "keywords": [
+        "appreciate",
+        "value",
+        "aware",
+        "formula",
+        "specific",
+        "gesture",
+        "pahalaga",
+        "something",
+        "means",
+        "fully"
+      ],
+      "patterns": [
+        "what is appreciate",
+        "appreciate",
+        "explain appreciate",
+        "definition of appreciate",
+        "appreciate meaning",
+        "meaning of appreciate",
+        "is appreciate better than thank you",
+        "I appreciate that you came",
+        "ano ang appreciate",
+        "unsa ang pahalaga"
+      ],
+      "answer": "To appreciate something is to value it, and it also means to be fully aware of something, as in I appreciate that you came. The two senses drift toward each other until the second becomes a polite formula meaning thank you, and that formula is where the interesting part is. Appreciate is used where thanks would sound too transactional, and it works best when followed by naming the specific thing rather than the gesture.",
+      "variations": [
+        "The two senses drift toward each other until the second becomes a polite formula meaning thank you, and that formula is where the interesting part is. To appreciate something is to value it, and it also means to be fully aware of something, as in I appreciate that you came. Appreciate is used where thanks would sound too transactional, and it works best when followed by naming the specific thing rather than the gesture.",
+        "Appreciate is used where thanks would sound too transactional, and it works best when followed by naming the specific thing rather than the gesture. To appreciate something is to value it, and it also means to be fully aware of something, as in I appreciate that you came. The two senses drift toward each other until the second becomes a polite formula meaning thank you, and that formula is where the interesting part is."
+      ],
+      "tl": "appreciate",
+      "bis": "pahalaga"
+    },
+    {
+      "id": "con-thanks-000004",
+      "topic": "conversations-thanks",
+      "intent": "definition",
+      "concept": "credit",
+      "keywords": [
+        "credit",
+        "name",
+        "work",
+        "unclaimed",
+        "known",
+        "social",
+        "kredito",
+        "person",
+        "word",
+        "carries"
+      ],
+      "patterns": [
+        "what is credit",
+        "credit",
+        "explain credit",
+        "definition of credit",
+        "credit meaning",
+        "what does give credit mean",
+        "difference between giving and taking credit",
+        "why credit matters",
+        "ano ang credit",
+        "unsa ang kredito"
+      ],
+      "answer": "To give credit is to name the person who did the work, and the word carries a strong sense of it having been unclaimed. This is why credit is a social act rather than a factual one, since the fact of who did something is often already known. The passive matters too, because doing the credits or taking the credit describe opposite behaviours, and the difference shows up in who ends up being known for the thing.",
+      "variations": [
+        "This is why credit is a social act rather than a factual one, since the fact of who did something is often already known. To give credit is to name the person who did the work, and the word carries a strong sense of it having been unclaimed. The passive matters too, because doing the credits or taking the credit describe opposite behaviours, and the difference shows up in who ends up being known for the thing.",
+        "The passive matters too, because doing the credits or taking the credit describe opposite behaviours, and the difference shows up in who ends up being known for the thing. To give credit is to name the person who did the work, and the word carries a strong sense of it having been unclaimed. This is why credit is a social act rather than a factual one, since the fact of who did something is often already known."
+      ],
+      "tl": "credit",
+      "bis": "kredito"
+    },
+    {
+      "id": "con-thanks-000005",
+      "topic": "conversations-thanks",
+      "intent": "definition",
+      "concept": "pay back",
+      "keywords": [
+        "pay back",
+        "return",
+        "favour",
+        "money",
+        "revenge",
+        "gratitude",
+        "babayaran",
+        "someone",
+        "back",
+        "phrase"
+      ],
+      "patterns": [
+        "what is pay back",
+        "pay back",
+        "explain pay back",
+        "definition of pay back",
+        "pay back meaning",
+        "what does pay back mean",
+        "pay back a favour",
+        "difference between repay and pay back",
+        "ano ang pay back",
+        "unsa ang babayaran"
+      ],
+      "answer": "To pay someone back is to return a favour or a sum of money, and the phrase covers both while keeping them distinct enough in practice. The figurative sense, as in pay back somebody who helped you years ago, is the one that gets used about relationships and grievances, and there it often carries a hint of retaliation rather than gratitude. That overlap is why pay back is one of the more ambiguous common phrases in English.",
+      "variations": [
+        "The figurative sense, as in pay back somebody who helped you years ago, is the one that gets used about relationships and grievances, and there it often carries a hint of retaliation rather than gratitude. To pay someone back is to return a favour or a sum of money, and the phrase covers both while keeping them distinct enough in practice. That overlap is why pay back is one of the more ambiguous common phrases in English.",
+        "That overlap is why pay back is one of the more ambiguous common phrases in English. To pay someone back is to return a favour or a sum of money, and the phrase covers both while keeping them distinct enough in practice. The figurative sense, as in pay back somebody who helped you years ago, is the one that gets used about relationships and grievances, and there it often carries a hint of retaliation rather than gratitude."
+      ],
+      "tl": "pay back",
+      "bis": "babayaran"
+    },
+    {
+      "id": "con-thanks-000006",
+      "topic": "conversations-thanks",
+      "intent": "definition",
+      "concept": "deserving",
+      "keywords": [
+        "deserving",
+        "earn",
+        "promotion",
+        "yardstick",
+        "deny",
+        "validate",
+        "karapat-dapat",
+        "means",
+        "somebody",
+        "earned",
+        "word",
+        "smuggles"
+      ],
+      "patterns": [
+        "what is deserving",
+        "deserving",
+        "explain deserving",
+        "definition of deserving",
+        "deserving meaning",
+        "what does deserving mean",
+        "you deserve better meaning",
+        "is deserving negative",
+        "ano ang deserving",
+        "unsa ang karapat-dapat"
+      ],
+      "answer": "Deserving means somebody earned what they got, and the word smuggles in a comparison because deserving is always relative to something. A person can deserve the promotion and not deserve the pay that came with it, since the two are assessed against different yardsticks. In ordinary conversation the word usually appears as denial, in you deserve better, and it works there because it validates the listener without adding any new information.",
+      "variations": [
+        "A person can deserve the promotion and not deserve the pay that came with it, since the two are assessed against different yardsticks. Deserving means somebody earned what they got, and the word smuggles in a comparison because deserving is always relative to something. In ordinary conversation the word usually appears as denial, in you deserve better, and it works there because it validates the listener without adding any new information.",
+        "In ordinary conversation the word usually appears as denial, in you deserve better, and it works there because it validates the listener without adding any new information. Deserving means somebody earned what they got, and the word smuggles in a comparison because deserving is always relative to something. A person can deserve the promotion and not deserve the pay that came with it, since the two are assessed against different yardsticks."
+      ],
+      "tl": "deserving",
+      "bis": "karapat-dapat"
+    }
+  ],
+  "lang": "english",
+  "group": "conversations",
+  "sub": "thanks",
+  "title": "Thanks",
+  "groupTitle": "Conversations"
+}

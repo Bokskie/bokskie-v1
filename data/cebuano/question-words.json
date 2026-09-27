@@ -1,0 +1,147 @@
+{
+  "topic": "cebuano-question-words",
+  "entries": [
+    {
+      "id": "ceb-question-words-000001",
+      "topic": "cebuano-question-words",
+      "intent": "definition",
+      "concept": "unsa",
+      "keywords": [
+        "unsa",
+        "what",
+        "how",
+        "which",
+        "question",
+        "ano",
+        "means",
+        "main",
+        "word",
+        "cebuano"
+      ],
+      "patterns": [
+        "what is unsa",
+        "unsa",
+        "explain unsa",
+        "definition of unsa",
+        "unsa meaning",
+        "unsaon meaning",
+        "ano ang unsa",
+        "unsa ang ano"
+      ],
+      "answer": "Unsa means what, and it is the main question word in Cebuano. Its variants include unsaon for how and unsaon nga for why, and unsang is the form that attaches to a noun as in unsang akong palay, which would be mine. It is the counterpart of kinsa, which asks about a person rather than a thing.",
+      "variations": [
+        "Its variants include unsaon for how and unsaon nga for why, and unsang is the form that attaches to a noun as in unsang akong palay, which would be mine. Unsa means what, and it is the main question word in Cebuano. It is the counterpart of kinsa, which asks about a person rather than a thing.",
+        "It is the counterpart of kinsa, which asks about a person rather than a thing. Unsa means what, and it is the main question word in Cebuano. Its variants include unsaon for how and unsaon nga for why, and unsang is the form that attaches to a noun as in unsang akong palay, which would be mine."
+      ],
+      "tl": "unsa",
+      "bis": "ano"
+    },
+    {
+      "id": "ceb-question-words-000002",
+      "topic": "cebuano-question-words",
+      "intent": "definition",
+      "concept": "kinsa",
+      "keywords": [
+        "kinsa",
+        "who",
+        "person",
+        "whose",
+        "sino",
+        "means",
+        "asks",
+        "counterpart",
+        "unsa"
+      ],
+      "patterns": [
+        "what is kinsa",
+        "kinsa",
+        "explain kinsa",
+        "definition of kinsa",
+        "kinsa meaning",
+        "unsa o kinsa",
+        "ano ang kinsa",
+        "unsa ang sino"
+      ],
+      "answer": "Kinsa means who, and it asks about a person. It is the counterpart of unsa, which asks about a thing, and the two are the basic question pair in Cebuano. Kinsa can also mean whose, so kinsa niya means who is it rather than whose it is, depending on the rest of the sentence.",
+      "variations": [
+        "It is the counterpart of unsa, which asks about a thing, and the two are the basic question pair in Cebuano. Kinsa means who, and it asks about a person. Kinsa can also mean whose, so kinsa niya means who is it rather than whose it is, depending on the rest of the sentence.",
+        "Kinsa can also mean whose, so kinsa niya means who is it rather than whose it is, depending on the rest of the sentence. Kinsa means who, and it asks about a person. It is the counterpart of unsa, which asks about a thing, and the two are the basic question pair in Cebuano."
+      ],
+      "tl": "kinsa",
+      "bis": "sino"
+    },
+    {
+      "id": "ceb-question-words-000003",
+      "topic": "cebuano-question-words",
+      "intent": "definition",
+      "concept": "ngano",
+      "keywords": [
+        "ngano",
+        "why",
+        "reason",
+        "question",
+        "bakit",
+        "means",
+        "word",
+        "asking",
+        "sometimes"
+      ],
+      "patterns": [
+        "what is ngano",
+        "ngano",
+        "explain ngano",
+        "definition of ngano",
+        "ngano meaning",
+        "ngano man meaning",
+        "ano ang ngano",
+        "unsa ang bakit"
+      ],
+      "answer": "Ngano means why, and it is the word for asking for a reason. It is sometimes written ngano man, where the man adds contrast, so ngano man becomes a challenge rather than a plain question. As a question word it sits with unsa for what, kinsa for who and kanus-a for when.",
+      "variations": [
+        "It is sometimes written ngano man, where the man adds contrast, so ngano man becomes a challenge rather than a plain question. Ngano means why, and it is the word for asking for a reason. As a question word it sits with unsa for what, kinsa for who and kanus-a for when.",
+        "As a question word it sits with unsa for what, kinsa for who and kanus-a for when. Ngano means why, and it is the word for asking for a reason. It is sometimes written ngano man, where the man adds contrast, so ngano man becomes a challenge rather than a plain question."
+      ],
+      "tl": "ngano",
+      "bis": "bakit"
+    },
+    {
+      "id": "ceb-question-words-000004",
+      "topic": "cebuano-question-words",
+      "intent": "definition",
+      "concept": "asa",
+      "keywords": [
+        "asa",
+        "where",
+        "place",
+        "location",
+        "saan",
+        "means",
+        "asks",
+        "shorter",
+        "tagalog"
+      ],
+      "patterns": [
+        "what is asa",
+        "asa",
+        "explain asa",
+        "definition of asa",
+        "asa meaning",
+        "asa ka meaning",
+        "ano ang asa",
+        "unsa ang saan"
+      ],
+      "answer": "Asa means where, and it asks about a place. It is shorter than the Tagalog saan and the Cebuano form is also used in fixed expressions such as asa ka meaning where are you from. Like the other Cebuano question words it can stand alone as a follow-up meaning and go on.",
+      "variations": [
+        "It is shorter than the Tagalog saan and the Cebuano form is also used in fixed expressions such as asa ka meaning where are you from. Asa means where, and it asks about a place. Like the other Cebuano question words it can stand alone as a follow-up meaning and go on.",
+        "Like the other Cebuano question words it can stand alone as a follow-up meaning and go on. Asa means where, and it asks about a place. It is shorter than the Tagalog saan and the Cebuano form is also used in fixed expressions such as asa ka meaning where are you from."
+      ],
+      "tl": "asa",
+      "bis": "saan"
+    }
+  ],
+  "lang": "bisaya",
+  "group": "cebuano",
+  "sub": "question-words",
+  "title": "Question words",
+  "groupTitle": "Cebuano"
+}

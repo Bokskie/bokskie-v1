@@ -1,0 +1,236 @@
+{
+  "topic": "conversations-asking-questions",
+  "entries": [
+    {
+      "id": "con-asking-questions-000001",
+      "topic": "conversations-asking-questions",
+      "intent": "definition",
+      "concept": "clarify",
+      "keywords": [
+        "clarify",
+        "understand",
+        "wording",
+        "assume",
+        "check",
+        "silence",
+        "linawin",
+        "something",
+        "understandable",
+        "different",
+        "move",
+        "asking"
+      ],
+      "patterns": [
+        "what is clarify",
+        "clarify",
+        "explain clarify",
+        "definition of clarify",
+        "clarify meaning",
+        "how to clarify what someone means",
+        "do you mean vs what do you mean",
+        "why clarifying is good",
+        "ano ang clarify",
+        "unsa ang linawin"
+      ],
+      "answer": "To clarify is to make something understandable that was not, and it is a different move from asking again, because the speaker is conceding that the problem was the wording rather than the listener. The useful phrases almost all involve checking instead of guessing, being do you mean, so what I am hearing is, and when you say that, do you. The common failure is filling a silence with an assumption, which sounds confident and is routinely wrong.",
+      "variations": [
+        "The useful phrases almost all involve checking instead of guessing, being do you mean, so what I am hearing is, and when you say that, do you. To clarify is to make something understandable that was not, and it is a different move from asking again, because the speaker is conceding that the problem was the wording rather than the listener. The common failure is filling a silence with an assumption, which sounds confident and is routinely wrong.",
+        "The common failure is filling a silence with an assumption, which sounds confident and is routinely wrong. To clarify is to make something understandable that was not, and it is a different move from asking again, because the speaker is conceding that the problem was the wording rather than the listener. The useful phrases almost all involve checking instead of guessing, being do you mean, so what I am hearing is, and when you say that, do you."
+      ],
+      "tl": "clarify",
+      "bis": "linawin"
+    },
+    {
+      "id": "con-asking-questions-000002",
+      "topic": "conversations-asking-questions",
+      "intent": "definition",
+      "concept": "follow-up",
+      "keywords": [
+        "follow-up",
+        "listening",
+        "detail",
+        "scripted",
+        "prepare",
+        "compare",
+        "follow",
+        "question",
+        "comes",
+        "rather",
+        "prepared",
+        "list"
+      ],
+      "patterns": [
+        "what is follow-up",
+        "follow-up",
+        "explain follow-up",
+        "definition of follow-up",
+        "follow-up meaning",
+        "what is a follow-up question",
+        "how to ask a good follow-up",
+        "why follow-up questions matter",
+        "ano ang follow-up",
+        "unsa ang follow-up"
+      ],
+      "answer": "A follow-up question is one that comes from what was just said rather than from a prepared list, and it is the clearest available signal that somebody is actually listening. It works because it takes a specific detail and builds on it, so what made you choose that, and how does that compare. The alternative is the scripted sequence, which produces answers nobody particularly wanted to give. Preparation flattens a conversation, and the second question is where it shows.",
+      "variations": [
+        "It works because it takes a specific detail and builds on it, so what made you choose that, and how does that compare. A follow-up question is one that comes from what was just said rather than from a prepared list, and it is the clearest available signal that somebody is actually listening. The alternative is the scripted sequence, which produces answers nobody particularly wanted to give. Preparation flattens a conversation, and the second question is where it shows.",
+        "The alternative is the scripted sequence, which produces answers nobody particularly wanted to give. A follow-up question is one that comes from what was just said rather than from a prepared list, and it is the clearest available signal that somebody is actually listening. It works because it takes a specific detail and builds on it, so what made you choose that, and how does that compare. Preparation flattens a conversation, and the second question is where it shows."
+      ],
+      "tl": "follow-up",
+      "bis": "follow-up"
+    },
+    {
+      "id": "con-asking-questions-000003",
+      "topic": "conversations-asking-questions",
+      "intent": "definition",
+      "concept": "rhetorical",
+      "keywords": [
+        "rhetorical",
+        "effect",
+        "answer",
+        "statement",
+        "advertising",
+        "argument",
+        "retorika",
+        "question",
+        "asked",
+        "rather"
+      ],
+      "patterns": [
+        "what is rhetorical",
+        "rhetorical",
+        "explain rhetorical",
+        "definition of rhetorical",
+        "rhetorical meaning",
+        "what is a rhetorical question",
+        "is that a rhetorical question",
+        "why do people ask rhetorical questions",
+        "ano ang rhetorical",
+        "unsa ang retorika"
+      ],
+      "answer": "A rhetorical question is asked for effect rather than for an answer, and the effect is usually to make a statement look open when it is not. What do we care what they think requires no reply, and anybody who supplies one has misunderstood the move. They appear constantly in argument and in advertising, and the giveaway is that the question already contains its own answer in the wording of the setup.",
+      "variations": [
+        "What do we care what they think requires no reply, and anybody who supplies one has misunderstood the move. A rhetorical question is asked for effect rather than for an answer, and the effect is usually to make a statement look open when it is not. They appear constantly in argument and in advertising, and the giveaway is that the question already contains its own answer in the wording of the setup.",
+        "They appear constantly in argument and in advertising, and the giveaway is that the question already contains its own answer in the wording of the setup. A rhetorical question is asked for effect rather than for an answer, and the effect is usually to make a statement look open when it is not. What do we care what they think requires no reply, and anybody who supplies one has misunderstood the move."
+      ],
+      "tl": "rhetorical",
+      "bis": "retorika"
+    },
+    {
+      "id": "con-asking-questions-000004",
+      "topic": "conversations-asking-questions",
+      "intent": "definition",
+      "concept": "probing",
+      "keywords": [
+        "probing",
+        "follow-up",
+        "deeper",
+        "interrogation",
+        "resist",
+        "interest",
+        "sumubok",
+        "asking",
+        "level",
+        "comfortable",
+        "answer"
+      ],
+      "patterns": [
+        "what is probing",
+        "probing",
+        "explain probing",
+        "definition of probing",
+        "probing meaning",
+        "what does it mean to probe",
+        "how to ask deeper questions",
+        "when to stop asking",
+        "ano ang probing",
+        "unsa ang sumubok"
+      ],
+      "answer": "Probing is asking one level deeper than the comfortable answer, and the skill is noticing when the person has signalled they would rather not. Done well it is how a real conversation happens; done badly it is an interrogation, and the difference is entirely in whether the person is allowed to stop. The practical guard is to ask once more and then drop it, since a second follow-up after resistance is pressure rather than interest.",
+      "variations": [
+        "Done well it is how a real conversation happens; done badly it is an interrogation, and the difference is entirely in whether the person is allowed to stop. Probing is asking one level deeper than the comfortable answer, and the skill is noticing when the person has signalled they would rather not. The practical guard is to ask once more and then drop it, since a second follow-up after resistance is pressure rather than interest.",
+        "The practical guard is to ask once more and then drop it, since a second follow-up after resistance is pressure rather than interest. Probing is asking one level deeper than the comfortable answer, and the skill is noticing when the person has signalled they would rather not. Done well it is how a real conversation happens; done badly it is an interrogation, and the difference is entirely in whether the person is allowed to stop."
+      ],
+      "tl": "probing",
+      "bis": "sumubok"
+    },
+    {
+      "id": "con-asking-questions-000005",
+      "topic": "conversations-asking-questions",
+      "intent": "definition",
+      "concept": "question mark",
+      "keywords": [
+        "question mark",
+        "punctuation",
+        "question",
+        "statement",
+        "ambiguous",
+        "tanong",
+        "mark",
+        "become",
+        "main",
+        "english"
+      ],
+      "patterns": [
+        "what is question mark",
+        "question mark",
+        "explain question mark",
+        "definition of question mark",
+        "question mark meaning",
+        "when do you use a question mark",
+        "is a question mark a question",
+        "question mark after a statement",
+        "ano ang question mark",
+        "unsa ang tanong"
+      ],
+      "answer": "A question mark is punctuation that has become the main way English signals a question, because English word order does not reliably do that job on its own. A question mark at the end of a statement is often heard as friendly curiosity, which is why a sentence like you are coming is genuinely ambiguous. A full stop makes it sound like a question instead, and using both together is ambiguous enough that careful writers avoid it.",
+      "variations": [
+        "A question mark at the end of a statement is often heard as friendly curiosity, which is why a sentence like you are coming is genuinely ambiguous. A question mark is punctuation that has become the main way English signals a question, because English word order does not reliably do that job on its own. A full stop makes it sound like a question instead, and using both together is ambiguous enough that careful writers avoid it.",
+        "A full stop makes it sound like a question instead, and using both together is ambiguous enough that careful writers avoid it. A question mark is punctuation that has become the main way English signals a question, because English word order does not reliably do that job on its own. A question mark at the end of a statement is often heard as friendly curiosity, which is why a sentence like you are coming is genuinely ambiguous."
+      ],
+      "tl": "question mark",
+      "bis": "tanong"
+    },
+    {
+      "id": "con-asking-questions-000006",
+      "topic": "conversations-asking-questions",
+      "intent": "definition",
+      "concept": "curiosity",
+      "keywords": [
+        "curiosity",
+        "know",
+        "concern",
+        "snooping",
+        "volunteer",
+        "signal",
+        "wish",
+        "something",
+        "word",
+        "neutral"
+      ],
+      "patterns": [
+        "what is curiosity",
+        "curiosity",
+        "explain curiosity",
+        "definition of curiosity",
+        "curiosity meaning",
+        "difference between curiosity and concern",
+        "how to show genuine curiosity",
+        "ano ang curiosity",
+        "unsa ang kag curiosidad"
+      ],
+      "answer": "Curiosity is the wish to know something, and the word is neutral about whether the person would benefit from knowing. That neutrality is what separates it from concern, which assumes it matters, and from snooping, which assumes it is not their business. For conversation the useful distinction is that curiosity asks about what the other person is willing to talk about, so the signal to watch is what they volunteer rather than what they end up answering.",
+      "variations": [
+        "That neutrality is what separates it from concern, which assumes it matters, and from snooping, which assumes it is not their business. Curiosity is the wish to know something, and the word is neutral about whether the person would benefit from knowing. For conversation the useful distinction is that curiosity asks about what the other person is willing to talk about, so the signal to watch is what they volunteer rather than what they end up answering.",
+        "For conversation the useful distinction is that curiosity asks about what the other person is willing to talk about, so the signal to watch is what they volunteer rather than what they end up answering. Curiosity is the wish to know something, and the word is neutral about whether the person would benefit from knowing. That neutrality is what separates it from concern, which assumes it matters, and from snooping, which assumes it is not their business."
+      ],
+      "tl": "curiosity",
+      "bis": "kag curiosidad"
+    }
+  ],
+  "lang": "english",
+  "group": "conversations",
+  "sub": "asking-questions",
+  "title": "Asking questions",
+  "groupTitle": "Conversations"
+}

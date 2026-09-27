@@ -1,0 +1,161 @@
+{
+  "topic": "courses-engineering",
+  "entries": [
+    {
+      "id": "cou-engineering-000001",
+      "topic": "courses-engineering",
+      "intent": "definition",
+      "concept": "engineering",
+      "keywords": [
+        "engineering",
+        "engineer",
+        "build",
+        "constraint",
+        "science",
+        "industry",
+        "inhenyeria",
+        "applying",
+        "mathematics",
+        "something"
+      ],
+      "patterns": [
+        "what is engineering",
+        "engineering",
+        "explain engineering",
+        "definition of engineering",
+        "engineering meaning",
+        "what type of engineer am i",
+        "is engineering difficult",
+        "ano ang engineering",
+        "unsa ang inhenyeria"
+      ],
+      "answer": "Engineering is applying science and mathematics to build something that does what it must, within constraints of cost, time, safety and law. That last constraint is what separates it from a science degree, since a perfect solution that cannot be built or maintained is not an engineering result. Branches are usually named after the industry rather than the method, so civil, mechanical, electrical and chemical are different industries that happen to share an approach.",
+      "variations": [
+        "That last constraint is what separates it from a science degree, since a perfect solution that cannot be built or maintained is not an engineering result. Engineering is applying science and mathematics to build something that does what it must, within constraints of cost, time, safety and law. Branches are usually named after the industry rather than the method, so civil, mechanical, electrical and chemical are different industries that happen to share an approach.",
+        "Branches are usually named after the industry rather than the method, so civil, mechanical, electrical and chemical are different industries that happen to share an approach. Engineering is applying science and mathematics to build something that does what it must, within constraints of cost, time, safety and law. That last constraint is what separates it from a science degree, since a perfect solution that cannot be built or maintained is not an engineering result."
+      ],
+      "tl": "engineering",
+      "bis": "inhenyeria"
+    },
+    {
+      "id": "cou-engineering-000002",
+      "topic": "courses-engineering",
+      "intent": "definition",
+      "concept": "engineering design",
+      "keywords": [
+        "engineering design",
+        "design",
+        "requirement",
+        "build",
+        "iterate",
+        "drawing",
+        "document",
+        "disenyo",
+        "engineering",
+        "process",
+        "turning",
+        "something"
+      ],
+      "patterns": [
+        "what is engineering design",
+        "engineering design",
+        "explain engineering design",
+        "definition of engineering design",
+        "engineering design meaning",
+        "how does engineering design work",
+        "is design the same as drawing",
+        "ano ang engineering design",
+        "unsa ang disenyo"
+      ],
+      "answer": "Engineering design is the process of turning a requirement into something that can be built, and it is iterative in a way that most people underestimate. Each pass exposes constraints the first one missed, so a design that looks finished after one drawing is a design that has not been tested against reality. Professionals write down why a choice was made rather than only what was chosen, since the reason is what lets a later engineer change it safely.",
+      "variations": [
+        "Each pass exposes constraints the first one missed, so a design that looks finished after one drawing is a design that has not been tested against reality. Engineering design is the process of turning a requirement into something that can be built, and it is iterative in a way that most people underestimate. Professionals write down why a choice was made rather than only what was chosen, since the reason is what lets a later engineer change it safely.",
+        "Professionals write down why a choice was made rather than only what was chosen, since the reason is what lets a later engineer change it safely. Engineering design is the process of turning a requirement into something that can be built, and it is iterative in a way that most people underestimate. Each pass exposes constraints the first one missed, so a design that looks finished after one drawing is a design that has not been tested against reality."
+      ],
+      "tl": "engineering design",
+      "bis": "disenyo"
+    },
+    {
+      "id": "cou-engineering-000003",
+      "topic": "courses-engineering",
+      "intent": "definition",
+      "concept": "mechanical engineer",
+      "keywords": [
+        "mechanical engineer",
+        "mechanical",
+        "engineer",
+        "engine",
+        "machine",
+        "manufacture",
+        "strength",
+        "works",
+        "anything",
+        "moves",
+        "engines"
+      ],
+      "patterns": [
+        "what is mechanical engineer",
+        "mechanical engineer",
+        "explain mechanical engineer",
+        "definition of mechanical engineer",
+        "mechanical engineer meaning",
+        "what does a mechanical engineer do",
+        "is mechanical engineering hard",
+        "mechanical vs electrical engineer",
+        "ano ang mechanical engineer",
+        "unsa ang mechanical engineer"
+      ],
+      "answer": "A mechanical engineer works with anything that moves, from engines and gearboxes to robotics and air conditioning, and the work is a balance between strength, cost and manufacturability. The defining skill is not mechanics but knowing which compromise to accept, since a stronger design that cannot be produced at a reasonable price has failed. The field changed markedly with computer-aided design, which made complex shapes possible to specify but moved the bottleneck to manufacturing.",
+      "variations": [
+        "The defining skill is not mechanics but knowing which compromise to accept, since a stronger design that cannot be produced at a reasonable price has failed. A mechanical engineer works with anything that moves, from engines and gearboxes to robotics and air conditioning, and the work is a balance between strength, cost and manufacturability. The field changed markedly with computer-aided design, which made complex shapes possible to specify but moved the bottleneck to manufacturing.",
+        "The field changed markedly with computer-aided design, which made complex shapes possible to specify but moved the bottleneck to manufacturing. A mechanical engineer works with anything that moves, from engines and gearboxes to robotics and air conditioning, and the work is a balance between strength, cost and manufacturability. The defining skill is not mechanics but knowing which compromise to accept, since a stronger design that cannot be produced at a reasonable price has failed."
+      ],
+      "tl": "mechanical engineer",
+      "bis": "mechanical engineer"
+    },
+    {
+      "id": "cou-engineering-000004",
+      "topic": "courses-engineering",
+      "intent": "definition",
+      "concept": "licensure",
+      "keywords": [
+        "licensure",
+        "licence",
+        "board",
+        "exam",
+        "practise",
+        "supervise",
+        "lisensya",
+        "professional",
+        "philippines",
+        "converts",
+        "engineering",
+        "degree"
+      ],
+      "patterns": [
+        "what is licensure",
+        "licensure",
+        "explain licensure",
+        "definition of licensure",
+        "licensure meaning",
+        "do engineers need a licence",
+        "what is the board exam",
+        "is licensure required in the philippines",
+        "ano ang licensure",
+        "unsa ang lisensya"
+      ],
+      "answer": "Professional licensure in the Philippines is what converts an engineering degree into the legal right to practise, and it is a separate requirement with its own exam. Many graduates work first under supervision, taking the board exam only once they have the hours the profession requires, which is why the exam is commonly taken a few years after graduating. The arrangement exists because the degree certifies that you learned the theory and the licence certifies that you can be held responsible for work.",
+      "variations": [
+        "Many graduates work first under supervision, taking the board exam only once they have the hours the profession requires, which is why the exam is commonly taken a few years after graduating. Professional licensure in the Philippines is what converts an engineering degree into the legal right to practise, and it is a separate requirement with its own exam. The arrangement exists because the degree certifies that you learned the theory and the licence certifies that you can be held responsible for work.",
+        "The arrangement exists because the degree certifies that you learned the theory and the licence certifies that you can be held responsible for work. Professional licensure in the Philippines is what converts an engineering degree into the legal right to practise, and it is a separate requirement with its own exam. Many graduates work first under supervision, taking the board exam only once they have the hours the profession requires, which is why the exam is commonly taken a few years after graduating."
+      ],
+      "tl": "licensure",
+      "bis": "lisensya"
+    }
+  ],
+  "lang": "english",
+  "group": "courses",
+  "sub": "engineering",
+  "title": "Engineering",
+  "groupTitle": "Courses"
+}

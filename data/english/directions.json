@@ -1,0 +1,230 @@
+{
+  "topic": "english-directions",
+  "entries": [
+    {
+      "id": "eng-directions-000001",
+      "topic": "english-directions",
+      "intent": "definition",
+      "concept": "north",
+      "keywords": [
+        "north",
+        "direction",
+        "pole",
+        "map",
+        "top",
+        "region",
+        "amihan",
+        "along",
+        "axis",
+        "earth",
+        "turns"
+      ],
+      "patterns": [
+        "what is north",
+        "north",
+        "explain north",
+        "definition of north",
+        "north meaning",
+        "is north always up on a map",
+        "north of a country meaning",
+        "ano ang north",
+        "unsa ang amihan"
+      ],
+      "answer": "North is the direction along the axis the Earth turns on, and it is fixed by the pole rather than by anything on the ground. Almost every map places it at the top, which is a convention and not a fact, and a few cultures have done the opposite for centuries. The word is also the ordinary term for a region, as in the far north, and it survives in the names of countries whose borders were drawn by people who thought in terms of it.",
+      "variations": [
+        "Almost every map places it at the top, which is a convention and not a fact, and a few cultures have done the opposite for centuries. North is the direction along the axis the Earth turns on, and it is fixed by the pole rather than by anything on the ground. The word is also the ordinary term for a region, as in the far north, and it survives in the names of countries whose borders were drawn by people who thought in terms of it.",
+        "The word is also the ordinary term for a region, as in the far north, and it survives in the names of countries whose borders were drawn by people who thought in terms of it. North is the direction along the axis the Earth turns on, and it is fixed by the pole rather than by anything on the ground. Almost every map places it at the top, which is a convention and not a fact, and a few cultures have done the opposite for centuries."
+      ],
+      "tl": "north",
+      "bis": "amihan"
+    },
+    {
+      "id": "eng-directions-000002",
+      "topic": "english-directions",
+      "intent": "definition",
+      "concept": "south",
+      "keywords": [
+        "south",
+        "direction",
+        "pole",
+        "latitude",
+        "region",
+        "border",
+        "timog",
+        "opposite",
+        "north",
+        "towards"
+      ],
+      "patterns": [
+        "what is south",
+        "south",
+        "explain south",
+        "definition of south",
+        "south meaning",
+        "meaning of going south",
+        "south of the border",
+        "ano ang south",
+        "unsa ang timog"
+      ],
+      "answer": "South is the direction opposite north and towards the other pole, and the word is common well outside the places where anyone actually navigates by it. It is associated both with cold, as a compass point, and with heat, as a region, so the two senses pull in opposite directions and the context decides. In navigation it also names crossing a latitude in that direction, which is how one would say we went south of the border.",
+      "variations": [
+        "It is associated both with cold, as a compass point, and with heat, as a region, so the two senses pull in opposite directions and the context decides. South is the direction opposite north and towards the other pole, and the word is common well outside the places where anyone actually navigates by it. In navigation it also names crossing a latitude in that direction, which is how one would say we went south of the border.",
+        "In navigation it also names crossing a latitude in that direction, which is how one would say we went south of the border. South is the direction opposite north and towards the other pole, and the word is common well outside the places where anyone actually navigates by it. It is associated both with cold, as a compass point, and with heat, as a region, so the two senses pull in opposite directions and the context decides."
+      ],
+      "tl": "south",
+      "bis": "timog"
+    },
+    {
+      "id": "eng-directions-000003",
+      "topic": "english-directions",
+      "intent": "definition",
+      "concept": "east",
+      "keywords": [
+        "east",
+        "sunrise",
+        "right",
+        "facing",
+        "region",
+        "spin",
+        "silangan",
+        "direction",
+        "north"
+      ],
+      "patterns": [
+        "what is east",
+        "east",
+        "explain east",
+        "definition of east",
+        "east meaning",
+        "is east the direction of sunrise",
+        "meaning of the far east",
+        "ano ang east",
+        "unsa ang silangan"
+      ],
+      "answer": "East is the direction of sunrise and the one on the right when you are facing north, which makes it a relationship rather than a fixed location. The word is older as the name of a region than as a point of the compass, and the two uses are still distinct, so a country in the far east need not lie east of anywhere in particular. Going east means moving the way the Earth spins, and that is the only sense of it that is not arbitrary.",
+      "variations": [
+        "The word is older as the name of a region than as a point of the compass, and the two uses are still distinct, so a country in the far east need not lie east of anywhere in particular. East is the direction of sunrise and the one on the right when you are facing north, which makes it a relationship rather than a fixed location. Going east means moving the way the Earth spins, and that is the only sense of it that is not arbitrary.",
+        "Going east means moving the way the Earth spins, and that is the only sense of it that is not arbitrary. East is the direction of sunrise and the one on the right when you are facing north, which makes it a relationship rather than a fixed location. The word is older as the name of a region than as a point of the compass, and the two uses are still distinct, so a country in the far east need not lie east of anywhere in particular."
+      ],
+      "tl": "east",
+      "bis": "silangan"
+    },
+    {
+      "id": "eng-directions-000004",
+      "topic": "english-directions",
+      "intent": "definition",
+      "concept": "west",
+      "keywords": [
+        "west",
+        "sunset",
+        "left",
+        "facing",
+        "region",
+        "decline",
+        "kanluran",
+        "last",
+        "four",
+        "main",
+        "points",
+        "word"
+      ],
+      "patterns": [
+        "what is west",
+        "west",
+        "explain west",
+        "definition of west",
+        "west meaning",
+        "meaning of the west",
+        "is west left or right",
+        "ano ang west",
+        "unsa ang kanluran"
+      ],
+      "answer": "West is the last of the four main points and the one the word most often means as a region rather than a direction, since the West has named a cultural bloc for a long time. In navigation it is the direction of sunset and the left when facing north. The associations are mixed, because the word carries decline as readily as romance, and neither of those is geographical at all but both are firmly attached to the name.",
+      "variations": [
+        "In navigation it is the direction of sunset and the left when facing north. West is the last of the four main points and the one the word most often means as a region rather than a direction, since the West has named a cultural bloc for a long time. The associations are mixed, because the word carries decline as readily as romance, and neither of those is geographical at all but both are firmly attached to the name.",
+        "The associations are mixed, because the word carries decline as readily as romance, and neither of those is geographical at all but both are firmly attached to the name. West is the last of the four main points and the one the word most often means as a region rather than a direction, since the West has named a cultural bloc for a long time. In navigation it is the direction of sunset and the left when facing north."
+      ],
+      "tl": "west",
+      "bis": "kanluran"
+    },
+    {
+      "id": "eng-directions-000005",
+      "topic": "english-directions",
+      "intent": "definition",
+      "concept": "compass",
+      "keywords": [
+        "compass",
+        "needle",
+        "magnet",
+        "direction",
+        "declination",
+        "rose",
+        "kompas",
+        "finds",
+        "magnetised",
+        "word"
+      ],
+      "patterns": [
+        "what is compass",
+        "compass",
+        "explain compass",
+        "definition of compass",
+        "compass meaning",
+        "what is a compass",
+        "how does a compass work",
+        "what is a compass rose",
+        "ano ang compass",
+        "unsa ang kompas"
+      ],
+      "answer": "A compass finds direction with a magnetised needle, and the word also names the whole set of points the instrument reports. The needle points roughly north because the Earth's field is itself magnetic, which is why it behaves badly near steel and why declination has to be allowed for in a reading. A compass rose on a map shows the same set, and the tradition of drawing east at the top came from putting it there on the instrument.",
+      "variations": [
+        "The needle points roughly north because the Earth's field is itself magnetic, which is why it behaves badly near steel and why declination has to be allowed for in a reading. A compass finds direction with a magnetised needle, and the word also names the whole set of points the instrument reports. A compass rose on a map shows the same set, and the tradition of drawing east at the top came from putting it there on the instrument.",
+        "A compass rose on a map shows the same set, and the tradition of drawing east at the top came from putting it there on the instrument. A compass finds direction with a magnetised needle, and the word also names the whole set of points the instrument reports. The needle points roughly north because the Earth's field is itself magnetic, which is why it behaves badly near steel and why declination has to be allowed for in a reading."
+      ],
+      "tl": "compass",
+      "bis": "kompas"
+    },
+    {
+      "id": "eng-directions-000006",
+      "topic": "english-directions",
+      "intent": "definition",
+      "concept": "cardinal",
+      "keywords": [
+        "cardinal",
+        "direction",
+        "north",
+        "hinge",
+        "ordinal",
+        "eight",
+        "kardinal",
+        "four",
+        "main",
+        "points"
+      ],
+      "patterns": [
+        "what is cardinal",
+        "cardinal",
+        "explain cardinal",
+        "definition of cardinal",
+        "cardinal meaning",
+        "what is a cardinal direction",
+        "how many cardinal directions",
+        "cardinal vs ordinal",
+        "ano ang cardinal",
+        "unsa ang kardinal"
+      ],
+      "answer": "A cardinal direction is one of the four main points, north, south, east and west, as against the intercardinal ones lying between them. The word comes from a Latin term for hinge, because these four are the hinges everything else turns between. The opposite, an ordinal direction, is numbered from north, so north-north-east is the first of those. Memorising the eight is quicker than deriving them, and deriving them is where people usually go wrong.",
+      "variations": [
+        "The word comes from a Latin term for hinge, because these four are the hinges everything else turns between. A cardinal direction is one of the four main points, north, south, east and west, as against the intercardinal ones lying between them. The opposite, an ordinal direction, is numbered from north, so north-north-east is the first of those. Memorising the eight is quicker than deriving them, and deriving them is where people usually go wrong.",
+        "The opposite, an ordinal direction, is numbered from north, so north-north-east is the first of those. A cardinal direction is one of the four main points, north, south, east and west, as against the intercardinal ones lying between them. The word comes from a Latin term for hinge, because these four are the hinges everything else turns between. Memorising the eight is quicker than deriving them, and deriving them is where people usually go wrong."
+      ],
+      "tl": "cardinal",
+      "bis": "kardinal"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "directions",
+  "title": "Directions",
+  "groupTitle": "English"
+}

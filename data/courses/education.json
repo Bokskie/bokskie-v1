@@ -1,0 +1,237 @@
+{
+  "topic": "courses-education",
+  "entries": [
+    {
+      "id": "cou-education-000001",
+      "topic": "courses-education",
+      "intent": "definition",
+      "concept": "education course",
+      "keywords": [
+        "education course",
+        "educ",
+        "course",
+        "degree",
+        "teaching",
+        "teach",
+        "major",
+        "graduate",
+        "licence",
+        "edukasyon",
+        "education",
+        "trains",
+        "somebody",
+        "qualification"
+      ],
+      "patterns": [
+        "what is education course",
+        "education course",
+        "explain education course",
+        "definition of education course",
+        "education course meaning",
+        "what is an education course",
+        "can i become a teacher",
+        "is education hard",
+        "ano ang education course",
+        "unsa ang edukasyon"
+      ],
+      "answer": "An education course trains somebody to teach, and the qualification depends heavily on which level they intend to teach, since primary and secondary requirements differ and special needs adds more. Most programmes combine coursework with supervised classroom practice, because the subject knowledge is rarely the hard part. In the Philippines the path runs through a bachelor's in education with a major in a subject, and the licence to teach follows from it rather than being separate.",
+      "variations": [
+        "Most programmes combine coursework with supervised classroom practice, because the subject knowledge is rarely the hard part. An education course trains somebody to teach, and the qualification depends heavily on which level they intend to teach, since primary and secondary requirements differ and special needs adds more. In the Philippines the path runs through a bachelor's in education with a major in a subject, and the licence to teach follows from it rather than being separate.",
+        "In the Philippines the path runs through a bachelor's in education with a major in a subject, and the licence to teach follows from it rather than being separate. An education course trains somebody to teach, and the qualification depends heavily on which level they intend to teach, since primary and secondary requirements differ and special needs adds more. Most programmes combine coursework with supervised classroom practice, because the subject knowledge is rarely the hard part."
+      ],
+      "tl": "education course",
+      "bis": "edukasyon"
+    },
+    {
+      "id": "cou-education-000002",
+      "topic": "courses-education",
+      "intent": "definition",
+      "concept": "curriculum",
+      "keywords": [
+        "curriculum",
+        "syllabus",
+        "plan",
+        "sequence",
+        "national",
+        "hidden",
+        "kurikulum",
+        "planned",
+        "content",
+        "taught",
+        "narrower"
+      ],
+      "patterns": [
+        "what is curriculum",
+        "curriculum",
+        "explain curriculum",
+        "definition of curriculum",
+        "curriculum meaning",
+        "curriculum vs syllabus",
+        "what is the hidden curriculum",
+        "ano ang curriculum",
+        "unsa ang kurikulum"
+      ],
+      "answer": "A curriculum is the planned content and sequence of what is taught, and it is narrower than a syllabus, which is the assessment that checks it. There is also the hidden curriculum, the habits and expectations a school teaches by its own behaviour, which is what a pupil actually picks up about punctuality and obedience. A curriculum can be national, as in the Philippines' K to 12, or the local version of one that a school chooses within it.",
+      "variations": [
+        "There is also the hidden curriculum, the habits and expectations a school teaches by its own behaviour, which is what a pupil actually picks up about punctuality and obedience. A curriculum is the planned content and sequence of what is taught, and it is narrower than a syllabus, which is the assessment that checks it. A curriculum can be national, as in the Philippines' K to 12, or the local version of one that a school chooses within it.",
+        "A curriculum can be national, as in the Philippines' K to 12, or the local version of one that a school chooses within it. A curriculum is the planned content and sequence of what is taught, and it is narrower than a syllabus, which is the assessment that checks it. There is also the hidden curriculum, the habits and expectations a school teaches by its own behaviour, which is what a pupil actually picks up about punctuality and obedience."
+      ],
+      "tl": "curriculum",
+      "bis": "kurikulum"
+    },
+    {
+      "id": "cou-education-000003",
+      "topic": "courses-education",
+      "intent": "definition",
+      "concept": "teaching method",
+      "keywords": [
+        "teaching method",
+        "lecture",
+        "discussion",
+        "student-led",
+        "apply",
+        "information",
+        "method",
+        "plan",
+        "teacher",
+        "follows",
+        "learning"
+      ],
+      "patterns": [
+        "what is teaching method",
+        "teaching method",
+        "explain teaching method",
+        "definition of teaching method",
+        "teaching method meaning",
+        "what are teaching methods",
+        "is lecture still used",
+        "what is the best teaching method",
+        "ano ang teaching method",
+        "unsa ang paraan ng pagtuturo"
+      ],
+      "answer": "A teaching method is the plan a teacher follows to get learning out of a class, and the categories go from teacher-led to student-led. Lecture, discussion, demonstration, collaborative and problem-based all produce different classroom shapes, and the useful question is what the lesson is for. If the aim is transmitting information efficiently, lecture wins; if it is applying it, the slower methods win even though they feel less productive from the front.",
+      "variations": [
+        "Lecture, discussion, demonstration, collaborative and problem-based all produce different classroom shapes, and the useful question is what the lesson is for. A teaching method is the plan a teacher follows to get learning out of a class, and the categories go from teacher-led to student-led. If the aim is transmitting information efficiently, lecture wins; if it is applying it, the slower methods win even though they feel less productive from the front.",
+        "If the aim is transmitting information efficiently, lecture wins; if it is applying it, the slower methods win even though they feel less productive from the front. A teaching method is the plan a teacher follows to get learning out of a class, and the categories go from teacher-led to student-led. Lecture, discussion, demonstration, collaborative and problem-based all produce different classroom shapes, and the useful question is what the lesson is for."
+      ],
+      "tl": "teaching method",
+      "bis": "paraan ng pagtuturo"
+    },
+    {
+      "id": "cou-education-000004",
+      "topic": "courses-education",
+      "intent": "definition",
+      "concept": "choosing a course",
+      "keywords": [
+        "choosing a course",
+        "choose",
+        "decide",
+        "afford",
+        "finish",
+        "destination",
+        "choosing",
+        "course",
+        "decision",
+        "problem",
+        "want",
+        "spend"
+      ],
+      "patterns": [
+        "what is choosing a course",
+        "choosing a course",
+        "explain choosing a course",
+        "definition of choosing a course",
+        "choosing a course meaning",
+        "what course should i take",
+        "how do i choose a course",
+        "is it ok to change course",
+        "ano ang choosing a course",
+        "unsa ang pagpili ng kurso"
+      ],
+      "answer": "Choosing a course is a decision about which problem you want to spend four years on, and the wrong way to make it is to rank by how the subject sounds. The three things that actually predict whether somebody finishes are whether the work is affordable, whether the daily subject is one they would read about anyway, and whether there is a path out into work. A course with no clear destination can still be a good one, and a fashionable one can still strand you, and the honest answer to which course to take depends on things a written bank cannot see.",
+      "variations": [
+        "The three things that actually predict whether somebody finishes are whether the work is affordable, whether the daily subject is one they would read about anyway, and whether there is a path out into work. Choosing a course is a decision about which problem you want to spend four years on, and the wrong way to make it is to rank by how the subject sounds. A course with no clear destination can still be a good one, and a fashionable one can still strand you, and the honest answer to which course to take depends on things a written bank cannot see.",
+        "A course with no clear destination can still be a good one, and a fashionable one can still strand you, and the honest answer to which course to take depends on things a written bank cannot see. Choosing a course is a decision about which problem you want to spend four years on, and the wrong way to make it is to rank by how the subject sounds. The three things that actually predict whether somebody finishes are whether the work is affordable, whether the daily subject is one they would read about anyway, and whether there is a path out into work."
+      ],
+      "tl": "choosing a course",
+      "bis": "pagpili ng kurso"
+    },
+    {
+      "id": "cou-education-000005",
+      "topic": "courses-education",
+      "intent": "definition",
+      "concept": "student teacher",
+      "keywords": [
+        "student teacher",
+        "intern",
+        "supervised",
+        "mentor",
+        "classroom",
+        "student",
+        "teacher",
+        "someone",
+        "doing"
+      ],
+      "patterns": [
+        "what is student teacher",
+        "student teacher",
+        "explain student teacher",
+        "definition of student teacher",
+        "student teacher meaning",
+        "what is a student teacher",
+        "what is practice teaching",
+        "how long is student teaching",
+        "ano ang student teacher",
+        "unsa ang student teacher"
+      ],
+      "answer": "A student teacher, or teaching intern, is someone doing supervised teaching as part of their training, and the arrangement is the standard route into the profession. The term practice teaching is the older formal one for the same placement, and both mean working in a real classroom under a mentor teacher who evaluates. The difficulty is nearly always the same: the first lesson is planned in enormous detail, and the last is planned in five minutes because the class will not wait.",
+      "variations": [
+        "The term practice teaching is the older formal one for the same placement, and both mean working in a real classroom under a mentor teacher who evaluates. A student teacher, or teaching intern, is someone doing supervised teaching as part of their training, and the arrangement is the standard route into the profession. The difficulty is nearly always the same: the first lesson is planned in enormous detail, and the last is planned in five minutes because the class will not wait.",
+        "The difficulty is nearly always the same: the first lesson is planned in enormous detail, and the last is planned in five minutes because the class will not wait. A student teacher, or teaching intern, is someone doing supervised teaching as part of their training, and the arrangement is the standard route into the profession. The term practice teaching is the older formal one for the same placement, and both mean working in a real classroom under a mentor teacher who evaluates."
+      ],
+      "tl": "student teacher",
+      "bis": "student teacher"
+    },
+    {
+      "id": "cou-education-000006",
+      "topic": "courses-education",
+      "intent": "definition",
+      "concept": "licence",
+      "keywords": [
+        "licence",
+        "license",
+        "legal",
+        "teach",
+        "permit",
+        "exam",
+        "lisensya",
+        "permission",
+        "particular"
+      ],
+      "patterns": [
+        "what is licence",
+        "licence",
+        "explain licence",
+        "definition of licence",
+        "licence meaning",
+        "what is a teaching licence",
+        "do i need a licence to teach",
+        "is a degree enough to teach",
+        "ano ang licence",
+        "unsa ang lisensya"
+      ],
+      "answer": "A teaching licence is the legal permission to teach a particular level and subject, and it is separate from the degree even where the two are taken together. In the Philippines the licence comes from passing the government exam after a bachelor's in education, and it is what a public school employer actually checks. The reason the distinction matters is that the degree says what was studied while the licence says what you may now do, and only the second one is a permission.",
+      "variations": [
+        "In the Philippines the licence comes from passing the government exam after a bachelor's in education, and it is what a public school employer actually checks. A teaching licence is the legal permission to teach a particular level and subject, and it is separate from the degree even where the two are taken together. The reason the distinction matters is that the degree says what was studied while the licence says what you may now do, and only the second one is a permission.",
+        "The reason the distinction matters is that the degree says what was studied while the licence says what you may now do, and only the second one is a permission. A teaching licence is the legal permission to teach a particular level and subject, and it is separate from the degree even where the two are taken together. In the Philippines the licence comes from passing the government exam after a bachelor's in education, and it is what a public school employer actually checks."
+      ],
+      "tl": "licence",
+      "bis": "lisensya"
+    }
+  ],
+  "lang": "english",
+  "group": "courses",
+  "sub": "education",
+  "title": "Education",
+  "groupTitle": "Courses"
+}

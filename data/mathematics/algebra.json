@@ -1,0 +1,43 @@
+{
+  "topic": "mathematics-algebra",
+  "entries": [
+    {
+      "id": "mat-algebra-000001",
+      "topic": "mathematics-algebra",
+      "intent": "howto",
+      "concept": "quadratic",
+      "keywords": [
+        "quadratic",
+        "equation",
+        "solve",
+        "roots",
+        "discriminant",
+        "parabola",
+        "squared",
+        "plus",
+        "equals",
+        "zero"
+      ],
+      "patterns": [
+        "what is quadratic",
+        "quadratic",
+        "explain quadratic",
+        "definition of quadratic",
+        "quadratic meaning",
+        "how do i solve a quadratic",
+        "quadratic formula",
+        "how to solve equations"
+      ],
+      "answer": "A quadratic equation has the form ax squared plus bx plus c, equals zero. The quadratic formula solves it: x equals minus b, plus or minus the square root of b squared minus 4ac, all over 2a. The part under the square root is the discriminant - if it is positive there are two real roots, zero means one, negative means none. Graphically the curve is a parabola and the roots are where it crosses the axis.",
+      "variations": [
+        "The quadratic formula solves it: x equals minus b, plus or minus the square root of b squared minus 4ac, all over 2a. A quadratic equation has the form ax squared plus bx plus c, equals zero. The part under the square root is the discriminant - if it is positive there are two real roots, zero means one, negative means none. Graphically the curve is a parabola and the roots are where it crosses the axis.",
+        "The part under the square root is the discriminant - if it is positive there are two real roots, zero means one, negative means none. A quadratic equation has the form ax squared plus bx plus c, equals zero. The quadratic formula solves it: x equals minus b, plus or minus the square root of b squared minus 4ac, all over 2a. Graphically the curve is a parabola and the roots are where it crosses the axis."
+      ]
+    }
+  ],
+  "lang": "english",
+  "group": "mathematics",
+  "sub": "algebra",
+  "title": "Algebra",
+  "groupTitle": "Mathematics"
+}

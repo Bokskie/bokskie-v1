@@ -1,0 +1,41 @@
+{
+  "topic": "science-general-science",
+  "entries": [
+    {
+      "id": "sci-general-science-000001",
+      "topic": "science-general-science",
+      "intent": "definition",
+      "concept": "quantum",
+      "keywords": [
+        "quantum",
+        "entanglement",
+        "qubit",
+        "superposition",
+        "wave",
+        "mechanics",
+        "describes",
+        "matter",
+        "energy",
+        "small"
+      ],
+      "patterns": [
+        "what is quantum",
+        "quantum",
+        "explain quantum",
+        "definition of quantum",
+        "quantum meaning",
+        "what is quantum entanglement"
+      ],
+      "answer": "Quantum mechanics describes matter and energy at very small scales, where particles behave in ways everyday intuition gets wrong. A quantum state can be a superposition of several possibilities at once until it is measured, and two particles can be entangled so that measuring one instantly constrains the other, however far apart. It is not a guess - it is the most precisely tested theory in physics, and it is what gives us semiconductors and lasers.",
+      "variations": [
+        "A quantum state can be a superposition of several possibilities at once until it is measured, and two particles can be entangled so that measuring one instantly constrains the other, however far apart. Quantum mechanics describes matter and energy at very small scales, where particles behave in ways everyday intuition gets wrong. It is not a guess - it is the most precisely tested theory in physics, and it is what gives us semiconductors and lasers.",
+        "It is not a guess - it is the most precisely tested theory in physics, and it is what gives us semiconductors and lasers. Quantum mechanics describes matter and energy at very small scales, where particles behave in ways everyday intuition gets wrong. A quantum state can be a superposition of several possibilities at once until it is measured, and two particles can be entangled so that measuring one instantly constrains the other, however far apart."
+      ]
+    }
+  ],
+  "lang": "english",
+  "group": "science",
+  "sub": "general-science",
+  "title": "General science",
+  "groupTitle": "Science"
+}

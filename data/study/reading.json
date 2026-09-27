@@ -1,0 +1,198 @@
+{
+  "topic": "study-reading",
+  "entries": [
+    {
+      "id": "stu-reading-000001",
+      "topic": "study-reading",
+      "intent": "definition",
+      "concept": "skim",
+      "keywords": [
+        "skim",
+        "quickly",
+        "shape",
+        "structure",
+        "heading",
+        "decide",
+        "read",
+        "text",
+        "rather"
+      ],
+      "patterns": [
+        "what is skim",
+        "skim",
+        "explain skim",
+        "definition of skim",
+        "skim meaning",
+        "what does skim mean",
+        "how to skim an article",
+        "is skimming the same as reading fast",
+        "ano ang skim",
+        "unsa ang skim"
+      ],
+      "answer": "To skim is to read quickly to get the shape of a text rather than its content, and it is a real skill aimed at a real decision: whether this is worth an hour. What you look for is structure, so the first and last paragraphs, the headings, and the first sentence of each section, since writers put their claims there. Skimming badly means reading every line quickly, which is slower than reading properly and remembers less.",
+      "variations": [
+        "What you look for is structure, so the first and last paragraphs, the headings, and the first sentence of each section, since writers put their claims there. To skim is to read quickly to get the shape of a text rather than its content, and it is a real skill aimed at a real decision: whether this is worth an hour. Skimming badly means reading every line quickly, which is slower than reading properly and remembers less.",
+        "Skimming badly means reading every line quickly, which is slower than reading properly and remembers less. To skim is to read quickly to get the shape of a text rather than its content, and it is a real skill aimed at a real decision: whether this is worth an hour. What you look for is structure, so the first and last paragraphs, the headings, and the first sentence of each section, since writers put their claims there."
+      ],
+      "tl": "skim",
+      "bis": "skim"
+    },
+    {
+      "id": "stu-reading-000002",
+      "topic": "study-reading",
+      "intent": "definition",
+      "concept": "active reading",
+      "keywords": [
+        "active reading",
+        "question",
+        "annotate",
+        "summarise",
+        "gap",
+        "argument",
+        "active",
+        "reading",
+        "means",
+        "interacting",
+        "text",
+        "rather"
+      ],
+      "patterns": [
+        "what is active reading",
+        "active reading",
+        "explain active reading",
+        "definition of active reading",
+        "active reading meaning",
+        "how to read actively",
+        "should you highlight while reading",
+        "ano ang active reading",
+        "unsa ang active reading"
+      ],
+      "answer": "Active reading means interacting with the text rather than moving across it, and the three moves that matter are questioning, annotating and summarising. The questioning is the one people skip, and it is where the gaps are found: asking why the author said that before reading on is what exposes an argument you would otherwise have skimmed past. Annotating is only worth doing if the mark means something, since a dog-eared page is a record that you were there and nothing more.",
+      "variations": [
+        "The questioning is the one people skip, and it is where the gaps are found: asking why the author said that before reading on is what exposes an argument you would otherwise have skimmed past. Active reading means interacting with the text rather than moving across it, and the three moves that matter are questioning, annotating and summarising. Annotating is only worth doing if the mark means something, since a dog-eared page is a record that you were there and nothing more.",
+        "Annotating is only worth doing if the mark means something, since a dog-eared page is a record that you were there and nothing more. Active reading means interacting with the text rather than moving across it, and the three moves that matter are questioning, annotating and summarising. The questioning is the one people skip, and it is where the gaps are found: asking why the author said that before reading on is what exposes an argument you would otherwise have skimmed past."
+      ],
+      "tl": "active reading",
+      "bis": "active reading"
+    },
+    {
+      "id": "stu-reading-000003",
+      "topic": "study-reading",
+      "intent": "definition",
+      "concept": "reading speed",
+      "keywords": [
+        "reading speed",
+        "comprehension",
+        "argument",
+        "narrative",
+        "measure",
+        "trade",
+        "reading",
+        "speed",
+        "varies",
+        "several",
+        "fold",
+        "people"
+      ],
+      "patterns": [
+        "what is reading speed",
+        "reading speed",
+        "explain reading speed",
+        "definition of reading speed",
+        "reading speed meaning",
+        "what is a good reading speed",
+        "can you read too fast",
+        "is speed reading effective",
+        "ano ang reading speed",
+        "unsa ang reading speed"
+      ],
+      "answer": "Reading speed varies several-fold between people and, more usefully, between texts. A well-known argument at a familiar level is read slowly because it is being argued with, while a familiar narrative is read fast, so a single number says very little. The variable worth measuring is comprehension: speed gained at the cost of understanding is a loss, and this is why speed-reading courses that trade the first for the second tend to disappoint.",
+      "variations": [
+        "A well-known argument at a familiar level is read slowly because it is being argued with, while a familiar narrative is read fast, so a single number says very little. Reading speed varies several-fold between people and, more usefully, between texts. The variable worth measuring is comprehension: speed gained at the cost of understanding is a loss, and this is why speed-reading courses that trade the first for the second tend to disappoint.",
+        "The variable worth measuring is comprehension: speed gained at the cost of understanding is a loss, and this is why speed-reading courses that trade the first for the second tend to disappoint. Reading speed varies several-fold between people and, more usefully, between texts. A well-known argument at a familiar level is read slowly because it is being argued with, while a familiar narrative is read fast, so a single number says very little."
+      ],
+      "tl": "reading speed",
+      "bis": "reading speed"
+    },
+    {
+      "id": "stu-reading-000004",
+      "topic": "study-reading",
+      "intent": "definition",
+      "concept": "close reading",
+      "keywords": [
+        "close reading",
+        "passage",
+        "unsaid",
+        "notice",
+        "sentence",
+        "slow",
+        "close",
+        "reading",
+        "short",
+        "repeatedly",
+        "closely"
+      ],
+      "patterns": [
+        "what is close reading",
+        "close reading",
+        "explain close reading",
+        "definition of close reading",
+        "close reading meaning",
+        "how do you close read",
+        "is close reading useful for exams",
+        "ano ang close reading",
+        "unsa ang close reading"
+      ],
+      "answer": "Close reading is reading a short passage repeatedly and closely, and it exists because meaning in literature often sits in what is unsaid. The method is to notice specific words, to ask what the sentence does rather than what it says, and to hold several readings at once. It is slow by design and is the opposite of skimming, so it is used on a few pages rather than on a chapter, and it is a poor way to cover a textbook.",
+      "variations": [
+        "The method is to notice specific words, to ask what the sentence does rather than what it says, and to hold several readings at once. Close reading is reading a short passage repeatedly and closely, and it exists because meaning in literature often sits in what is unsaid. It is slow by design and is the opposite of skimming, so it is used on a few pages rather than on a chapter, and it is a poor way to cover a textbook.",
+        "It is slow by design and is the opposite of skimming, so it is used on a few pages rather than on a chapter, and it is a poor way to cover a textbook. Close reading is reading a short passage repeatedly and closely, and it exists because meaning in literature often sits in what is unsaid. The method is to notice specific words, to ask what the sentence does rather than what it says, and to hold several readings at once."
+      ],
+      "tl": "close reading",
+      "bis": "close reading"
+    },
+    {
+      "id": "stu-reading-000005",
+      "topic": "study-reading",
+      "intent": "definition",
+      "concept": "summary",
+      "keywords": [
+        "summary",
+        "compress",
+        "claim",
+        "structure",
+        "reconstruct",
+        "list",
+        "buod",
+        "compresses",
+        "text",
+        "main",
+        "supporting"
+      ],
+      "patterns": [
+        "what is summary",
+        "summary",
+        "explain summary",
+        "definition of summary",
+        "summary meaning",
+        "how to write a good summary",
+        "how long should a summary be",
+        "is summarising the first sentence enough",
+        "ano ang summary",
+        "unsa ang buod"
+      ],
+      "answer": "A summary compresses a text to its main claim and its supporting structure, and a good one can be three sentences while a bad one is three sentences of introduction. The test is whether somebody who has not read it could reconstruct the argument, and if the summary only lists sections then it has captured the order rather than the reasoning. Most people summarise by writing the first sentence of each paragraph, which is a reasonable approximation and misses the parts where the writer actually convinced themselves of something.",
+      "variations": [
+        "The test is whether somebody who has not read it could reconstruct the argument, and if the summary only lists sections then it has captured the order rather than the reasoning. A summary compresses a text to its main claim and its supporting structure, and a good one can be three sentences while a bad one is three sentences of introduction. Most people summarise by writing the first sentence of each paragraph, which is a reasonable approximation and misses the parts where the writer actually convinced themselves of something.",
+        "Most people summarise by writing the first sentence of each paragraph, which is a reasonable approximation and misses the parts where the writer actually convinced themselves of something. A summary compresses a text to its main claim and its supporting structure, and a good one can be three sentences while a bad one is three sentences of introduction. The test is whether somebody who has not read it could reconstruct the argument, and if the summary only lists sections then it has captured the order rather than the reasoning."
+      ],
+      "tl": "summary",
+      "bis": "buod"
+    }
+  ],
+  "lang": "english",
+  "group": "study",
+  "sub": "reading",
+  "title": "Reading",
+  "groupTitle": "Study"
+}

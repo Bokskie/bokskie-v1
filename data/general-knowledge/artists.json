@@ -1,0 +1,271 @@
+{
+  "topic": "general-knowledge-artists",
+  "entries": [
+    {
+      "id": "gen-artists-000001",
+      "topic": "general-knowledge-artists",
+      "intent": "definition",
+      "concept": "artist biography",
+      "keywords": [
+        "artist biography",
+        "biography",
+        "career",
+        "training",
+        "work",
+        "live",
+        "artist",
+        "record",
+        "trained"
+      ],
+      "patterns": [
+        "what is artist biography",
+        "artist biography",
+        "explain artist biography",
+        "definition of artist biography",
+        "artist biography meaning",
+        "how do i find out about an artist",
+        "tell me about this singer",
+        "do you know any celebrities",
+        "ano ang artist biography",
+        "unsa ang biography ng artista"
+      ],
+      "answer": "An artist biography is the record of a career: where somebody trained, what they made, what changed and when. I can explain the subject and how the field is put together, and I can be accurate about work that is finished and settled, but I cannot tell you what a living artist released this month or what a current chart says. There is no live source behind this bank, so a name typed on its own is likely to be one I do not have, and I will say so rather than describe somebody's work I have not got.",
+      "variations": [
+        "I can explain the subject and how the field is put together, and I can be accurate about work that is finished and settled, but I cannot tell you what a living artist released this month or what a current chart says. An artist biography is the record of a career: where somebody trained, what they made, what changed and when. There is no live source behind this bank, so a name typed on its own is likely to be one I do not have, and I will say so rather than describe somebody's work I have not got.",
+        "There is no live source behind this bank, so a name typed on its own is likely to be one I do not have, and I will say so rather than describe somebody's work I have not got. An artist biography is the record of a career: where somebody trained, what they made, what changed and when. I can explain the subject and how the field is put together, and I can be accurate about work that is finished and settled, but I cannot tell you what a living artist released this month or what a current chart says."
+      ],
+      "tl": "artist biography",
+      "bis": "biography ng artista"
+    },
+    {
+      "id": "gen-artists-000002",
+      "topic": "general-knowledge-artists",
+      "intent": "definition",
+      "concept": "artist",
+      "keywords": [
+        "artist",
+        "art",
+        "work",
+        "craft",
+        "function",
+        "judgement",
+        "artista",
+        "makes",
+        "judged",
+        "something"
+      ],
+      "patterns": [
+        "what is artist",
+        "artist",
+        "explain artist",
+        "definition of artist",
+        "artist meaning",
+        "what is an artist",
+        "is art a career",
+        "difference between art and craft",
+        "ano ang artist",
+        "unsa ang artista"
+      ],
+      "answer": "An artist is somebody who makes work judged by something other than its function, and the word covers visual art, music, performance and writing without separating them cleanly. What unites the uses is that the making and the reception are the point, rather than a building being erected or a problem being solved. It is also a word that flatters, since calling something an art rather than a craft implies judgement that may not be there.",
+      "variations": [
+        "What unites the uses is that the making and the reception are the point, rather than a building being erected or a problem being solved. An artist is somebody who makes work judged by something other than its function, and the word covers visual art, music, performance and writing without separating them cleanly. It is also a word that flatters, since calling something an art rather than a craft implies judgement that may not be there.",
+        "It is also a word that flatters, since calling something an art rather than a craft implies judgement that may not be there. An artist is somebody who makes work judged by something other than its function, and the word covers visual art, music, performance and writing without separating them cleanly. What unites the uses is that the making and the reception are the point, rather than a building being erected or a problem being solved."
+      ],
+      "tl": "artist",
+      "bis": "artista"
+    },
+    {
+      "id": "gen-artists-000003",
+      "topic": "general-knowledge-artists",
+      "intent": "definition",
+      "concept": "painting",
+      "keywords": [
+        "painting",
+        "pigment",
+        "surface",
+        "canvas",
+        "oil",
+        "age",
+        "pagpupainting",
+        "applied",
+        "oldest",
+        "surviving"
+      ],
+      "patterns": [
+        "what is painting",
+        "painting",
+        "explain painting",
+        "definition of painting",
+        "painting meaning",
+        "how does painting work",
+        "is oil paint better than acrylic",
+        "ano ang painting",
+        "unsa ang pagpupainting"
+      ],
+      "answer": "Painting is pigment applied to a surface, and the oldest surviving painted surfaces are cave walls thousands of years old, which shows the medium came first and the galleries came much later. Paint changes behaviour as it ages, which is why a painting is a record of materials as much as of decisions; oil keeps moving for centuries and continues to crack. Reproductions cannot fix that, since what is reproduced is an image rather than the substance, and that is the ongoing argument in museums.",
+      "variations": [
+        "Paint changes behaviour as it ages, which is why a painting is a record of materials as much as of decisions; oil keeps moving for centuries and continues to crack. Painting is pigment applied to a surface, and the oldest surviving painted surfaces are cave walls thousands of years old, which shows the medium came first and the galleries came much later. Reproductions cannot fix that, since what is reproduced is an image rather than the substance, and that is the ongoing argument in museums.",
+        "Reproductions cannot fix that, since what is reproduced is an image rather than the substance, and that is the ongoing argument in museums. Painting is pigment applied to a surface, and the oldest surviving painted surfaces are cave walls thousands of years old, which shows the medium came first and the galleries came much later. Paint changes behaviour as it ages, which is why a painting is a record of materials as much as of decisions; oil keeps moving for centuries and continues to crack."
+      ],
+      "tl": "painting",
+      "bis": "pagpupainting"
+    },
+    {
+      "id": "gen-artists-000004",
+      "topic": "general-knowledge-artists",
+      "intent": "definition",
+      "concept": "portrait",
+      "keywords": [
+        "portrait",
+        "sitter",
+        "likeness",
+        "face",
+        "representation",
+        "status",
+        "larawan",
+        "person",
+        "negotiation",
+        "rather",
+        "record"
+      ],
+      "patterns": [
+        "what is portrait",
+        "portrait",
+        "explain portrait",
+        "definition of portrait",
+        "portrait meaning",
+        "what is a portrait",
+        "is a portrait a likeness",
+        "why are portraits painted",
+        "ano ang portrait",
+        "unsa ang larawan"
+      ],
+      "answer": "A portrait is a representation of a person, and it is a negotiation rather than a record, since the sitter chooses how they are seen and the painter decides what to emphasise. A likeness and a good portrait are not the same goal: a likeness can be accurate and lifeless, and a good portrait tells you what the person is like. Photography changed the commercial half of the business almost completely, while the commissioned single portrait survives where status is the point.",
+      "variations": [
+        "A likeness and a good portrait are not the same goal: a likeness can be accurate and lifeless, and a good portrait tells you what the person is like. A portrait is a representation of a person, and it is a negotiation rather than a record, since the sitter chooses how they are seen and the painter decides what to emphasise. Photography changed the commercial half of the business almost completely, while the commissioned single portrait survives where status is the point.",
+        "Photography changed the commercial half of the business almost completely, while the commissioned single portrait survives where status is the point. A portrait is a representation of a person, and it is a negotiation rather than a record, since the sitter chooses how they are seen and the painter decides what to emphasise. A likeness and a good portrait are not the same goal: a likeness can be accurate and lifeless, and a good portrait tells you what the person is like."
+      ],
+      "tl": "portrait",
+      "bis": "larawan"
+    },
+    {
+      "id": "gen-artists-000005",
+      "topic": "general-knowledge-artists",
+      "intent": "definition",
+      "concept": "famous painter",
+      "keywords": [
+        "famous painter",
+        "artist",
+        "canvas",
+        "museum",
+        "patron",
+        "period",
+        "painters",
+        "named",
+        "ones",
+        "work",
+        "reproduced",
+        "enough"
+      ],
+      "patterns": [
+        "what is famous painter",
+        "famous painter",
+        "explain famous painter",
+        "definition of famous painter",
+        "famous painter meaning",
+        "who are the famous painters",
+        "why are some painters famous",
+        "is fame deserved",
+        "ano ang famous painter",
+        "unsa ang sikat na pintor"
+      ],
+      "answer": "The painters most often named are the ones whose work was reproduced enough to escape their own century, and that is a selection effect rather than a judgement of quality. The usual names cluster in a few periods because patrons funded them then, not because those centuries produced more talent. Most had ordinary lives and were unknown outside their city, and the canon was assembled much later by museums, dealers and textbooks.",
+      "variations": [
+        "The usual names cluster in a few periods because patrons funded them then, not because those centuries produced more talent. The painters most often named are the ones whose work was reproduced enough to escape their own century, and that is a selection effect rather than a judgement of quality. Most had ordinary lives and were unknown outside their city, and the canon was assembled much later by museums, dealers and textbooks.",
+        "Most had ordinary lives and were unknown outside their city, and the canon was assembled much later by museums, dealers and textbooks. The painters most often named are the ones whose work was reproduced enough to escape their own century, and that is a selection effect rather than a judgement of quality. The usual names cluster in a few periods because patrons funded them then, not because those centuries produced more talent."
+      ],
+      "tl": "famous painter",
+      "bis": "sikat na pintor"
+    },
+    {
+      "id": "gen-artists-000006",
+      "topic": "general-knowledge-artists",
+      "intent": "definition",
+      "concept": "musician",
+      "keywords": [
+        "musician",
+        "play",
+        "compose",
+        "performance",
+        "recording",
+        "audience",
+        "musikero",
+        "plays",
+        "composes",
+        "work",
+        "splits"
+      ],
+      "patterns": [
+        "what is musician",
+        "musician",
+        "explain musician",
+        "definition of musician",
+        "musician meaning",
+        "what is a musician",
+        "is being a musician a good career",
+        "do musicians make money",
+        "ano ang musician",
+        "unsa ang musikero"
+      ],
+      "answer": "A musician is somebody who plays or composes, and the work splits into performance and composition in ways that used to be one job and now are rarely. The economics differ too, since performing income is unreliable and peaks early while composing income arrives late and can continue for decades. The shift that mattered in the last century was the recording, which separated the audience from the room and made it possible to be paid repeatedly for the same hour.",
+      "variations": [
+        "The economics differ too, since performing income is unreliable and peaks early while composing income arrives late and can continue for decades. A musician is somebody who plays or composes, and the work splits into performance and composition in ways that used to be one job and now are rarely. The shift that mattered in the last century was the recording, which separated the audience from the room and made it possible to be paid repeatedly for the same hour.",
+        "The shift that mattered in the last century was the recording, which separated the audience from the room and made it possible to be paid repeatedly for the same hour. A musician is somebody who plays or composes, and the work splits into performance and composition in ways that used to be one job and now are rarely. The economics differ too, since performing income is unreliable and peaks early while composing income arrives late and can continue for decades."
+      ],
+      "tl": "musician",
+      "bis": "musikero"
+    },
+    {
+      "id": "gen-artists-000007",
+      "topic": "general-knowledge-artists",
+      "intent": "definition",
+      "concept": "stage name",
+      "keywords": [
+        "stage name",
+        "perform",
+        "name",
+        "search",
+        "product",
+        "privacy",
+        "stage",
+        "performs",
+        "chosen",
+        "earlier"
+      ],
+      "patterns": [
+        "what is stage name",
+        "stage name",
+        "explain stage name",
+        "definition of stage name",
+        "stage name meaning",
+        "what is a stage name",
+        "why do singers use stage names",
+        "is a stage name a pseudonym",
+        "ano ang stage name",
+        "unsa ang pangalan sa entablamen"
+      ],
+      "answer": "A stage name is the name somebody performs under, and it is chosen far more often now than earlier performers could afford to do, when it was expensive to be a stranger. The reasons are now partly practical, since a name that is easy to say, spell and search changes how much money the work finds. It is also a signal that the person is being treated as a product, which is what a performer is both willing and ambivalent about.",
+      "variations": [
+        "The reasons are now partly practical, since a name that is easy to say, spell and search changes how much money the work finds. A stage name is the name somebody performs under, and it is chosen far more often now than earlier performers could afford to do, when it was expensive to be a stranger. It is also a signal that the person is being treated as a product, which is what a performer is both willing and ambivalent about.",
+        "It is also a signal that the person is being treated as a product, which is what a performer is both willing and ambivalent about. A stage name is the name somebody performs under, and it is chosen far more often now than earlier performers could afford to do, when it was expensive to be a stranger. The reasons are now partly practical, since a name that is easy to say, spell and search changes how much money the work finds."
+      ],
+      "tl": "stage name",
+      "bis": "pangalan sa entablamen"
+    }
+  ],
+  "lang": "english",
+  "group": "general-knowledge",
+  "sub": "artists",
+  "title": "Artists",
+  "groupTitle": "General Knowledge"
+}

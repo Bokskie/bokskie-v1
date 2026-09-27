@@ -1,0 +1,222 @@
+{
+  "topic": "study-motivation",
+  "entries": [
+    {
+      "id": "stu-motivation-000001",
+      "topic": "study-motivation",
+      "intent": "definition",
+      "concept": "procrastination",
+      "keywords": [
+        "procrastination",
+        "delay",
+        "avoid",
+        "delaying",
+        "task",
+        "intend",
+        "primarily",
+        "time"
+      ],
+      "patterns": [
+        "what is procrastination",
+        "procrastination",
+        "explain procrastination",
+        "definition of procrastination",
+        "procrastination meaning",
+        "why do i procrastinate",
+        "how do i stop procrastinating",
+        "ano ang procrastination",
+        "unsa ang procrastination"
+      ],
+      "answer": "Procrastination is delaying a task you intend to do, and it is not primarily a time-management failure. The common cause is that the task gives immediate discomfort and no immediate reward, while avoidance gives immediate relief. That is why the hardest tasks get done last and the whole evening disappears. The workable counter is to lower the entry cost rather than to fight the feeling, so a two-minute start counts as having done it.",
+      "variations": [
+        "The common cause is that the task gives immediate discomfort and no immediate reward, while avoidance gives immediate relief. Procrastination is delaying a task you intend to do, and it is not primarily a time-management failure. That is why the hardest tasks get done last and the whole evening disappears. The workable counter is to lower the entry cost rather than to fight the feeling, so a two-minute start counts as having done it.",
+        "That is why the hardest tasks get done last and the whole evening disappears. Procrastination is delaying a task you intend to do, and it is not primarily a time-management failure. The common cause is that the task gives immediate discomfort and no immediate reward, while avoidance gives immediate relief. The workable counter is to lower the entry cost rather than to fight the feeling, so a two-minute start counts as having done it."
+      ],
+      "tl": "procrastination",
+      "bis": "procrastination"
+    },
+    {
+      "id": "stu-motivation-000002",
+      "topic": "study-motivation",
+      "intent": "definition",
+      "concept": "spaced repetition",
+      "keywords": [
+        "spaced repetition",
+        "memory",
+        "review",
+        "revision",
+        "interval",
+        "spaced",
+        "repetition",
+        "reviews",
+        "material",
+        "increasing",
+        "intervals"
+      ],
+      "patterns": [
+        "what is spaced repetition",
+        "spaced repetition",
+        "explain spaced repetition",
+        "definition of spaced repetition",
+        "spaced repetition meaning",
+        "how to revise for an exam",
+        "ano ang spaced repetition",
+        "unsa ang spaced repetition"
+      ],
+      "answer": "Spaced repetition reviews material at increasing intervals, timed so that each review happens just as you are about to forget it. It works because recall strengthens memory more than re-reading, and because the spacing is what forces the strengthening. Practically it means scheduling review for the next day, then three days, then a week, rather than reading everything the night before an exam.",
+      "variations": [
+        "It works because recall strengthens memory more than re-reading, and because the spacing is what forces the strengthening. Spaced repetition reviews material at increasing intervals, timed so that each review happens just as you are about to forget it. Practically it means scheduling review for the next day, then three days, then a week, rather than reading everything the night before an exam.",
+        "Practically it means scheduling review for the next day, then three days, then a week, rather than reading everything the night before an exam. Spaced repetition reviews material at increasing intervals, timed so that each review happens just as you are about to forget it. It works because recall strengthens memory more than re-reading, and because the spacing is what forces the strengthening."
+      ],
+      "tl": "spaced repetition",
+      "bis": "spaced repetition"
+    },
+    {
+      "id": "stu-motivation-000003",
+      "topic": "study-motivation",
+      "intent": "definition",
+      "concept": "pomodoro",
+      "keywords": [
+        "pomodoro",
+        "timer",
+        "focus",
+        "break",
+        "task",
+        "technique",
+        "simple",
+        "work"
+      ],
+      "patterns": [
+        "what is pomodoro",
+        "pomodoro",
+        "explain pomodoro",
+        "definition of pomodoro",
+        "pomodoro meaning",
+        "what is the pomodoro technique",
+        "how do i focus while studying",
+        "ano ang pomodoro",
+        "unsa ang pomodoro"
+      ],
+      "answer": "The Pomodoro technique is a simple timer: work on one task for twenty-five minutes, take five minutes off, and after four cycles take a longer break. The value is not the numbers but the fact that a large task becomes small enough to start, which is the step most people cannot take. It also produces a record of how long things actually take, which is usually more accurate than someone's guess.",
+      "variations": [
+        "The value is not the numbers but the fact that a large task becomes small enough to start, which is the step most people cannot take. The Pomodoro technique is a simple timer: work on one task for twenty-five minutes, take five minutes off, and after four cycles take a longer break. It also produces a record of how long things actually take, which is usually more accurate than someone's guess.",
+        "It also produces a record of how long things actually take, which is usually more accurate than someone's guess. The Pomodoro technique is a simple timer: work on one task for twenty-five minutes, take five minutes off, and after four cycles take a longer break. The value is not the numbers but the fact that a large task becomes small enough to start, which is the step most people cannot take."
+      ],
+      "tl": "pomodoro",
+      "bis": "pomodoro"
+    },
+    {
+      "id": "stu-motivation-000004",
+      "topic": "study-motivation",
+      "intent": "definition",
+      "concept": "active recall",
+      "keywords": [
+        "active recall",
+        "testing",
+        "flashcards",
+        "notes",
+        "revision",
+        "active",
+        "recall",
+        "means",
+        "yourself",
+        "rather"
+      ],
+      "patterns": [
+        "what is active recall",
+        "active recall",
+        "explain active recall",
+        "definition of active recall",
+        "active recall meaning",
+        "is rereading better than testing",
+        "ano ang active recall",
+        "unsa ang active recall"
+      ],
+      "answer": "Active recall means testing yourself rather than rereading, and it is consistently the highest-return study method. Rereading produces a feeling of familiarity that is easy to mistake for knowledge, and familiarity is not recall. Closing the notes and writing what you remember finds the gaps immediately, which is uncomfortable and is the point, because a gap found while studying is a gap found before the exam.",
+      "variations": [
+        "Rereading produces a feeling of familiarity that is easy to mistake for knowledge, and familiarity is not recall. Active recall means testing yourself rather than rereading, and it is consistently the highest-return study method. Closing the notes and writing what you remember finds the gaps immediately, which is uncomfortable and is the point, because a gap found while studying is a gap found before the exam.",
+        "Closing the notes and writing what you remember finds the gaps immediately, which is uncomfortable and is the point, because a gap found while studying is a gap found before the exam. Active recall means testing yourself rather than rereading, and it is consistently the highest-return study method. Rereading produces a feeling of familiarity that is easy to mistake for knowledge, and familiarity is not recall."
+      ],
+      "tl": "active recall",
+      "bis": "active recall"
+    },
+    {
+      "id": "stu-motivation-000005",
+      "topic": "study-motivation",
+      "intent": "definition",
+      "concept": "note taking",
+      "keywords": [
+        "note taking",
+        "notes",
+        "transcription",
+        "cornell",
+        "summary",
+        "study",
+        "note",
+        "taking",
+        "fails",
+        "becomes",
+        "copying"
+      ],
+      "patterns": [
+        "what is note taking",
+        "note taking",
+        "explain note taking",
+        "definition of note taking",
+        "note taking meaning",
+        "how should i take notes while studying",
+        "is copying notes useful",
+        "ano ang note taking",
+        "unsa ang note taking"
+      ],
+      "answer": "Note taking fails when it becomes transcription, because copying a paragraph feels productive and produces nothing retrievable later. The alternative is to write notes in your own words and in a form you can test from, so that a page of notes becomes a set of questions rather than a set of facts. Cornell-style splitting - cues on one side, notes on the other - exists for exactly this reason.",
+      "variations": [
+        "The alternative is to write notes in your own words and in a form you can test from, so that a page of notes becomes a set of questions rather than a set of facts. Note taking fails when it becomes transcription, because copying a paragraph feels productive and produces nothing retrievable later. Cornell-style splitting - cues on one side, notes on the other - exists for exactly this reason.",
+        "Cornell-style splitting - cues on one side, notes on the other - exists for exactly this reason. Note taking fails when it becomes transcription, because copying a paragraph feels productive and produces nothing retrievable later. The alternative is to write notes in your own words and in a form you can test from, so that a page of notes becomes a set of questions rather than a set of facts."
+      ],
+      "tl": "note taking",
+      "bis": "note taking"
+    },
+    {
+      "id": "stu-motivation-000006",
+      "topic": "study-motivation",
+      "intent": "definition",
+      "concept": "deep work",
+      "keywords": [
+        "deep work",
+        "focus",
+        "concentration",
+        "distraction",
+        "attention",
+        "interruption",
+        "deep",
+        "work",
+        "sustained",
+        "cognitively",
+        "demanding"
+      ],
+      "patterns": [
+        "what is deep work",
+        "deep work",
+        "explain deep work",
+        "definition of deep work",
+        "deep work meaning",
+        "how do i stop getting distracted",
+        "ano ang deep work",
+        "unsa ang deep work"
+      ],
+      "answer": "Deep work is sustained concentration on a cognitively demanding task while unproductive activity is out of reach. The reason it is rare is not laziness but that switching cost is low and every interruption has to be paid for twice, once to stop and again to restart. Batching communication rather than answering it continuously, and leaving a phone in another room, both work because they remove the choice rather than relying on willpower.",
+      "variations": [
+        "The reason it is rare is not laziness but that switching cost is low and every interruption has to be paid for twice, once to stop and again to restart. Deep work is sustained concentration on a cognitively demanding task while unproductive activity is out of reach. Batching communication rather than answering it continuously, and leaving a phone in another room, both work because they remove the choice rather than relying on willpower.",
+        "Batching communication rather than answering it continuously, and leaving a phone in another room, both work because they remove the choice rather than relying on willpower. Deep work is sustained concentration on a cognitively demanding task while unproductive activity is out of reach. The reason it is rare is not laziness but that switching cost is low and every interruption has to be paid for twice, once to stop and again to restart."
+      ],
+      "tl": "deep work",
+      "bis": "deep work"
+    }
+  ],
+  "lang": "english",
+  "group": "study",
+  "sub": "motivation",
+  "title": "Motivation",
+  "groupTitle": "Study"
+}

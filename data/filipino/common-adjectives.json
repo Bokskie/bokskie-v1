@@ -1,0 +1,275 @@
+{
+  "topic": "filipino-common-adjectives",
+  "entries": [
+    {
+      "id": "fil-common-adjectives-000001",
+      "topic": "filipino-common-adjectives",
+      "intent": "definition",
+      "concept": "mahal",
+      "keywords": [
+        "mahal",
+        "expensive",
+        "dear",
+        "love",
+        "costly",
+        "price",
+        "someone"
+      ],
+      "patterns": [
+        "what is mahal",
+        "mahal",
+        "explain mahal",
+        "definition of mahal",
+        "mahal meaning",
+        "what does mahal mean",
+        "is mahal expensive or love",
+        "ano ang mahal",
+        "unsa ang mahal"
+      ],
+      "answer": "Mahal means expensive or dear, and it is also how you say you love someone, depending on who you are talking to. The same word does both jobs, which is why context decides. A person is mahal, a price is mahal, and someone dear to you is also mahal.",
+      "variations": [
+        "The same word does both jobs, which is why context decides. Mahal means expensive or dear, and it is also how you say you love someone, depending on who you are talking to. A person is mahal, a price is mahal, and someone dear to you is also mahal.",
+        "A person is mahal, a price is mahal, and someone dear to you is also mahal. Mahal means expensive or dear, and it is also how you say you love someone, depending on who you are talking to. The same word does both jobs, which is why context decides."
+      ],
+      "tl": "mahal",
+      "bis": "mahal"
+    },
+    {
+      "id": "fil-common-adjectives-000002",
+      "topic": "filipino-common-adjectives",
+      "intent": "definition",
+      "concept": "mura",
+      "keywords": [
+        "mura",
+        "cheap",
+        "inexpensive",
+        "affordable",
+        "everyday",
+        "nearly",
+        "always"
+      ],
+      "patterns": [
+        "what is mura",
+        "mura",
+        "explain mura",
+        "definition of mura",
+        "mura meaning",
+        "what does mura mean",
+        "how do you say cheap in tagalog",
+        "ano ang mura",
+        "unsa ang mura"
+      ],
+      "answer": "Mura means cheap, and in everyday use it is nearly always about price rather than quality. Saying a thing is mura is not the same as saying it is bad, though sellers sometimes use it that way. Careful with the opposite, because mura can also mean gentle or soft in other contexts.",
+      "variations": [
+        "Saying a thing is mura is not the same as saying it is bad, though sellers sometimes use it that way. Mura means cheap, and in everyday use it is nearly always about price rather than quality. Careful with the opposite, because mura can also mean gentle or soft in other contexts.",
+        "Careful with the opposite, because mura can also mean gentle or soft in other contexts. Mura means cheap, and in everyday use it is nearly always about price rather than quality. Saying a thing is mura is not the same as saying it is bad, though sellers sometimes use it that way."
+      ],
+      "tl": "mura",
+      "bis": "mura"
+    },
+    {
+      "id": "fil-common-adjectives-000003",
+      "topic": "filipino-common-adjectives",
+      "intent": "definition",
+      "concept": "kulang",
+      "keywords": [
+        "kulang",
+        "lacking",
+        "insufficient",
+        "short",
+        "reach"
+      ],
+      "patterns": [
+        "what is kulang",
+        "kulang",
+        "explain kulang",
+        "definition of kulang",
+        "kulang meaning",
+        "what does kulang mean",
+        "what is the opposite of kulang",
+        "ano ang kulang",
+        "unsa ang kulang"
+      ],
+      "answer": "Kulang means lacking or insufficient, and it is the word you reach for when something is not enough. It applies to a budget that will not cover the bills, to sleep that was too short, and to a skill you have not built yet. Its opposite is sobra, which means excess rather than sufficiency, so saying hindi kulang is not quite the same as saying sobra.",
+      "variations": [
+        "It applies to a budget that will not cover the bills, to sleep that was too short, and to a skill you have not built yet. Kulang means lacking or insufficient, and it is the word you reach for when something is not enough. Its opposite is sobra, which means excess rather than sufficiency, so saying hindi kulang is not quite the same as saying sobra.",
+        "Its opposite is sobra, which means excess rather than sufficiency, so saying hindi kulang is not quite the same as saying sobra. Kulang means lacking or insufficient, and it is the word you reach for when something is not enough. It applies to a budget that will not cover the bills, to sleep that was too short, and to a skill you have not built yet."
+      ],
+      "tl": "kulang",
+      "bis": "kulang"
+    },
+    {
+      "id": "fil-common-adjectives-000004",
+      "topic": "filipino-common-adjectives",
+      "intent": "definition",
+      "concept": "sobra",
+      "keywords": [
+        "sobra",
+        "excess",
+        "extra",
+        "too",
+        "describes",
+        "having",
+        "needed"
+      ],
+      "patterns": [
+        "what is sobra",
+        "sobra",
+        "explain sobra",
+        "definition of sobra",
+        "sobra meaning",
+        "what does sobra mean",
+        "difference between sobra and kulang",
+        "ano ang sobra",
+        "unsa ang sobra"
+      ],
+      "answer": "Sobra means excess or too much, and it describes having more than is needed rather than having a lot. Too much sugar is sobra ang asin, and someone who is being unreasonable is sobra na. The paired word is kulang for not enough, and Filipino treats these as the two ends of the same scale.",
+      "variations": [
+        "Too much sugar is sobra ang asin, and someone who is being unreasonable is sobra na. Sobra means excess or too much, and it describes having more than is needed rather than having a lot. The paired word is kulang for not enough, and Filipino treats these as the two ends of the same scale.",
+        "The paired word is kulang for not enough, and Filipino treats these as the two ends of the same scale. Sobra means excess or too much, and it describes having more than is needed rather than having a lot. Too much sugar is sobra ang asin, and someone who is being unreasonable is sobra na."
+      ],
+      "tl": "sobra",
+      "bis": "sobra"
+    },
+    {
+      "id": "fil-common-adjectives-000005",
+      "topic": "filipino-common-adjectives",
+      "intent": "definition",
+      "concept": "maganda",
+      "keywords": [
+        "maganda",
+        "good",
+        "nice",
+        "beautiful",
+        "quality",
+        "maayo",
+        "covers"
+      ],
+      "patterns": [
+        "what is maganda",
+        "maganda",
+        "explain maganda",
+        "definition of maganda",
+        "maganda meaning",
+        "what does maganda mean",
+        "how do you say good in tagalog",
+        "ano ang maganda",
+        "unsa ang maayo"
+      ],
+      "answer": "Maganda means good, nice or beautiful, and it covers all three because Filipino does not separate them the way English does. It describes weather, food, a person and an idea without changing form. The opposite is hindi maganda or masama for something bad, and note that masama is stronger, closer to evil or serious.",
+      "variations": [
+        "It describes weather, food, a person and an idea without changing form. Maganda means good, nice or beautiful, and it covers all three because Filipino does not separate them the way English does. The opposite is hindi maganda or masama for something bad, and note that masama is stronger, closer to evil or serious.",
+        "The opposite is hindi maganda or masama for something bad, and note that masama is stronger, closer to evil or serious. Maganda means good, nice or beautiful, and it covers all three because Filipino does not separate them the way English does. It describes weather, food, a person and an idea without changing form."
+      ],
+      "tl": "maganda",
+      "bis": "maayo"
+    },
+    {
+      "id": "fil-common-adjectives-000006",
+      "topic": "filipino-common-adjectives",
+      "intent": "definition",
+      "concept": "masama",
+      "keywords": [
+        "masama",
+        "bad",
+        "evil",
+        "wrong",
+        "serious",
+        "sayop",
+        "strong",
+        "leans"
+      ],
+      "patterns": [
+        "what is masama",
+        "masama",
+        "explain masama",
+        "definition of masama",
+        "masama meaning",
+        "what does masama mean",
+        "how do you say bad in tagalog",
+        "ano ang masama",
+        "unsa ang sayop"
+      ],
+      "answer": "Masama means bad or wrong, and it is a strong word that leans towards evil or serious rather than a mild negative. A small mistake is hindi maganda rather than masama. It is also the word used for a person behaving badly, so describing someone as masama carries real judgement rather than a description.",
+      "variations": [
+        "A small mistake is hindi maganda rather than masama. Masama means bad or wrong, and it is a strong word that leans towards evil or serious rather than a mild negative. It is also the word used for a person behaving badly, so describing someone as masama carries real judgement rather than a description.",
+        "It is also the word used for a person behaving badly, so describing someone as masama carries real judgement rather than a description. Masama means bad or wrong, and it is a strong word that leans towards evil or serious rather than a mild negative. A small mistake is hindi maganda rather than masama."
+      ],
+      "tl": "masama",
+      "bis": "sayop"
+    },
+    {
+      "id": "fil-common-adjectives-000007",
+      "topic": "filipino-common-adjectives",
+      "intent": "definition",
+      "concept": "malaki",
+      "keywords": [
+        "malaki",
+        "big",
+        "large",
+        "size",
+        "plenty",
+        "dako",
+        "physical",
+        "quantities"
+      ],
+      "patterns": [
+        "what is malaki",
+        "malaki",
+        "explain malaki",
+        "definition of malaki",
+        "malaki meaning",
+        "what does malaki mean",
+        "how do you say big in tagalog",
+        "ano ang malaki",
+        "unsa ang dako"
+      ],
+      "answer": "Malaki means big or large, and it is used for physical size, for quantities and for importance. A big favour is malaki ang tulong, and a large city is malaki ang lungsod. The opposite is maliit, and the same word also means a lot, so malaking pabor is both a big and a great favour.",
+      "variations": [
+        "A big favour is malaki ang tulong, and a large city is malaki ang lungsod. Malaki means big or large, and it is used for physical size, for quantities and for importance. The opposite is maliit, and the same word also means a lot, so malaking pabor is both a big and a great favour.",
+        "The opposite is maliit, and the same word also means a lot, so malaking pabor is both a big and a great favour. Malaki means big or large, and it is used for physical size, for quantities and for importance. A big favour is malaki ang tulong, and a large city is malaki ang lungsod."
+      ],
+      "tl": "malaki",
+      "bis": "dako"
+    },
+    {
+      "id": "fil-common-adjectives-000008",
+      "topic": "filipino-common-adjectives",
+      "intent": "definition",
+      "concept": "maliit",
+      "keywords": [
+        "maliit",
+        "small",
+        "little",
+        "size",
+        "minor",
+        "gamay",
+        "everyday",
+        "physical"
+      ],
+      "patterns": [
+        "what is maliit",
+        "maliit",
+        "explain maliit",
+        "definition of maliit",
+        "maliit meaning",
+        "what does maliit mean",
+        "how do you say small in tagalog",
+        "ano ang maliit",
+        "unsa ang gamay"
+      ],
+      "answer": "Maliit means small, and it is the everyday word for physical size and for quantity. It is the direct opposite of malaki, and unlike some size words in English it has no second meaning, so it cannot be misread in a sentence. Maliit na lang means only small, which is often a way of minimising something.",
+      "variations": [
+        "It is the direct opposite of malaki, and unlike some size words in English it has no second meaning, so it cannot be misread in a sentence. Maliit means small, and it is the everyday word for physical size and for quantity. Maliit na lang means only small, which is often a way of minimising something.",
+        "Maliit na lang means only small, which is often a way of minimising something. Maliit means small, and it is the everyday word for physical size and for quantity. It is the direct opposite of malaki, and unlike some size words in English it has no second meaning, so it cannot be misread in a sentence."
+      ],
+      "tl": "maliit",
+      "bis": "gamay"
+    }
+  ],
+  "lang": "tagalog",
+  "group": "filipino",
+  "sub": "common-adjectives",
+  "title": "Common adjectives",
+  "groupTitle": "Filipino"
+}

@@ -1,0 +1,252 @@
+{
+  "topic": "programming-css",
+  "entries": [
+    {
+      "id": "pro-css-000001",
+      "topic": "programming-css",
+      "intent": "definition",
+      "concept": "css",
+      "keywords": [
+        "css",
+        "stylesheet",
+        "style",
+        "cascade",
+        "language",
+        "controls",
+        "page",
+        "looks",
+        "colour",
+        "spacing"
+      ],
+      "patterns": [
+        "what is css",
+        "css",
+        "explain css",
+        "definition of css",
+        "css meaning"
+      ],
+      "answer": "CSS is the language that controls how a page looks: colour, spacing, font, size, and layout. It is called a cascading style sheet because rules cascade - the most specific rule wins when several target the same element. HTML says what a thing is, CSS decides what it looks like.",
+      "variations": [
+        "It is called a cascading style sheet because rules cascade - the most specific rule wins when several target the same element. CSS is the language that controls how a page looks: colour, spacing, font, size, and layout. HTML says what a thing is, CSS decides what it looks like.",
+        "HTML says what a thing is, CSS decides what it looks like. CSS is the language that controls how a page looks: colour, spacing, font, size, and layout. It is called a cascading style sheet because rules cascade - the most specific rule wins when several target the same element."
+      ]
+    },
+    {
+      "id": "pro-css-000002",
+      "topic": "programming-css",
+      "intent": "definition",
+      "concept": "responsive design",
+      "keywords": [
+        "responsive design",
+        "responsive",
+        "breakpoint",
+        "viewport",
+        "layout",
+        "design",
+        "adapts",
+        "rather"
+      ],
+      "patterns": [
+        "what is responsive design",
+        "responsive design",
+        "explain responsive design",
+        "definition of responsive design",
+        "responsive design meaning",
+        "what is mobile first",
+        "how many breakpoints should i use",
+        "ano ang responsive",
+        "unsa ang responsive"
+      ],
+      "answer": "Responsive design is a layout that adapts to the viewport rather than one fixed size that happens to fit. The modern way is mobile-first: write the single-column layout as the base and add breakpoints upward as space appears, because the narrow case is the hardest and the widest can only improve on it. Two content-driven breakpoints beat a set of device widths, because the layout should break where the content stops fitting rather than where a phone happens to end.",
+      "variations": [
+        "The modern way is mobile-first: write the single-column layout as the base and add breakpoints upward as space appears, because the narrow case is the hardest and the widest can only improve on it. Responsive design is a layout that adapts to the viewport rather than one fixed size that happens to fit. Two content-driven breakpoints beat a set of device widths, because the layout should break where the content stops fitting rather than where a phone happens to end.",
+        "Two content-driven breakpoints beat a set of device widths, because the layout should break where the content stops fitting rather than where a phone happens to end. Responsive design is a layout that adapts to the viewport rather than one fixed size that happens to fit. The modern way is mobile-first: write the single-column layout as the base and add breakpoints upward as space appears, because the narrow case is the hardest and the widest can only improve on it."
+      ],
+      "tl": "responsive",
+      "bis": "responsive"
+    },
+    {
+      "id": "pro-css-000003",
+      "topic": "programming-css",
+      "intent": "definition",
+      "concept": "media query",
+      "keywords": [
+        "media query",
+        "breakpoint",
+        "css",
+        "media",
+        "query",
+        "applies",
+        "condition",
+        "environment",
+        "true"
+      ],
+      "patterns": [
+        "what is media query",
+        "media query",
+        "explain media query",
+        "definition of media query",
+        "media query meaning",
+        "what is a media query",
+        "how do I write a max width query",
+        "what is @supports",
+        "ano ang media query",
+        "unsa ang media query"
+      ],
+      "answer": "A media query applies CSS only when a condition about the environment is true, most often a viewport width, and it is the mechanism behind every responsive layout. The modern range syntax reads as intent rather than arithmetic, so a condition between two values states the band directly instead of computing min-width minus one pixel, which is where the old off-by-one hacks came from. Feature queries test for support of a property rather than for a device, which is a more honest test.",
+      "variations": [
+        "The modern range syntax reads as intent rather than arithmetic, so a condition between two values states the band directly instead of computing min-width minus one pixel, which is where the old off-by-one hacks came from. A media query applies CSS only when a condition about the environment is true, most often a viewport width, and it is the mechanism behind every responsive layout. Feature queries test for support of a property rather than for a device, which is a more honest test.",
+        "Feature queries test for support of a property rather than for a device, which is a more honest test. A media query applies CSS only when a condition about the environment is true, most often a viewport width, and it is the mechanism behind every responsive layout. The modern range syntax reads as intent rather than arithmetic, so a condition between two values states the band directly instead of computing min-width minus one pixel, which is where the old off-by-one hacks came from."
+      ],
+      "tl": "media query",
+      "bis": "media query"
+    },
+    {
+      "id": "pro-css-000004",
+      "topic": "programming-css",
+      "intent": "definition",
+      "concept": "css specificity",
+      "keywords": [
+        "css specificity",
+        "specificity",
+        "cascade",
+        "important",
+        "selector",
+        "override",
+        "decides",
+        "wins",
+        "declarations",
+        "target"
+      ],
+      "patterns": [
+        "what is css specificity",
+        "css specificity",
+        "explain css specificity",
+        "definition of css specificity",
+        "css specificity meaning",
+        "why is my css not applying",
+        "what does important do",
+        "ano ang specificity",
+        "unsa ang specificity"
+      ],
+      "answer": "Specificity decides which selector wins when two declarations target the same element, and it is compared as a three-column number: ids, then classes and attributes and pseudo-classes, then elements and pseudo-elements. A single id outranks any number of classes, which is why selectors built from ids cannot be overridden without important, and why nested CSS is usually the better route. The rule is worth understanding rather than memorising, because every time the answer is important the real problem is a selector that was too strong.",
+      "variations": [
+        "A single id outranks any number of classes, which is why selectors built from ids cannot be overridden without important, and why nested CSS is usually the better route. Specificity decides which selector wins when two declarations target the same element, and it is compared as a three-column number: ids, then classes and attributes and pseudo-classes, then elements and pseudo-elements. The rule is worth understanding rather than memorising, because every time the answer is important the real problem is a selector that was too strong.",
+        "The rule is worth understanding rather than memorising, because every time the answer is important the real problem is a selector that was too strong. Specificity decides which selector wins when two declarations target the same element, and it is compared as a three-column number: ids, then classes and attributes and pseudo-classes, then elements and pseudo-elements. A single id outranks any number of classes, which is why selectors built from ids cannot be overridden without important, and why nested CSS is usually the better route."
+      ],
+      "tl": "specificity",
+      "bis": "specificity"
+    },
+    {
+      "id": "pro-css-000005",
+      "topic": "programming-css",
+      "intent": "definition",
+      "concept": "flexbox",
+      "keywords": [
+        "flexbox",
+        "flex",
+        "layout",
+        "lays",
+        "along",
+        "axis",
+        "right",
+        "tool"
+      ],
+      "patterns": [
+        "what is flexbox",
+        "flexbox",
+        "explain flexbox",
+        "definition of flexbox",
+        "flexbox meaning",
+        "flex vs grid",
+        "how do i center with flexbox",
+        "ano ang flexbox",
+        "unsa ang flexbox"
+      ],
+      "answer": "Flexbox lays out along one axis and is the right tool for a row or a column of things: a toolbar, a nav bar, a list of cards, a centred dialog. The three properties that matter most are the direction on the container, how leftover space is distributed by justify-content, and how items are sized on the cross axis by align-items. The reason it replaced float and inline-block hacks is that it was designed for this, so the result is a fraction of the markup and none of the clearing.",
+      "variations": [
+        "The three properties that matter most are the direction on the container, how leftover space is distributed by justify-content, and how items are sized on the cross axis by align-items. Flexbox lays out along one axis and is the right tool for a row or a column of things: a toolbar, a nav bar, a list of cards, a centred dialog. The reason it replaced float and inline-block hacks is that it was designed for this, so the result is a fraction of the markup and none of the clearing.",
+        "The reason it replaced float and inline-block hacks is that it was designed for this, so the result is a fraction of the markup and none of the clearing. Flexbox lays out along one axis and is the right tool for a row or a column of things: a toolbar, a nav bar, a list of cards, a centred dialog. The three properties that matter most are the direction on the container, how leftover space is distributed by justify-content, and how items are sized on the cross axis by align-items."
+      ],
+      "tl": "flexbox",
+      "bis": "flexbox"
+    },
+    {
+      "id": "pro-css-000006",
+      "topic": "programming-css",
+      "intent": "definition",
+      "concept": "css grid",
+      "keywords": [
+        "css grid",
+        "grid",
+        "gap",
+        "layout",
+        "lays",
+        "dimensions",
+        "once",
+        "makes",
+        "right"
+      ],
+      "patterns": [
+        "what is css grid",
+        "css grid",
+        "explain css grid",
+        "definition of css grid",
+        "css grid meaning",
+        "grid vs flexbox when to use which",
+        "how do i make a card grid",
+        "ano ang grid",
+        "unsa ang grid"
+      ],
+      "answer": "CSS Grid lays out in two dimensions at once, which makes it the right tool for a page shell, a card grid, or a form whose labels and fields must line up in columns. Tracks are defined with grid-template-columns and rows with grid-template-rows, and the gap property sets the space between tracks so no margin is needed. Grid areas let a whole layout be described by name in one rule, which is why page-level layout is now mostly grid while components are mostly flexbox.",
+      "variations": [
+        "Tracks are defined with grid-template-columns and rows with grid-template-rows, and the gap property sets the space between tracks so no margin is needed. CSS Grid lays out in two dimensions at once, which makes it the right tool for a page shell, a card grid, or a form whose labels and fields must line up in columns. Grid areas let a whole layout be described by name in one rule, which is why page-level layout is now mostly grid while components are mostly flexbox.",
+        "Grid areas let a whole layout be described by name in one rule, which is why page-level layout is now mostly grid while components are mostly flexbox. CSS Grid lays out in two dimensions at once, which makes it the right tool for a page shell, a card grid, or a form whose labels and fields must line up in columns. Tracks are defined with grid-template-columns and rows with grid-template-rows, and the gap property sets the space between tracks so no margin is needed."
+      ],
+      "tl": "grid",
+      "bis": "grid"
+    },
+    {
+      "id": "pro-css-000007",
+      "topic": "programming-css",
+      "intent": "definition",
+      "concept": "box model",
+      "keywords": [
+        "box model",
+        "padding",
+        "margin",
+        "border",
+        "sizing",
+        "model",
+        "describes",
+        "every",
+        "element",
+        "content"
+      ],
+      "patterns": [
+        "what is box model",
+        "box model",
+        "explain box model",
+        "definition of box model",
+        "box model meaning",
+        "what is the box model",
+        "why is my element too wide",
+        "what does box sizing border box do",
+        "ano ang box model",
+        "unsa ang box model"
+      ],
+      "answer": "The CSS box model describes every element as content, then padding around it, then border, then margin outside it, and content-box sizing means width applies only to the content. That is the single most common source of surprise, because an element declared fully wide with padding overflows its container. The fix is box-sizing set to border-box, which makes width include padding and border, and it is worth applying to everything once at the top of a stylesheet.",
+      "variations": [
+        "That is the single most common source of surprise, because an element declared fully wide with padding overflows its container. The CSS box model describes every element as content, then padding around it, then border, then margin outside it, and content-box sizing means width applies only to the content. The fix is box-sizing set to border-box, which makes width include padding and border, and it is worth applying to everything once at the top of a stylesheet.",
+        "The fix is box-sizing set to border-box, which makes width include padding and border, and it is worth applying to everything once at the top of a stylesheet. The CSS box model describes every element as content, then padding around it, then border, then margin outside it, and content-box sizing means width applies only to the content. That is the single most common source of surprise, because an element declared fully wide with padding overflows its container."
+      ],
+      "tl": "box model",
+      "bis": "box model"
+    }
+  ],
+  "lang": "english",
+  "group": "programming",
+  "sub": "css",
+  "title": "CSS",
+  "groupTitle": "Programming"
+}

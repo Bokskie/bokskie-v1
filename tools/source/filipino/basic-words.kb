@@ -1,0 +1,5 @@
+# filipino-basic-words.kb - Filipino / Basic words
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 2 entries, one genuinely distinct fact per line.
+hindi | definition | Hindi means no or not, and it is the negative word. It goes directly before the verb, so hindi kita gusto means I do not like you, with no separate do not needed. This makes negation shorter than English in one sense and trickier in another, because the position of the word changes what exactly it negates. | no, not, hindi, negative, negation | what does hindi mean, how do you say no in tagalog | hindi | dili
+oo | definition | Oo means yes, and it is the ordinary affirmative. In Filipino there is also a third answer, which is a polite or uncertain yes that acknowledges the other person without fully agreeing, and mistaking it for a plain yes is a classic misunderstanding. Oo is the direct answer, with or without po. | yes, oo, affirmative, agree | what does oo mean, how do you say yes in tagalog | oo | oo

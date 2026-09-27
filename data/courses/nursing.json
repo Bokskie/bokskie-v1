@@ -1,0 +1,163 @@
+{
+  "topic": "courses-nursing",
+  "entries": [
+    {
+      "id": "cou-nursing-000001",
+      "topic": "courses-nursing",
+      "intent": "definition",
+      "concept": "nursing",
+      "keywords": [
+        "nursing",
+        "nurse",
+        "residency",
+        "ward",
+        "patient",
+        "shift",
+        "care",
+        "hospital",
+        "staff",
+        "people",
+        "injured",
+        "unable",
+        "themselves"
+      ],
+      "patterns": [
+        "what is nursing",
+        "nursing",
+        "explain nursing",
+        "definition of nursing",
+        "nursing meaning",
+        "is nursing a good career",
+        "why is nurse staffing important",
+        "ano ang nursing",
+        "unsa ang nursing"
+      ],
+      "answer": "Nursing is the care of people who are ill, injured or unable to care for themselves, and it is defined by judgement under pressure rather than by procedures. A nurse assesses, decides, acts and then reassesses, and the reassessment is what distinguishes the job from following a list. It is also the profession with the most direct patient contact, which makes it the hardest to do well and the easiest to understaff, and staffing ratios are the main thing evidence links to patient harm.",
+      "variations": [
+        "A nurse assesses, decides, acts and then reassesses, and the reassessment is what distinguishes the job from following a list. Nursing is the care of people who are ill, injured or unable to care for themselves, and it is defined by judgement under pressure rather than by procedures. It is also the profession with the most direct patient contact, which makes it the hardest to do well and the easiest to understaff, and staffing ratios are the main thing evidence links to patient harm.",
+        "It is also the profession with the most direct patient contact, which makes it the hardest to do well and the easiest to understaff, and staffing ratios are the main thing evidence links to patient harm. Nursing is the care of people who are ill, injured or unable to care for themselves, and it is defined by judgement under pressure rather than by procedures. A nurse assesses, decides, acts and then reassesses, and the reassessment is what distinguishes the job from following a list."
+      ],
+      "tl": "nursing",
+      "bis": "nursing"
+    },
+    {
+      "id": "cou-nursing-000002",
+      "topic": "courses-nursing",
+      "intent": "definition",
+      "concept": "nursing school",
+      "keywords": [
+        "nursing school",
+        "training",
+        "bachelor",
+        "clinical",
+        "laboratory",
+        "placement",
+        "nursing",
+        "school",
+        "happens",
+        "qualification",
+        "produces"
+      ],
+      "patterns": [
+        "what is nursing school",
+        "nursing school",
+        "explain nursing school",
+        "definition of nursing school",
+        "nursing school meaning",
+        "how long is nursing",
+        "is nursing school hard",
+        "ano ang nursing school",
+        "unsa ang paaralan ng nursing"
+      ],
+      "answer": "A nursing school is where the training happens, and the qualification it produces is what entitles somebody to work as a nurse. In the Philippines the usual route is a four-year bachelor of science in nursing, and it is a demanding course with laboratory and clinical hours built into every year rather than added at the end. The clinical placement is the part that reveals whether somebody can actually do the job, and it is graded on performance with a real supervisor rather than on coursework alone.",
+      "variations": [
+        "In the Philippines the usual route is a four-year bachelor of science in nursing, and it is a demanding course with laboratory and clinical hours built into every year rather than added at the end. A nursing school is where the training happens, and the qualification it produces is what entitles somebody to work as a nurse. The clinical placement is the part that reveals whether somebody can actually do the job, and it is graded on performance with a real supervisor rather than on coursework alone.",
+        "The clinical placement is the part that reveals whether somebody can actually do the job, and it is graded on performance with a real supervisor rather than on coursework alone. A nursing school is where the training happens, and the qualification it produces is what entitles somebody to work as a nurse. In the Philippines the usual route is a four-year bachelor of science in nursing, and it is a demanding course with laboratory and clinical hours built into every year rather than added at the end."
+      ],
+      "tl": "nursing school",
+      "bis": "paaralan ng nursing"
+    },
+    {
+      "id": "cou-nursing-000003",
+      "topic": "courses-nursing",
+      "intent": "definition",
+      "concept": "shift work",
+      "keywords": [
+        "shift work",
+        "shift",
+        "handover",
+        "night",
+        "block",
+        "fatigue",
+        "staff",
+        "work",
+        "nursing",
+        "organised",
+        "somebody",
+        "always"
+      ],
+      "patterns": [
+        "what is shift work",
+        "shift work",
+        "explain shift work",
+        "definition of shift work",
+        "shift work meaning",
+        "what is shift work in nursing",
+        "how many shifts do nurses work",
+        "is night shift hard",
+        "ano ang shift work",
+        "unsa ang shift work"
+      ],
+      "answer": "Shift work is nursing organised so that somebody is always present, typically in three daily blocks covering the full 24 hours. The handover between shifts is the risk point, since the outgoing nurse compresses a complex picture into a short conversation. Night shift is the hardest to staff and the most affected by fatigue, because the body clock resists the change and mistakes at night carry the same consequences as mistakes by day.",
+      "variations": [
+        "The handover between shifts is the risk point, since the outgoing nurse compresses a complex picture into a short conversation. Shift work is nursing organised so that somebody is always present, typically in three daily blocks covering the full 24 hours. Night shift is the hardest to staff and the most affected by fatigue, because the body clock resists the change and mistakes at night carry the same consequences as mistakes by day.",
+        "Night shift is the hardest to staff and the most affected by fatigue, because the body clock resists the change and mistakes at night carry the same consequences as mistakes by day. Shift work is nursing organised so that somebody is always present, typically in three daily blocks covering the full 24 hours. The handover between shifts is the risk point, since the outgoing nurse compresses a complex picture into a short conversation."
+      ],
+      "tl": "shift work",
+      "bis": "shift work"
+    },
+    {
+      "id": "cou-nursing-000004",
+      "topic": "courses-nursing",
+      "intent": "definition",
+      "concept": "nurse practitioner",
+      "keywords": [
+        "nurse practitioner",
+        "prescribe",
+        "diagnose",
+        "scope",
+        "refer",
+        "capacity",
+        "nurse",
+        "practitioner",
+        "additional",
+        "training",
+        "permitted"
+      ],
+      "patterns": [
+        "what is nurse practitioner",
+        "nurse practitioner",
+        "explain nurse practitioner",
+        "definition of nurse practitioner",
+        "nurse practitioner meaning",
+        "what is a nurse practitioner",
+        "is np the same as a doctor",
+        "can a nurse practitioner prescribe",
+        "ano ang nurse practitioner",
+        "unsa ang nurse practitioner"
+      ],
+      "answer": "A nurse practitioner is a nurse with additional training permitted to diagnose, treat and prescribe within a defined scope, and the role exists because there is not enough doctor capacity for the demand. It is a different job from a nurse's rather than a promotion within one, since the core skill is making decisions that a registered nurse would refer. Countries differ sharply on whether the title exists and what it allows, so the specific rules matter more than the idea.",
+      "variations": [
+        "It is a different job from a nurse's rather than a promotion within one, since the core skill is making decisions that a registered nurse would refer. A nurse practitioner is a nurse with additional training permitted to diagnose, treat and prescribe within a defined scope, and the role exists because there is not enough doctor capacity for the demand. Countries differ sharply on whether the title exists and what it allows, so the specific rules matter more than the idea.",
+        "Countries differ sharply on whether the title exists and what it allows, so the specific rules matter more than the idea. A nurse practitioner is a nurse with additional training permitted to diagnose, treat and prescribe within a defined scope, and the role exists because there is not enough doctor capacity for the demand. It is a different job from a nurse's rather than a promotion within one, since the core skill is making decisions that a registered nurse would refer."
+      ],
+      "tl": "nurse practitioner",
+      "bis": "nurse practitioner"
+    }
+  ],
+  "lang": "english",
+  "group": "courses",
+  "sub": "nursing",
+  "title": "Nursing",
+  "groupTitle": "Courses"
+}

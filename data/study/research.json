@@ -1,0 +1,195 @@
+{
+  "topic": "study-research",
+  "entries": [
+    {
+      "id": "stu-research-000001",
+      "topic": "study-research",
+      "intent": "definition",
+      "concept": "hypothesis",
+      "keywords": [
+        "hypothesis",
+        "testable",
+        "falsify",
+        "null",
+        "evidence",
+        "propose",
+        "proposed",
+        "answer",
+        "word",
+        "carries"
+      ],
+      "patterns": [
+        "what is hypothesis",
+        "hypothesis",
+        "explain hypothesis",
+        "definition of hypothesis",
+        "hypothesis meaning",
+        "what is a hypothesis",
+        "is a hypothesis the same as a theory",
+        "what is a null hypothesis",
+        "ano ang hypothesis",
+        "unsa ang hypothesis"
+      ],
+      "answer": "A hypothesis is a testable proposed answer, and the word carries the requirement that evidence could count against it. A statement that cannot be falsified is not a weak hypothesis, it is not one, which is the most common way first research goes wrong. The useful discipline is to write the null alongside it, and the surprising part is how often people cannot state the null, which means they have not thought about what would show them to be wrong.",
+      "variations": [
+        "A statement that cannot be falsified is not a weak hypothesis, it is not one, which is the most common way first research goes wrong. A hypothesis is a testable proposed answer, and the word carries the requirement that evidence could count against it. The useful discipline is to write the null alongside it, and the surprising part is how often people cannot state the null, which means they have not thought about what would show them to be wrong.",
+        "The useful discipline is to write the null alongside it, and the surprising part is how often people cannot state the null, which means they have not thought about what would show them to be wrong. A hypothesis is a testable proposed answer, and the word carries the requirement that evidence could count against it. A statement that cannot be falsified is not a weak hypothesis, it is not one, which is the most common way first research goes wrong."
+      ],
+      "tl": "hypothesis",
+      "bis": "hypothesis"
+    },
+    {
+      "id": "stu-research-000002",
+      "topic": "study-research",
+      "intent": "definition",
+      "concept": "peer review",
+      "keywords": [
+        "peer review",
+        "assess",
+        "author",
+        "control",
+        "method",
+        "incomplete",
+        "peer",
+        "review",
+        "assessment",
+        "research",
+        "others",
+        "field"
+      ],
+      "patterns": [
+        "what is peer review",
+        "peer review",
+        "explain peer review",
+        "definition of peer review",
+        "peer review meaning",
+        "why is peer review important",
+        "what are the limits of peer review",
+        "ano ang peer review",
+        "unsa ang peer review"
+      ],
+      "answer": "Peer review is assessment of research by others in the same field who are not the author, and it is the main quality control on published work. What it reliably catches is error, bad method and unsupported claims; what it does not catch is a well-executed study of an uninteresting question. It is also incomplete as a system: review is usually done by a small number of people, sometimes by someone whose own work is being reviewed, and it checks the argument rather than the honesty of the data.",
+      "variations": [
+        "What it reliably catches is error, bad method and unsupported claims; what it does not catch is a well-executed study of an uninteresting question. Peer review is assessment of research by others in the same field who are not the author, and it is the main quality control on published work. It is also incomplete as a system: review is usually done by a small number of people, sometimes by someone whose own work is being reviewed, and it checks the argument rather than the honesty of the data.",
+        "It is also incomplete as a system: review is usually done by a small number of people, sometimes by someone whose own work is being reviewed, and it checks the argument rather than the honesty of the data. Peer review is assessment of research by others in the same field who are not the author, and it is the main quality control on published work. What it reliably catches is error, bad method and unsupported claims; what it does not catch is a well-executed study of an uninteresting question."
+      ],
+      "tl": "peer review",
+      "bis": "peer review"
+    },
+    {
+      "id": "stu-research-000003",
+      "topic": "study-research",
+      "intent": "definition",
+      "concept": "citation bias",
+      "keywords": [
+        "citation bias",
+        "striking",
+        "publish",
+        "negative",
+        "literature",
+        "protocol",
+        "bias",
+        "citation",
+        "tendency",
+        "studies",
+        "results"
+      ],
+      "patterns": [
+        "what is citation bias",
+        "citation bias",
+        "explain citation bias",
+        "definition of citation bias",
+        "citation bias meaning",
+        "what is publication bias",
+        "how do systematic reviews help",
+        "ano ang citation bias",
+        "unsa ang bias"
+      ],
+      "answer": "Citation bias is the tendency for studies with striking results to be cited more often than careful ones, and it has a measurable effect on what a field believes. Positive results get published and negative ones do not, which is the related problem called publication bias, and together they make the literature read as if every treatment works. The countermeasure is a systematic review protocol, which fixes the question and the search before the results are known and so cannot be quietly adjusted afterwards.",
+      "variations": [
+        "Positive results get published and negative ones do not, which is the related problem called publication bias, and together they make the literature read as if every treatment works. Citation bias is the tendency for studies with striking results to be cited more often than careful ones, and it has a measurable effect on what a field believes. The countermeasure is a systematic review protocol, which fixes the question and the search before the results are known and so cannot be quietly adjusted afterwards.",
+        "The countermeasure is a systematic review protocol, which fixes the question and the search before the results are known and so cannot be quietly adjusted afterwards. Citation bias is the tendency for studies with striking results to be cited more often than careful ones, and it has a measurable effect on what a field believes. Positive results get published and negative ones do not, which is the related problem called publication bias, and together they make the literature read as if every treatment works."
+      ],
+      "tl": "citation bias",
+      "bis": "bias"
+    },
+    {
+      "id": "stu-research-000004",
+      "topic": "study-research",
+      "intent": "definition",
+      "concept": "reproducibility",
+      "keywords": [
+        "reproducibility",
+        "repeat",
+        "method",
+        "data",
+        "software",
+        "version",
+        "degree",
+        "somebody",
+        "else",
+        "result"
+      ],
+      "patterns": [
+        "what is reproducibility",
+        "reproducibility",
+        "explain reproducibility",
+        "definition of reproducibility",
+        "reproducibility meaning",
+        "is a study reproducible",
+        "why do scientists care about replication",
+        "ano ang reproducibility",
+        "unsa ang reproducibility"
+      ],
+      "answer": "Reproducibility is the degree to which somebody else can repeat a result from what was written down, and it is now treated as a minimum rather than an achievement. It fails for mundane reasons most of the time: missing detail in the method, data held privately, and software that no longer runs. The last is why specifying versions is part of the method and not a footnote, since an analysis rerun on a current version of a library may not produce the published number.",
+      "variations": [
+        "It fails for mundane reasons most of the time: missing detail in the method, data held privately, and software that no longer runs. Reproducibility is the degree to which somebody else can repeat a result from what was written down, and it is now treated as a minimum rather than an achievement. The last is why specifying versions is part of the method and not a footnote, since an analysis rerun on a current version of a library may not produce the published number.",
+        "The last is why specifying versions is part of the method and not a footnote, since an analysis rerun on a current version of a library may not produce the published number. Reproducibility is the degree to which somebody else can repeat a result from what was written down, and it is now treated as a minimum rather than an achievement. It fails for mundane reasons most of the time: missing detail in the method, data held privately, and software that no longer runs."
+      ],
+      "tl": "reproducibility",
+      "bis": "reproducibility"
+    },
+    {
+      "id": "stu-research-000005",
+      "topic": "study-research",
+      "intent": "definition",
+      "concept": "methodology",
+      "keywords": [
+        "methodology",
+        "sample",
+        "collect",
+        "analyse",
+        "exclude",
+        "limit",
+        "study",
+        "describes",
+        "work",
+        "done",
+        "rather"
+      ],
+      "patterns": [
+        "what is methodology",
+        "methodology",
+        "explain methodology",
+        "definition of methodology",
+        "methodology meaning",
+        "what does a methodology section contain",
+        "why is methodology important",
+        "ano ang methodology",
+        "unsa ang methodology"
+      ],
+      "answer": "Methodology is the part of a study that describes how the work was done rather than what it found, and it is the section readers skip and the one that determines whether they can trust the result. It has to cover sampling, how data was collected, how it was analysed, and what was excluded, and the exclusions are the part that most often contains a choice made after seeing the data. Methodology is also where a study's limits are declared, and a paper without them is usually hiding something.",
+      "variations": [
+        "It has to cover sampling, how data was collected, how it was analysed, and what was excluded, and the exclusions are the part that most often contains a choice made after seeing the data. Methodology is the part of a study that describes how the work was done rather than what it found, and it is the section readers skip and the one that determines whether they can trust the result. Methodology is also where a study's limits are declared, and a paper without them is usually hiding something.",
+        "Methodology is also where a study's limits are declared, and a paper without them is usually hiding something. Methodology is the part of a study that describes how the work was done rather than what it found, and it is the section readers skip and the one that determines whether they can trust the result. It has to cover sampling, how data was collected, how it was analysed, and what was excluded, and the exclusions are the part that most often contains a choice made after seeing the data."
+      ],
+      "tl": "methodology",
+      "bis": "methodology"
+    }
+  ],
+  "lang": "english",
+  "group": "study",
+  "sub": "research",
+  "title": "Research",
+  "groupTitle": "Study"
+}

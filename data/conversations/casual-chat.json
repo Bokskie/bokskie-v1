@@ -1,0 +1,233 @@
+{
+  "topic": "conversations-casual-chat",
+  "entries": [
+    {
+      "id": "con-casual-chat-000001",
+      "topic": "conversations-casual-chat",
+      "intent": "definition",
+      "concept": "banter",
+      "keywords": [
+        "banter",
+        "tease",
+        "comfortable",
+        "return",
+        "affection",
+        "joke",
+        "binatilyahan",
+        "teasing",
+        "conversation",
+        "people",
+        "enough"
+      ],
+      "patterns": [
+        "what is banter",
+        "banter",
+        "explain banter",
+        "definition of banter",
+        "banter meaning",
+        "is banter rude",
+        "difference between banter and bullying",
+        "ano ang banter",
+        "unsa ang binatilyahan"
+      ],
+      "answer": "Banter is teasing conversation between people comfortable enough that the teasing is the whole point. It requires the other person to be able to return it, which is why banter with a stranger reads as hostility while the same words among friends read as affection. The rule that keeps it safe is that it comes from a position of relative safety, and a joke at somebody's expense is not banter however friendly the delivery is.",
+      "variations": [
+        "It requires the other person to be able to return it, which is why banter with a stranger reads as hostility while the same words among friends read as affection. Banter is teasing conversation between people comfortable enough that the teasing is the whole point. The rule that keeps it safe is that it comes from a position of relative safety, and a joke at somebody's expense is not banter however friendly the delivery is.",
+        "The rule that keeps it safe is that it comes from a position of relative safety, and a joke at somebody's expense is not banter however friendly the delivery is. Banter is teasing conversation between people comfortable enough that the teasing is the whole point. It requires the other person to be able to return it, which is why banter with a stranger reads as hostility while the same words among friends read as affection."
+      ],
+      "tl": "banter",
+      "bis": "binatilyahan"
+    },
+    {
+      "id": "con-casual-chat-000002",
+      "topic": "conversations-casual-chat",
+      "intent": "definition",
+      "concept": "hang out",
+      "keywords": [
+        "hang out",
+        "spend",
+        "time",
+        "informal",
+        "plan",
+        "friendship",
+        "magkasama",
+        "hang",
+        "someone",
+        "scheduled",
+        "purpose"
+      ],
+      "patterns": [
+        "what is hang out",
+        "hang out",
+        "explain hang out",
+        "definition of hang out",
+        "hang out meaning",
+        "what does hang out mean",
+        "is hanging out a date",
+        "how to hang out with someone",
+        "ano ang hang out",
+        "unsa ang magkasama"
+      ],
+      "answer": "To hang out is to spend time with someone with no scheduled purpose, and the word is informal and deliberately vague about the activity itself. English has almost no formal word for this, which is a clue about how much of social life is planned for no reason. It is also the most reliable way to build a friendship, more so than talking, because nothing has to be produced and nobody is being assessed.",
+      "variations": [
+        "English has almost no formal word for this, which is a clue about how much of social life is planned for no reason. To hang out is to spend time with someone with no scheduled purpose, and the word is informal and deliberately vague about the activity itself. It is also the most reliable way to build a friendship, more so than talking, because nothing has to be produced and nobody is being assessed.",
+        "It is also the most reliable way to build a friendship, more so than talking, because nothing has to be produced and nobody is being assessed. To hang out is to spend time with someone with no scheduled purpose, and the word is informal and deliberately vague about the activity itself. English has almost no formal word for this, which is a clue about how much of social life is planned for no reason."
+      ],
+      "tl": "hang out",
+      "bis": "magkasama"
+    },
+    {
+      "id": "con-casual-chat-000003",
+      "topic": "conversations-casual-chat",
+      "intent": "definition",
+      "concept": "inside joke",
+      "keywords": [
+        "inside joke",
+        "group",
+        "humour",
+        "outsider",
+        "shared",
+        "explain",
+        "inside",
+        "joke",
+        "people",
+        "understand",
+        "marks"
+      ],
+      "patterns": [
+        "what is inside joke",
+        "inside joke",
+        "explain inside joke",
+        "definition of inside joke",
+        "inside joke meaning",
+        "what is an inside joke",
+        "why are inside jokes funny",
+        "how to explain an inside joke",
+        "ano ang inside joke",
+        "unsa ang sa loob ng grupo"
+      ],
+      "answer": "An inside joke is one only some people understand, and it marks a group by exclusion as much as by humour. That is what makes it funny within the group and baffling to anybody outside it, and it is why telling an inside joke to an outsider kills it completely. The mechanism underneath is shared knowledge that costs nothing to acquire and cannot be explained without destroying the point of it.",
+      "variations": [
+        "That is what makes it funny within the group and baffling to anybody outside it, and it is why telling an inside joke to an outsider kills it completely. An inside joke is one only some people understand, and it marks a group by exclusion as much as by humour. The mechanism underneath is shared knowledge that costs nothing to acquire and cannot be explained without destroying the point of it.",
+        "The mechanism underneath is shared knowledge that costs nothing to acquire and cannot be explained without destroying the point of it. An inside joke is one only some people understand, and it marks a group by exclusion as much as by humour. That is what makes it funny within the group and baffling to anybody outside it, and it is why telling an inside joke to an outsider kills it completely."
+      ],
+      "tl": "inside joke",
+      "bis": "sa loob ng grupo"
+    },
+    {
+      "id": "con-casual-chat-000004",
+      "topic": "conversations-casual-chat",
+      "intent": "definition",
+      "concept": "awkward",
+      "keywords": [
+        "awkward",
+        "situation",
+        "unsure",
+        "act",
+        "uncomfortable",
+        "name",
+        "kahiya",
+        "describes",
+        "social",
+        "participants"
+      ],
+      "patterns": [
+        "what is awkward",
+        "awkward",
+        "explain awkward",
+        "definition of awkward",
+        "awkward meaning",
+        "what does awkward mean",
+        "is an awkward silence normal",
+        "how to fix an awkward moment",
+        "ano ang awkward",
+        "unsa ang kahiya"
+      ],
+      "answer": "Awkward describes a social situation where the participants are unsure how to act and each is waiting for the other to go first. It is not the same as uncomfortable, which is a physical or emotional state, since a situation can be awkward and nobody mind it at all. The usual causes are a gap in shared knowledge, an unclear role, or simply being new to a group, and the reliable cure is somebody naming it, which is why this is awkward actually works.",
+      "variations": [
+        "It is not the same as uncomfortable, which is a physical or emotional state, since a situation can be awkward and nobody mind it at all. Awkward describes a social situation where the participants are unsure how to act and each is waiting for the other to go first. The usual causes are a gap in shared knowledge, an unclear role, or simply being new to a group, and the reliable cure is somebody naming it, which is why this is awkward actually works.",
+        "The usual causes are a gap in shared knowledge, an unclear role, or simply being new to a group, and the reliable cure is somebody naming it, which is why this is awkward actually works. Awkward describes a social situation where the participants are unsure how to act and each is waiting for the other to go first. It is not the same as uncomfortable, which is a physical or emotional state, since a situation can be awkward and nobody mind it at all."
+      ],
+      "tl": "awkward",
+      "bis": "kahiya"
+    },
+    {
+      "id": "con-casual-chat-000005",
+      "topic": "conversations-casual-chat",
+      "intent": "definition",
+      "concept": "downtime",
+      "keywords": [
+        "downtime",
+        "idle",
+        "scheduled",
+        "gap",
+        "waiting",
+        "remember",
+        "period",
+        "nothing",
+        "productive",
+        "word"
+      ],
+      "patterns": [
+        "what is downtime",
+        "downtime",
+        "explain downtime",
+        "definition of downtime",
+        "downtime meaning",
+        "is downtime good",
+        "difference between downtime and break",
+        "ano ang downtime",
+        "unsa ang downtime"
+      ],
+      "answer": "Downtime is a period when nothing productive is scheduled, and the word is neutral about whether that is a loss. In operations it names idle stretches that are actively reduced, while in ordinary conversation it names the gap between events, which is often the part people later remember. The word also covers waiting on a machine, and there it carries a mild irritation that it does not carry for a holiday.",
+      "variations": [
+        "In operations it names idle stretches that are actively reduced, while in ordinary conversation it names the gap between events, which is often the part people later remember. Downtime is a period when nothing productive is scheduled, and the word is neutral about whether that is a loss. The word also covers waiting on a machine, and there it carries a mild irritation that it does not carry for a holiday.",
+        "The word also covers waiting on a machine, and there it carries a mild irritation that it does not carry for a holiday. Downtime is a period when nothing productive is scheduled, and the word is neutral about whether that is a loss. In operations it names idle stretches that are actively reduced, while in ordinary conversation it names the gap between events, which is often the part people later remember."
+      ],
+      "tl": "downtime",
+      "bis": "downtime"
+    },
+    {
+      "id": "con-casual-chat-000006",
+      "topic": "conversations-casual-chat",
+      "intent": "definition",
+      "concept": "ramble",
+      "keywords": [
+        "ramble",
+        "length",
+        "thread",
+        "detail",
+        "explore",
+        "interrupt",
+        "umiikot",
+        "talk",
+        "without",
+        "clear"
+      ],
+      "patterns": [
+        "what is ramble",
+        "ramble",
+        "explain ramble",
+        "definition of ramble",
+        "ramble meaning",
+        "what does ramble mean",
+        "is rambling bad",
+        "how to stop rambling",
+        "ano ang ramble",
+        "unsa ang umiikot"
+      ],
+      "answer": "To ramble is to talk at length without a clear thread, and the word is usually critical in a way that describing the same behaviour as exploring is not. What separates rambling from being detailed is whether the speaker knows where they are going, since detail follows a path and rambling does not. In a conversation it is also recoverable, because asking what the point was usually produces one, and that is why the interruption works better than the silence.",
+      "variations": [
+        "What separates rambling from being detailed is whether the speaker knows where they are going, since detail follows a path and rambling does not. To ramble is to talk at length without a clear thread, and the word is usually critical in a way that describing the same behaviour as exploring is not. In a conversation it is also recoverable, because asking what the point was usually produces one, and that is why the interruption works better than the silence.",
+        "In a conversation it is also recoverable, because asking what the point was usually produces one, and that is why the interruption works better than the silence. To ramble is to talk at length without a clear thread, and the word is usually critical in a way that describing the same behaviour as exploring is not. What separates rambling from being detailed is whether the speaker knows where they are going, since detail follows a path and rambling does not."
+      ],
+      "tl": "ramble",
+      "bis": "umiikot"
+    }
+  ],
+  "lang": "english",
+  "group": "conversations",
+  "sub": "casual-chat",
+  "title": "Casual chat",
+  "groupTitle": "Conversations"
+}

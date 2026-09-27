@@ -1,0 +1,196 @@
+{
+  "topic": "conversations-relationships",
+  "entries": [
+    {
+      "id": "con-relationships-000001",
+      "topic": "conversations-relationships",
+      "intent": "definition",
+      "concept": "boundary",
+      "keywords": [
+        "boundary",
+        "limits",
+        "consent",
+        "no",
+        "space",
+        "respect",
+        "line",
+        "state",
+        "accept",
+        "important",
+        "stating"
+      ],
+      "patterns": [
+        "what is boundary",
+        "boundary",
+        "explain boundary",
+        "definition of boundary",
+        "boundary meaning",
+        "what is a boundary",
+        "how do i set boundaries",
+        "what is a healthy boundary",
+        "ano ang boundary",
+        "unsa ang boundary"
+      ],
+      "answer": "A boundary is a line you state about what you will and will not accept, and the important part is that stating it is not the same as enforcing it. A boundary that is described but never followed becomes a request, which is how a pattern of unwanted contact continues after a person has clearly said no. Boundaries are also mutual: expecting them from someone without offering any is a demand, not a relationship.",
+      "variations": [
+        "A boundary that is described but never followed becomes a request, which is how a pattern of unwanted contact continues after a person has clearly said no. A boundary is a line you state about what you will and will not accept, and the important part is that stating it is not the same as enforcing it. Boundaries are also mutual: expecting them from someone without offering any is a demand, not a relationship.",
+        "Boundaries are also mutual: expecting them from someone without offering any is a demand, not a relationship. A boundary is a line you state about what you will and will not accept, and the important part is that stating it is not the same as enforcing it. A boundary that is described but never followed becomes a request, which is how a pattern of unwanted contact continues after a person has clearly said no."
+      ],
+      "tl": "boundary",
+      "bis": "boundary"
+    },
+    {
+      "id": "con-relationships-000002",
+      "topic": "conversations-relationships",
+      "intent": "definition",
+      "concept": "attachment",
+      "keywords": [
+        "attachment",
+        "secure",
+        "anxious",
+        "avoidant",
+        "intimacy",
+        "reassurance",
+        "style",
+        "describes",
+        "someone",
+        "tends",
+        "relate"
+      ],
+      "patterns": [
+        "what is attachment",
+        "attachment",
+        "explain attachment",
+        "definition of attachment",
+        "attachment meaning",
+        "what is attachment style",
+        "am i anxious in relationships",
+        "what is avoidant",
+        "ano ang attachment",
+        "unsa ang attachment"
+      ],
+      "answer": "Attachment style describes how someone tends to relate in close relationships, and it is roughly a third temperament rather than a diagnosis. Secure people are comfortable with closeness and with distance. Anxious-leaning people read distance as rejection and seek reassurance. Avoidant-leaning people read closeness as pressure and withdraw. All three are common, all three can change, and none of them is a reason to treat someone badly.",
+      "variations": [
+        "Secure people are comfortable with closeness and with distance. Attachment style describes how someone tends to relate in close relationships, and it is roughly a third temperament rather than a diagnosis. Anxious-leaning people read distance as rejection and seek reassurance. Avoidant-leaning people read closeness as pressure and withdraw. All three are common, all three can change, and none of them is a reason to treat someone badly.",
+        "Anxious-leaning people read distance as rejection and seek reassurance. Attachment style describes how someone tends to relate in close relationships, and it is roughly a third temperament rather than a diagnosis. Secure people are comfortable with closeness and with distance. Avoidant-leaning people read closeness as pressure and withdraw. All three are common, all three can change, and none of them is a reason to treat someone badly."
+      ],
+      "tl": "attachment",
+      "bis": "attachment"
+    },
+    {
+      "id": "con-relationships-000003",
+      "topic": "conversations-relationships",
+      "intent": "definition",
+      "concept": "conflict",
+      "keywords": [
+        "conflict",
+        "argument",
+        "disagreement",
+        "fight",
+        "communication",
+        "resolution",
+        "healthy",
+        "survivable",
+        "makes",
+        "topic"
+      ],
+      "patterns": [
+        "what is conflict",
+        "conflict",
+        "explain conflict",
+        "definition of conflict",
+        "conflict meaning",
+        "how do i resolve a conflict",
+        "is it bad to argue",
+        "how do we stop fighting",
+        "ano ang conflict",
+        "unsa ang conflict"
+      ],
+      "answer": "Healthy conflict is disagreement that is survivable, and what makes it survivable is the topic rather than the delivery. Couples and friends who never disagree are usually not avoiding conflict, they are deferring it, and deferred conflict returns larger. The habits that help are arguing about one issue at a time, not keeping a list, and being willing to say the same thing twice before assuming the other person has stopped listening.",
+      "variations": [
+        "Couples and friends who never disagree are usually not avoiding conflict, they are deferring it, and deferred conflict returns larger. Healthy conflict is disagreement that is survivable, and what makes it survivable is the topic rather than the delivery. The habits that help are arguing about one issue at a time, not keeping a list, and being willing to say the same thing twice before assuming the other person has stopped listening.",
+        "The habits that help are arguing about one issue at a time, not keeping a list, and being willing to say the same thing twice before assuming the other person has stopped listening. Healthy conflict is disagreement that is survivable, and what makes it survivable is the topic rather than the delivery. Couples and friends who never disagree are usually not avoiding conflict, they are deferring it, and deferred conflict returns larger."
+      ],
+      "tl": "conflict",
+      "bis": "conflict"
+    },
+    {
+      "id": "con-relationships-000004",
+      "topic": "conversations-relationships",
+      "intent": "definition",
+      "concept": "trust",
+      "keywords": [
+        "trust",
+        "honest",
+        "reliability",
+        "betrayal",
+        "confidence",
+        "promise",
+        "belief",
+        "someone",
+        "expected",
+        "costs",
+        "something"
+      ],
+      "patterns": [
+        "what is trust",
+        "trust",
+        "explain trust",
+        "definition of trust",
+        "trust meaning",
+        "how do you build trust",
+        "can trust be repaired",
+        "ano ang trust",
+        "unsa ang trust"
+      ],
+      "answer": "Trust is a belief that someone will act as expected when it costs them something, which is why it is built by small consistent behaviour rather than by declarations. It repairs slowly if at all, and the reason is that a single violation is read against every good instance before it. Nothing rebuilds it faster than a period of predictable conduct with no reward for the person being trusted, since trust that only appears under observation was never trust.",
+      "variations": [
+        "It repairs slowly if at all, and the reason is that a single violation is read against every good instance before it. Trust is a belief that someone will act as expected when it costs them something, which is why it is built by small consistent behaviour rather than by declarations. Nothing rebuilds it faster than a period of predictable conduct with no reward for the person being trusted, since trust that only appears under observation was never trust.",
+        "Nothing rebuilds it faster than a period of predictable conduct with no reward for the person being trusted, since trust that only appears under observation was never trust. Trust is a belief that someone will act as expected when it costs them something, which is why it is built by small consistent behaviour rather than by declarations. It repairs slowly if at all, and the reason is that a single violation is read against every good instance before it."
+      ],
+      "tl": "trust",
+      "bis": "trust"
+    },
+    {
+      "id": "con-relationships-000005",
+      "topic": "conversations-relationships",
+      "intent": "definition",
+      "concept": "red flag",
+      "keywords": [
+        "red flag",
+        "behaviour",
+        "controlling",
+        "manipulation",
+        "toxic",
+        "flag",
+        "worth",
+        "taking",
+        "seriously",
+        "itself"
+      ],
+      "patterns": [
+        "what is red flag",
+        "red flag",
+        "explain red flag",
+        "definition of red flag",
+        "red flag meaning",
+        "what are red flags in a relationship",
+        "how do i know if it is toxic",
+        "ano ang red flag",
+        "unsa ang red flag"
+      ],
+      "answer": "A red flag is a behaviour worth taking seriously in itself, not as evidence of a pattern, because most patterns are read after the fact and one instance is all you get. The ones that matter most are a partner who monitors where you go, who makes you feel foolish for objecting, or who is charming only when they want something. What separates a red flag from an annoyance is the effect: one makes you argue about yourself afterwards, the other makes you argue about the thing.",
+      "variations": [
+        "The ones that matter most are a partner who monitors where you go, who makes you feel foolish for objecting, or who is charming only when they want something. A red flag is a behaviour worth taking seriously in itself, not as evidence of a pattern, because most patterns are read after the fact and one instance is all you get. What separates a red flag from an annoyance is the effect: one makes you argue about yourself afterwards, the other makes you argue about the thing.",
+        "What separates a red flag from an annoyance is the effect: one makes you argue about yourself afterwards, the other makes you argue about the thing. A red flag is a behaviour worth taking seriously in itself, not as evidence of a pattern, because most patterns are read after the fact and one instance is all you get. The ones that matter most are a partner who monitors where you go, who makes you feel foolish for objecting, or who is charming only when they want something."
+      ],
+      "tl": "red flag",
+      "bis": "red flag"
+    }
+  ],
+  "lang": "english",
+  "group": "conversations",
+  "sub": "relationships",
+  "title": "Relationships",
+  "groupTitle": "Conversations"
+}

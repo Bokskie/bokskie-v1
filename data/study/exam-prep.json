@@ -1,0 +1,195 @@
+{
+  "topic": "study-exam-prep",
+  "entries": [
+    {
+      "id": "stu-exam-prep-000001",
+      "topic": "study-exam-prep",
+      "intent": "definition",
+      "concept": "past paper",
+      "keywords": [
+        "past paper",
+        "previous",
+        "exam",
+        "format",
+        "weighting",
+        "marks",
+        "past",
+        "paper",
+        "year's",
+        "real"
+      ],
+      "patterns": [
+        "what is past paper",
+        "past paper",
+        "explain past paper",
+        "definition of past paper",
+        "past paper meaning",
+        "what is a past paper",
+        "should you do past papers",
+        "how to use past exams",
+        "ano ang past paper",
+        "unsa ang past paper"
+      ],
+      "answer": "A past paper is a previous year's exam, and using real ones is the most reliable preparation available because they show the actual format rather than a guess at it. They also reveal weighting, since a topic that appears every year is worth more time than a large section of the syllabus does. The mistake is treating them as tests rather than as information, so people sit one, score badly, and stop. Sitting under time pressure is worth doing, but reading where the marks actually go is worth more.",
+      "variations": [
+        "They also reveal weighting, since a topic that appears every year is worth more time than a large section of the syllabus does. A past paper is a previous year's exam, and using real ones is the most reliable preparation available because they show the actual format rather than a guess at it. The mistake is treating them as tests rather than as information, so people sit one, score badly, and stop. Sitting under time pressure is worth doing, but reading where the marks actually go is worth more.",
+        "The mistake is treating them as tests rather than as information, so people sit one, score badly, and stop. A past paper is a previous year's exam, and using real ones is the most reliable preparation available because they show the actual format rather than a guess at it. They also reveal weighting, since a topic that appears every year is worth more time than a large section of the syllabus does. Sitting under time pressure is worth doing, but reading where the marks actually go is worth more."
+      ],
+      "tl": "past paper",
+      "bis": "past paper"
+    },
+    {
+      "id": "stu-exam-prep-000002",
+      "topic": "study-exam-prep",
+      "intent": "definition",
+      "concept": "mock exam",
+      "keywords": [
+        "mock exam",
+        "mock",
+        "practice",
+        "review",
+        "ready",
+        "condition",
+        "exam",
+        "paper",
+        "real",
+        "conditions"
+      ],
+      "patterns": [
+        "what is mock exam",
+        "mock exam",
+        "explain mock exam",
+        "definition of mock exam",
+        "mock exam meaning",
+        "what is a mock exam",
+        "is a mock exam useful",
+        "how to review a mock exam",
+        "ano ang mock exam",
+        "unsa ang mock exam"
+      ],
+      "answer": "A mock exam is a practice paper sat under real conditions, and its value is almost entirely in what happens afterwards. The score matters less than the review, and a review means finding out why each wrong answer was wrong rather than merely that it was. A mock sat without a proper review is close to worthless, and it can be actively misleading because it produces a false sense of readiness. Two or three well-reviewed mocks are worth more than a full set of unanswered ones.",
+      "variations": [
+        "The score matters less than the review, and a review means finding out why each wrong answer was wrong rather than merely that it was. A mock exam is a practice paper sat under real conditions, and its value is almost entirely in what happens afterwards. A mock sat without a proper review is close to worthless, and it can be actively misleading because it produces a false sense of readiness. Two or three well-reviewed mocks are worth more than a full set of unanswered ones.",
+        "A mock sat without a proper review is close to worthless, and it can be actively misleading because it produces a false sense of readiness. A mock exam is a practice paper sat under real conditions, and its value is almost entirely in what happens afterwards. The score matters less than the review, and a review means finding out why each wrong answer was wrong rather than merely that it was. Two or three well-reviewed mocks are worth more than a full set of unanswered ones."
+      ],
+      "tl": "mock exam",
+      "bis": "mock exam"
+    },
+    {
+      "id": "stu-exam-prep-000003",
+      "topic": "study-exam-prep",
+      "intent": "definition",
+      "concept": "syllabus",
+      "keywords": [
+        "syllabus",
+        "exam",
+        "cover",
+        "weighting",
+        "mark",
+        "schedule",
+        "list",
+        "covers",
+        "purpose",
+        "allocate"
+      ],
+      "patterns": [
+        "what is syllabus",
+        "syllabus",
+        "explain syllabus",
+        "definition of syllabus",
+        "syllabus meaning",
+        "what is a syllabus",
+        "is a syllabus a reading list",
+        "how to use a syllabus to revise",
+        "ano ang syllabus",
+        "unsa ang syllabus"
+      ],
+      "answer": "A syllabus is the list of what an exam covers, and its purpose is to let you allocate time, so it is a scheduling document rather than a reading list. The weighting matters as much as the list, because a three-mark topic and a twelve-mark one are not the same amount of work. A common and expensive mistake is covering everything once rather than going deep on what is actually asked, and the fix is to read the mark scheme first, which usually describes the shape of the answer.",
+      "variations": [
+        "The weighting matters as much as the list, because a three-mark topic and a twelve-mark one are not the same amount of work. A syllabus is the list of what an exam covers, and its purpose is to let you allocate time, so it is a scheduling document rather than a reading list. A common and expensive mistake is covering everything once rather than going deep on what is actually asked, and the fix is to read the mark scheme first, which usually describes the shape of the answer.",
+        "A common and expensive mistake is covering everything once rather than going deep on what is actually asked, and the fix is to read the mark scheme first, which usually describes the shape of the answer. A syllabus is the list of what an exam covers, and its purpose is to let you allocate time, so it is a scheduling document rather than a reading list. The weighting matters as much as the list, because a three-mark topic and a twelve-mark one are not the same amount of work."
+      ],
+      "tl": "syllabus",
+      "bis": "syllabus"
+    },
+    {
+      "id": "stu-exam-prep-000004",
+      "topic": "study-exam-prep",
+      "intent": "definition",
+      "concept": "mark scheme",
+      "keywords": [
+        "mark scheme",
+        "examiner",
+        "mark",
+        "point",
+        "credit",
+        "fluency",
+        "scheme",
+        "examiner's",
+        "breakdown",
+        "answer",
+        "credited"
+      ],
+      "patterns": [
+        "what is mark scheme",
+        "mark scheme",
+        "explain mark scheme",
+        "definition of mark scheme",
+        "mark scheme meaning",
+        "what is a mark scheme",
+        "should you read the mark scheme",
+        "how are answers marked",
+        "ano ang mark scheme",
+        "unsa ang mark scheme"
+      ],
+      "answer": "A mark scheme is the examiner's breakdown of how an answer is credited, and it is the most underused document in any exam. It shows that the question is marked against specific points rather than for fluency, and it reveals the difference between an answer that is right and an answer that earns the marks. Many students lose marks for a correct idea expressed in the wrong form, which is visible in the scheme and invisible in the textbook.",
+      "variations": [
+        "It shows that the question is marked against specific points rather than for fluency, and it reveals the difference between an answer that is right and an answer that earns the marks. A mark scheme is the examiner's breakdown of how an answer is credited, and it is the most underused document in any exam. Many students lose marks for a correct idea expressed in the wrong form, which is visible in the scheme and invisible in the textbook.",
+        "Many students lose marks for a correct idea expressed in the wrong form, which is visible in the scheme and invisible in the textbook. A mark scheme is the examiner's breakdown of how an answer is credited, and it is the most underused document in any exam. It shows that the question is marked against specific points rather than for fluency, and it reveals the difference between an answer that is right and an answer that earns the marks."
+      ],
+      "tl": "mark scheme",
+      "bis": "mark scheme"
+    },
+    {
+      "id": "stu-exam-prep-000005",
+      "topic": "study-exam-prep",
+      "intent": "definition",
+      "concept": "cramming",
+      "keywords": [
+        "cramming",
+        "revision",
+        "retention",
+        "spike",
+        "term",
+        "cram",
+        "putting",
+        "shortest",
+        "possible",
+        "time"
+      ],
+      "patterns": [
+        "what is cramming",
+        "cramming",
+        "explain cramming",
+        "definition of cramming",
+        "cramming meaning",
+        "does cramming work",
+        "is cramming better than spaced study",
+        "ano ang cramming",
+        "unsa ang cram"
+      ],
+      "answer": "Cramming is putting all the revision into the shortest possible time, and the research is consistent that it works better than nothing while being worse than spaced study over the same total hours. What it does well is retrieval of facts, surface names and figures, which is often exactly what a short-answer question asks. What it does badly is retention afterwards, and it reliably produces a spike during the exam and a drop the week after. It is a legitimate tool for a specific kind of short test and a poor substitute for a term.",
+      "variations": [
+        "What it does well is retrieval of facts, surface names and figures, which is often exactly what a short-answer question asks. Cramming is putting all the revision into the shortest possible time, and the research is consistent that it works better than nothing while being worse than spaced study over the same total hours. What it does badly is retention afterwards, and it reliably produces a spike during the exam and a drop the week after. It is a legitimate tool for a specific kind of short test and a poor substitute for a term.",
+        "What it does badly is retention afterwards, and it reliably produces a spike during the exam and a drop the week after. Cramming is putting all the revision into the shortest possible time, and the research is consistent that it works better than nothing while being worse than spaced study over the same total hours. What it does well is retrieval of facts, surface names and figures, which is often exactly what a short-answer question asks. It is a legitimate tool for a specific kind of short test and a poor substitute for a term."
+      ],
+      "tl": "cramming",
+      "bis": "cram"
+    }
+  ],
+  "lang": "english",
+  "group": "study",
+  "sub": "exam-prep",
+  "title": "Exam prep",
+  "groupTitle": "Study"
+}

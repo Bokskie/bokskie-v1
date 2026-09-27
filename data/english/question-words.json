@@ -1,0 +1,272 @@
+{
+  "topic": "english-question-words",
+  "entries": [
+    {
+      "id": "eng-question-words-000001",
+      "topic": "english-question-words",
+      "intent": "definition",
+      "concept": "what",
+      "keywords": [
+        "what",
+        "thing",
+        "idea",
+        "question",
+        "subject",
+        "describe",
+        "ano",
+        "description",
+        "general",
+        "opener"
+      ],
+      "patterns": [
+        "what is what",
+        "what",
+        "explain what",
+        "definition of what",
+        "what meaning",
+        "what is a wh question",
+        "how to use what",
+        "difference between what and which",
+        "ano ang what",
+        "unsa ang ano"
+      ],
+      "answer": "What asks for a thing, an idea or a description, and it is also the general opener of any question wanting information rather than a specific time or place. The grammatical limit is that it cannot be the subject on its own, so what happened works but what did happen does not. The substitution test settles it: if the whole question can be replaced by the single word thing, it was a what-question.",
+      "variations": [
+        "The grammatical limit is that it cannot be the subject on its own, so what happened works but what did happen does not. What asks for a thing, an idea or a description, and it is also the general opener of any question wanting information rather than a specific time or place. The substitution test settles it: if the whole question can be replaced by the single word thing, it was a what-question.",
+        "The substitution test settles it: if the whole question can be replaced by the single word thing, it was a what-question. What asks for a thing, an idea or a description, and it is also the general opener of any question wanting information rather than a specific time or place. The grammatical limit is that it cannot be the subject on its own, so what happened works but what did happen does not."
+      ],
+      "tl": "what",
+      "bis": "ano"
+    },
+    {
+      "id": "eng-question-words-000002",
+      "topic": "english-question-words",
+      "intent": "definition",
+      "concept": "who",
+      "keywords": [
+        "who",
+        "whom",
+        "person",
+        "object",
+        "subject",
+        "preposition",
+        "sino",
+        "rather",
+        "english",
+        "divides",
+        "according"
+      ],
+      "patterns": [
+        "what is who",
+        "who",
+        "explain who",
+        "definition of who",
+        "who meaning",
+        "difference between who and whom",
+        "when to use whom",
+        "who is your subject",
+        "ano ang who",
+        "unsa ang sino"
+      ],
+      "answer": "Who asks about a person rather than a thing, and in English it divides into who and whom according to the job it does inside the sentence. Who wrote this uses it as subject and takes the verb, while to whom you gave it takes the object form after a preposition. In ordinary speech whom gets dropped, which is why it sounds formal, but it is still the form the grammar asks for.",
+      "variations": [
+        "Who wrote this uses it as subject and takes the verb, while to whom you gave it takes the object form after a preposition. Who asks about a person rather than a thing, and in English it divides into who and whom according to the job it does inside the sentence. In ordinary speech whom gets dropped, which is why it sounds formal, but it is still the form the grammar asks for.",
+        "In ordinary speech whom gets dropped, which is why it sounds formal, but it is still the form the grammar asks for. Who asks about a person rather than a thing, and in English it divides into who and whom according to the job it does inside the sentence. Who wrote this uses it as subject and takes the verb, while to whom you gave it takes the object form after a preposition."
+      ],
+      "tl": "who",
+      "bis": "sino"
+    },
+    {
+      "id": "eng-question-words-000003",
+      "topic": "english-question-words",
+      "intent": "definition",
+      "concept": "where",
+      "keywords": [
+        "where",
+        "place",
+        "location",
+        "what",
+        "confusion",
+        "answer",
+        "saan",
+        "divides",
+        "giving",
+        "ordinary",
+        "whence"
+      ],
+      "patterns": [
+        "what is where",
+        "where",
+        "explain where",
+        "definition of where",
+        "where meaning",
+        "where or what",
+        "how to use where",
+        "difference between where and which",
+        "ano ang where",
+        "unsa ang saan"
+      ],
+      "answer": "Where asks about a place, and it divides the same way who does, giving where in ordinary use and whence in older ones. The usual confusion is with what, since where were you and what were you doing begin from the same verb. Where names a location and expects somewhere as an answer, while what asks for a description of an action and expects a phrase back.",
+      "variations": [
+        "The usual confusion is with what, since where were you and what were you doing begin from the same verb. Where asks about a place, and it divides the same way who does, giving where in ordinary use and whence in older ones. Where names a location and expects somewhere as an answer, while what asks for a description of an action and expects a phrase back.",
+        "Where names a location and expects somewhere as an answer, while what asks for a description of an action and expects a phrase back. Where asks about a place, and it divides the same way who does, giving where in ordinary use and whence in older ones. The usual confusion is with what, since where were you and what were you doing begin from the same verb."
+      ],
+      "tl": "where",
+      "bis": "saan"
+    },
+    {
+      "id": "eng-question-words-000004",
+      "topic": "english-question-words",
+      "intent": "definition",
+      "concept": "when",
+      "keywords": [
+        "when",
+        "time",
+        "sequence",
+        "clock",
+        "day",
+        "situation",
+        "kailan",
+        "considerably",
+        "broader"
+      ],
+      "patterns": [
+        "what is when",
+        "when",
+        "explain when",
+        "definition of when",
+        "when meaning",
+        "when or what time",
+        "how to use when",
+        "when does it mean in which situation",
+        "ano ang when",
+        "unsa ang kailan"
+      ],
+      "answer": "When asks about a time or a point in a sequence, and it is considerably broader than a clock reading. It can mean what time is it, which day, or at what stage in a process, and the answer changes completely between those. English also allows where in the sense of in which situation, as in where I come from everything is a lesson, which is an older usage that survives mainly in fixed phrases.",
+      "variations": [
+        "It can mean what time is it, which day, or at what stage in a process, and the answer changes completely between those. When asks about a time or a point in a sequence, and it is considerably broader than a clock reading. English also allows where in the sense of in which situation, as in where I come from everything is a lesson, which is an older usage that survives mainly in fixed phrases.",
+        "English also allows where in the sense of in which situation, as in where I come from everything is a lesson, which is an older usage that survives mainly in fixed phrases. When asks about a time or a point in a sequence, and it is considerably broader than a clock reading. It can mean what time is it, which day, or at what stage in a process, and the answer changes completely between those."
+      ],
+      "tl": "when",
+      "bis": "kailan"
+    },
+    {
+      "id": "eng-question-words-000005",
+      "topic": "english-question-words",
+      "intent": "definition",
+      "concept": "why",
+      "keywords": [
+        "why",
+        "reason",
+        "because",
+        "cause",
+        "indirect",
+        "exchange",
+        "bakit",
+        "expects",
+        "single",
+        "fact",
+        "separates"
+      ],
+      "patterns": [
+        "what is why",
+        "why",
+        "explain why",
+        "definition of why",
+        "why meaning",
+        "why is a question word",
+        "difference between why and because",
+        "how to use why indirectly",
+        "ano ang why",
+        "unsa ang bakit"
+      ],
+      "answer": "Why asks for a reason and expects one, which is the single fact that separates it from every other question word. Because carries the same idea inside an answer, so why did you leave and because I was bored are two halves of one exchange. The awkward position is the indirect one, since why behaves as a word rather than a preposition, so the reason why has to be followed by a clause and not by a noun.",
+      "variations": [
+        "Because carries the same idea inside an answer, so why did you leave and because I was bored are two halves of one exchange. Why asks for a reason and expects one, which is the single fact that separates it from every other question word. The awkward position is the indirect one, since why behaves as a word rather than a preposition, so the reason why has to be followed by a clause and not by a noun.",
+        "The awkward position is the indirect one, since why behaves as a word rather than a preposition, so the reason why has to be followed by a clause and not by a noun. Why asks for a reason and expects one, which is the single fact that separates it from every other question word. Because carries the same idea inside an answer, so why did you leave and because I was bored are two halves of one exchange."
+      ],
+      "tl": "why",
+      "bis": "bakit"
+    },
+    {
+      "id": "eng-question-words-000006",
+      "topic": "english-question-words",
+      "intent": "definition",
+      "concept": "how",
+      "keywords": [
+        "how",
+        "manner",
+        "method",
+        "stack",
+        "frequent",
+        "paano",
+        "word",
+        "stacked",
+        "others",
+        "giving"
+      ],
+      "patterns": [
+        "what is how",
+        "how",
+        "explain how",
+        "definition of how",
+        "how meaning",
+        "how to use how",
+        "what does how come mean",
+        "difference between how and why",
+        "ano ang how",
+        "unsa ang paano"
+      ],
+      "answer": "How asks about manner, and it is the word most often stacked with others, giving how long, how far, how often, how much and how come. How come is a genuine fixed phrase for why, and it is worth knowing whole, because learners parse it as a question about manner and it is not. Used alone it means in what way, and the answer expected is a method rather than a length or a frequency.",
+      "variations": [
+        "How come is a genuine fixed phrase for why, and it is worth knowing whole, because learners parse it as a question about manner and it is not. How asks about manner, and it is the word most often stacked with others, giving how long, how far, how often, how much and how come. Used alone it means in what way, and the answer expected is a method rather than a length or a frequency.",
+        "Used alone it means in what way, and the answer expected is a method rather than a length or a frequency. How asks about manner, and it is the word most often stacked with others, giving how long, how far, how often, how much and how come. How come is a genuine fixed phrase for why, and it is worth knowing whole, because learners parse it as a question about manner and it is not."
+      ],
+      "tl": "how",
+      "bis": "paano"
+    },
+    {
+      "id": "eng-question-words-000007",
+      "topic": "english-question-words",
+      "intent": "definition",
+      "concept": "which",
+      "keywords": [
+        "which",
+        "choose",
+        "option",
+        "set",
+        "list",
+        "closed",
+        "alin",
+        "already",
+        "understood",
+        "exactly",
+        "separates"
+      ],
+      "patterns": [
+        "what is which",
+        "which",
+        "explain which",
+        "definition of which",
+        "which meaning",
+        "which or what",
+        "how to use which",
+        "closed question vs open question",
+        "ano ang which",
+        "unsa ang alin"
+      ],
+      "answer": "Which asks you to choose from a set that is already understood, and that is exactly what separates it from what. What is open, while which implies the options have already been mentioned, so which do you want only makes sense after somebody offered a list. The same closed and open split runs through who and whose, where a closed one needs a known set and an open one does not.",
+      "variations": [
+        "What is open, while which implies the options have already been mentioned, so which do you want only makes sense after somebody offered a list. Which asks you to choose from a set that is already understood, and that is exactly what separates it from what. The same closed and open split runs through who and whose, where a closed one needs a known set and an open one does not.",
+        "The same closed and open split runs through who and whose, where a closed one needs a known set and an open one does not. Which asks you to choose from a set that is already understood, and that is exactly what separates it from what. What is open, while which implies the options have already been mentioned, so which do you want only makes sense after somebody offered a list."
+      ],
+      "tl": "which",
+      "bis": "alin"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "question-words",
+  "title": "Question words",
+  "groupTitle": "English"
+}

@@ -1,0 +1,149 @@
+{
+  "topic": "cebuano-common-adjectives",
+  "entries": [
+    {
+      "id": "ceb-common-adjectives-000001",
+      "topic": "cebuano-common-adjectives",
+      "intent": "definition",
+      "concept": "kaayo",
+      "keywords": [
+        "kaayo",
+        "good",
+        "well",
+        "fine",
+        "full",
+        "maayo",
+        "means",
+        "everyday",
+        "word"
+      ],
+      "patterns": [
+        "what is kaayo",
+        "kaayo",
+        "explain kaayo",
+        "definition of kaayo",
+        "kaayo meaning",
+        "unsa meaning nga kaayo",
+        "unsaon nga kaayo meaning tired",
+        "ano ang maayo",
+        "unsa ang maayo"
+      ],
+      "answer": "Kaayo means good, well or fine, and it is the everyday word for anything positive: a good meal, a kind person, a working machine. Trap for learners: the same word also means tired of or fed up, as in naa ka na og kaayo, which is not a compliment at all. The tired sense takes kaayo as a suffix on a verb, while the good sense stands alone, and so does kaayo after a meal to mean you are full.",
+      "variations": [
+        "Trap for learners: the same word also means tired of or fed up, as in naa ka na og kaayo, which is not a compliment at all. Kaayo means good, well or fine, and it is the everyday word for anything positive: a good meal, a kind person, a working machine. The tired sense takes kaayo as a suffix on a verb, while the good sense stands alone, and so does kaayo after a meal to mean you are full.",
+        "The tired sense takes kaayo as a suffix on a verb, while the good sense stands alone, and so does kaayo after a meal to mean you are full. Kaayo means good, well or fine, and it is the everyday word for anything positive: a good meal, a kind person, a working machine. Trap for learners: the same word also means tired of or fed up, as in naa ka na og kaayo, which is not a compliment at all."
+      ],
+      "tl": "maayo",
+      "bis": "maayo"
+    },
+    {
+      "id": "ceb-common-adjectives-000002",
+      "topic": "cebuano-common-adjectives",
+      "intent": "definition",
+      "concept": "sayop",
+      "keywords": [
+        "sayop",
+        "bad",
+        "poor",
+        "wrong",
+        "means",
+        "quality",
+        "direct",
+        "opposite"
+      ],
+      "patterns": [
+        "what is sayop",
+        "sayop",
+        "explain sayop",
+        "definition of sayop",
+        "sayop meaning",
+        "unsa meaning nga sayop",
+        "unsaon nga sayop",
+        "ano ang sayop",
+        "unsa ang sayop"
+      ],
+      "answer": "Sayop means bad or poor quality, and it is the direct opposite of kaayo. It describes bad food, a poor result and low quality, but it is softer than masama, which carries real moral judgement about a person. Saying sayop ang pagkain is about the food, while saying masama ka is about you.",
+      "variations": [
+        "It describes bad food, a poor result and low quality, but it is softer than masama, which carries real moral judgement about a person. Sayop means bad or poor quality, and it is the direct opposite of kaayo. Saying sayop ang pagkain is about the food, while saying masama ka is about you.",
+        "Saying sayop ang pagkain is about the food, while saying masama ka is about you. Sayop means bad or poor quality, and it is the direct opposite of kaayo. It describes bad food, a poor result and low quality, but it is softer than masama, which carries real moral judgement about a person."
+      ],
+      "tl": "sayop",
+      "bis": "sayop"
+    },
+    {
+      "id": "ceb-common-adjectives-000003",
+      "topic": "cebuano-common-adjectives",
+      "intent": "definition",
+      "concept": "gamay",
+      "keywords": [
+        "gamay",
+        "small",
+        "little",
+        "slow",
+        "gentle",
+        "few",
+        "maliit",
+        "means",
+        "amount",
+        "everyday"
+      ],
+      "patterns": [
+        "what is gamay",
+        "gamay",
+        "explain gamay",
+        "definition of gamay",
+        "gamay meaning",
+        "unsa meaning nga gamay",
+        "ano ang gamay",
+        "unsa ang maliit"
+      ],
+      "answer": "Gamay means small, little or a small amount, and it is the everyday word for size and quantity. It also means slow, as in gamay na lakaw, and gentle or softly, as in gamay na tingog. Dako is the opposite for size, and all three senses are common enough that context decides which one is meant.",
+      "variations": [
+        "It also means slow, as in gamay na lakaw, and gentle or softly, as in gamay na tingog. Gamay means small, little or a small amount, and it is the everyday word for size and quantity. Dako is the opposite for size, and all three senses are common enough that context decides which one is meant.",
+        "Dako is the opposite for size, and all three senses are common enough that context decides which one is meant. Gamay means small, little or a small amount, and it is the everyday word for size and quantity. It also means slow, as in gamay na lakaw, and gentle or softly, as in gamay na tingog."
+      ],
+      "tl": "gamay",
+      "bis": "maliit"
+    },
+    {
+      "id": "ceb-common-adjectives-000004",
+      "topic": "cebuano-common-adjectives",
+      "intent": "definition",
+      "concept": "dako",
+      "keywords": [
+        "dako",
+        "big",
+        "large",
+        "huge",
+        "loud",
+        "malaki",
+        "means",
+        "opposite",
+        "gamay",
+        "describes"
+      ],
+      "patterns": [
+        "what is dako",
+        "dako",
+        "explain dako",
+        "definition of dako",
+        "dako meaning",
+        "unsa meaning nga dako",
+        "ano ang dako",
+        "unsa ang malaki"
+      ],
+      "answer": "Dako means big or large, and it is the opposite of gamay. It describes physical size, loudness and quantity, so dakong balita is a big piece of news and dako og balik means a big return. It is the word for anything noticeably large, and gamay is its direct opposite.",
+      "variations": [
+        "It describes physical size, loudness and quantity, so dakong balita is a big piece of news and dako og balik means a big return. Dako means big or large, and it is the opposite of gamay. It is the word for anything noticeably large, and gamay is its direct opposite.",
+        "It is the word for anything noticeably large, and gamay is its direct opposite. Dako means big or large, and it is the opposite of gamay. It describes physical size, loudness and quantity, so dakong balita is a big piece of news and dako og balik means a big return."
+      ],
+      "tl": "dako",
+      "bis": "malaki"
+    }
+  ],
+  "lang": "bisaya",
+  "group": "cebuano",
+  "sub": "common-adjectives",
+  "title": "Common adjectives",
+  "groupTitle": "Cebuano"
+}

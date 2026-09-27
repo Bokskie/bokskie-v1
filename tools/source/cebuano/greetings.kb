@@ -1,0 +1,4 @@
+# cebuano-greetings.kb - Cebuano / Greetings
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 1 entries, one genuinely distinct fact per line.
+salamat | definition | Salamat means thank you, and it is the same word as in Tagalog, which is why the two languages are easy to mix in polite speech. The fuller form is salamat kaayo or Salamat sa imong tabang for thank you for your help. A common reply is walay ikaw or no problem, and it is meant literally rather than as a dismissal. | thank you, salamat, gratitude, thanks | salamat meaning, unsaon nga mo iyang pasalamat | salamat | salamat

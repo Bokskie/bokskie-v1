@@ -1,0 +1,194 @@
+{
+  "topic": "sports-tennis",
+  "entries": [
+    {
+      "id": "spo-tennis-000001",
+      "topic": "sports-tennis",
+      "intent": "definition",
+      "concept": "deuce",
+      "keywords": [
+        "deuce",
+        "tie",
+        "game",
+        "advantage",
+        "tied",
+        "score",
+        "inside",
+        "three"
+      ],
+      "patterns": [
+        "what is deuce",
+        "deuce",
+        "explain deuce",
+        "definition of deuce",
+        "deuce meaning",
+        "what is deuce in tennis",
+        "why does a tennis game go to advantage",
+        "what is tiebreak",
+        "ano ang deuce",
+        "unsa ang deuce"
+      ],
+      "answer": "Deuce is a tied score inside a game, from three-all onwards, and the game then runs to two clear points rather than to a fixed total. The reason for that rule is that a short game rewards luck, so a two-point margin makes each point matter more. In a tiebreak the same idea is applied to a whole set, where a player needs seven points with a lead of two, so it too can go past the nominal total.",
+      "variations": [
+        "The reason for that rule is that a short game rewards luck, so a two-point margin makes each point matter more. Deuce is a tied score inside a game, from three-all onwards, and the game then runs to two clear points rather than to a fixed total. In a tiebreak the same idea is applied to a whole set, where a player needs seven points with a lead of two, so it too can go past the nominal total.",
+        "In a tiebreak the same idea is applied to a whole set, where a player needs seven points with a lead of two, so it too can go past the nominal total. Deuce is a tied score inside a game, from three-all onwards, and the game then runs to two clear points rather than to a fixed total. The reason for that rule is that a short game rewards luck, so a two-point margin makes each point matter more."
+      ],
+      "tl": "deuce",
+      "bis": "deuce"
+    },
+    {
+      "id": "spo-tennis-000002",
+      "topic": "sports-tennis",
+      "intent": "definition",
+      "concept": "serve",
+      "keywords": [
+        "serve",
+        "point",
+        "fault",
+        "double",
+        "toss",
+        "return",
+        "starts",
+        "shot",
+        "server",
+        "controls",
+        "entirely"
+      ],
+      "patterns": [
+        "what is serve",
+        "serve",
+        "explain serve",
+        "definition of serve",
+        "serve meaning",
+        "how do you serve in tennis",
+        "what is a double fault",
+        "why is the serve important",
+        "ano ang serve",
+        "unsa ang serve"
+      ],
+      "answer": "A serve starts each point, and it is the only shot the server controls entirely before the other player has touched anything, which is why it is both the biggest weapon and the most pressured. Faults are called for failing to land the ball in the right box, and there are two before a double fault ends the point. The mechanics that matter are the toss height and the leg drive, since both come from the same push upward, and a flat power serve is much easier to return than a spin serve.",
+      "variations": [
+        "Faults are called for failing to land the ball in the right box, and there are two before a double fault ends the point. A serve starts each point, and it is the only shot the server controls entirely before the other player has touched anything, which is why it is both the biggest weapon and the most pressured. The mechanics that matter are the toss height and the leg drive, since both come from the same push upward, and a flat power serve is much easier to return than a spin serve.",
+        "The mechanics that matter are the toss height and the leg drive, since both come from the same push upward, and a flat power serve is much easier to return than a spin serve. A serve starts each point, and it is the only shot the server controls entirely before the other player has touched anything, which is why it is both the biggest weapon and the most pressured. Faults are called for failing to land the ball in the right box, and there are two before a double fault ends the point."
+      ],
+      "tl": "serve",
+      "bis": "serve"
+    },
+    {
+      "id": "spo-tennis-000003",
+      "topic": "sports-tennis",
+      "intent": "definition",
+      "concept": "grand slam",
+      "keywords": [
+        "grand slam",
+        "major",
+        "four",
+        "surface",
+        "year",
+        "career",
+        "grand",
+        "slam",
+        "winning",
+        "year's"
+      ],
+      "patterns": [
+        "what is grand slam",
+        "grand slam",
+        "explain grand slam",
+        "definition of grand slam",
+        "grand slam meaning",
+        "what is a grand slam in tennis",
+        "how many grand slams are there",
+        "what is a career grand slam",
+        "ano ang grand slam",
+        "unsa ang grand slam"
+      ],
+      "answer": "A grand slam is winning all four of the year's major tournaments, and it is the rarest achievement in the sport, achieved once in the men's singles and never in the women's. Each major has a different surface, which is the point: winning on clay, grass and hard court in the same year is a claim that the player can adapt rather than specialise. Career Grand Slam means all four at some point, and completing that set was last done decades ago.",
+      "variations": [
+        "Each major has a different surface, which is the point: winning on clay, grass and hard court in the same year is a claim that the player can adapt rather than specialise. A grand slam is winning all four of the year's major tournaments, and it is the rarest achievement in the sport, achieved once in the men's singles and never in the women's. Career Grand Slam means all four at some point, and completing that set was last done decades ago.",
+        "Career Grand Slam means all four at some point, and completing that set was last done decades ago. A grand slam is winning all four of the year's major tournaments, and it is the rarest achievement in the sport, achieved once in the men's singles and never in the women's. Each major has a different surface, which is the point: winning on clay, grass and hard court in the same year is a claim that the player can adapt rather than specialise."
+      ],
+      "tl": "grand slam",
+      "bis": "grand slam"
+    },
+    {
+      "id": "spo-tennis-000004",
+      "topic": "sports-tennis",
+      "intent": "definition",
+      "concept": "rally",
+      "keywords": [
+        "rally",
+        "exchange",
+        "shot",
+        "baseline",
+        "topspin",
+        "placement",
+        "sequence",
+        "shots",
+        "serves",
+        "tennis",
+        "resembles"
+      ],
+      "patterns": [
+        "what is rally",
+        "rally",
+        "explain rally",
+        "definition of rally",
+        "rally meaning",
+        "what is a rally in tennis",
+        "why are rallies getting longer",
+        "what is baseline",
+        "ano ang rally",
+        "unsa ang rally"
+      ],
+      "answer": "A rally is the sequence of shots between serves, and it is the part of tennis that most resembles a real sport, since the longer it goes the more it rewards placement over power. Baseline exchanges are usually the longest rallies in the modern game, because heavy topspin keeps the ball deep without needing to hit it hard. A player who wins more long rallies is usually not the better striker but the one who can vary direction and height.",
+      "variations": [
+        "Baseline exchanges are usually the longest rallies in the modern game, because heavy topspin keeps the ball deep without needing to hit it hard. A rally is the sequence of shots between serves, and it is the part of tennis that most resembles a real sport, since the longer it goes the more it rewards placement over power. A player who wins more long rallies is usually not the better striker but the one who can vary direction and height.",
+        "A player who wins more long rallies is usually not the better striker but the one who can vary direction and height. A rally is the sequence of shots between serves, and it is the part of tennis that most resembles a real sport, since the longer it goes the more it rewards placement over power. Baseline exchanges are usually the longest rallies in the modern game, because heavy topspin keeps the ball deep without needing to hit it hard."
+      ],
+      "tl": "rally",
+      "bis": "rally"
+    },
+    {
+      "id": "spo-tennis-000005",
+      "topic": "sports-tennis",
+      "intent": "definition",
+      "concept": "tiebreak",
+      "keywords": [
+        "tiebreak",
+        "set",
+        "serve",
+        "adopt",
+        "game",
+        "played",
+        "instead",
+        "long",
+        "reaches"
+      ],
+      "patterns": [
+        "what is tiebreak",
+        "tiebreak",
+        "explain tiebreak",
+        "definition of tiebreak",
+        "tiebreak meaning",
+        "what is a tiebreak",
+        "when is a tiebreak played",
+        "how does a tiebreak work",
+        "ano ang tiebreak",
+        "unsa ang tiebreak"
+      ],
+      "answer": "A tiebreak is a game played instead of a long set when it reaches six-all, and it is won by the first to seven points with a lead of two. The switch to a tiebreak keeps sets from running indefinitely, which is why it was adopted almost everywhere despite some players disliking it. What is unusual is that a tiebreak is served by one player for a whole point then handed over, unlike ordinary games where the serve alternates.",
+      "variations": [
+        "The switch to a tiebreak keeps sets from running indefinitely, which is why it was adopted almost everywhere despite some players disliking it. A tiebreak is a game played instead of a long set when it reaches six-all, and it is won by the first to seven points with a lead of two. What is unusual is that a tiebreak is served by one player for a whole point then handed over, unlike ordinary games where the serve alternates.",
+        "What is unusual is that a tiebreak is served by one player for a whole point then handed over, unlike ordinary games where the serve alternates. A tiebreak is a game played instead of a long set when it reaches six-all, and it is won by the first to seven points with a lead of two. The switch to a tiebreak keeps sets from running indefinitely, which is why it was adopted almost everywhere despite some players disliking it."
+      ],
+      "tl": "tiebreak",
+      "bis": "tiebreak"
+    }
+  ],
+  "lang": "english",
+  "group": "sports",
+  "sub": "tennis",
+  "title": "Tennis",
+  "groupTitle": "Sports"
+}

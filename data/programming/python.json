@@ -1,0 +1,39 @@
+{
+  "topic": "programming-python",
+  "entries": [
+    {
+      "id": "pro-python-000001",
+      "topic": "programming-python",
+      "intent": "definition",
+      "concept": "python",
+      "keywords": [
+        "python",
+        "scripting",
+        "snake",
+        "programming",
+        "language",
+        "built",
+        "readable",
+        "uses"
+      ],
+      "patterns": [
+        "what is python",
+        "python",
+        "explain python",
+        "definition of python",
+        "python meaning",
+        "python language"
+      ],
+      "answer": "Python is a programming language built to be readable. It uses clear English-like syntax and indentation instead of braces, so beginners get to working code quickly. It is used for data analysis, automation, artificial intelligence, and backends. It is the most common language beginners start with.",
+      "variations": [
+        "It uses clear English-like syntax and indentation instead of braces, so beginners get to working code quickly. Python is a programming language built to be readable. It is used for data analysis, automation, artificial intelligence, and backends. It is the most common language beginners start with.",
+        "It is used for data analysis, automation, artificial intelligence, and backends. Python is a programming language built to be readable. It uses clear English-like syntax and indentation instead of braces, so beginners get to working code quickly. It is the most common language beginners start with."
+      ]
+    }
+  ],
+  "lang": "english",
+  "group": "programming",
+  "sub": "python",
+  "title": "Python",
+  "groupTitle": "Programming"
+}

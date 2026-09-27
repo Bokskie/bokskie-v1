@@ -1,0 +1,47 @@
+{
+  "topic": "programming-git",
+  "entries": [
+    {
+      "id": "pro-git-000001",
+      "topic": "programming-git",
+      "intent": "definition",
+      "concept": "git",
+      "keywords": [
+        "git",
+        "commit",
+        "branch",
+        "merge",
+        "repository",
+        "version",
+        "control",
+        "system",
+        "records",
+        "history",
+        "project"
+      ],
+      "patterns": [
+        "what is git",
+        "git",
+        "explain git",
+        "definition of git",
+        "git meaning",
+        "what is a git branch",
+        "how do i use git",
+        "ano ang git",
+        "unsa ang git"
+      ],
+      "answer": "Git is a version control system, so it records the history of a project and lets you see what changed, when and by whom. A commit is one snapshot, and a branch is a movable label pointing at a commit, which is why branching is cheap enough to do per feature. The habit that matters is committing and merging often, because a branch left alone for a month is a conflict nobody wants.",
+      "variations": [
+        "A commit is one snapshot, and a branch is a movable label pointing at a commit, which is why branching is cheap enough to do per feature. Git is a version control system, so it records the history of a project and lets you see what changed, when and by whom. The habit that matters is committing and merging often, because a branch left alone for a month is a conflict nobody wants.",
+        "The habit that matters is committing and merging often, because a branch left alone for a month is a conflict nobody wants. Git is a version control system, so it records the history of a project and lets you see what changed, when and by whom. A commit is one snapshot, and a branch is a movable label pointing at a commit, which is why branching is cheap enough to do per feature."
+      ],
+      "tl": "git",
+      "bis": "git"
+    }
+  ],
+  "lang": "english",
+  "group": "programming",
+  "sub": "git",
+  "title": "Git",
+  "groupTitle": "Programming"
+}

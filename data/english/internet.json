@@ -1,0 +1,231 @@
+{
+  "topic": "english-internet",
+  "entries": [
+    {
+      "id": "eng-internet-000001",
+      "topic": "english-internet",
+      "intent": "definition",
+      "concept": "website",
+      "keywords": [
+        "website",
+        "page",
+        "url",
+        "serve",
+        "network",
+        "compound",
+        "pages",
+        "served",
+        "place",
+        "name",
+        "word"
+      ],
+      "patterns": [
+        "what is website",
+        "website",
+        "explain website",
+        "definition of website",
+        "website meaning",
+        "what is a website",
+        "website or web site spelling",
+        "is a social media account a website",
+        "ano ang website",
+        "unsa ang website"
+      ],
+      "answer": "A website is a set of pages served from one place under one name, and the word has drifted well past that definition, so people say a website for a social media profile or an app that is not a website at all. What all of them share is being fetched over the network and identified by a URL. The word is also a compound, and whether someone says website or web site is a matter of house style rather than correctness.",
+      "variations": [
+        "What all of them share is being fetched over the network and identified by a URL. A website is a set of pages served from one place under one name, and the word has drifted well past that definition, so people say a website for a social media profile or an app that is not a website at all. The word is also a compound, and whether someone says website or web site is a matter of house style rather than correctness.",
+        "The word is also a compound, and whether someone says website or web site is a matter of house style rather than correctness. A website is a set of pages served from one place under one name, and the word has drifted well past that definition, so people say a website for a social media profile or an app that is not a website at all. What all of them share is being fetched over the network and identified by a URL."
+      ],
+      "tl": "website",
+      "bis": "website"
+    },
+    {
+      "id": "eng-internet-000002",
+      "topic": "english-internet",
+      "intent": "definition",
+      "concept": "browser",
+      "keywords": [
+        "browser",
+        "program",
+        "page",
+        "render",
+        "retrieve",
+        "display",
+        "fetches",
+        "pages",
+        "renders",
+        "word"
+      ],
+      "patterns": [
+        "what is browser",
+        "browser",
+        "explain browser",
+        "definition of browser",
+        "browser meaning",
+        "what is a browser",
+        "what does a browser do",
+        "is a browser a program",
+        "ano ang browser",
+        "unsa ang browser"
+      ],
+      "answer": "A browser is the program that fetches pages and renders them, and the word names the software rather than the person using it, where the earlier sense of a browser as someone who looks around has almost died. It has to do three separate jobs: work out where to go, retrieve what is there, and display what came back. That the third is the hardest is not obvious, which is why rendering bugs outnumber network ones.",
+      "variations": [
+        "It has to do three separate jobs: work out where to go, retrieve what is there, and display what came back. A browser is the program that fetches pages and renders them, and the word names the software rather than the person using it, where the earlier sense of a browser as someone who looks around has almost died. That the third is the hardest is not obvious, which is why rendering bugs outnumber network ones.",
+        "That the third is the hardest is not obvious, which is why rendering bugs outnumber network ones. A browser is the program that fetches pages and renders them, and the word names the software rather than the person using it, where the earlier sense of a browser as someone who looks around has almost died. It has to do three separate jobs: work out where to go, retrieve what is there, and display what came back."
+      ],
+      "tl": "browser",
+      "bis": "browser"
+    },
+    {
+      "id": "eng-internet-000003",
+      "topic": "english-internet",
+      "intent": "definition",
+      "concept": "download",
+      "keywords": [
+        "download",
+        "transfer",
+        "upload",
+        "file",
+        "stream",
+        "local",
+        "remote",
+        "machine",
+        "yours"
+      ],
+      "patterns": [
+        "what is download",
+        "download",
+        "explain download",
+        "definition of download",
+        "download meaning",
+        "what is a download",
+        "difference between download and upload",
+        "is a stream a download",
+        "ano ang download",
+        "unsa ang download"
+      ],
+      "answer": "A download is a transfer of data from a remote machine to yours, and the word covers the transfer and the saved copy, so people say I downloaded it about the file and about the act. The inverse is an upload, and the asymmetry is not an accident, because downloading is what most people want and uploading is what a server does. A download that completes is a local file; a stream is the same data that never finishes being a file at all.",
+      "variations": [
+        "The inverse is an upload, and the asymmetry is not an accident, because downloading is what most people want and uploading is what a server does. A download is a transfer of data from a remote machine to yours, and the word covers the transfer and the saved copy, so people say I downloaded it about the file and about the act. A download that completes is a local file; a stream is the same data that never finishes being a file at all.",
+        "A download that completes is a local file; a stream is the same data that never finishes being a file at all. A download is a transfer of data from a remote machine to yours, and the word covers the transfer and the saved copy, so people say I downloaded it about the file and about the act. The inverse is an upload, and the asymmetry is not an accident, because downloading is what most people want and uploading is what a server does."
+      ],
+      "tl": "download",
+      "bis": "download"
+    },
+    {
+      "id": "eng-internet-000004",
+      "topic": "english-internet",
+      "intent": "definition",
+      "concept": "upload",
+      "keywords": [
+        "upload",
+        "send",
+        "publish",
+        "backup",
+        "bandwidth",
+        "connection",
+        "sends",
+        "machine",
+        "remote",
+        "side"
+      ],
+      "patterns": [
+        "what is upload",
+        "upload",
+        "explain upload",
+        "definition of upload",
+        "upload meaning",
+        "what is an upload",
+        "why are uploads slower",
+        "upload vs download",
+        "ano ang upload",
+        "unsa ang upload"
+      ],
+      "answer": "An upload sends data from your machine to a remote one, and it is the side almost nobody chooses, since files move outward only when a person is publishing or backing up. It is also the side that costs the network, because a home connection is built to deliver far more than it accepts. A large upload therefore fails where a large download would work, which is a property of the equipment rather than of the protocol.",
+      "variations": [
+        "It is also the side that costs the network, because a home connection is built to deliver far more than it accepts. An upload sends data from your machine to a remote one, and it is the side almost nobody chooses, since files move outward only when a person is publishing or backing up. A large upload therefore fails where a large download would work, which is a property of the equipment rather than of the protocol.",
+        "A large upload therefore fails where a large download would work, which is a property of the equipment rather than of the protocol. An upload sends data from your machine to a remote one, and it is the side almost nobody chooses, since files move outward only when a person is publishing or backing up. It is also the side that costs the network, because a home connection is built to deliver far more than it accepts."
+      ],
+      "tl": "upload",
+      "bis": "upload"
+    },
+    {
+      "id": "eng-internet-000005",
+      "topic": "english-internet",
+      "intent": "definition",
+      "concept": "wifi",
+      "keywords": [
+        "wifi",
+        "wireless",
+        "radio",
+        "network",
+        "standard",
+        "speed",
+        "family",
+        "standards",
+        "sending"
+      ],
+      "patterns": [
+        "what is wifi",
+        "wifi",
+        "explain wifi",
+        "definition of wifi",
+        "wifi meaning",
+        "is wifi the same as internet",
+        "what is a wifi network",
+        "ano ang wifi",
+        "unsa ang wifi"
+      ],
+      "answer": "Wifi is a family of standards for sending data over radio, and it is a trademark that was never enforced, so the word is now a generic name for wireless local networking. It does not mean the internet, which is the most common misunderstanding, since a network can carry local traffic with no route to anything else. The speeds quoted are theoretical, and real throughput depends on distance, walls, and what else in the room is transmitting.",
+      "variations": [
+        "It does not mean the internet, which is the most common misunderstanding, since a network can carry local traffic with no route to anything else. Wifi is a family of standards for sending data over radio, and it is a trademark that was never enforced, so the word is now a generic name for wireless local networking. The speeds quoted are theoretical, and real throughput depends on distance, walls, and what else in the room is transmitting.",
+        "The speeds quoted are theoretical, and real throughput depends on distance, walls, and what else in the room is transmitting. Wifi is a family of standards for sending data over radio, and it is a trademark that was never enforced, so the word is now a generic name for wireless local networking. It does not mean the internet, which is the most common misunderstanding, since a network can carry local traffic with no route to anything else."
+      ],
+      "tl": "wifi",
+      "bis": "wifi"
+    },
+    {
+      "id": "eng-internet-000006",
+      "topic": "english-internet",
+      "intent": "definition",
+      "concept": "search engine",
+      "keywords": [
+        "search engine",
+        "query",
+        "rank",
+        "relevance",
+        "link",
+        "index",
+        "search",
+        "engine",
+        "answers",
+        "ranked",
+        "list"
+      ],
+      "patterns": [
+        "what is search engine",
+        "search engine",
+        "explain search engine",
+        "definition of search engine",
+        "search engine meaning",
+        "what is a search engine",
+        "how does a search engine rank",
+        "why does a page rank for a word it lacks",
+        "ano ang search engine",
+        "unsa ang search engine"
+      ],
+      "answer": "A search engine answers a query with a ranked list of pages, and the ranking is the whole product, since relevance is not something a page either has or lacks. The systems that produce those rankings have changed more than once, from counting words to following links between them to the learned systems in use now. That history explains why a page can rank well for a term it barely contains, which is the part that makes search marketing possible.",
+      "variations": [
+        "The systems that produce those rankings have changed more than once, from counting words to following links between them to the learned systems in use now. A search engine answers a query with a ranked list of pages, and the ranking is the whole product, since relevance is not something a page either has or lacks. That history explains why a page can rank well for a term it barely contains, which is the part that makes search marketing possible.",
+        "That history explains why a page can rank well for a term it barely contains, which is the part that makes search marketing possible. A search engine answers a query with a ranked list of pages, and the ranking is the whole product, since relevance is not something a page either has or lacks. The systems that produce those rankings have changed more than once, from counting words to following links between them to the learned systems in use now."
+      ],
+      "tl": "search engine",
+      "bis": "search engine"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "internet",
+  "title": "Internet",
+  "groupTitle": "English"
+}

@@ -1,0 +1,121 @@
+{
+  "topic": "science-physics",
+  "entries": [
+    {
+      "id": "sci-physics-000001",
+      "topic": "science-physics",
+      "intent": "definition",
+      "concept": "gravity",
+      "keywords": [
+        "gravity",
+        "gravitation",
+        "newton",
+        "attract",
+        "orbit",
+        "fall",
+        "mutual",
+        "attraction",
+        "anything",
+        "mass",
+        "object"
+      ],
+      "patterns": [
+        "what is gravity",
+        "gravity",
+        "explain gravity",
+        "definition of gravity",
+        "gravity meaning",
+        "how does gravity work",
+        "why do things fall",
+        "ano ang gravity",
+        "unsa ang gravity"
+      ],
+      "answer": "Gravity is the mutual attraction between anything with mass. The more mass an object has, and the closer it is, the stronger the pull. On Earth it is what makes things fall and what keeps you on the ground; in space it is what keeps the Moon in orbit. Newton described it as a force falling off with the square of distance, so doubling the distance quarters the pull.",
+      "variations": [
+        "The more mass an object has, and the closer it is, the stronger the pull. Gravity is the mutual attraction between anything with mass. On Earth it is what makes things fall and what keeps you on the ground; in space it is what keeps the Moon in orbit. Newton described it as a force falling off with the square of distance, so doubling the distance quarters the pull.",
+        "On Earth it is what makes things fall and what keeps you on the ground; in space it is what keeps the Moon in orbit. Gravity is the mutual attraction between anything with mass. The more mass an object has, and the closer it is, the stronger the pull. Newton described it as a force falling off with the square of distance, so doubling the distance quarters the pull."
+      ],
+      "tl": "gravity",
+      "bis": "gravity",
+      "langs": {
+        "tagalog": "Ang gravity ay ang pagkakawit sa pagitan ng dalawang bagay na may mass. Ito ang dahilan kung bakit bumagsak ang mga inihulog, bakit nananatiling nasa orbit ang Buwan, at bakit hindi ka lumulutang - hinihila ka ng Earth sa lahat ng oras, at hinihila mo rin ang Earth nang pantay-pantay. Sa ibabaw ng lupa, parang constant na pag-pull sa ibaba ang dating nito dahil malaki ang Earth at halos lahat ng mass nito ay nasa ilalim ng iyong paa, kaya halos hindi nagbabago ang direksyon habang gumagalaw ka. Lumalabo ito sa layo: sa dalawang beses ang layo mula sa sentro, isang-sapat ang lakas. Isang maling pagkaunawa ang tinatanggap na gravity ay umiiral lang sa ibaba - umiiral ito sa lahat ng direksyon sa pagitan ng mga mass, at iyan ang dahilan kung bakit ang orbit ay freefall.",
+        "bisaya": "Ang gravity mao ang attraction sa between sa duha ka butang nga naa nga mass. Kana man nga rason nga nga makatumba ang mga gihatay, nga nga nga orbit ang Moon, ug nga dili ka mahimong makatakaw - gi-pull ka gyud ni Earth sa tanan nga panahon, ug gi-pull ka usab ni Earth sa equal nga kantidad. Sa surface, mga kanunay nga pull down ang tanan nga naa nga feeling nato tungod sa dako ug dako pa kaayo nga Earth, ug kadto nga mass nga naa gyud sa ilawom nga imong feet, busa apil lang iya undi ang direction kon mousa ka. Mahumot kini sa kayo: kung dualha ang distansia gikan sa center, quarter lang ang kadaanan. Usa ka kasagaran nga sayop ang mga tawo: naa lang daw ang gravity sa ubos - naa gyud siya sa kada direksyon sa between sa mga mass, ug kana man nga rason nga freefall ang orbit."
+      },
+      "confidence": null
+    },
+    {
+      "id": "sci-physics-000002",
+      "topic": "science-physics",
+      "intent": "definition",
+      "concept": "energy",
+      "keywords": [
+        "energy",
+        "power",
+        "joule",
+        "work",
+        "capacity",
+        "cause",
+        "change",
+        "conserved"
+      ],
+      "patterns": [
+        "what is energy",
+        "energy",
+        "explain energy",
+        "definition of energy",
+        "energy meaning",
+        "energy conservation",
+        "what is power",
+        "law of conservation"
+      ],
+      "answer": "Energy is the capacity to do work or cause change, and it is conserved: it can move between forms or objects, but it does not simply appear or vanish. Power is the rate of using it, measured in watts, so a light bulb drawing 60 watts uses 60 joules every second it is on. The forms include kinetic, heat, chemical, electrical and light.",
+      "variations": [
+        "Power is the rate of using it, measured in watts, so a light bulb drawing 60 watts uses 60 joules every second it is on. Energy is the capacity to do work or cause change, and it is conserved: it can move between forms or objects, but it does not simply appear or vanish. The forms include kinetic, heat, chemical, electrical and light.",
+        "The forms include kinetic, heat, chemical, electrical and light. Energy is the capacity to do work or cause change, and it is conserved: it can move between forms or objects, but it does not simply appear or vanish. Power is the rate of using it, measured in watts, so a light bulb drawing 60 watts uses 60 joules every second it is on."
+      ]
+    },
+    {
+      "id": "sci-physics-000003",
+      "topic": "science-physics",
+      "intent": "definition",
+      "concept": "electricity",
+      "keywords": [
+        "electricity",
+        "current",
+        "voltage",
+        "resistance",
+        "ohm",
+        "conductor",
+        "kuryente",
+        "electric",
+        "flow",
+        "charge",
+        "material"
+      ],
+      "patterns": [
+        "what is electricity",
+        "electricity",
+        "explain electricity",
+        "definition of electricity",
+        "electricity meaning",
+        "what is electrical resistance",
+        "what is ohm's law",
+        "why does a light bulb glow",
+        "ano ang electricity",
+        "unsa ang kuryente"
+      ],
+      "answer": "Electric current is a flow of charge, and the resistance a material offers to that flow depends on its structure. Metals have free electrons that move easily and so conduct well, while materials with electrons locked into place insulate. The relationship is Ohm's law, where current is voltage divided by resistance, and the practical consequence is that heating a wire lowers its resistance, which is exactly why a bulb filament glows.",
+      "variations": [
+        "Metals have free electrons that move easily and so conduct well, while materials with electrons locked into place insulate. Electric current is a flow of charge, and the resistance a material offers to that flow depends on its structure. The relationship is Ohm's law, where current is voltage divided by resistance, and the practical consequence is that heating a wire lowers its resistance, which is exactly why a bulb filament glows.",
+        "The relationship is Ohm's law, where current is voltage divided by resistance, and the practical consequence is that heating a wire lowers its resistance, which is exactly why a bulb filament glows. Electric current is a flow of charge, and the resistance a material offers to that flow depends on its structure. Metals have free electrons that move easily and so conduct well, while materials with electrons locked into place insulate."
+      ],
+      "tl": "electricity",
+      "bis": "kuryente"
+    }
+  ],
+  "lang": "english",
+  "group": "science",
+  "sub": "physics",
+  "title": "Physics",
+  "groupTitle": "Science"
+}

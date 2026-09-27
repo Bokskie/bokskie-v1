@@ -1,0 +1,195 @@
+{
+  "topic": "general-knowledge-news",
+  "entries": [
+    {
+      "id": "gen-news-000001",
+      "topic": "general-knowledge-news",
+      "intent": "definition",
+      "concept": "news",
+      "keywords": [
+        "news",
+        "recent",
+        "report",
+        "headline",
+        "live",
+        "today",
+        "balita",
+        "reported",
+        "information",
+        "events",
+        "word"
+      ],
+      "patterns": [
+        "what is news",
+        "news",
+        "explain news",
+        "definition of news",
+        "news meaning",
+        "what is the news today",
+        "how do i get the news",
+        "ano ang news",
+        "unsa ang balita"
+      ],
+      "answer": "News is reported information about recent events, and the word carries a built-in claim of recency that almost nothing in a fixed knowledge bank can satisfy. I can explain what news is, how it is produced, and how to judge it, but I cannot tell you today's headlines: there is no live source behind me and inventing a story about this morning would be the worst thing I could do. If you need today's news, a news site is the right tool and I am the wrong one.",
+      "variations": [
+        "I can explain what news is, how it is produced, and how to judge it, but I cannot tell you today's headlines: there is no live source behind me and inventing a story about this morning would be the worst thing I could do. News is reported information about recent events, and the word carries a built-in claim of recency that almost nothing in a fixed knowledge bank can satisfy. If you need today's news, a news site is the right tool and I am the wrong one.",
+        "If you need today's news, a news site is the right tool and I am the wrong one. News is reported information about recent events, and the word carries a built-in claim of recency that almost nothing in a fixed knowledge bank can satisfy. I can explain what news is, how it is produced, and how to judge it, but I cannot tell you today's headlines: there is no live source behind me and inventing a story about this morning would be the worst thing I could do."
+      ],
+      "tl": "news",
+      "bis": "balita"
+    },
+    {
+      "id": "gen-news-000002",
+      "topic": "general-knowledge-news",
+      "intent": "definition",
+      "concept": "headline",
+      "keywords": [
+        "headline",
+        "title",
+        "brief",
+        "report",
+        "bias",
+        "short",
+        "line",
+        "stating",
+        "main"
+      ],
+      "patterns": [
+        "what is headline",
+        "headline",
+        "explain headline",
+        "definition of headline",
+        "headline meaning",
+        "what is a headline",
+        "why are headlines in present tense",
+        "is a headline a summary",
+        "ano ang headline",
+        "unsa ang ulo ng balita"
+      ],
+      "answer": "A headline is the short line stating the main point of a report, and the conventions in it are so consistent that a headline can be read as a genre. Present tense is standard regardless of when the event happened, numbers and names are dropped when the space is short, and the passive voice keeps blame out. The result is that headlines are systematically more certain than the stories under them, which is a structural bias in the form rather than a conspiracy by any individual outlet.",
+      "variations": [
+        "Present tense is standard regardless of when the event happened, numbers and names are dropped when the space is short, and the passive voice keeps blame out. A headline is the short line stating the main point of a report, and the conventions in it are so consistent that a headline can be read as a genre. The result is that headlines are systematically more certain than the stories under them, which is a structural bias in the form rather than a conspiracy by any individual outlet.",
+        "The result is that headlines are systematically more certain than the stories under them, which is a structural bias in the form rather than a conspiracy by any individual outlet. A headline is the short line stating the main point of a report, and the conventions in it are so consistent that a headline can be read as a genre. Present tense is standard regardless of when the event happened, numbers and names are dropped when the space is short, and the passive voice keeps blame out."
+      ],
+      "tl": "headline",
+      "bis": "ulo ng balita"
+    },
+    {
+      "id": "gen-news-000003",
+      "topic": "general-knowledge-news",
+      "intent": "definition",
+      "concept": "source",
+      "keywords": [
+        "source",
+        "origin",
+        "traceable",
+        "primary",
+        "release",
+        "evidence",
+        "pinagmulan",
+        "piece",
+        "information",
+        "evaluating",
+        "means",
+        "asking"
+      ],
+      "patterns": [
+        "what is source",
+        "source",
+        "explain source",
+        "definition of source",
+        "source meaning",
+        "what is a reliable news source",
+        "how do i check if news is true",
+        "why read the original",
+        "ano ang source",
+        "unsa ang pinagmulan"
+      ],
+      "answer": "A source is where a piece of information came from, and evaluating it means asking who had reason to produce it rather than only whether it is true. A press release is primary but interested, a report by a named journalist with a byline is stronger, and a claim with no traceable origin is not evidence of anything. The practical habit is to look for the original study or the original statement rather than the summary of it, since accuracy is lost in every retelling and most of the loss is in the headline.",
+      "variations": [
+        "A press release is primary but interested, a report by a named journalist with a byline is stronger, and a claim with no traceable origin is not evidence of anything. A source is where a piece of information came from, and evaluating it means asking who had reason to produce it rather than only whether it is true. The practical habit is to look for the original study or the original statement rather than the summary of it, since accuracy is lost in every retelling and most of the loss is in the headline.",
+        "The practical habit is to look for the original study or the original statement rather than the summary of it, since accuracy is lost in every retelling and most of the loss is in the headline. A source is where a piece of information came from, and evaluating it means asking who had reason to produce it rather than only whether it is true. A press release is primary but interested, a report by a named journalist with a byline is stronger, and a claim with no traceable origin is not evidence of anything."
+      ],
+      "tl": "source",
+      "bis": "pinagmulan"
+    },
+    {
+      "id": "gen-news-000004",
+      "topic": "general-knowledge-news",
+      "intent": "definition",
+      "concept": "bias",
+      "keywords": [
+        "bias",
+        "systematic",
+        "selection",
+        "sample",
+        "distortion",
+        "confirmation",
+        "leaning",
+        "coverage",
+        "visible",
+        "single"
+      ],
+      "patterns": [
+        "what is bias",
+        "bias",
+        "explain bias",
+        "definition of bias",
+        "bias meaning",
+        "what is news bias",
+        "is media biased",
+        "what is confirmation bias",
+        "ano ang bias",
+        "unsa ang bias"
+      ],
+      "answer": "Bias is a systematic leaning in coverage that is not visible as a single false statement, which is exactly what makes it hard to see. Selection bias is the commonest: stories that get covered are the ones that are new, dramatic or useful, and the resulting picture is a distorted sample of what happened. Confirmation bias then operates on the reader, who seeks out the sources that already agree. Neither requires anybody to be lying, and that is why both are so widely underestimated.",
+      "variations": [
+        "Selection bias is the commonest: stories that get covered are the ones that are new, dramatic or useful, and the resulting picture is a distorted sample of what happened. Bias is a systematic leaning in coverage that is not visible as a single false statement, which is exactly what makes it hard to see. Confirmation bias then operates on the reader, who seeks out the sources that already agree. Neither requires anybody to be lying, and that is why both are so widely underestimated.",
+        "Confirmation bias then operates on the reader, who seeks out the sources that already agree. Bias is a systematic leaning in coverage that is not visible as a single false statement, which is exactly what makes it hard to see. Selection bias is the commonest: stories that get covered are the ones that are new, dramatic or useful, and the resulting picture is a distorted sample of what happened. Neither requires anybody to be lying, and that is why both are so widely underestimated."
+      ],
+      "tl": "bias",
+      "bis": "bias"
+    },
+    {
+      "id": "gen-news-000005",
+      "topic": "general-knowledge-news",
+      "intent": "definition",
+      "concept": "misinformation",
+      "keywords": [
+        "misinformation",
+        "false",
+        "share",
+        "intend",
+        "deceive",
+        "correct",
+        "information",
+        "shared",
+        "without",
+        "intention"
+      ],
+      "patterns": [
+        "what is misinformation",
+        "misinformation",
+        "explain misinformation",
+        "definition of misinformation",
+        "misinformation meaning",
+        "how do i avoid sharing fake news",
+        "misinformation vs disinformation",
+        "ano ang misinformation",
+        "unsa ang maling impormasyon"
+      ],
+      "answer": "Misinformation is false information shared without an intention to deceive, and the harmful part is that it spreads exactly like accurate reporting, because the format is identical. Nobody has to intend anything for a false claim to do damage; the person who passes it on usually believes it. Disinformation, where the falsity is deliberate, is a smaller category. The most effective response is checking before sharing rather than correcting afterwards, since a correction travels slower and reaches fewer people.",
+      "variations": [
+        "Nobody has to intend anything for a false claim to do damage; the person who passes it on usually believes it. Misinformation is false information shared without an intention to deceive, and the harmful part is that it spreads exactly like accurate reporting, because the format is identical. Disinformation, where the falsity is deliberate, is a smaller category. The most effective response is checking before sharing rather than correcting afterwards, since a correction travels slower and reaches fewer people.",
+        "Disinformation, where the falsity is deliberate, is a smaller category. Misinformation is false information shared without an intention to deceive, and the harmful part is that it spreads exactly like accurate reporting, because the format is identical. Nobody has to intend anything for a false claim to do damage; the person who passes it on usually believes it. The most effective response is checking before sharing rather than correcting afterwards, since a correction travels slower and reaches fewer people."
+      ],
+      "tl": "misinformation",
+      "bis": "maling impormasyon"
+    }
+  ],
+  "lang": "english",
+  "group": "general-knowledge",
+  "sub": "news",
+  "title": "News",
+  "groupTitle": "General Knowledge"
+}

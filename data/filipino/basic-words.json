@@ -1,0 +1,81 @@
+{
+  "topic": "filipino-basic-words",
+  "entries": [
+    {
+      "id": "fil-basic-words-000001",
+      "topic": "filipino-basic-words",
+      "intent": "definition",
+      "concept": "hindi",
+      "keywords": [
+        "hindi",
+        "no",
+        "not",
+        "negative",
+        "negation",
+        "dili",
+        "means",
+        "word",
+        "directly",
+        "before"
+      ],
+      "patterns": [
+        "what is hindi",
+        "hindi",
+        "explain hindi",
+        "definition of hindi",
+        "hindi meaning",
+        "what does hindi mean",
+        "how do you say no in tagalog",
+        "ano ang hindi",
+        "unsa ang dili"
+      ],
+      "answer": "Hindi means no or not, and it is the negative word. It goes directly before the verb, so hindi kita gusto means I do not like you, with no separate do not needed. This makes negation shorter than English in one sense and trickier in another, because the position of the word changes what exactly it negates.",
+      "variations": [
+        "It goes directly before the verb, so hindi kita gusto means I do not like you, with no separate do not needed. Hindi means no or not, and it is the negative word. This makes negation shorter than English in one sense and trickier in another, because the position of the word changes what exactly it negates.",
+        "This makes negation shorter than English in one sense and trickier in another, because the position of the word changes what exactly it negates. Hindi means no or not, and it is the negative word. It goes directly before the verb, so hindi kita gusto means I do not like you, with no separate do not needed."
+      ],
+      "tl": "hindi",
+      "bis": "dili"
+    },
+    {
+      "id": "fil-basic-words-000002",
+      "topic": "filipino-basic-words",
+      "intent": "definition",
+      "concept": "oo",
+      "keywords": [
+        "oo",
+        "yes",
+        "affirmative",
+        "agree",
+        "means",
+        "ordinary",
+        "filipino",
+        "third",
+        "answer"
+      ],
+      "patterns": [
+        "what is oo",
+        "oo",
+        "explain oo",
+        "definition of oo",
+        "oo meaning",
+        "what does oo mean",
+        "how do you say yes in tagalog",
+        "ano ang oo",
+        "unsa ang oo"
+      ],
+      "answer": "Oo means yes, and it is the ordinary affirmative. In Filipino there is also a third answer, which is a polite or uncertain yes that acknowledges the other person without fully agreeing, and mistaking it for a plain yes is a classic misunderstanding. Oo is the direct answer, with or without po.",
+      "variations": [
+        "In Filipino there is also a third answer, which is a polite or uncertain yes that acknowledges the other person without fully agreeing, and mistaking it for a plain yes is a classic misunderstanding. Oo means yes, and it is the ordinary affirmative. Oo is the direct answer, with or without po.",
+        "Oo is the direct answer, with or without po. Oo means yes, and it is the ordinary affirmative. In Filipino there is also a third answer, which is a polite or uncertain yes that acknowledges the other person without fully agreeing, and mistaking it for a plain yes is a classic misunderstanding."
+      ],
+      "tl": "oo",
+      "bis": "oo"
+    }
+  ],
+  "lang": "tagalog",
+  "group": "filipino",
+  "sub": "basic-words",
+  "title": "Basic words",
+  "groupTitle": "Filipino"
+}

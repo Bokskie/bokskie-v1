@@ -1,0 +1,4 @@
+# programming-algorithms.kb - Programming / Algorithms
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 1 entries, one genuinely distinct fact per line.
+algorithm | definition | An algorithm is a step-by-step method for solving a problem. When people compare algorithms they usually mean how the work grows as the input grows, written as Big O notation. An O(n) loop visits each item once; an O(n squared) loop compares every item to every other, so ten times the input means a hundred times the work. Choosing the right complexity is often the whole optimisation. | complexity, efficient, performance | big o, what is an algorithm, big o notation, what is time complexity |  |

@@ -1,0 +1,5 @@
+# filipino-greetings.kb - Filipino / Greetings
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 2 entries, one genuinely distinct fact per line.
+salamat | definition | Salamat means thank you, and it comes from the Spanish gracias turned into thanks, which is one trace of over three centuries of Spanish rule. Maraming salamat is the common intensifier, meaning many thanks, and it is what you would actually say rather than the bare word. The reply is walang problema, and the idiom is a genuine response rather than a brush-off. | thank you, salamat, thanks, maraming | what does salamat mean, how do you say thank you in tagalog | salamat | salamat
+kumusta | definition | Kumusta means how are you or what is the news, and it is the standard greeting in Filipino. It is also shortened to musta, and kamusta is a very common misspelling, since the letter u is easy to slip into. The answer is maganda, or a description of what is actually going on, since the question genuinely asks for news rather than just for a greeting. | how are you, kumusta, musta, greeting, news | what does kumusta mean, how do you greet in tagalog | kumusta | kumusta

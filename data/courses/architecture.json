@@ -1,0 +1,160 @@
+{
+  "topic": "courses-architecture",
+  "entries": [
+    {
+      "id": "cou-architecture-000001",
+      "topic": "courses-architecture",
+      "intent": "definition",
+      "concept": "architecture",
+      "keywords": [
+        "architecture",
+        "building",
+        "design",
+        "structure",
+        "service",
+        "usable",
+        "arkitektura",
+        "designing",
+        "buildings",
+        "work",
+        "word",
+        "confused"
+      ],
+      "patterns": [
+        "what is architecture",
+        "architecture",
+        "explain architecture",
+        "definition of architecture",
+        "architecture meaning",
+        "is architecture only about design",
+        "what does an architect do",
+        "ano ang architecture",
+        "unsa ang arkitektura"
+      ],
+      "answer": "Architecture is designing buildings so they work, and the word is often confused with the narrower sense of how they look. The professional definition includes the things that make a building usable and standing up: structure, services, circulation, light, and the law that governs it. Most of the work happens before anything is built, in drawings and models that exist to be argued with, and the profession is unusually dependent on being wrong cheaply at the start.",
+      "variations": [
+        "The professional definition includes the things that make a building usable and standing up: structure, services, circulation, light, and the law that governs it. Architecture is designing buildings so they work, and the word is often confused with the narrower sense of how they look. Most of the work happens before anything is built, in drawings and models that exist to be argued with, and the profession is unusually dependent on being wrong cheaply at the start.",
+        "Most of the work happens before anything is built, in drawings and models that exist to be argued with, and the profession is unusually dependent on being wrong cheaply at the start. Architecture is designing buildings so they work, and the word is often confused with the narrower sense of how they look. The professional definition includes the things that make a building usable and standing up: structure, services, circulation, light, and the law that governs it."
+      ],
+      "tl": "architecture",
+      "bis": "arkitektura"
+    },
+    {
+      "id": "cou-architecture-000002",
+      "topic": "courses-architecture",
+      "intent": "definition",
+      "concept": "architect",
+      "keywords": [
+        "architect",
+        "design",
+        "legal",
+        "seal",
+        "responsible",
+        "training",
+        "arkitekto",
+        "designs",
+        "buildings",
+        "legally"
+      ],
+      "patterns": [
+        "what is architect",
+        "architect",
+        "explain architect",
+        "definition of architect",
+        "architect meaning",
+        "how do i become an architect",
+        "how long does architecture take",
+        "is architecture a good career",
+        "ano ang architect",
+        "unsa ang arkitekto"
+      ],
+      "answer": "An architect designs buildings and is legally responsible for the design, which is a heavier word than it sounds and is the reason for the professional seal on the drawings. The seal means an architect takes the legal and professional responsibility, so a building can go up even when the contractor who built it was at fault. Training is longer than most bachelor degrees in the Philippines, commonly five years for the degree plus a year of practical experience, because the responsibility only comes with the experience.",
+      "variations": [
+        "The seal means an architect takes the legal and professional responsibility, so a building can go up even when the contractor who built it was at fault. An architect designs buildings and is legally responsible for the design, which is a heavier word than it sounds and is the reason for the professional seal on the drawings. Training is longer than most bachelor degrees in the Philippines, commonly five years for the degree plus a year of practical experience, because the responsibility only comes with the experience.",
+        "Training is longer than most bachelor degrees in the Philippines, commonly five years for the degree plus a year of practical experience, because the responsibility only comes with the experience. An architect designs buildings and is legally responsible for the design, which is a heavier word than it sounds and is the reason for the professional seal on the drawings. The seal means an architect takes the legal and professional responsibility, so a building can go up even when the contractor who built it was at fault."
+      ],
+      "tl": "architect",
+      "bis": "arkitekto"
+    },
+    {
+      "id": "cou-architecture-000003",
+      "topic": "courses-architecture",
+      "intent": "definition",
+      "concept": "model",
+      "keywords": [
+        "model",
+        "scale",
+        "massing",
+        "digital",
+        "coordinate",
+        "drawing",
+        "modelo",
+        "physical",
+        "representation",
+        "building",
+        "exists"
+      ],
+      "patterns": [
+        "what is model",
+        "model",
+        "explain model",
+        "definition of model",
+        "model meaning",
+        "why do architects make models",
+        "physical vs digital model",
+        "what is a model in architecture",
+        "ano ang model",
+        "unsa ang modelo"
+      ],
+      "answer": "A model is a physical or digital representation of a building, and it exists to make a decision easier, not to be a smaller version of the answer. Scale models make massing and sightlines visible in a way a drawing cannot, which is why clients and planning officers both ask for them. Digital models go further and let the structure, lighting and services be coordinated before anything exists, and coordination is where most building failures start.",
+      "variations": [
+        "Scale models make massing and sightlines visible in a way a drawing cannot, which is why clients and planning officers both ask for them. A model is a physical or digital representation of a building, and it exists to make a decision easier, not to be a smaller version of the answer. Digital models go further and let the structure, lighting and services be coordinated before anything exists, and coordination is where most building failures start.",
+        "Digital models go further and let the structure, lighting and services be coordinated before anything exists, and coordination is where most building failures start. A model is a physical or digital representation of a building, and it exists to make a decision easier, not to be a smaller version of the answer. Scale models make massing and sightlines visible in a way a drawing cannot, which is why clients and planning officers both ask for them."
+      ],
+      "tl": "model",
+      "bis": "modelo"
+    },
+    {
+      "id": "cou-architecture-000004",
+      "topic": "courses-architecture",
+      "intent": "definition",
+      "concept": "green building",
+      "keywords": [
+        "green building",
+        "energy",
+        "water",
+        "shading",
+        "envelope",
+        "rating",
+        "green",
+        "building",
+        "designed",
+        "waste"
+      ],
+      "patterns": [
+        "what is green building",
+        "green building",
+        "explain green building",
+        "definition of green building",
+        "green building meaning",
+        "what is a green building",
+        "is green architecture worth it",
+        "what is a building envelope",
+        "ano ang green building",
+        "unsa ang berdengaw na gusali"
+      ],
+      "answer": "A green building is designed to use less energy and water and to waste less, and the rating systems that certify them measure specific things rather than intent. The biggest saving usually comes from orientation, shading and the building envelope, since those are fixed once built, and equipment choices come after. It is also frequently mis-sold: a building can be called green for using a particular material while ignoring orientation entirely, which is why certification exists.",
+      "variations": [
+        "The biggest saving usually comes from orientation, shading and the building envelope, since those are fixed once built, and equipment choices come after. A green building is designed to use less energy and water and to waste less, and the rating systems that certify them measure specific things rather than intent. It is also frequently mis-sold: a building can be called green for using a particular material while ignoring orientation entirely, which is why certification exists.",
+        "It is also frequently mis-sold: a building can be called green for using a particular material while ignoring orientation entirely, which is why certification exists. A green building is designed to use less energy and water and to waste less, and the rating systems that certify them measure specific things rather than intent. The biggest saving usually comes from orientation, shading and the building envelope, since those are fixed once built, and equipment choices come after."
+      ],
+      "tl": "green building",
+      "bis": "berdengaw na gusali"
+    }
+  ],
+  "lang": "english",
+  "group": "courses",
+  "sub": "architecture",
+  "title": "Architecture",
+  "groupTitle": "Courses"
+}

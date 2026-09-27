@@ -1,0 +1,79 @@
+{
+  "topic": "cebuano-pronouns",
+  "entries": [
+    {
+      "id": "ceb-pronouns-000001",
+      "topic": "cebuano-pronouns",
+      "intent": "definition",
+      "concept": "kami",
+      "keywords": [
+        "kami",
+        "we",
+        "they",
+        "plural",
+        "group",
+        "means",
+        "cebuano",
+        "covers",
+        "both",
+        "genuine"
+      ],
+      "patterns": [
+        "what is kami",
+        "kami",
+        "explain kami",
+        "definition of kami",
+        "kami meaning",
+        "kami o kita",
+        "ano ang kami",
+        "unsa ang kami"
+      ],
+      "answer": "Kami means we or they, and in Cebuano it covers both, which is a genuine difference from Tagalog where tayo and kami are carefully kept apart. As a pronoun it can be inclusive or exclusive depending on context, so the meaning comes from who is speaking. It is also the polite plural form of kamaw, which is the singular you.",
+      "variations": [
+        "As a pronoun it can be inclusive or exclusive depending on context, so the meaning comes from who is speaking. Kami means we or they, and in Cebuano it covers both, which is a genuine difference from Tagalog where tayo and kami are carefully kept apart. It is also the polite plural form of kamaw, which is the singular you.",
+        "It is also the polite plural form of kamaw, which is the singular you. Kami means we or they, and in Cebuano it covers both, which is a genuine difference from Tagalog where tayo and kami are carefully kept apart. As a pronoun it can be inclusive or exclusive depending on context, so the meaning comes from who is speaking."
+      ],
+      "tl": "kami",
+      "bis": "kami"
+    },
+    {
+      "id": "ceb-pronouns-000002",
+      "topic": "cebuano-pronouns",
+      "intent": "definition",
+      "concept": "ikaw",
+      "keywords": [
+        "ikaw",
+        "you",
+        "kamaw",
+        "familiar",
+        "polite",
+        "means",
+        "singular",
+        "everyday",
+        "friends"
+      ],
+      "patterns": [
+        "what is ikaw",
+        "ikaw",
+        "explain ikaw",
+        "definition of ikaw",
+        "ikaw meaning",
+        "ikaw o kamaw which is polite",
+        "ano ang ikaw",
+        "unsa ang ikaw"
+      ],
+      "answer": "Ikaw means you, singular and familiar, and it is the everyday form used with friends, family and children. The polite form is kamaw, and that is the one to use with a customer, an elder or a stranger. Using ikaw to someone you have just met can come across as too familiar, so kamaw is the safer default in a shop.",
+      "variations": [
+        "The polite form is kamaw, and that is the one to use with a customer, an elder or a stranger. Ikaw means you, singular and familiar, and it is the everyday form used with friends, family and children. Using ikaw to someone you have just met can come across as too familiar, so kamaw is the safer default in a shop.",
+        "Using ikaw to someone you have just met can come across as too familiar, so kamaw is the safer default in a shop. Ikaw means you, singular and familiar, and it is the everyday form used with friends, family and children. The polite form is kamaw, and that is the one to use with a customer, an elder or a stranger."
+      ],
+      "tl": "ikaw",
+      "bis": "ikaw"
+    }
+  ],
+  "lang": "bisaya",
+  "group": "cebuano",
+  "sub": "pronouns",
+  "title": "Pronouns",
+  "groupTitle": "Cebuano"
+}

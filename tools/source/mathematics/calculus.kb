@@ -1,0 +1,4 @@
+# mathematics-calculus.kb - Mathematics / Calculus
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 1 entries, one genuinely distinct fact per line.
+derivative | definition | A derivative measures how fast something changes with respect to something else. Graphically it is the slope of the tangent line at a point. If distance is a function of time, the derivative of distance is speed; the derivative of speed is acceleration. Calculus is built on it, together with the integral, which adds up infinitely many tiny slices to get a total. | calculus, rate, slope, differential | what is a derivative, what is calculus |  |

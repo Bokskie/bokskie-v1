@@ -1,0 +1,48 @@
+{
+  "topic": "mathematics-probability",
+  "entries": [
+    {
+      "id": "mat-probability-000001",
+      "topic": "mathematics-probability",
+      "intent": "definition",
+      "concept": "probability",
+      "keywords": [
+        "probability",
+        "odds",
+        "chance",
+        "independent",
+        "random",
+        "Probabilidad",
+        "measures",
+        "likely",
+        "event",
+        "impossible",
+        "certain"
+      ],
+      "patterns": [
+        "what is probability",
+        "probability",
+        "explain probability",
+        "definition of probability",
+        "probability meaning",
+        "why is two heads 25 percent",
+        "what is the birthday problem",
+        "how do i calculate probability",
+        "ano ang probability",
+        "unsa ang Probabilidad"
+      ],
+      "answer": "Probability measures how likely an event is, from 0 for impossible to 1 for certain, and the rule that catches people is that the probabilities of independent outcomes multiply. Two fair coin tosses are not 50 percent likely to be two heads, they are 25 percent, because the second toss is half of the first. The other correction is the birthday problem, where finding a shared birthday becomes more likely than not with only about 23 people.",
+      "variations": [
+        "Two fair coin tosses are not 50 percent likely to be two heads, they are 25 percent, because the second toss is half of the first. Probability measures how likely an event is, from 0 for impossible to 1 for certain, and the rule that catches people is that the probabilities of independent outcomes multiply. The other correction is the birthday problem, where finding a shared birthday becomes more likely than not with only about 23 people.",
+        "The other correction is the birthday problem, where finding a shared birthday becomes more likely than not with only about 23 people. Probability measures how likely an event is, from 0 for impossible to 1 for certain, and the rule that catches people is that the probabilities of independent outcomes multiply. Two fair coin tosses are not 50 percent likely to be two heads, they are 25 percent, because the second toss is half of the first."
+      ],
+      "tl": "probability",
+      "bis": "Probabilidad"
+    }
+  ],
+  "lang": "english",
+  "group": "mathematics",
+  "sub": "probability",
+  "title": "Probability",
+  "groupTitle": "Mathematics"
+}

@@ -1,0 +1,195 @@
+{
+  "topic": "sports-badminton",
+  "entries": [
+    {
+      "id": "spo-badminton-000001",
+      "topic": "sports-badminton",
+      "intent": "definition",
+      "concept": "shuttlecock",
+      "keywords": [
+        "shuttlecock",
+        "shuttle",
+        "feather",
+        "plastic",
+        "cork",
+        "speed",
+        "projectile",
+        "badminton",
+        "feathers",
+        "rather"
+      ],
+      "patterns": [
+        "what is shuttlecock",
+        "shuttlecock",
+        "explain shuttlecock",
+        "definition of shuttlecock",
+        "shuttlecock meaning",
+        "what is a shuttlecock",
+        "why is a shuttlecock called a shuttle",
+        "how fast does a shuttle travel",
+        "ano ang shuttlecock",
+        "unsa ang shuttlecock"
+      ],
+      "answer": "A shuttlecock is the projectile used in badminton, and it is made of feathers or plastic rather than being a hollow ball, which is why it is called a shuttle. It is the lightest and fastest object in any mainstream racket sport, hitting speeds well over 400 kilometres an hour. That speed comes from the shape, since a cork nose and flared skirt let it pass through the air with far less drag than a sphere.",
+      "variations": [
+        "It is the lightest and fastest object in any mainstream racket sport, hitting speeds well over 400 kilometres an hour. A shuttlecock is the projectile used in badminton, and it is made of feathers or plastic rather than being a hollow ball, which is why it is called a shuttle. That speed comes from the shape, since a cork nose and flared skirt let it pass through the air with far less drag than a sphere.",
+        "That speed comes from the shape, since a cork nose and flared skirt let it pass through the air with far less drag than a sphere. A shuttlecock is the projectile used in badminton, and it is made of feathers or plastic rather than being a hollow ball, which is why it is called a shuttle. It is the lightest and fastest object in any mainstream racket sport, hitting speeds well over 400 kilometres an hour."
+      ],
+      "tl": "shuttlecock",
+      "bis": "shuttlecock"
+    },
+    {
+      "id": "spo-badminton-000002",
+      "topic": "sports-badminton",
+      "intent": "definition",
+      "concept": "smash",
+      "keywords": [
+        "smash",
+        "overhead",
+        "attack",
+        "jump",
+        "flat",
+        "block",
+        "shot",
+        "hard",
+        "badminton's",
+        "primary"
+      ],
+      "patterns": [
+        "what is smash",
+        "smash",
+        "explain smash",
+        "definition of smash",
+        "smash meaning",
+        "what is a smash in badminton",
+        "how to hit a jump smash",
+        "is smash the same as spike",
+        "ano ang smash",
+        "unsa ang smash"
+      ],
+      "answer": "A smash is an overhead shot hit down hard, and it is badminton's primary attacking stroke, the equivalent of a spike in volleyball. It is produced by a full arm swing plus a jump, and a flat smash is almost impossible to block. The common variant is the jump smash, taken from above the head while airborne, which is far more powerful and is the shot the sport's power players are known for.",
+      "variations": [
+        "It is produced by a full arm swing plus a jump, and a flat smash is almost impossible to block. A smash is an overhead shot hit down hard, and it is badminton's primary attacking stroke, the equivalent of a spike in volleyball. The common variant is the jump smash, taken from above the head while airborne, which is far more powerful and is the shot the sport's power players are known for.",
+        "The common variant is the jump smash, taken from above the head while airborne, which is far more powerful and is the shot the sport's power players are known for. A smash is an overhead shot hit down hard, and it is badminton's primary attacking stroke, the equivalent of a spike in volleyball. It is produced by a full arm swing plus a jump, and a flat smash is almost impossible to block."
+      ],
+      "tl": "smash",
+      "bis": "smash"
+    },
+    {
+      "id": "spo-badminton-000003",
+      "topic": "sports-badminton",
+      "intent": "definition",
+      "concept": "service court",
+      "keywords": [
+        "service court",
+        "serve",
+        "land",
+        "underhand",
+        "fault",
+        "service",
+        "court",
+        "area",
+        "must"
+      ],
+      "patterns": [
+        "what is service court",
+        "service court",
+        "explain service court",
+        "definition of service court",
+        "service court meaning",
+        "what is a service court",
+        "what is a service fault in badminton",
+        "can you serve overhead",
+        "ano ang service court",
+        "unsa ang service court"
+      ],
+      "answer": "The service court is the area where a serve must land, and it is divided by a centre line so it is not simply the whole half. Standing in the wrong court is one of the most common beginner faults and costs the rally immediately, which is why beginners serve from the sideline rather than from behind it. The service is also underhand by rule, with the shuttle hit below the waist, and there is no overhead serve in the sport.",
+      "variations": [
+        "Standing in the wrong court is one of the most common beginner faults and costs the rally immediately, which is why beginners serve from the sideline rather than from behind it. The service court is the area where a serve must land, and it is divided by a centre line so it is not simply the whole half. The service is also underhand by rule, with the shuttle hit below the waist, and there is no overhead serve in the sport.",
+        "The service is also underhand by rule, with the shuttle hit below the waist, and there is no overhead serve in the sport. The service court is the area where a serve must land, and it is divided by a centre line so it is not simply the whole half. Standing in the wrong court is one of the most common beginner faults and costs the rally immediately, which is why beginners serve from the sideline rather than from behind it."
+      ],
+      "tl": "service court",
+      "bis": "service court"
+    },
+    {
+      "id": "spo-badminton-000004",
+      "topic": "sports-badminton",
+      "intent": "definition",
+      "concept": "doubles",
+      "keywords": [
+        "doubles",
+        "pair",
+        "court",
+        "cover",
+        "formation",
+        "rotate",
+        "played",
+        "against",
+        "whole",
+        "structure",
+        "exists"
+      ],
+      "patterns": [
+        "what is doubles",
+        "doubles",
+        "explain doubles",
+        "definition of doubles",
+        "doubles meaning",
+        "what is doubles in badminton",
+        "how to position in doubles",
+        "is doubles different from singles",
+        "ano ang doubles",
+        "unsa ang doubles"
+      ],
+      "answer": "Doubles is played two against two, and the whole structure exists because the shuttle is too fast for one player to cover the whole court. Pairing is about complementary positions rather than two equal players, since a strong attacker on the same side as another one leaves a gap at the back. The attacking pair in a pair game is set and rotates, and their formation of attacking side by side or one behind the other is a genuine tactical choice.",
+      "variations": [
+        "Pairing is about complementary positions rather than two equal players, since a strong attacker on the same side as another one leaves a gap at the back. Doubles is played two against two, and the whole structure exists because the shuttle is too fast for one player to cover the whole court. The attacking pair in a pair game is set and rotates, and their formation of attacking side by side or one behind the other is a genuine tactical choice.",
+        "The attacking pair in a pair game is set and rotates, and their formation of attacking side by side or one behind the other is a genuine tactical choice. Doubles is played two against two, and the whole structure exists because the shuttle is too fast for one player to cover the whole court. Pairing is about complementary positions rather than two equal players, since a strong attacker on the same side as another one leaves a gap at the back."
+      ],
+      "tl": "doubles",
+      "bis": "doubles"
+    },
+    {
+      "id": "spo-badminton-000005",
+      "topic": "sports-badminton",
+      "intent": "definition",
+      "concept": "let",
+      "keywords": [
+        "let",
+        "replay",
+        "interrupted",
+        "etiquette",
+        "casual",
+        "call",
+        "rally",
+        "shuttle",
+        "landing",
+        "cord"
+      ],
+      "patterns": [
+        "what is let",
+        "let",
+        "explain let",
+        "definition of let",
+        "let meaning",
+        "what is a let in badminton",
+        "when can you call a let",
+        "who can call a let",
+        "ano ang let",
+        "unsa ang let"
+      ],
+      "answer": "A let is a call made when a rally is interrupted, usually by a shuttle landing on the net cord and dropping back, and it causes the point to be replayed rather than awarded. Only the side that was not obviously winning may call it, which is a rule about etiquette as much as fairness. It also happens when somebody is not ready, and in a casual game the correct procedure is to stop the rally and say let rather than to play on.",
+      "variations": [
+        "Only the side that was not obviously winning may call it, which is a rule about etiquette as much as fairness. A let is a call made when a rally is interrupted, usually by a shuttle landing on the net cord and dropping back, and it causes the point to be replayed rather than awarded. It also happens when somebody is not ready, and in a casual game the correct procedure is to stop the rally and say let rather than to play on.",
+        "It also happens when somebody is not ready, and in a casual game the correct procedure is to stop the rally and say let rather than to play on. A let is a call made when a rally is interrupted, usually by a shuttle landing on the net cord and dropping back, and it causes the point to be replayed rather than awarded. Only the side that was not obviously winning may call it, which is a rule about etiquette as much as fairness."
+      ],
+      "tl": "let",
+      "bis": "let"
+    }
+  ],
+  "lang": "english",
+  "group": "sports",
+  "sub": "badminton",
+  "title": "Badminton",
+  "groupTitle": "Sports"
+}

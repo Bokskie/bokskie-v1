@@ -1,0 +1,351 @@
+{
+  "topic": "english-grammar",
+  "entries": [
+    {
+      "id": "eng-grammar-000001",
+      "topic": "english-grammar",
+      "intent": "definition",
+      "concept": "tense",
+      "keywords": [
+        "tense",
+        "present",
+        "past",
+        "future",
+        "grammar",
+        "perfect",
+        "panahon",
+        "shows",
+        "action",
+        "happens",
+        "relative",
+        "speaker"
+      ],
+      "patterns": [
+        "what is tense",
+        "tense",
+        "explain tense",
+        "definition of tense",
+        "tense meaning",
+        "what is a tense",
+        "how many tenses in english",
+        "past perfect",
+        "ano ang panahon",
+        "unsa ang panahon"
+      ],
+      "answer": "A tense shows when an action happens relative to the speaker, and English marks three times: present, past and future. It also carries a second distinction that catches learners, because the present simple describes habits and also sounds like the present continuous for something happening now. Going further back needs the past perfect, which is not optional there, so I had written before I left.",
+      "variations": [
+        "It also carries a second distinction that catches learners, because the present simple describes habits and also sounds like the present continuous for something happening now. A tense shows when an action happens relative to the speaker, and English marks three times: present, past and future. Going further back needs the past perfect, which is not optional there, so I had written before I left.",
+        "Going further back needs the past perfect, which is not optional there, so I had written before I left. A tense shows when an action happens relative to the speaker, and English marks three times: present, past and future. It also carries a second distinction that catches learners, because the present simple describes habits and also sounds like the present continuous for something happening now."
+      ],
+      "tl": "panahon",
+      "bis": "panahon"
+    },
+    {
+      "id": "eng-grammar-000002",
+      "topic": "english-grammar",
+      "intent": "definition",
+      "concept": "subject verb agreement",
+      "keywords": [
+        "subject verb agreement",
+        "agreement",
+        "verb",
+        "subject",
+        "plural",
+        "singular",
+        "grammar",
+        "gramatika",
+        "means",
+        "changes",
+        "match"
+      ],
+      "patterns": [
+        "what is subject verb agreement",
+        "subject verb agreement",
+        "explain subject verb agreement",
+        "definition of subject verb agreement",
+        "subject verb agreement meaning",
+        "subject verb agreement rules",
+        "he runs or they run",
+        "when is the verb plural",
+        "ano ang grammar",
+        "unsa ang gramatika"
+      ],
+      "answer": "Subject-verb agreement means the verb changes to match its subject, so he runs but they run, and I am but you are. The rule is simple and the exceptions are where the difficulty is, since collective nouns take a singular verb when the group acts as one and a plural when the members act separately. Distance also misleads, because a long phrase between the subject and the verb does not make the verb plural.",
+      "variations": [
+        "The rule is simple and the exceptions are where the difficulty is, since collective nouns take a singular verb when the group acts as one and a plural when the members act separately. Subject-verb agreement means the verb changes to match its subject, so he runs but they run, and I am but you are. Distance also misleads, because a long phrase between the subject and the verb does not make the verb plural.",
+        "Distance also misleads, because a long phrase between the subject and the verb does not make the verb plural. Subject-verb agreement means the verb changes to match its subject, so he runs but they run, and I am but you are. The rule is simple and the exceptions are where the difficulty is, since collective nouns take a singular verb when the group acts as one and a plural when the members act separately."
+      ],
+      "tl": "grammar",
+      "bis": "gramatika"
+    },
+    {
+      "id": "eng-grammar-000003",
+      "topic": "english-grammar",
+      "intent": "definition",
+      "concept": "article",
+      "keywords": [
+        "article",
+        "a",
+        "an",
+        "the",
+        "grammar",
+        "artikulo",
+        "articles",
+        "language",
+        "closed",
+        "usual",
+        "pattern"
+      ],
+      "patterns": [
+        "what is article",
+        "article",
+        "explain article",
+        "definition of article",
+        "article meaning",
+        "when do i use a or an",
+        "when do i use the",
+        "zero article rules",
+        "ano ang artikulo",
+        "unsa ang artikulo"
+      ],
+      "answer": "The articles are a, an and the, and a language can have a closed set of them the way English does. The usual pattern is a or an for something not already identified, and the for something both speakers already know. The main trap is the zero article, where English omits it and the learner supplies one: the best of the, at school, go home.",
+      "variations": [
+        "The usual pattern is a or an for something not already identified, and the for something both speakers already know. The articles are a, an and the, and a language can have a closed set of them the way English does. The main trap is the zero article, where English omits it and the learner supplies one: the best of the, at school, go home.",
+        "The main trap is the zero article, where English omits it and the learner supplies one: the best of the, at school, go home. The articles are a, an and the, and a language can have a closed set of them the way English does. The usual pattern is a or an for something not already identified, and the for something both speakers already know."
+      ],
+      "tl": "artikulo",
+      "bis": "artikulo"
+    },
+    {
+      "id": "eng-grammar-000004",
+      "topic": "english-grammar",
+      "intent": "definition",
+      "concept": "preposition",
+      "keywords": [
+        "preposition",
+        "in",
+        "on",
+        "at",
+        "under",
+        "relationship",
+        "shows",
+        "noun",
+        "something",
+        "else"
+      ],
+      "patterns": [
+        "what is preposition",
+        "preposition",
+        "explain preposition",
+        "definition of preposition",
+        "preposition meaning",
+        "prepositions of time",
+        "difference between on and in",
+        "which prepositions take two objects",
+        "ano ang preposition",
+        "unsa ang preposition"
+      ],
+      "answer": "A preposition shows the relationship between a noun and something else, as in on, in, at, for and with. Some take one object and some take two, which is a genuine difference rather than a preference, so I gave the book to Sam rather than I gave Sam the book. There is no reliable rule for choosing between on and in for places, which is why the correct answer is learn it as a phrase.",
+      "variations": [
+        "Some take one object and some take two, which is a genuine difference rather than a preference, so I gave the book to Sam rather than I gave Sam the book. A preposition shows the relationship between a noun and something else, as in on, in, at, for and with. There is no reliable rule for choosing between on and in for places, which is why the correct answer is learn it as a phrase.",
+        "There is no reliable rule for choosing between on and in for places, which is why the correct answer is learn it as a phrase. A preposition shows the relationship between a noun and something else, as in on, in, at, for and with. Some take one object and some take two, which is a genuine difference rather than a preference, so I gave the book to Sam rather than I gave Sam the book."
+      ],
+      "tl": "preposition",
+      "bis": "preposition"
+    },
+    {
+      "id": "eng-grammar-000005",
+      "topic": "english-grammar",
+      "intent": "definition",
+      "concept": "pronoun",
+      "keywords": [
+        "pronoun",
+        "case",
+        "subject",
+        "object",
+        "he",
+        "him",
+        "they",
+        "them",
+        "stands",
+        "noun",
+        "pronouns",
+        "divide"
+      ],
+      "patterns": [
+        "what is pronoun",
+        "pronoun",
+        "explain pronoun",
+        "definition of pronoun",
+        "pronoun meaning",
+        "subject versus object pronouns",
+        "why is it between you and me",
+        "list of pronouns",
+        "ano ang pronoun",
+        "unsa ang pronoun"
+      ],
+      "answer": "A pronoun stands in for a noun, and English pronouns divide by person, number and case. Case is the part that catches learners, because the subject forms I, you, he and we become object forms me, you, him and us. The awkward cases are the ones where an object pronoun is needed after a preposition, as in between you and me rather than between you and I.",
+      "variations": [
+        "Case is the part that catches learners, because the subject forms I, you, he and we become object forms me, you, him and us. A pronoun stands in for a noun, and English pronouns divide by person, number and case. The awkward cases are the ones where an object pronoun is needed after a preposition, as in between you and me rather than between you and I.",
+        "The awkward cases are the ones where an object pronoun is needed after a preposition, as in between you and me rather than between you and I. A pronoun stands in for a noun, and English pronouns divide by person, number and case. Case is the part that catches learners, because the subject forms I, you, he and we become object forms me, you, him and us."
+      ],
+      "tl": "pronoun",
+      "bis": "pronoun"
+    },
+    {
+      "id": "eng-grammar-000006",
+      "topic": "english-grammar",
+      "intent": "definition",
+      "concept": "irregular verb",
+      "keywords": [
+        "irregular verb",
+        "irregular",
+        "verb",
+        "wrote",
+        "read",
+        "memorise",
+        "follow",
+        "regular",
+        "past",
+        "tense"
+      ],
+      "patterns": [
+        "what is irregular verb",
+        "irregular verb",
+        "explain irregular verb",
+        "definition of irregular verb",
+        "irregular verb meaning",
+        "irregular verbs list",
+        "why are some verbs irregular",
+        "how many irregular verbs",
+        "ano ang verb",
+        "unsa ang verb"
+      ],
+      "answer": "An irregular verb does not follow the regular past-tense pattern, so you write wrote rather than writed, and there are around two hundred of them. The regular ones just add ed, and the irregulars exist because English stopped changing its verbs centuries ago, leaving a set that has to be memorised. The useful trick is pairing them, so go, went, gone and come, came, come, which makes the pattern visible even where the rule is not.",
+      "variations": [
+        "The regular ones just add ed, and the irregulars exist because English stopped changing its verbs centuries ago, leaving a set that has to be memorised. An irregular verb does not follow the regular past-tense pattern, so you write wrote rather than writed, and there are around two hundred of them. The useful trick is pairing them, so go, went, gone and come, came, come, which makes the pattern visible even where the rule is not.",
+        "The useful trick is pairing them, so go, went, gone and come, came, come, which makes the pattern visible even where the rule is not. An irregular verb does not follow the regular past-tense pattern, so you write wrote rather than writed, and there are around two hundred of them. The regular ones just add ed, and the irregulars exist because English stopped changing its verbs centuries ago, leaving a set that has to be memorised."
+      ],
+      "tl": "verb",
+      "bis": "verb"
+    },
+    {
+      "id": "eng-grammar-000007",
+      "topic": "english-grammar",
+      "intent": "definition",
+      "concept": "punctuation",
+      "keywords": [
+        "punctuation",
+        "comma",
+        "semicolon",
+        "colon",
+        "splice",
+        "abbreviation",
+        "bantas",
+        "marks",
+        "structure",
+        "rather",
+        "meaning",
+        "biggest"
+      ],
+      "patterns": [
+        "what is punctuation",
+        "punctuation",
+        "explain punctuation",
+        "definition of punctuation",
+        "punctuation meaning",
+        "what is a comma splice",
+        "comma rules",
+        "when to use a semicolon",
+        "ano ang bantas",
+        "unsa ang bantas"
+      ],
+      "answer": "Punctuation marks structure rather than meaning, and the biggest single mistake is the comma splice, which is two independent clauses joined by a comma with no conjunction. The other recurring errors are a missing comma before a clause beginning with although or because, and a full stop after an abbreviation such as e.g. that is really two. The test for a comma is whether you could put a full stop there without changing the meaning.",
+      "variations": [
+        "g. Punctuation marks structure rather than meaning, and the biggest single mistake is the comma splice, which is two independent clauses joined by a comma with no conjunction. that is really two. The test for a comma is whether you could put a full stop there without changing the meaning.",
+        "that is really two. Punctuation marks structure rather than meaning, and the biggest single mistake is the comma splice, which is two independent clauses joined by a comma with no conjunction. g. The test for a comma is whether you could put a full stop there without changing the meaning."
+      ],
+      "tl": "bantas",
+      "bis": "bantas"
+    },
+    {
+      "id": "eng-grammar-000008",
+      "topic": "english-grammar",
+      "intent": "definition",
+      "concept": "passive",
+      "keywords": [
+        "passive",
+        "active",
+        "voice",
+        "focus",
+        "subject",
+        "moves",
+        "verb's",
+        "doer",
+        "done"
+      ],
+      "patterns": [
+        "what is passive",
+        "passive",
+        "explain passive",
+        "definition of passive",
+        "passive meaning",
+        "active versus passive",
+        "when to use the passive",
+        "why avoid passive voice",
+        "ano ang passive",
+        "unsa ang passive"
+      ],
+      "answer": "The passive moves the verb's focus from the doer to what is done, so the bridge was built rather than someone built the bridge. It is the right choice when the doer is unknown, obvious or not the point, which is why it dominates scientific and legal writing. It is the wrong choice when you need to know who did it, because that information is exactly what the passive throws away, and it often hides a missing subject.",
+      "variations": [
+        "It is the right choice when the doer is unknown, obvious or not the point, which is why it dominates scientific and legal writing. The passive moves the verb's focus from the doer to what is done, so the bridge was built rather than someone built the bridge. It is the wrong choice when you need to know who did it, because that information is exactly what the passive throws away, and it often hides a missing subject.",
+        "It is the wrong choice when you need to know who did it, because that information is exactly what the passive throws away, and it often hides a missing subject. The passive moves the verb's focus from the doer to what is done, so the bridge was built rather than someone built the bridge. It is the right choice when the doer is unknown, obvious or not the point, which is why it dominates scientific and legal writing."
+      ],
+      "tl": "passive",
+      "bis": "passive"
+    },
+    {
+      "id": "eng-grammar-000009",
+      "topic": "english-grammar",
+      "intent": "definition",
+      "concept": "conditionals",
+      "keywords": [
+        "conditionals",
+        "conditional",
+        "if",
+        "unless",
+        "would",
+        "unreal",
+        "subjunctive",
+        "states",
+        "happen",
+        "condition",
+        "sorts"
+      ],
+      "patterns": [
+        "what is conditionals",
+        "conditionals",
+        "explain conditionals",
+        "definition of conditionals",
+        "conditionals meaning",
+        "first second third conditional",
+        "difference between second and third",
+        "if vs unless",
+        "ano ang conditional",
+        "unsa ang conditional"
+      ],
+      "answer": "A conditional states what would happen under a condition, and English sorts them by how real the speaker considers it. The first is real and likely, the second is unreal, the third is impossible or past-unreal, and the mixed form covers a present cause with a past result. The reason it confuses people is that the two middle forms use the same past tense, so the difference is carried entirely by the if and the time reference.",
+      "variations": [
+        "The first is real and likely, the second is unreal, the third is impossible or past-unreal, and the mixed form covers a present cause with a past result. A conditional states what would happen under a condition, and English sorts them by how real the speaker considers it. The reason it confuses people is that the two middle forms use the same past tense, so the difference is carried entirely by the if and the time reference.",
+        "The reason it confuses people is that the two middle forms use the same past tense, so the difference is carried entirely by the if and the time reference. A conditional states what would happen under a condition, and English sorts them by how real the speaker considers it. The first is real and likely, the second is unreal, the third is impossible or past-unreal, and the mixed form covers a present cause with a past result."
+      ],
+      "tl": "conditional",
+      "bis": "conditional"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "grammar",
+  "title": "Grammar",
+  "groupTitle": "English"
+}

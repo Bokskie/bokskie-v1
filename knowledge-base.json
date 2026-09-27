@@ -1,0 +1,4087 @@
+{
+  "version": 1,
+  "totals": {
+    "groups": 13,
+    "shelves": 181,
+    "files": 115,
+    "entries": 559,
+    "shelvesWithEntries": 114,
+    "emptyShelves": 67,
+    "lines": 0
+  },
+  "groups": [
+    {
+      "id": "cebuano",
+      "title": "Cebuano",
+      "lang": "bisaya",
+      "extra": false,
+      "shelfCount": 30,
+      "entryCount": 13,
+      "subs": [
+        {
+          "slug": "basic-words",
+          "title": "Basic words",
+          "shelf": "cebuano-basic-words",
+          "topic": "cebuano-basic-words",
+          "file": "cebuano/basic-words.json",
+          "lang": "bisaya",
+          "keys": [
+            "kaayo",
+            "sayop",
+            "oo",
+            "basic",
+            "word",
+            "cebuano"
+          ],
+          "entryCount": 1,
+          "concepts": [
+            "oo"
+          ]
+        },
+        {
+          "slug": "greetings",
+          "title": "Greetings",
+          "shelf": "cebuano-greetings",
+          "topic": "cebuano-greetings",
+          "file": "cebuano/greetings.json",
+          "lang": "bisaya",
+          "keys": [
+            "kamusta",
+            "salamat",
+            "greet",
+            "cebuano"
+          ],
+          "entryCount": 1,
+          "concepts": [
+            "salamat"
+          ]
+        },
+        {
+          "slug": "pronouns",
+          "title": "Pronouns",
+          "shelf": "cebuano-pronouns",
+          "topic": "cebuano-pronouns",
+          "file": "cebuano/pronouns.json",
+          "lang": "bisaya",
+          "keys": [
+            "ako",
+            "ikaw",
+            "kami",
+            "sila",
+            "siya",
+            "pronoun",
+            "cebuano"
+          ],
+          "entryCount": 2,
+          "concepts": [
+            "kami",
+            "ikaw"
+          ]
+        },
+        {
+          "slug": "question-words",
+          "title": "Question words",
+          "shelf": "cebuano-question-words",
+          "topic": "cebuano-question-words",
+          "file": "cebuano/question-words.json",
+          "lang": "bisaya",
+          "keys": [
+            "unsa",
+            "kinsa",
+            "asa",
+            "ngano",
+            "question",
+            "word",
+            "cebuano"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "unsa",
+            "kinsa",
+            "ngano",
+            "asa"
+          ]
+        },
+        {
+          "slug": "common-verbs",
+          "title": "Common verbs",
+          "shelf": "cebuano-common-verbs",
+          "topic": "cebuano-common-verbs",
+          "file": "cebuano/common-verbs.json",
+          "lang": "bisaya",
+          "keys": [
+            "buhaton",
+            "sulat",
+            "kaon",
+            "verb",
+            "common",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "common-adjectives",
+          "title": "Common adjectives",
+          "shelf": "cebuano-common-adjectives",
+          "topic": "cebuano-common-adjectives",
+          "file": "cebuano/common-adjectives.json",
+          "lang": "bisaya",
+          "keys": [
+            "gamay",
+            "dako",
+            "maayo",
+            "adjective",
+            "common",
+            "adjectiv",
+            "cebuano"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "kaayo",
+            "sayop",
+            "gamay",
+            "dako"
+          ]
+        },
+        {
+          "slug": "family",
+          "title": "Family",
+          "shelf": "cebuano-family",
+          "topic": "cebuano-family",
+          "file": "cebuano/family.json",
+          "lang": "bisaya",
+          "keys": [
+            "pamilya",
+            "mama",
+            "papa",
+            "akong",
+            "fami",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "food",
+          "title": "Food",
+          "shelf": "cebuano-food",
+          "topic": "cebuano-food",
+          "file": "cebuano/food.json",
+          "lang": "bisaya",
+          "keys": [
+            "pagkain",
+            "kanin",
+            "tubig",
+            "mangga",
+            "food",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "places",
+          "title": "Places",
+          "shelf": "cebuano-places",
+          "topic": "cebuano-places",
+          "file": "cebuano/places.json",
+          "lang": "bisaya",
+          "keys": [
+            "pilipina",
+            "siyudad",
+            "balay",
+            "lugar",
+            "plac",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "time",
+          "title": "Time",
+          "shelf": "cebuano-time",
+          "topic": "cebuano-time",
+          "file": "cebuano/time.json",
+          "lang": "bisaya",
+          "keys": [
+            "kanu",
+            "ora",
+            "adlaw",
+            "buntag",
+            "time",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "numbers",
+          "title": "Numbers",
+          "shelf": "cebuano-numbers",
+          "topic": "cebuano-numbers",
+          "file": "cebuano/numbers.json",
+          "lang": "bisaya",
+          "keys": [
+            "usa",
+            "duha",
+            "tulo",
+            "upat",
+            "number",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "directions",
+          "title": "Directions",
+          "shelf": "cebuano-directions",
+          "topic": "cebuano-directions",
+          "file": "cebuano/directions.json",
+          "lang": "bisaya",
+          "keys": [
+            "tuyd",
+            "direksiyon",
+            "direction",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "emotions",
+          "title": "Emotions",
+          "shelf": "cebuano-emotions",
+          "topic": "cebuano-emotions",
+          "file": "cebuano/emotions.json",
+          "lang": "bisaya",
+          "keys": [
+            "dugtong",
+            "kalayo",
+            "masaya",
+            "emotion",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "school",
+          "title": "School",
+          "shelf": "cebuano-school",
+          "topic": "cebuano-school",
+          "file": "cebuano/school.json",
+          "lang": "bisaya",
+          "keys": [
+            "eskwela",
+            "klase",
+            "aralan",
+            "esamin",
+            "school",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "work",
+          "title": "Work",
+          "shelf": "cebuano-work",
+          "topic": "cebuano-work",
+          "file": "cebuano/work.json",
+          "lang": "bisaya",
+          "keys": [
+            "trabaho",
+            "empleyado",
+            "swerte",
+            "katapangan",
+            "work",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "technology",
+          "title": "Technology",
+          "shelf": "cebuano-technology",
+          "topic": "cebuano-technology",
+          "file": "cebuano/technology.json",
+          "lang": "bisaya",
+          "keys": [
+            "kompyuter",
+            "telepono",
+            "device",
+            "teknolohiya",
+            "technology",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "internet",
+          "title": "Internet",
+          "shelf": "cebuano-internet",
+          "topic": "cebuano-internet",
+          "file": "cebuano/internet.json",
+          "lang": "bisaya",
+          "keys": [
+            "internet",
+            "wifi",
+            "website",
+            "online",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "programming-terms",
+          "title": "Programming terms",
+          "shelf": "cebuano-programming-terms",
+          "topic": "cebuano-programming-terms",
+          "file": "cebuano/programming-terms.json",
+          "lang": "bisaya",
+          "keys": [
+            "program",
+            "kode",
+            "function",
+            "variable",
+            "programm",
+            "term",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "health-vocabulary",
+          "title": "Health vocabulary",
+          "shelf": "cebuano-health-vocabulary",
+          "topic": "cebuano-health-vocabulary",
+          "file": "cebuano/health-vocabulary.json",
+          "lang": "bisaya",
+          "keys": [
+            "sakit",
+            "kramat",
+            "doktor",
+            "ospital",
+            "health",
+            "vocabulary",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "casual-conversation",
+          "title": "Casual conversation",
+          "shelf": "cebuano-casual-conversation",
+          "topic": "cebuano-casual-conversation",
+          "file": "cebuano/casual-conversation.json",
+          "lang": "bisaya",
+          "keys": [
+            "naa",
+            "gayud",
+            "unya",
+            "kamusta",
+            "casual",
+            "conversation",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "slang",
+          "title": "Slang",
+          "shelf": "cebuano-slang",
+          "topic": "cebuano-slang",
+          "file": "cebuano/slang.json",
+          "lang": "bisaya",
+          "keys": [
+            "slang",
+            "jarg",
+            "cheugy",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "filipino-cebuano",
+          "title": "Filipino to Cebuano",
+          "shelf": "cebuano-filipino-cebuano",
+          "topic": "cebuano-filipino-cebuano",
+          "file": "cebuano/filipino-cebuano.json",
+          "lang": "bisaya",
+          "keys": [
+            "pagkatransnya",
+            "kaugsa",
+            "translation",
+            "filipino",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "english-cebuano",
+          "title": "English to Cebuano",
+          "shelf": "cebuano-english-cebuano",
+          "topic": "cebuano-english-cebuano",
+          "file": "cebuano/english-cebuano.json",
+          "lang": "bisaya",
+          "keys": [
+            "english",
+            "bisaya",
+            "tagalog",
+            "translation",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "common-phrases",
+          "title": "Common phrases",
+          "shelf": "cebuano-common-phrases",
+          "topic": "cebuano-common-phrases",
+          "file": "cebuano/common-phrases.json",
+          "lang": "bisaya",
+          "keys": [
+            "salamat",
+            "tabang",
+            "paalam",
+            "palagi",
+            "common",
+            "phras",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "questions",
+          "title": "Questions",
+          "shelf": "cebuano-questions",
+          "topic": "cebuano-questions",
+          "file": "cebuano/questions.json",
+          "lang": "bisaya",
+          "keys": [
+            "tanong",
+            "tanungon",
+            "question",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "commands",
+          "title": "Commands",
+          "shelf": "cebuano-commands",
+          "topic": "cebuano-commands",
+          "file": "cebuano/commands.json",
+          "lang": "bisaya",
+          "keys": [
+            "pudong",
+            "palangi",
+            "sugdan",
+            "command",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "negation",
+          "title": "Negation",
+          "shelf": "cebuano-negation",
+          "topic": "cebuano-negation",
+          "file": "cebuano/negation.json",
+          "lang": "bisaya",
+          "keys": [
+            "dili",
+            "wala",
+            "kanang",
+            "negation",
+            "cebuano"
+          ],
+          "entryCount": 1,
+          "concepts": [
+            "dili"
+          ]
+        },
+        {
+          "slug": "grammar",
+          "title": "Grammar",
+          "shelf": "cebuano-grammar",
+          "topic": "cebuano-grammar",
+          "file": "cebuano/grammar.json",
+          "lang": "bisaya",
+          "keys": [
+            "gramatika",
+            "grammar",
+            "suffix",
+            "affix",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "sentence-patterns",
+          "title": "Sentence patterns",
+          "shelf": "cebuano-sentence-patterns",
+          "topic": "cebuano-sentence-patterns",
+          "file": "cebuano/sentence-patterns.json",
+          "lang": "bisaya",
+          "keys": [
+            "pattern",
+            "sentence",
+            "syntax",
+            "structure",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "everyday-bisaya-conversations",
+          "title": "Everyday Bisaya conversations",
+          "shelf": "cebuano-everyday-bisaya-conversations",
+          "topic": "cebuano-everyday-bisaya-conversations",
+          "file": "cebuano/everyday-bisaya-conversations.json",
+          "lang": "bisaya",
+          "keys": [
+            "bisaya",
+            "everyday",
+            "chat",
+            "conversation",
+            "cebuano"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        }
+      ]
+    },
+    {
+      "id": "filipino",
+      "title": "Filipino",
+      "lang": "tagalog",
+      "extra": false,
+      "shelfCount": 24,
+      "entryCount": 22,
+      "subs": [
+        {
+          "slug": "basic-words",
+          "title": "Basic words",
+          "shelf": "filipino-basic-words",
+          "topic": "filipino-basic-words",
+          "file": "filipino/basic-words.json",
+          "lang": "tagalog",
+          "keys": [
+            "mahal",
+            "mura",
+            "wala",
+            "oo",
+            "basic",
+            "word",
+            "filipino"
+          ],
+          "entryCount": 2,
+          "concepts": [
+            "hindi",
+            "oo"
+          ]
+        },
+        {
+          "slug": "greetings",
+          "title": "Greetings",
+          "shelf": "filipino-greetings",
+          "topic": "filipino-greetings",
+          "file": "filipino/greetings.json",
+          "lang": "tagalog",
+          "keys": [
+            "kamusta",
+            "maganda",
+            "salamat",
+            "greet",
+            "filipino"
+          ],
+          "entryCount": 2,
+          "concepts": [
+            "salamat",
+            "kumusta"
+          ]
+        },
+        {
+          "slug": "pronouns",
+          "title": "Pronouns",
+          "shelf": "filipino-pronouns",
+          "topic": "filipino-pronouns",
+          "file": "filipino/pronouns.json",
+          "lang": "tagalog",
+          "keys": [
+            "ako",
+            "ikaw",
+            "tayo",
+            "kami",
+            "kayo",
+            "pronoun",
+            "filipino"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "tayo",
+            "kami",
+            "natin",
+            "kayo",
+            "ikaw"
+          ]
+        },
+        {
+          "slug": "question-words",
+          "title": "Question words",
+          "shelf": "filipino-question-words",
+          "topic": "filipino-question-words",
+          "file": "filipino/question-words.json",
+          "lang": "tagalog",
+          "keys": [
+            "ano",
+            "sino",
+            "saan",
+            "bakit",
+            "question",
+            "word",
+            "filipino"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "bakit",
+            "saan",
+            "kailan",
+            "sino",
+            "ano"
+          ]
+        },
+        {
+          "slug": "common-verbs",
+          "title": "Common verbs",
+          "shelf": "filipino-common-verbs",
+          "topic": "filipino-common-verbs",
+          "file": "filipino/common-verbs.json",
+          "lang": "tagalog",
+          "keys": [
+            "gawa",
+            "kain",
+            "kuha",
+            "verb",
+            "common",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "common-adjectives",
+          "title": "Common adjectives",
+          "shelf": "filipino-common-adjectives",
+          "topic": "filipino-common-adjectives",
+          "file": "filipino/common-adjectives.json",
+          "lang": "tagalog",
+          "keys": [
+            "maganda",
+            "masama",
+            "malaki",
+            "adjective",
+            "common",
+            "adjectiv",
+            "filipino"
+          ],
+          "entryCount": 8,
+          "concepts": [
+            "mahal",
+            "mura",
+            "kulang",
+            "sobra",
+            "maganda",
+            "masama",
+            "malaki",
+            "maliit"
+          ]
+        },
+        {
+          "slug": "family",
+          "title": "Family",
+          "shelf": "filipino-family",
+          "topic": "filipino-family",
+          "file": "filipino/family.json",
+          "lang": "tagalog",
+          "keys": [
+            "pamilya",
+            "ama",
+            "ina",
+            "kapatid",
+            "fami",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "food",
+          "title": "Food",
+          "shelf": "filipino-food",
+          "topic": "filipino-food",
+          "file": "filipino/food.json",
+          "lang": "tagalog",
+          "keys": [
+            "pagkain",
+            "kanin",
+            "tubig",
+            "pruta",
+            "food",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "places",
+          "title": "Places",
+          "shelf": "filipino-places",
+          "topic": "filipino-places",
+          "file": "filipino/places.json",
+          "lang": "tagalog",
+          "keys": [
+            "pilipina",
+            "lungsod",
+            "bahay",
+            "lugar",
+            "plac",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "time",
+          "title": "Time",
+          "shelf": "filipino-time",
+          "topic": "filipino-time",
+          "file": "filipino/time.json",
+          "lang": "tagalog",
+          "keys": [
+            "kanino",
+            "ngayon",
+            "ora",
+            "araw",
+            "time",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "numbers",
+          "title": "Numbers",
+          "shelf": "filipino-numbers",
+          "topic": "filipino-numbers",
+          "file": "filipino/numbers.json",
+          "lang": "tagalog",
+          "keys": [
+            "isa",
+            "dalawa",
+            "tatlo",
+            "apat",
+            "number",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "directions",
+          "title": "Directions",
+          "shelf": "filipino-directions",
+          "topic": "filipino-directions",
+          "file": "filipino/directions.json",
+          "lang": "tagalog",
+          "keys": [
+            "kaliwa",
+            "kanan",
+            "direksiyon",
+            "direction",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "emotions",
+          "title": "Emotions",
+          "shelf": "filipino-emotions",
+          "topic": "filipino-emotions",
+          "file": "filipino/emotions.json",
+          "lang": "tagalog",
+          "keys": [
+            "kagalit",
+            "malungkot",
+            "natutulog",
+            "emotion",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "school",
+          "title": "School",
+          "shelf": "filipino-school",
+          "topic": "filipino-school",
+          "file": "filipino/school.json",
+          "lang": "tagalog",
+          "keys": [
+            "ralan",
+            "klase",
+            "aral",
+            "pagsubok",
+            "school",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "work",
+          "title": "Work",
+          "shelf": "filipino-work",
+          "topic": "filipino-work",
+          "file": "filipino/work.json",
+          "lang": "tagalog",
+          "keys": [
+            "trabaho",
+            "kompanya",
+            "swerte",
+            "kasipagan",
+            "work",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "technology",
+          "title": "Technology",
+          "shelf": "filipino-technology",
+          "topic": "filipino-technology",
+          "file": "filipino/technology.json",
+          "lang": "tagalog",
+          "keys": [
+            "kompyuter",
+            "telepono",
+            "device",
+            "teknolohiya",
+            "technology",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "internet",
+          "title": "Internet",
+          "shelf": "filipino-internet",
+          "topic": "filipino-internet",
+          "file": "filipino/internet.json",
+          "lang": "tagalog",
+          "keys": [
+            "internet",
+            "wifi",
+            "website",
+            "online",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "programming-terms",
+          "title": "Programming terms",
+          "shelf": "filipino-programming-terms",
+          "topic": "filipino-programming-terms",
+          "file": "filipino/programming-terms.json",
+          "lang": "tagalog",
+          "keys": [
+            "program",
+            "kode",
+            "function",
+            "variable",
+            "programm",
+            "term",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "health-vocabulary",
+          "title": "Health vocabulary",
+          "shelf": "filipino-health-vocabulary",
+          "topic": "filipino-health-vocabulary",
+          "file": "filipino/health-vocabulary.json",
+          "lang": "tagalog",
+          "keys": [
+            "sakit",
+            "gamot",
+            "doktor",
+            "ospital",
+            "health",
+            "vocabulary",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "casual-conversation",
+          "title": "Casual conversation",
+          "shelf": "filipino-casual-conversation",
+          "topic": "filipino-casual-conversation",
+          "file": "filipino/casual-conversation.json",
+          "lang": "tagalog",
+          "keys": [
+            "ba",
+            "naman",
+            "pala",
+            "sana",
+            "casual",
+            "conversation",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "slang",
+          "title": "Slang",
+          "shelf": "filipino-slang",
+          "topic": "filipino-slang",
+          "file": "filipino/slang.json",
+          "lang": "tagalog",
+          "keys": [
+            "slang",
+            "jarg",
+            "cheeky",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "filipino-grammar",
+          "title": "Filipino grammar",
+          "shelf": "filipino-filipino-grammar",
+          "topic": "filipino-filipino-grammar",
+          "file": "filipino/filipino-grammar.json",
+          "lang": "tagalog",
+          "keys": [
+            "gramatika",
+            "grammar",
+            "ngalan",
+            "halip",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "sentence-patterns",
+          "title": "Sentence patterns",
+          "shelf": "filipino-sentence-patterns",
+          "topic": "filipino-sentence-patterns",
+          "file": "filipino/sentence-patterns.json",
+          "lang": "tagalog",
+          "keys": [
+            "pattern",
+            "sentence",
+            "syntax",
+            "structure",
+            "filipino"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "everyday-filipino-conversations",
+          "title": "Everyday Filipino conversations",
+          "shelf": "filipino-everyday-filipino-conversations",
+          "topic": "filipino-everyday-filipino-conversations",
+          "file": "filipino/everyday-filipino-conversations.json",
+          "lang": "tagalog",
+          "keys": [
+            "filipino",
+            "everyday",
+            "conversation"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "title": "English",
+      "lang": "english",
+      "extra": false,
+      "shelfCount": 22,
+      "entryCount": 137,
+      "subs": [
+        {
+          "slug": "basic-vocabulary",
+          "title": "Basic vocabulary",
+          "shelf": "english-basic-vocabulary",
+          "topic": "english-basic-vocabulary",
+          "file": "english/basic-vocabulary.json",
+          "lang": "english",
+          "keys": [
+            "vocabulary",
+            "word",
+            "mean",
+            "basic",
+            "english"
+          ],
+          "entryCount": 7,
+          "concepts": [
+            "noun",
+            "adjective",
+            "adverb",
+            "synonym",
+            "antonym",
+            "idiom",
+            "collocation"
+          ]
+        },
+        {
+          "slug": "greetings",
+          "title": "Greetings",
+          "shelf": "english-greetings",
+          "topic": "english-greetings",
+          "file": "english/greetings.json",
+          "lang": "english",
+          "keys": [
+            "hello",
+            "hi",
+            "hey",
+            "morn",
+            "greet",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "hello",
+            "good morning",
+            "how are you",
+            "welcome",
+            "nice to meet you",
+            "long time no see"
+          ]
+        },
+        {
+          "slug": "pronouns",
+          "title": "Pronouns",
+          "shelf": "english-pronouns",
+          "topic": "english-pronouns",
+          "file": "english/pronouns.json",
+          "lang": "english",
+          "keys": [
+            "pronoun",
+            "he",
+            "she",
+            "they",
+            "we",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "possessive",
+            "reflexive",
+            "demonstrative",
+            "indefinite",
+            "relative",
+            "reciprocal"
+          ]
+        },
+        {
+          "slug": "question-words",
+          "title": "Question words",
+          "shelf": "english-question-words",
+          "topic": "english-question-words",
+          "file": "english/question-words.json",
+          "lang": "english",
+          "keys": [
+            "what",
+            "who",
+            "where",
+            "when",
+            "why",
+            "question",
+            "word",
+            "english"
+          ],
+          "entryCount": 7,
+          "concepts": [
+            "what",
+            "who",
+            "where",
+            "when",
+            "why",
+            "how",
+            "which"
+          ]
+        },
+        {
+          "slug": "verbs",
+          "title": "Verbs",
+          "shelf": "english-verbs",
+          "topic": "english-verbs",
+          "file": "english/verbs.json",
+          "lang": "english",
+          "keys": [
+            "verb",
+            "tense",
+            "infinitive",
+            "gerund",
+            "english"
+          ],
+          "entryCount": 7,
+          "concepts": [
+            "verb",
+            "infinitive",
+            "gerund",
+            "modal",
+            "transitive",
+            "intransitive",
+            "auxiliary"
+          ]
+        },
+        {
+          "slug": "adjectives",
+          "title": "Adjectives",
+          "shelf": "english-adjectives",
+          "topic": "english-adjectives",
+          "file": "english/adjectives.json",
+          "lang": "english",
+          "keys": [
+            "adjective",
+            "describe",
+            "comparative",
+            "adjectiv",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "comparative",
+            "superlative",
+            "attributive",
+            "predicate",
+            "abstract",
+            "concrete"
+          ]
+        },
+        {
+          "slug": "family",
+          "title": "Family",
+          "shelf": "english-family",
+          "topic": "english-family",
+          "file": "english/family.json",
+          "lang": "english",
+          "keys": [
+            "fami",
+            "mother",
+            "father",
+            "sibl",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "mother",
+            "father",
+            "sibling",
+            "cousin",
+            "grandparent",
+            "child"
+          ]
+        },
+        {
+          "slug": "food",
+          "title": "Food",
+          "shelf": "english-food",
+          "topic": "english-food",
+          "file": "english/food.json",
+          "lang": "english",
+          "keys": [
+            "food",
+            "rice",
+            "bread",
+            "fruit",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "rice",
+            "bread",
+            "fruit",
+            "vegetable",
+            "staple",
+            "cuisine"
+          ]
+        },
+        {
+          "slug": "places",
+          "title": "Places",
+          "shelf": "english-places",
+          "topic": "english-places",
+          "file": "english/places.json",
+          "lang": "english",
+          "keys": [
+            "country",
+            "city",
+            "town",
+            "place",
+            "plac",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "city",
+            "country",
+            "capital",
+            "region",
+            "neighbourhood",
+            "landmark"
+          ]
+        },
+        {
+          "slug": "time",
+          "title": "Time",
+          "shelf": "english-time",
+          "topic": "english-time",
+          "file": "english/time.json",
+          "lang": "english",
+          "keys": [
+            "hour",
+            "minute",
+            "day",
+            "clock",
+            "time",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "hour",
+            "minute",
+            "second",
+            "deadline",
+            "schedule",
+            "duration"
+          ]
+        },
+        {
+          "slug": "numbers",
+          "title": "Numbers",
+          "shelf": "english-numbers",
+          "topic": "english-numbers",
+          "file": "english/numbers.json",
+          "lang": "english",
+          "keys": [
+            "number",
+            "digit",
+            "count",
+            "integer",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "integer",
+            "decimal",
+            "odd",
+            "even",
+            "negative",
+            "digit"
+          ]
+        },
+        {
+          "slug": "directions",
+          "title": "Directions",
+          "shelf": "english-directions",
+          "topic": "english-directions",
+          "file": "english/directions.json",
+          "lang": "english",
+          "keys": [
+            "left",
+            "right",
+            "north",
+            "direction",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "north",
+            "south",
+            "east",
+            "west",
+            "compass",
+            "cardinal"
+          ]
+        },
+        {
+          "slug": "emotions",
+          "title": "Emotions",
+          "shelf": "english-emotions",
+          "topic": "english-emotions",
+          "file": "english/emotions.json",
+          "lang": "english",
+          "keys": [
+            "happy",
+            "sad",
+            "angry",
+            "emotion",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "happy",
+            "sad",
+            "angry",
+            "anxious",
+            "grateful",
+            "embarrassed"
+          ]
+        },
+        {
+          "slug": "school",
+          "title": "School",
+          "shelf": "english-school",
+          "topic": "english-school",
+          "file": "english/school.json",
+          "lang": "english",
+          "keys": [
+            "school",
+            "teacher",
+            "clas",
+            "student",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "teacher",
+            "student",
+            "classroom",
+            "assignment",
+            "exam",
+            "semester"
+          ]
+        },
+        {
+          "slug": "work",
+          "title": "Work",
+          "shelf": "english-work",
+          "topic": "english-work",
+          "file": "english/work.json",
+          "lang": "english",
+          "keys": [
+            "job",
+            "office",
+            "employee",
+            "career",
+            "work",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "job",
+            "salary",
+            "promotion",
+            "colleague",
+            "overtime",
+            "wage"
+          ]
+        },
+        {
+          "slug": "technology",
+          "title": "Technology",
+          "shelf": "english-technology",
+          "topic": "english-technology",
+          "file": "english/technology.json",
+          "lang": "english",
+          "keys": [
+            "computer",
+            "phone",
+            "device",
+            "gadget",
+            "technology",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "computer",
+            "smartphone",
+            "laptop",
+            "device",
+            "gadget",
+            "charger"
+          ]
+        },
+        {
+          "slug": "internet",
+          "title": "Internet",
+          "shelf": "english-internet",
+          "topic": "english-internet",
+          "file": "english/internet.json",
+          "lang": "english",
+          "keys": [
+            "internet",
+            "wifi",
+            "website",
+            "browser",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "website",
+            "browser",
+            "download",
+            "upload",
+            "wifi",
+            "search engine"
+          ]
+        },
+        {
+          "slug": "programming",
+          "title": "Programming",
+          "shelf": "english-programming",
+          "topic": "english-programming",
+          "file": "english/programming.json",
+          "lang": "english",
+          "keys": [
+            "code",
+            "function",
+            "loop",
+            "program",
+            "programm",
+            "english"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "code",
+            "syntax",
+            "compiler",
+            "library",
+            "comment"
+          ]
+        },
+        {
+          "slug": "health",
+          "title": "Health",
+          "shelf": "english-health",
+          "topic": "english-health",
+          "file": "english/health.json",
+          "lang": "english",
+          "keys": [
+            "health",
+            "doctor",
+            "medicine",
+            "patient",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "symptom",
+            "diagnosis",
+            "treatment",
+            "prescription",
+            "dosage",
+            "chronic"
+          ]
+        },
+        {
+          "slug": "grammar",
+          "title": "Grammar",
+          "shelf": "english-grammar",
+          "topic": "english-grammar",
+          "file": "english/grammar.json",
+          "lang": "english",
+          "keys": [
+            "grammar",
+            "article",
+            "preposition",
+            "clause",
+            "english"
+          ],
+          "entryCount": 9,
+          "concepts": [
+            "tense",
+            "subject verb agreement",
+            "article",
+            "preposition",
+            "pronoun",
+            "irregular verb",
+            "punctuation",
+            "passive"
+          ]
+        },
+        {
+          "slug": "sentence-patterns",
+          "title": "Sentence patterns",
+          "shelf": "english-sentence-patterns",
+          "topic": "english-sentence-patterns",
+          "file": "english/sentence-patterns.json",
+          "lang": "english",
+          "keys": [
+            "pattern",
+            "sentence",
+            "structure",
+            "phrase",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "clause",
+            "sentence",
+            "predicate",
+            "compound",
+            "complex",
+            "simple"
+          ]
+        },
+        {
+          "slug": "everyday-conversations",
+          "title": "Everyday conversations",
+          "shelf": "english-everyday-conversations",
+          "topic": "english-everyday-conversations",
+          "file": "english/everyday-conversations.json",
+          "lang": "english",
+          "keys": [
+            "everyday",
+            "conversation",
+            "chat",
+            "english"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "small talk",
+            "catch up",
+            "weekend",
+            "weather chat",
+            "opinion",
+            "rumour"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "programming",
+      "title": "Programming",
+      "lang": "english",
+      "extra": false,
+      "shelfCount": 20,
+      "entryCount": 42,
+      "subs": [
+        {
+          "slug": "javascript",
+          "title": "JavaScript",
+          "shelf": "programming-javascript",
+          "topic": "programming-javascript",
+          "file": "programming/javascript.json",
+          "lang": "english",
+          "keys": [
+            "javascript",
+            "ecmascript",
+            "js",
+            "programm"
+          ],
+          "entryCount": 3,
+          "concepts": [
+            "javascript",
+            "browser rendering",
+            "frontend frameworks"
+          ]
+        },
+        {
+          "slug": "html",
+          "title": "HTML",
+          "shelf": "programming-html",
+          "topic": "programming-html",
+          "file": "programming/html.json",
+          "lang": "english",
+          "keys": [
+            "html",
+            "markup",
+            "tag",
+            "element",
+            "programm"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "html",
+            "dom",
+            "semantic html",
+            "accessibility"
+          ]
+        },
+        {
+          "slug": "css",
+          "title": "CSS",
+          "shelf": "programming-css",
+          "topic": "programming-css",
+          "file": "programming/css.json",
+          "lang": "english",
+          "keys": [
+            "css",
+            "stylesheet",
+            "selector",
+            "flexbox",
+            "programm"
+          ],
+          "entryCount": 7,
+          "concepts": [
+            "css",
+            "responsive design",
+            "media query",
+            "css specificity",
+            "flexbox",
+            "css grid",
+            "box model"
+          ]
+        },
+        {
+          "slug": "php",
+          "title": "PHP",
+          "shelf": "programming-php",
+          "topic": "programming-php",
+          "file": "programming/php.json",
+          "lang": "english",
+          "keys": [
+            "php",
+            "laravel",
+            "symfony",
+            "programm"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "python",
+          "title": "Python",
+          "shelf": "programming-python",
+          "topic": "programming-python",
+          "file": "programming/python.json",
+          "lang": "english",
+          "keys": [
+            "python",
+            "pip",
+            "django",
+            "flask",
+            "programm"
+          ],
+          "entryCount": 1,
+          "concepts": [
+            "python"
+          ]
+        },
+        {
+          "slug": "java",
+          "title": "Java",
+          "shelf": "programming-java",
+          "topic": "programming-java",
+          "file": "programming/java.json",
+          "lang": "english",
+          "keys": [
+            "java",
+            "jvm",
+            "jdk",
+            "maven",
+            "programm"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "c",
+          "title": "C",
+          "shelf": "programming-c",
+          "topic": "programming-c",
+          "file": "programming/c.json",
+          "lang": "english",
+          "keys": [
+            "ansi",
+            "gcc",
+            "pointer",
+            "programm"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "cpp",
+          "title": "C++",
+          "shelf": "programming-cpp",
+          "topic": "programming-cpp",
+          "file": "programming/cpp.json",
+          "lang": "english",
+          "keys": [
+            "cpp",
+            "stl",
+            "boost",
+            "programm"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "csharp",
+          "title": "C#",
+          "shelf": "programming-csharp",
+          "topic": "programming-csharp",
+          "file": "programming/csharp.json",
+          "lang": "english",
+          "keys": [
+            "csharp",
+            "dotnet",
+            "asp.net",
+            "programm"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "sql",
+          "title": "SQL",
+          "shelf": "programming-sql",
+          "topic": "programming-sql",
+          "file": "programming/sql.json",
+          "lang": "english",
+          "keys": [
+            "sql",
+            "query",
+            "table",
+            "select",
+            "programm"
+          ],
+          "entryCount": 9,
+          "concepts": [
+            "database",
+            "sql",
+            "primary key",
+            "foreign key",
+            "normalization",
+            "join",
+            "index",
+            "transaction"
+          ]
+        },
+        {
+          "slug": "nodejs",
+          "title": "Node.js",
+          "shelf": "programming-nodejs",
+          "topic": "programming-nodejs",
+          "file": "programming/nodejs.json",
+          "lang": "english",
+          "keys": [
+            "node",
+            "npm",
+            "expres",
+            "require",
+            "nodej",
+            "programm"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "vue",
+          "title": "Vue",
+          "shelf": "programming-vue",
+          "topic": "programming-vue",
+          "file": "programming/vue.json",
+          "lang": "english",
+          "keys": [
+            "vue",
+            "nuxt",
+            "component",
+            "programm"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "react",
+          "title": "React",
+          "shelf": "programming-react",
+          "topic": "programming-react",
+          "file": "programming/react.json",
+          "lang": "english",
+          "keys": [
+            "react",
+            "jsx",
+            "nextj",
+            "hook",
+            "programm"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "apis",
+          "title": "APIs",
+          "shelf": "programming-apis",
+          "topic": "programming-apis",
+          "file": "programming/apis.json",
+          "lang": "english",
+          "keys": [
+            "api",
+            "endpoint",
+            "rest",
+            "json",
+            "request",
+            "programm"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "api",
+            "http",
+            "cookies",
+            "local storage",
+            "http status codes"
+          ]
+        },
+        {
+          "slug": "git",
+          "title": "Git",
+          "shelf": "programming-git",
+          "topic": "programming-git",
+          "file": "programming/git.json",
+          "lang": "english",
+          "keys": [
+            "git",
+            "commit",
+            "branch",
+            "merge",
+            "programm"
+          ],
+          "entryCount": 1,
+          "concepts": [
+            "git"
+          ]
+        },
+        {
+          "slug": "github",
+          "title": "GitHub",
+          "shelf": "programming-github",
+          "topic": "programming-github",
+          "file": "programming/github.json",
+          "lang": "english",
+          "keys": [
+            "github",
+            "pull",
+            "repository",
+            "issue",
+            "programm"
+          ],
+          "entryCount": 1,
+          "concepts": [
+            "github"
+          ]
+        },
+        {
+          "slug": "debugging",
+          "title": "Debugging",
+          "shelf": "programming-debugging",
+          "topic": "programming-debugging",
+          "file": "programming/debugging.json",
+          "lang": "english",
+          "keys": [
+            "debug",
+            "breakpoint",
+            "stack",
+            "trace",
+            "debugg",
+            "programm"
+          ],
+          "entryCount": 3,
+          "concepts": [
+            "bug",
+            "testing",
+            "debugging"
+          ]
+        },
+        {
+          "slug": "algorithms",
+          "title": "Algorithms",
+          "shelf": "programming-algorithms",
+          "topic": "programming-algorithms",
+          "file": "programming/algorithms.json",
+          "lang": "english",
+          "keys": [
+            "algorithm",
+            "complexity",
+            "sort",
+            "search",
+            "programm"
+          ],
+          "entryCount": 1,
+          "concepts": [
+            "algorithm"
+          ]
+        },
+        {
+          "slug": "data-structures",
+          "title": "Data structures",
+          "shelf": "programming-data-structures",
+          "topic": "programming-data-structures",
+          "file": "programming/data-structures.json",
+          "lang": "english",
+          "keys": [
+            "array",
+            "link",
+            "hash",
+            "tree",
+            "stack",
+            "data",
+            "structur",
+            "programm"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "concepts",
+          "title": "Programming concepts",
+          "shelf": "programming-concepts",
+          "topic": "programming-concepts",
+          "file": "programming/concepts.json",
+          "lang": "english",
+          "keys": [
+            "oop",
+            "recursion",
+            "variable",
+            "function",
+            "loop",
+            "concept",
+            "programm"
+          ],
+          "entryCount": 7,
+          "concepts": [
+            "variable",
+            "function",
+            "frontend",
+            "type system",
+            "object",
+            "loop",
+            "recursion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "title": "Science",
+      "lang": "english",
+      "extra": false,
+      "shelfCount": 7,
+      "entryCount": 11,
+      "subs": [
+        {
+          "slug": "physics",
+          "title": "Physics",
+          "shelf": "science-physics",
+          "topic": "science-physics",
+          "file": "science/physics.json",
+          "lang": "english",
+          "keys": [
+            "motion",
+            "force",
+            "energy",
+            "mas",
+            "wave",
+            "physic",
+            "science"
+          ],
+          "entryCount": 3,
+          "concepts": [
+            "gravity",
+            "energy",
+            "electricity"
+          ]
+        },
+        {
+          "slug": "chemistry",
+          "title": "Chemistry",
+          "shelf": "science-chemistry",
+          "topic": "science-chemistry",
+          "file": "science/chemistry.json",
+          "lang": "english",
+          "keys": [
+            "atom",
+            "element",
+            "molecule",
+            "reaction",
+            "acid",
+            "chemistry",
+            "science"
+          ],
+          "entryCount": 3,
+          "concepts": [
+            "atom",
+            "periodic table",
+            "chemical bond"
+          ]
+        },
+        {
+          "slug": "biology",
+          "title": "Biology",
+          "shelf": "science-biology",
+          "topic": "science-biology",
+          "file": "science/biology.json",
+          "lang": "english",
+          "keys": [
+            "cell",
+            "gene",
+            "organism",
+            "evolution",
+            "dna",
+            "biology",
+            "science"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "dna",
+            "photosynthesis",
+            "evolution",
+            "cell"
+          ]
+        },
+        {
+          "slug": "astronomy",
+          "title": "Astronomy",
+          "shelf": "science-astronomy",
+          "topic": "science-astronomy",
+          "file": "science/astronomy.json",
+          "lang": "english",
+          "keys": [
+            "planet",
+            "star",
+            "galaxy",
+            "orbit",
+            "telescope",
+            "astronomy",
+            "science"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "earth-science",
+          "title": "Earth science",
+          "shelf": "science-earth-science",
+          "topic": "science-earth-science",
+          "file": "science/earth-science.json",
+          "lang": "english",
+          "keys": [
+            "rock",
+            "tectonic",
+            "atmosphere",
+            "climate",
+            "earth",
+            "science"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "environment",
+          "title": "Environment",
+          "shelf": "science-environment",
+          "topic": "science-environment",
+          "file": "science/environment.json",
+          "lang": "english",
+          "keys": [
+            "environment",
+            "pollution",
+            "ecosystem",
+            "recycle",
+            "science"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "general-science",
+          "title": "General science",
+          "shelf": "science-general-science",
+          "topic": "science-general-science",
+          "file": "science/general-science.json",
+          "lang": "english",
+          "keys": [
+            "science",
+            "experiment",
+            "hypothesi",
+            "method",
+            "general"
+          ],
+          "entryCount": 1,
+          "concepts": [
+            "quantum"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mathematics",
+      "title": "Mathematics",
+      "lang": "english",
+      "extra": false,
+      "shelfCount": 7,
+      "entryCount": 11,
+      "subs": [
+        {
+          "slug": "arithmetic",
+          "title": "Arithmetic",
+          "shelf": "mathematics-arithmetic",
+          "topic": "mathematics-arithmetic",
+          "file": "mathematics/arithmetic.json",
+          "lang": "english",
+          "keys": [
+            "addition",
+            "multip",
+            "divide",
+            "percent",
+            "arithmetic",
+            "mathematic"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "prime",
+            "percentage",
+            "fraction",
+            "root",
+            "logarithm",
+            "sequence"
+          ]
+        },
+        {
+          "slug": "algebra",
+          "title": "Algebra",
+          "shelf": "mathematics-algebra",
+          "topic": "mathematics-algebra",
+          "file": "mathematics/algebra.json",
+          "lang": "english",
+          "keys": [
+            "equation",
+            "variable",
+            "solve",
+            "linear",
+            "algebra",
+            "mathematic"
+          ],
+          "entryCount": 1,
+          "concepts": [
+            "quadratic"
+          ]
+        },
+        {
+          "slug": "geometry",
+          "title": "Geometry",
+          "shelf": "mathematics-geometry",
+          "topic": "mathematics-geometry",
+          "file": "mathematics/geometry.json",
+          "lang": "english",
+          "keys": [
+            "triangle",
+            "circle",
+            "angle",
+            "area",
+            "volume",
+            "geometry",
+            "mathematic"
+          ],
+          "entryCount": 2,
+          "concepts": [
+            "pythagorean",
+            "triangle"
+          ]
+        },
+        {
+          "slug": "trigonometry",
+          "title": "Trigonometry",
+          "shelf": "mathematics-trigonometry",
+          "topic": "mathematics-trigonometry",
+          "file": "mathematics/trigonometry.json",
+          "lang": "english",
+          "keys": [
+            "sine",
+            "cosine",
+            "tangent",
+            "radian",
+            "trigonometry",
+            "mathematic"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "statistics",
+          "title": "Statistics",
+          "shelf": "mathematics-statistics",
+          "topic": "mathematics-statistics",
+          "file": "mathematics/statistics.json",
+          "lang": "english",
+          "keys": [
+            "mean",
+            "median",
+            "average",
+            "variance",
+            "sample",
+            "statistic",
+            "mathematic"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "probability",
+          "title": "Probability",
+          "shelf": "mathematics-probability",
+          "topic": "mathematics-probability",
+          "file": "mathematics/probability.json",
+          "lang": "english",
+          "keys": [
+            "odd",
+            "chance",
+            "random",
+            "distribution",
+            "probability",
+            "mathematic"
+          ],
+          "entryCount": 1,
+          "concepts": [
+            "probability"
+          ]
+        },
+        {
+          "slug": "calculus",
+          "title": "Calculus",
+          "shelf": "mathematics-calculus",
+          "topic": "mathematics-calculus",
+          "file": "mathematics/calculus.json",
+          "lang": "english",
+          "keys": [
+            "derivative",
+            "integral",
+            "limit",
+            "slope",
+            "calculu",
+            "mathematic"
+          ],
+          "entryCount": 1,
+          "concepts": [
+            "derivative"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "title": "Technology",
+      "lang": "english",
+      "extra": false,
+      "shelfCount": 10,
+      "entryCount": 31,
+      "subs": [
+        {
+          "slug": "computers",
+          "title": "Computers",
+          "shelf": "technology-computers",
+          "topic": "technology-computers",
+          "file": "technology/computers.json",
+          "lang": "english",
+          "keys": [
+            "computer",
+            "cpu",
+            "ram",
+            "machine",
+            "technology"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "smartphones",
+          "title": "Smartphones",
+          "shelf": "technology-smartphones",
+          "topic": "technology-smartphones",
+          "file": "technology/smartphones.json",
+          "lang": "english",
+          "keys": [
+            "smartphone",
+            "android",
+            "iphone",
+            "app",
+            "smartphon",
+            "technology"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "operating-systems",
+          "title": "Operating systems",
+          "shelf": "technology-operating-systems",
+          "topic": "technology-operating-systems",
+          "file": "technology/operating-systems.json",
+          "lang": "english",
+          "keys": [
+            "linux",
+            "window",
+            "kernel",
+            "proces",
+            "operat",
+            "system",
+            "technology"
+          ],
+          "entryCount": 2,
+          "concepts": [
+            "operating system",
+            "process"
+          ]
+        },
+        {
+          "slug": "hardware",
+          "title": "Hardware",
+          "shelf": "technology-hardware",
+          "topic": "technology-hardware",
+          "file": "technology/hardware.json",
+          "lang": "english",
+          "keys": [
+            "chip",
+            "gpu",
+            "disk",
+            "ssd",
+            "device",
+            "hardware",
+            "technology"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "cpu",
+            "ram",
+            "ssd",
+            "binary",
+            "cache"
+          ]
+        },
+        {
+          "slug": "software",
+          "title": "Software",
+          "shelf": "technology-software",
+          "topic": "technology-software",
+          "file": "technology/software.json",
+          "lang": "english",
+          "keys": [
+            "software",
+            "application",
+            "install",
+            "update",
+            "technology"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "crypto",
+            "offline",
+            "open source",
+            "blockchain"
+          ]
+        },
+        {
+          "slug": "networking",
+          "title": "Networking",
+          "shelf": "technology-networking",
+          "topic": "technology-networking",
+          "file": "technology/networking.json",
+          "lang": "english",
+          "keys": [
+            "router",
+            "dns",
+            "tcp",
+            "ip",
+            "vpn",
+            "lan",
+            "network",
+            "technology"
+          ],
+          "entryCount": 8,
+          "concepts": [
+            "ip address",
+            "tcp",
+            "udp",
+            "dns",
+            "router",
+            "firewall",
+            "latency",
+            "vpn"
+          ]
+        },
+        {
+          "slug": "internet",
+          "title": "Internet",
+          "shelf": "technology-internet",
+          "topic": "technology-internet",
+          "file": "technology/internet.json",
+          "lang": "english",
+          "keys": [
+            "browser",
+            "website",
+            "wifi",
+            "download",
+            "internet",
+            "technology"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "cloud",
+          "title": "Cloud",
+          "shelf": "technology-cloud",
+          "topic": "technology-cloud",
+          "file": "technology/cloud.json",
+          "lang": "english",
+          "keys": [
+            "cloud",
+            "aws",
+            "server",
+            "container",
+            "saa",
+            "technology"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "ai",
+          "title": "AI",
+          "shelf": "technology-ai",
+          "topic": "technology-ai",
+          "file": "technology/ai.json",
+          "lang": "english",
+          "keys": [
+            "ai",
+            "model",
+            "train",
+            "neural",
+            "chatbot",
+            "technology"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "ai",
+            "hallucinate",
+            "machine learning",
+            "openai"
+          ]
+        },
+        {
+          "slug": "cybersecurity",
+          "title": "Cybersecurity",
+          "shelf": "technology-cybersecurity",
+          "topic": "technology-cybersecurity",
+          "file": "technology/cybersecurity.json",
+          "lang": "english",
+          "keys": [
+            "malware",
+            "phish",
+            "password",
+            "encryption",
+            "cybersecurity",
+            "technology"
+          ],
+          "entryCount": 8,
+          "concepts": [
+            "phishing",
+            "malware",
+            "sql injection",
+            "xss",
+            "two factor authentication",
+            "hashing",
+            "password strength",
+            "password"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general-knowledge",
+      "title": "General Knowledge",
+      "lang": "english",
+      "extra": false,
+      "shelfCount": 12,
+      "entryCount": 41,
+      "subs": [
+        {
+          "slug": "geography",
+          "title": "Geography",
+          "shelf": "general-knowledge-geography",
+          "topic": "general-knowledge-geography",
+          "file": "general-knowledge/geography.json",
+          "lang": "english",
+          "keys": [
+            "country",
+            "capital",
+            "river",
+            "mountain",
+            "geography",
+            "general",
+            "knowledge"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "history",
+          "title": "History",
+          "shelf": "general-knowledge-history",
+          "topic": "general-knowledge-history",
+          "file": "general-knowledge/history.json",
+          "lang": "english",
+          "keys": [
+            "war",
+            "empire",
+            "century",
+            "revolution",
+            "history",
+            "general",
+            "knowledge"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "colonization",
+            "commonwealth",
+            "occupation",
+            "katipunan",
+            "cession"
+          ]
+        },
+        {
+          "slug": "countries",
+          "title": "Countries",
+          "shelf": "general-knowledge-countries",
+          "topic": "general-knowledge-countries",
+          "file": "general-knowledge/countries.json",
+          "lang": "english",
+          "keys": [
+            "japan",
+            "brazil",
+            "india",
+            "france",
+            "nation",
+            "country",
+            "general",
+            "knowledge"
+          ],
+          "entryCount": 9,
+          "concepts": [
+            "Japan",
+            "Brazil",
+            "Egypt",
+            "Kenya",
+            "Canada",
+            "Australia",
+            "Norway",
+            "Iceland"
+          ]
+        },
+        {
+          "slug": "culture",
+          "title": "Culture",
+          "shelf": "general-knowledge-culture",
+          "topic": "general-knowledge-culture",
+          "file": "general-knowledge/culture.json",
+          "lang": "english",
+          "keys": [
+            "language",
+            "tradition",
+            "festival",
+            "cuisine",
+            "culture",
+            "general",
+            "knowledge"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "animals",
+          "title": "Animals",
+          "shelf": "general-knowledge-animals",
+          "topic": "general-knowledge-animals",
+          "file": "general-knowledge/animals.json",
+          "lang": "english",
+          "keys": [
+            "mammal",
+            "bird",
+            "reptile",
+            "specy",
+            "extinct",
+            "animal",
+            "general",
+            "knowledge"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "space",
+          "title": "Space",
+          "shelf": "general-knowledge-space",
+          "topic": "general-knowledge-space",
+          "file": "general-knowledge/space.json",
+          "lang": "english",
+          "keys": [
+            "galaxy",
+            "universe",
+            "planet",
+            "nasa",
+            "space",
+            "general",
+            "knowledge"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "transportation",
+          "title": "Transportation",
+          "shelf": "general-knowledge-transportation",
+          "topic": "general-knowledge-transportation",
+          "file": "general-knowledge/transportation.json",
+          "lang": "english",
+          "keys": [
+            "train",
+            "bus",
+            "airplane",
+            "ship",
+            "transport",
+            "transportation",
+            "general",
+            "knowledge"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "everyday-facts",
+          "title": "Everyday facts",
+          "shelf": "general-knowledge-everyday-facts",
+          "topic": "general-knowledge-everyday-facts",
+          "file": "general-knowledge/everyday-facts.json",
+          "lang": "english",
+          "keys": [
+            "fact",
+            "everyday",
+            "money",
+            "budget",
+            "tip",
+            "general",
+            "knowledge"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "budget",
+            "emergency",
+            "interest",
+            "invest",
+            "income"
+          ]
+        },
+        {
+          "slug": "artists",
+          "title": "Artists",
+          "shelf": "general-knowledge-artists",
+          "topic": "general-knowledge-artists",
+          "file": "general-knowledge/artists.json",
+          "lang": "english",
+          "keys": [
+            "artist",
+            "painter",
+            "musician",
+            "actor",
+            "sculpture",
+            "famou",
+            "general",
+            "knowledge"
+          ],
+          "entryCount": 7,
+          "concepts": [
+            "artist biography",
+            "artist",
+            "painting",
+            "portrait",
+            "famous painter",
+            "musician",
+            "stage name"
+          ]
+        },
+        {
+          "slug": "news",
+          "title": "News",
+          "shelf": "general-knowledge-news",
+          "topic": "general-knowledge-news",
+          "file": "general-knowledge/news.json",
+          "lang": "english",
+          "keys": [
+            "new",
+            "headline",
+            "report",
+            "journalist",
+            "live",
+            "media",
+            "general",
+            "knowledge"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "news",
+            "headline",
+            "source",
+            "bias",
+            "misinformation"
+          ]
+        },
+        {
+          "slug": "weather",
+          "title": "Weather",
+          "shelf": "general-knowledge-weather",
+          "topic": "general-knowledge-weather",
+          "file": "general-knowledge/weather.json",
+          "lang": "english",
+          "keys": [
+            "weather",
+            "forecast",
+            "temperature",
+            "storm",
+            "rain",
+            "general",
+            "knowledge"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "weather",
+            "forecast",
+            "climate",
+            "storm",
+            "humidity"
+          ]
+        },
+        {
+          "slug": "time",
+          "title": "Time",
+          "shelf": "general-knowledge-time",
+          "topic": "general-knowledge-time",
+          "file": "general-knowledge/time.json",
+          "lang": "english",
+          "keys": [
+            "time",
+            "clock",
+            "calendar",
+            "timezone",
+            "daylight",
+            "general",
+            "knowledge"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "time",
+            "time zone",
+            "daylight saving time",
+            "calendar",
+            "timetable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "courses",
+      "title": "Courses",
+      "lang": "english",
+      "extra": false,
+      "shelfCount": 12,
+      "entryCount": 52,
+      "subs": [
+        {
+          "slug": "nursing",
+          "title": "Nursing",
+          "shelf": "courses-nursing",
+          "topic": "courses-nursing",
+          "file": "courses/nursing.json",
+          "lang": "english",
+          "keys": [
+            "nurs",
+            "nurse",
+            "ward",
+            "patient",
+            "shift",
+            "care",
+            "cours"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "nursing",
+            "nursing school",
+            "shift work",
+            "nurse practitioner"
+          ]
+        },
+        {
+          "slug": "midwifery",
+          "title": "Midwifery",
+          "shelf": "courses-midwifery",
+          "topic": "courses-midwifery",
+          "file": "courses/midwifery.json",
+          "lang": "english",
+          "keys": [
+            "midwifery",
+            "midwife",
+            "birth",
+            "antenatal",
+            "labour",
+            "cours"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "midwifery",
+            "midwife",
+            "antenatal",
+            "labour",
+            "birth plan"
+          ]
+        },
+        {
+          "slug": "education",
+          "title": "Education",
+          "shelf": "courses-education",
+          "topic": "courses-education",
+          "file": "courses/education.json",
+          "lang": "english",
+          "keys": [
+            "teach",
+            "teacher",
+            "classroom",
+            "curriculum",
+            "student",
+            "educ",
+            "course",
+            "major",
+            "graduate",
+            "education",
+            "cours"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "education course",
+            "curriculum",
+            "teaching method",
+            "choosing a course",
+            "student teacher",
+            "licence"
+          ]
+        },
+        {
+          "slug": "information-technology",
+          "title": "Information technology",
+          "shelf": "courses-information-technology",
+          "topic": "courses-information-technology",
+          "file": "courses/information-technology.json",
+          "lang": "english",
+          "keys": [
+            "it",
+            "comput",
+            "network",
+            "system",
+            "support",
+            "information",
+            "technology",
+            "cours"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "information technology",
+            "help desk",
+            "networking",
+            "cybersecurity",
+            "it support"
+          ]
+        },
+        {
+          "slug": "business",
+          "title": "Business",
+          "shelf": "courses-business",
+          "topic": "courses-business",
+          "file": "courses/business.json",
+          "lang": "english",
+          "keys": [
+            "busines",
+            "management",
+            "market",
+            "finance",
+            "company",
+            "cours"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "business course",
+            "management",
+            "marketing",
+            "startup"
+          ]
+        },
+        {
+          "slug": "engineering",
+          "title": "Engineering",
+          "shelf": "courses-engineering",
+          "topic": "courses-engineering",
+          "file": "courses/engineering.json",
+          "lang": "english",
+          "keys": [
+            "engineer",
+            "design",
+            "build",
+            "technical",
+            "cours"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "engineering",
+            "engineering design",
+            "mechanical engineer",
+            "licensure"
+          ]
+        },
+        {
+          "slug": "accountancy",
+          "title": "Accountancy",
+          "shelf": "courses-accountancy",
+          "topic": "courses-accountancy",
+          "file": "courses/accountancy.json",
+          "lang": "english",
+          "keys": [
+            "accountancy",
+            "accountant",
+            "audit",
+            "ledger",
+            "tax",
+            "cours"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "accountancy",
+            "debit and credit",
+            "audit",
+            "board exam"
+          ]
+        },
+        {
+          "slug": "criminology",
+          "title": "Criminology",
+          "shelf": "courses-criminology",
+          "topic": "courses-criminology",
+          "file": "courses/criminology.json",
+          "lang": "english",
+          "keys": [
+            "criminology",
+            "crime",
+            "offender",
+            "prison",
+            "justice",
+            "cours"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "criminology",
+            "rehabilitation",
+            "deterrence",
+            "why people commit crime"
+          ]
+        },
+        {
+          "slug": "culinary",
+          "title": "Culinary",
+          "shelf": "courses-culinary",
+          "topic": "courses-culinary",
+          "file": "courses/culinary.json",
+          "lang": "english",
+          "keys": [
+            "culinary",
+            "chef",
+            "cook",
+            "kitchen",
+            "recipe",
+            "cours"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "culinary",
+            "knife skill",
+            "cross contamination",
+            "mise en place"
+          ]
+        },
+        {
+          "slug": "architecture",
+          "title": "Architecture",
+          "shelf": "courses-architecture",
+          "topic": "courses-architecture",
+          "file": "courses/architecture.json",
+          "lang": "english",
+          "keys": [
+            "architecture",
+            "architect",
+            "build",
+            "design",
+            "structure",
+            "cours"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "architecture",
+            "architect",
+            "model",
+            "green building"
+          ]
+        },
+        {
+          "slug": "law",
+          "title": "Law",
+          "shelf": "courses-law",
+          "topic": "courses-law",
+          "file": "courses/law.json",
+          "lang": "english",
+          "keys": [
+            "law",
+            "lawyer",
+            "court",
+            "legal",
+            "statute",
+            "case",
+            "cours"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "law degree",
+            "case brief",
+            "statute",
+            "pro bono"
+          ]
+        },
+        {
+          "slug": "medicine",
+          "title": "Medicine",
+          "shelf": "courses-medicine",
+          "topic": "courses-medicine",
+          "file": "courses/medicine.json",
+          "lang": "english",
+          "keys": [
+            "medicine",
+            "doctor",
+            "hospital",
+            "diagnose",
+            "patient",
+            "cours"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "medicine",
+            "residency",
+            "differential diagnosis",
+            "medical school"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "title": "Health",
+      "lang": "english",
+      "extra": false,
+      "shelfCount": 8,
+      "entryCount": 36,
+      "subs": [
+        {
+          "slug": "body",
+          "title": "Body",
+          "shelf": "health-body",
+          "topic": "health-body",
+          "file": "health/body.json",
+          "lang": "english",
+          "keys": [
+            "organ",
+            "muscle",
+            "bone",
+            "heart",
+            "lung",
+            "body",
+            "health"
+          ],
+          "entryCount": 10,
+          "concepts": [
+            "hand",
+            "eyes",
+            "finger",
+            "bone",
+            "muscle",
+            "knee",
+            "foot",
+            "skin"
+          ]
+        },
+        {
+          "slug": "symptoms",
+          "title": "Symptoms",
+          "shelf": "health-symptoms",
+          "topic": "health-symptoms",
+          "file": "health/symptoms.json",
+          "lang": "english",
+          "keys": [
+            "fever",
+            "pain",
+            "cough",
+            "dizzy",
+            "sore",
+            "symptom",
+            "health"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "fever",
+            "dehydration",
+            "headache",
+            "back pain",
+            "allergy"
+          ]
+        },
+        {
+          "slug": "injury",
+          "title": "Injury",
+          "shelf": "health-injury",
+          "topic": "health-injury",
+          "file": "health/injury.json",
+          "lang": "english",
+          "keys": [
+            "injury",
+            "injur",
+            "injure",
+            "hurt",
+            "damage",
+            "bleed",
+            "emergency",
+            "first",
+            "aid",
+            "bone",
+            "fracture",
+            "arm",
+            "wound",
+            "treat",
+            "health"
+          ],
+          "entryCount": 8,
+          "concepts": [
+            "injury",
+            "wound",
+            "fracture",
+            "sprain",
+            "strain",
+            "bruise",
+            "concussion",
+            "dislocation"
+          ]
+        },
+        {
+          "slug": "diseases",
+          "title": "Diseases",
+          "shelf": "health-diseases",
+          "topic": "health-diseases",
+          "file": "health/diseases.json",
+          "lang": "english",
+          "keys": [
+            "diabet",
+            "asthma",
+            "infection",
+            "chronic",
+            "diseas",
+            "health"
+          ],
+          "entryCount": 0,
+          "concepts": []
+        },
+        {
+          "slug": "medicine-vocabulary",
+          "title": "Medicine vocabulary",
+          "shelf": "health-medicine-vocabulary",
+          "topic": "health-medicine-vocabulary",
+          "file": "health/medicine-vocabulary.json",
+          "lang": "english",
+          "keys": [
+            "medicine",
+            "dose",
+            "tablet",
+            "prescription",
+            "drug",
+            "vocabulary",
+            "health"
+          ],
+          "entryCount": 3,
+          "concepts": [
+            "cold remedies",
+            "antibiotics",
+            "mental health"
+          ]
+        },
+        {
+          "slug": "first-aid",
+          "title": "First aid",
+          "shelf": "health-first-aid",
+          "topic": "health-first-aid",
+          "file": "health/first-aid.json",
+          "lang": "english",
+          "keys": [
+            "bleed",
+            "burn",
+            "cpr",
+            "emergency",
+            "wound",
+            "first",
+            "aid",
+            "health"
+          ],
+          "entryCount": 1,
+          "concepts": [
+            "first aid"
+          ]
+        },
+        {
+          "slug": "nutrition",
+          "title": "Nutrition",
+          "shelf": "health-nutrition",
+          "topic": "health-nutrition",
+          "file": "health/nutrition.json",
+          "lang": "english",
+          "keys": [
+            "protein",
+            "vitamin",
+            "calorie",
+            "diet",
+            "mineral",
+            "nutrition",
+            "health"
+          ],
+          "entryCount": 1,
+          "concepts": [
+            "vitamins"
+          ]
+        },
+        {
+          "slug": "education",
+          "title": "Health education",
+          "shelf": "health-education",
+          "topic": "health-education",
+          "file": "health/education.json",
+          "lang": "english",
+          "keys": [
+            "hygiene",
+            "exercise",
+            "prevention",
+            "health",
+            "education"
+          ],
+          "entryCount": 8,
+          "concepts": [
+            "handwashing",
+            "vaccination",
+            "sunscreen",
+            "exercise",
+            "sleep",
+            "stress",
+            "food safety",
+            "hygiene"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conversations",
+      "title": "Conversations",
+      "lang": "english",
+      "extra": false,
+      "shelfCount": 11,
+      "entryCount": 64,
+      "subs": [
+        {
+          "slug": "greetings",
+          "title": "Greetings",
+          "shelf": "conversations-greetings",
+          "topic": "conversations-greetings",
+          "file": "conversations/greetings.json",
+          "lang": "english",
+          "keys": [
+            "hello",
+            "hi",
+            "welcome",
+            "introduce",
+            "greet",
+            "conversation"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "introduction",
+            "icebreaker",
+            "rapport",
+            "first impression",
+            "eye contact",
+            "gesture"
+          ]
+        },
+        {
+          "slug": "small-talk",
+          "title": "Small talk",
+          "shelf": "conversations-small-talk",
+          "topic": "conversations-small-talk",
+          "file": "conversations/small-talk.json",
+          "lang": "english",
+          "keys": [
+            "weather",
+            "weekend",
+            "new",
+            "how",
+            "small",
+            "talk",
+            "conversation"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "compliment",
+            "common ground",
+            "current events",
+            "safe topic",
+            "open question",
+            "chat"
+          ]
+        },
+        {
+          "slug": "asking-questions",
+          "title": "Asking questions",
+          "shelf": "conversations-asking-questions",
+          "topic": "conversations-asking-questions",
+          "file": "conversations/asking-questions.json",
+          "lang": "english",
+          "keys": [
+            "ask",
+            "question",
+            "wonder",
+            "curiou",
+            "conversation"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "clarify",
+            "follow-up",
+            "rhetorical",
+            "probing",
+            "question mark",
+            "curiosity"
+          ]
+        },
+        {
+          "slug": "casual-chat",
+          "title": "Casual chat",
+          "shelf": "conversations-casual-chat",
+          "topic": "conversations-casual-chat",
+          "file": "conversations/casual-chat.json",
+          "lang": "english",
+          "keys": [
+            "chat",
+            "casual",
+            "hang",
+            "talk",
+            "conversation"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "banter",
+            "hang out",
+            "inside joke",
+            "awkward",
+            "downtime",
+            "ramble"
+          ]
+        },
+        {
+          "slug": "thanks",
+          "title": "Thanks",
+          "shelf": "conversations-thanks",
+          "topic": "conversations-thanks",
+          "file": "conversations/thanks.json",
+          "lang": "english",
+          "keys": [
+            "thank",
+            "appreciate",
+            "welcome",
+            "grateful",
+            "conversation"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "thank you",
+            "you are welcome",
+            "appreciate",
+            "credit",
+            "pay back",
+            "deserving"
+          ]
+        },
+        {
+          "slug": "apologies",
+          "title": "Apologies",
+          "shelf": "conversations-apologies",
+          "topic": "conversations-apologies",
+          "file": "conversations/apologies.json",
+          "lang": "english",
+          "keys": [
+            "sorry",
+            "excuse",
+            "forgive",
+            "mistake",
+            "apology",
+            "conversation"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "sorry",
+            "apology",
+            "excuse",
+            "forgive",
+            "admit fault",
+            "make amends"
+          ]
+        },
+        {
+          "slug": "goodbyes",
+          "title": "Goodbyes",
+          "shelf": "conversations-goodbyes",
+          "topic": "conversations-goodbyes",
+          "file": "conversations/goodbyes.json",
+          "lang": "english",
+          "keys": [
+            "bye",
+            "goodbye",
+            "farewell",
+            "see",
+            "goodby",
+            "conversation"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "parting",
+            "send off",
+            "exit line",
+            "wrap up",
+            "remain in touch"
+          ]
+        },
+        {
+          "slug": "emotions",
+          "title": "Emotions",
+          "shelf": "conversations-emotions",
+          "topic": "conversations-emotions",
+          "file": "conversations/emotions.json",
+          "lang": "english",
+          "keys": [
+            "happy",
+            "sad",
+            "tir",
+            "excit",
+            "worri",
+            "emotion",
+            "conversation"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "jealousy",
+            "pride",
+            "relief",
+            "disappointment",
+            "loneliness",
+            "contentment"
+          ]
+        },
+        {
+          "slug": "relationships",
+          "title": "Relationships",
+          "shelf": "conversations-relationships",
+          "topic": "conversations-relationships",
+          "file": "conversations/relationships.json",
+          "lang": "english",
+          "keys": [
+            "relationship",
+            "boundary",
+            "trust",
+            "partner",
+            "conversation"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "boundary",
+            "attachment",
+            "conflict",
+            "trust",
+            "red flag"
+          ]
+        },
+        {
+          "slug": "friendly-conversation",
+          "title": "Friendly conversation",
+          "shelf": "conversations-friendly-conversation",
+          "topic": "conversations-friendly-conversation",
+          "file": "conversations/friendly-conversation.json",
+          "lang": "english",
+          "keys": [
+            "friend",
+            "company",
+            "banter",
+            "rapport",
+            "conversation"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "camaraderie",
+            "goodwill",
+            "encouragement",
+            "empathy",
+            "active listening",
+            "warmth"
+          ]
+        },
+        {
+          "slug": "context-follow-up",
+          "title": "Context / follow-up",
+          "shelf": "conversations-context-follow-up",
+          "topic": "conversations-context-follow-up",
+          "file": "conversations/context-follow-up.json",
+          "lang": "english",
+          "keys": [
+            "context",
+            "follow",
+            "remind",
+            "earlier",
+            "memory",
+            "up",
+            "conversation"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "callback",
+            "continuity",
+            "thread",
+            "recap",
+            "return to topic",
+            "earlier"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "title": "Sports",
+      "lang": "english",
+      "extra": true,
+      "shelfCount": 10,
+      "entryCount": 51,
+      "subs": [
+        {
+          "slug": "football",
+          "title": "Football",
+          "shelf": "sports-football",
+          "topic": "sports-football",
+          "file": "sports/football.json",
+          "lang": "english",
+          "keys": [
+            "soccer",
+            "goal",
+            "match",
+            "striker",
+            "league",
+            "football",
+            "sport"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "offside",
+            "penalty",
+            "corner",
+            "handball",
+            "substitution",
+            "world cup"
+          ]
+        },
+        {
+          "slug": "basketball",
+          "title": "Basketball",
+          "shelf": "sports-basketball",
+          "topic": "sports-basketball",
+          "file": "sports/basketball.json",
+          "lang": "english",
+          "keys": [
+            "nba",
+            "dunk",
+            "court",
+            "point",
+            "rebound",
+            "basketball",
+            "sport"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "dunk",
+            "three-pointer",
+            "rebound",
+            "triple double",
+            "dribble"
+          ]
+        },
+        {
+          "slug": "volleyball",
+          "title": "Volleyball",
+          "shelf": "sports-volleyball",
+          "topic": "sports-volleyball",
+          "file": "sports/volleyball.json",
+          "lang": "english",
+          "keys": [
+            "spike",
+            "set",
+            "serve",
+            "ral",
+            "net",
+            "volleyball",
+            "sport"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "spike",
+            "set",
+            "rotation",
+            "block",
+            "libero"
+          ]
+        },
+        {
+          "slug": "swimming",
+          "title": "Swimming",
+          "shelf": "sports-swimming",
+          "topic": "sports-swimming",
+          "file": "sports/swimming.json",
+          "lang": "english",
+          "keys": [
+            "pool",
+            "lane",
+            "freestyle",
+            "breaststroke",
+            "swim",
+            "swimm",
+            "sport"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "freestyle",
+            "lane",
+            "lane rope",
+            "turn",
+            "breaststroke"
+          ]
+        },
+        {
+          "slug": "running",
+          "title": "Running",
+          "shelf": "sports-running",
+          "topic": "sports-running",
+          "file": "sports/running.json",
+          "lang": "english",
+          "keys": [
+            "marathon",
+            "sprint",
+            "pace",
+            "jog",
+            "distance",
+            "runn",
+            "sport"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "marathon",
+            "pace",
+            "taper",
+            "jog",
+            "sprint"
+          ]
+        },
+        {
+          "slug": "tennis",
+          "title": "Tennis",
+          "shelf": "sports-tennis",
+          "topic": "sports-tennis",
+          "file": "sports/tennis.json",
+          "lang": "english",
+          "keys": [
+            "serve",
+            "deuce",
+            "set",
+            "ral",
+            "grand",
+            "slam",
+            "tenni",
+            "sport"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "deuce",
+            "serve",
+            "grand slam",
+            "rally",
+            "tiebreak"
+          ]
+        },
+        {
+          "slug": "badminton",
+          "title": "Badminton",
+          "shelf": "sports-badminton",
+          "topic": "sports-badminton",
+          "file": "sports/badminton.json",
+          "lang": "english",
+          "keys": [
+            "shuttlecock",
+            "smash",
+            "shuttle",
+            "court",
+            "doubl",
+            "badminton",
+            "sport"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "shuttlecock",
+            "smash",
+            "service court",
+            "doubles",
+            "let"
+          ]
+        },
+        {
+          "slug": "martial-arts",
+          "title": "Martial arts",
+          "shelf": "sports-martial-arts",
+          "topic": "sports-martial-arts",
+          "file": "sports/martial-arts.json",
+          "lang": "english",
+          "keys": [
+            "judo",
+            "box",
+            "kick",
+            "stance",
+            "round",
+            "martial",
+            "art",
+            "sport"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "judo",
+            "boxing",
+            "stance",
+            "belt",
+            "round"
+          ]
+        },
+        {
+          "slug": "athletics",
+          "title": "Athletics",
+          "shelf": "sports-athletics",
+          "topic": "sports-athletics",
+          "file": "sports/athletics.json",
+          "lang": "english",
+          "keys": [
+            "sprint",
+            "hurdl",
+            "relay",
+            "jump",
+            "throw",
+            "athletic",
+            "sport"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "hurdles",
+            "relay",
+            "long jump",
+            "triple jump",
+            "sprint start"
+          ]
+        },
+        {
+          "slug": "fitness",
+          "title": "Fitness",
+          "shelf": "sports-fitness",
+          "topic": "sports-fitness",
+          "file": "sports/fitness.json",
+          "lang": "english",
+          "keys": [
+            "strength",
+            "cardio",
+            "routine",
+            "mobility",
+            "recovery",
+            "fitnes",
+            "sport"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "cardio",
+            "progressive overload",
+            "mobility",
+            "delOAD",
+            "warm-up"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "study",
+      "title": "Study",
+      "lang": "english",
+      "extra": true,
+      "shelfCount": 8,
+      "entryCount": 40,
+      "subs": [
+        {
+          "slug": "motivation",
+          "title": "Motivation",
+          "shelf": "study-motivation",
+          "topic": "study-motivation",
+          "file": "study/motivation.json",
+          "lang": "english",
+          "keys": [
+            "focu",
+            "habit",
+            "procrastination",
+            "discipline",
+            "motivation",
+            "study"
+          ],
+          "entryCount": 6,
+          "concepts": [
+            "procrastination",
+            "spaced repetition",
+            "pomodoro",
+            "active recall",
+            "note taking",
+            "deep work"
+          ]
+        },
+        {
+          "slug": "techniques",
+          "title": "Study techniques",
+          "shelf": "study-techniques",
+          "topic": "study-techniques",
+          "file": "study/techniques.json",
+          "lang": "english",
+          "keys": [
+            "recall",
+            "revision",
+            "flashcard",
+            "method",
+            "memorise",
+            "techniqu",
+            "study"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "flashcard",
+            "revision",
+            "mind map",
+            "elaborate",
+            "interleaving"
+          ]
+        },
+        {
+          "slug": "time-management",
+          "title": "Time management",
+          "shelf": "study-time-management",
+          "topic": "study-time-management",
+          "file": "study/time-management.json",
+          "lang": "english",
+          "keys": [
+            "schedule",
+            "prioritise",
+            "deadline",
+            "plan",
+            "hour",
+            "time",
+            "management",
+            "study"
+          ],
+          "entryCount": 4,
+          "concepts": [
+            "prioritise",
+            "time block",
+            "productivity system",
+            "distraction"
+          ]
+        },
+        {
+          "slug": "exam-prep",
+          "title": "Exam prep",
+          "shelf": "study-exam-prep",
+          "topic": "study-exam-prep",
+          "file": "study/exam-prep.json",
+          "lang": "english",
+          "keys": [
+            "exam",
+            "mock",
+            "past",
+            "paper",
+            "syllabu",
+            "revise",
+            "prep",
+            "study"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "past paper",
+            "mock exam",
+            "syllabus",
+            "mark scheme",
+            "cramming"
+          ]
+        },
+        {
+          "slug": "memory",
+          "title": "Memory",
+          "shelf": "study-memory",
+          "topic": "study-memory",
+          "file": "study/memory.json",
+          "lang": "english",
+          "keys": [
+            "forget",
+            "retention",
+            "encode",
+            "mnemonic",
+            "recall",
+            "memory",
+            "study"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "forgetting curve",
+            "mnemonic",
+            "working memory",
+            "encoding",
+            "retention"
+          ]
+        },
+        {
+          "slug": "reading",
+          "title": "Reading",
+          "shelf": "study-reading",
+          "topic": "study-reading",
+          "file": "study/reading.json",
+          "lang": "english",
+          "keys": [
+            "skim",
+            "read",
+            "comprehension",
+            "summary",
+            "detail",
+            "study"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "skim",
+            "active reading",
+            "reading speed",
+            "close reading",
+            "summary"
+          ]
+        },
+        {
+          "slug": "writing",
+          "title": "Academic writing",
+          "shelf": "study-writing",
+          "topic": "study-writing",
+          "file": "study/writing.json",
+          "lang": "english",
+          "keys": [
+            "essay",
+            "paragraph",
+            "thesi",
+            "draft",
+            "edit",
+            "writ",
+            "study"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "thesis statement",
+            "paragraph",
+            "draft",
+            "citation",
+            "plagiarism"
+          ]
+        },
+        {
+          "slug": "research",
+          "title": "Research",
+          "shelf": "study-research",
+          "topic": "study-research",
+          "file": "study/research.json",
+          "lang": "english",
+          "keys": [
+            "source",
+            "cite",
+            "hypothesi",
+            "data",
+            "method",
+            "research",
+            "study"
+          ],
+          "entryCount": 5,
+          "concepts": [
+            "hypothesis",
+            "peer review",
+            "citation bias",
+            "reproducibility",
+            "methodology"
+          ]
+        }
+      ]
+    }
+  ],
+  "unregistered": [
+    {
+      "file": "conversation.json",
+      "topic": "conversation",
+      "entryCount": 8
+    }
+  ]
+}

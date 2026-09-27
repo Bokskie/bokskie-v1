@@ -1,0 +1,42 @@
+{
+  "topic": "mathematics-calculus",
+  "entries": [
+    {
+      "id": "mat-calculus-000001",
+      "topic": "mathematics-calculus",
+      "intent": "definition",
+      "concept": "derivative",
+      "keywords": [
+        "derivative",
+        "calculus",
+        "rate",
+        "slope",
+        "differential",
+        "measures",
+        "fast",
+        "something",
+        "changes",
+        "respect"
+      ],
+      "patterns": [
+        "what is derivative",
+        "derivative",
+        "explain derivative",
+        "definition of derivative",
+        "derivative meaning",
+        "what is a derivative",
+        "what is calculus"
+      ],
+      "answer": "A derivative measures how fast something changes with respect to something else. Graphically it is the slope of the tangent line at a point. If distance is a function of time, the derivative of distance is speed; the derivative of speed is acceleration. Calculus is built on it, together with the integral, which adds up infinitely many tiny slices to get a total.",
+      "variations": [
+        "Graphically it is the slope of the tangent line at a point. A derivative measures how fast something changes with respect to something else. If distance is a function of time, the derivative of distance is speed; the derivative of speed is acceleration. Calculus is built on it, together with the integral, which adds up infinitely many tiny slices to get a total.",
+        "If distance is a function of time, the derivative of distance is speed; the derivative of speed is acceleration. A derivative measures how fast something changes with respect to something else. Graphically it is the slope of the tangent line at a point. Calculus is built on it, together with the integral, which adds up infinitely many tiny slices to get a total."
+      ]
+    }
+  ],
+  "lang": "english",
+  "group": "mathematics",
+  "sub": "calculus",
+  "title": "Calculus",
+  "groupTitle": "Mathematics"
+}

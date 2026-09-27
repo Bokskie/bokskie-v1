@@ -1,0 +1,220 @@
+{
+  "topic": "sports-football",
+  "entries": [
+    {
+      "id": "spo-football-000001",
+      "topic": "sports-football",
+      "intent": "definition",
+      "concept": "offside",
+      "keywords": [
+        "offside",
+        "defender",
+        "pass",
+        "player",
+        "moment",
+        "played",
+        "nearer"
+      ],
+      "patterns": [
+        "what is offside",
+        "offside",
+        "explain offside",
+        "definition of offside",
+        "offside meaning",
+        "why am i offside",
+        "when is offside called",
+        "ano ang offside",
+        "unsa ang offside"
+      ],
+      "answer": "A player is offside if, at the moment the ball is played to them, they are nearer the opponent's goal line than both the ball and the second-last defender. The rule exists to stop a single long pass producing an easy chance. What makes it confusing is that being offside is judged at the pass, not at the shot, so a player can run twenty yards after a through ball and still be flagged for where they were when it was played.",
+      "variations": [
+        "The rule exists to stop a single long pass producing an easy chance. A player is offside if, at the moment the ball is played to them, they are nearer the opponent's goal line than both the ball and the second-last defender. What makes it confusing is that being offside is judged at the pass, not at the shot, so a player can run twenty yards after a through ball and still be flagged for where they were when it was played.",
+        "What makes it confusing is that being offside is judged at the pass, not at the shot, so a player can run twenty yards after a through ball and still be flagged for where they were when it was played. A player is offside if, at the moment the ball is played to them, they are nearer the opponent's goal line than both the ball and the second-last defender. The rule exists to stop a single long pass producing an easy chance."
+      ],
+      "tl": "offside",
+      "bis": "offside"
+    },
+    {
+      "id": "spo-football-000002",
+      "topic": "sports-football",
+      "intent": "definition",
+      "concept": "penalty",
+      "keywords": [
+        "penalty",
+        "foul",
+        "spot",
+        "dive",
+        "awarded",
+        "inside",
+        "area",
+        "kick"
+      ],
+      "patterns": [
+        "what is penalty",
+        "penalty",
+        "explain penalty",
+        "definition of penalty",
+        "penalty meaning",
+        "what is a penalty",
+        "where is the penalty spot",
+        "why do players dive",
+        "ano ang penalty",
+        "unsa ang penalty"
+      ],
+      "answer": "A penalty is awarded for a foul inside the penalty area, and the kick is taken from a fixed spot twelve yards from the goal with only the goalkeeper allowed to move. The apparent unfairness is deliberate: it is the only position on the pitch where a goal is scored more often than not, because the dive narrows the angle. The rule that decides most penalties is the one about which foot or body part made contact, not how hard.",
+      "variations": [
+        "The apparent unfairness is deliberate: it is the only position on the pitch where a goal is scored more often than not, because the dive narrows the angle. A penalty is awarded for a foul inside the penalty area, and the kick is taken from a fixed spot twelve yards from the goal with only the goalkeeper allowed to move. The rule that decides most penalties is the one about which foot or body part made contact, not how hard.",
+        "The rule that decides most penalties is the one about which foot or body part made contact, not how hard. A penalty is awarded for a foul inside the penalty area, and the kick is taken from a fixed spot twelve yards from the goal with only the goalkeeper allowed to move. The apparent unfairness is deliberate: it is the only position on the pitch where a goal is scored more often than not, because the dive narrows the angle."
+      ],
+      "tl": "penalty",
+      "bis": "penalty"
+    },
+    {
+      "id": "spo-football-000003",
+      "topic": "sports-football",
+      "intent": "definition",
+      "concept": "corner",
+      "keywords": [
+        "corner",
+        "cross",
+        "header",
+        "awarded",
+        "defending",
+        "team",
+        "puts"
+      ],
+      "patterns": [
+        "what is corner",
+        "corner",
+        "explain corner",
+        "definition of corner",
+        "corner meaning",
+        "what is a corner kick",
+        "when do you get a corner",
+        "ano ang corner",
+        "unsa ang corner"
+      ],
+      "answer": "A corner is awarded when the defending team puts the ball over their own goal line, last touched by an attacker. It is taken from the corner of the pitch nearest the goal, which is why attacking set pieces are aimed short. The expected goal value of a corner is low, and a corner won from a good cross is usually worth more than the one from a long delivery everyone can head.",
+      "variations": [
+        "It is taken from the corner of the pitch nearest the goal, which is why attacking set pieces are aimed short. A corner is awarded when the defending team puts the ball over their own goal line, last touched by an attacker. The expected goal value of a corner is low, and a corner won from a good cross is usually worth more than the one from a long delivery everyone can head.",
+        "The expected goal value of a corner is low, and a corner won from a good cross is usually worth more than the one from a long delivery everyone can head. A corner is awarded when the defending team puts the ball over their own goal line, last touched by an attacker. It is taken from the corner of the pitch nearest the goal, which is why attacking set pieces are aimed short."
+      ],
+      "tl": "corner",
+      "bis": "corner"
+    },
+    {
+      "id": "spo-football-000004",
+      "topic": "sports-football",
+      "intent": "definition",
+      "concept": "handball",
+      "keywords": [
+        "handball",
+        "hand",
+        "arm",
+        "penalty",
+        "caution",
+        "deliberate",
+        "reckless",
+        "contact"
+      ],
+      "patterns": [
+        "what is handball",
+        "handball",
+        "explain handball",
+        "definition of handball",
+        "handball meaning",
+        "is handball a foul",
+        "what is a handball",
+        "how strict is the handball rule",
+        "ano ang handball",
+        "unsa ang handball"
+      ],
+      "answer": "Handball is a deliberate or reckless contact with the ball by the arm or hand, and the offence is called handball rather than a foul, which reflects how strictly it is policed. The rule is about the position of the arm rather than the intent, because a player cannot always tell a bounce off a defender's chest from one off their arm. A handball inside the area is a penalty, and a handball anywhere while scoring is a red card.",
+      "variations": [
+        "The rule is about the position of the arm rather than the intent, because a player cannot always tell a bounce off a defender's chest from one off their arm. Handball is a deliberate or reckless contact with the ball by the arm or hand, and the offence is called handball rather than a foul, which reflects how strictly it is policed. A handball inside the area is a penalty, and a handball anywhere while scoring is a red card.",
+        "A handball inside the area is a penalty, and a handball anywhere while scoring is a red card. Handball is a deliberate or reckless contact with the ball by the arm or hand, and the offence is called handball rather than a foul, which reflects how strictly it is policed. The rule is about the position of the arm rather than the intent, because a player cannot always tell a bounce off a defender's chest from one off their arm."
+      ],
+      "tl": "handball",
+      "bis": "handball"
+    },
+    {
+      "id": "spo-football-000005",
+      "topic": "sports-football",
+      "intent": "definition",
+      "concept": "substitution",
+      "keywords": [
+        "substitution",
+        "substitute",
+        "bench",
+        "squad",
+        "formation",
+        "tactics",
+        "swaps",
+        "player",
+        "another",
+        "play",
+        "competitions"
+      ],
+      "patterns": [
+        "what is substitution",
+        "substitution",
+        "explain substitution",
+        "definition of substitution",
+        "substitution meaning",
+        "how many substitutions are allowed",
+        "when can a substitution happen",
+        "ano ang substitution",
+        "unsa ang substitution"
+      ],
+      "answer": "A substitution swaps one player for another during play, and most competitions allow a set number rather than a rolling stream. The limit is a tactical tool as much as a physical one: three substitutions means a manager who has used them has committed to the shape on the pitch. Historically the limit was one, and the move to five was about player welfare and about broadcasters.",
+      "variations": [
+        "The limit is a tactical tool as much as a physical one: three substitutions means a manager who has used them has committed to the shape on the pitch. A substitution swaps one player for another during play, and most competitions allow a set number rather than a rolling stream. Historically the limit was one, and the move to five was about player welfare and about broadcasters.",
+        "Historically the limit was one, and the move to five was about player welfare and about broadcasters. A substitution swaps one player for another during play, and most competitions allow a set number rather than a rolling stream. The limit is a tactical tool as much as a physical one: three substitutions means a manager who has used them has committed to the shape on the pitch."
+      ],
+      "tl": "substitution",
+      "bis": "substitution"
+    },
+    {
+      "id": "spo-football-000006",
+      "topic": "sports-football",
+      "intent": "definition",
+      "concept": "world cup",
+      "keywords": [
+        "world cup",
+        "fifa",
+        "tournament",
+        "1930",
+        "brazil",
+        "knockout",
+        "world",
+        "held",
+        "every",
+        "four",
+        "years"
+      ],
+      "patterns": [
+        "what is world cup",
+        "world cup",
+        "explain world cup",
+        "definition of world cup",
+        "world cup meaning",
+        "how often is the world cup",
+        "who has won the most world cups",
+        "ano ang world cup",
+        "unsa ang world cup"
+      ],
+      "answer": "The FIFA World Cup is held every four years and is the oldest international football competition, first staged in 1930. Brazil is the only nation to have won it five times, and no team has won it on home soil except two. The tournament expanded from 24 to 32 teams in 1998, which lengthened it and diluted the group stage without making the knockout rounds any easier.",
+      "variations": [
+        "Brazil is the only nation to have won it five times, and no team has won it on home soil except two. The FIFA World Cup is held every four years and is the oldest international football competition, first staged in 1930. The tournament expanded from 24 to 32 teams in 1998, which lengthened it and diluted the group stage without making the knockout rounds any easier.",
+        "The tournament expanded from 24 to 32 teams in 1998, which lengthened it and diluted the group stage without making the knockout rounds any easier. The FIFA World Cup is held every four years and is the oldest international football competition, first staged in 1930. Brazil is the only nation to have won it five times, and no team has won it on home soil except two."
+      ],
+      "tl": "world cup",
+      "bis": "world cup"
+    }
+  ],
+  "lang": "english",
+  "group": "sports",
+  "sub": "football",
+  "title": "Football",
+  "groupTitle": "Sports"
+}

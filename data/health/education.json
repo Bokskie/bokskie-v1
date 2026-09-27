@@ -1,0 +1,314 @@
+{
+  "topic": "health-education",
+  "entries": [
+    {
+      "id": "hea-education-000001",
+      "topic": "health-education",
+      "intent": "definition",
+      "concept": "handwashing",
+      "keywords": [
+        "handwashing",
+        "soap",
+        "hygiene",
+        "germs",
+        "kamay",
+        "wash",
+        "running",
+        "water",
+        "twenty",
+        "seconds"
+      ],
+      "patterns": [
+        "what is handwashing",
+        "handwashing",
+        "explain handwashing",
+        "definition of handwashing",
+        "handwashing meaning",
+        "how long should i wash my hands",
+        "does handwashing really work",
+        "when should i wash my hands",
+        "ano ang paghugto ng kamay",
+        "unsa ang paghunot sa mga kamaw"
+      ],
+      "answer": "Wash with soap and running water for about twenty seconds, or use alcohol hand rub when soap and water are not available. The mechanism is worth knowing, because soap does not kill most germs on its own, it dislodges them, and the friction and the rinse carry them away. That is why technique matters more than the brand of soap, and why water alone is far less effective. The moments that actually matter are after the toilet, before handling food, after coughing, and after being around someone who is unwell.",
+      "variations": [
+        "The mechanism is worth knowing, because soap does not kill most germs on its own, it dislodges them, and the friction and the rinse carry them away. Wash with soap and running water for about twenty seconds, or use alcohol hand rub when soap and water are not available. That is why technique matters more than the brand of soap, and why water alone is far less effective. The moments that actually matter are after the toilet, before handling food, after coughing, and after being around someone who is unwell.",
+        "That is why technique matters more than the brand of soap, and why water alone is far less effective. Wash with soap and running water for about twenty seconds, or use alcohol hand rub when soap and water are not available. The mechanism is worth knowing, because soap does not kill most germs on its own, it dislodges them, and the friction and the rinse carry them away. The moments that actually matter are after the toilet, before handling food, after coughing, and after being around someone who is unwell."
+      ],
+      "tl": "paghugto ng kamay",
+      "bis": "paghunot sa mga kamaw"
+    },
+    {
+      "id": "hea-education-000002",
+      "topic": "health-education",
+      "intent": "definition",
+      "concept": "vaccination",
+      "keywords": [
+        "vaccination",
+        "vaccine",
+        "immunisation",
+        "injection",
+        "bakuna",
+        "trains",
+        "immune",
+        "system",
+        "recognise",
+        "pathogen"
+      ],
+      "patterns": [
+        "what is vaccination",
+        "vaccination",
+        "explain vaccination",
+        "definition of vaccination",
+        "vaccination meaning",
+        "how do vaccines work",
+        "are vaccines safe",
+        "do vaccines have side effects",
+        "ano ang bakuna",
+        "unsa ang bakuna"
+      ],
+      "answer": "A vaccine trains the immune system to recognise a pathogen by presenting a harmless version or fragment of it, so that later exposure can be met with a prepared response rather than a slow one. Most vaccines aim to reduce severe disease rather than prevent every infection, which is why a vaccinated person can sometimes still catch something. Side effects are usually short-lived, and the serious risks people worry about online are far rarer than the risks of the diseases themselves. Schedules differ by country and change over time, so current advice should come from a local health authority rather than from memory.",
+      "variations": [
+        "Most vaccines aim to reduce severe disease rather than prevent every infection, which is why a vaccinated person can sometimes still catch something. A vaccine trains the immune system to recognise a pathogen by presenting a harmless version or fragment of it, so that later exposure can be met with a prepared response rather than a slow one. Side effects are usually short-lived, and the serious risks people worry about online are far rarer than the risks of the diseases themselves. Schedules differ by country and change over time, so current advice should come from a local health authority rather than from memory.",
+        "Side effects are usually short-lived, and the serious risks people worry about online are far rarer than the risks of the diseases themselves. A vaccine trains the immune system to recognise a pathogen by presenting a harmless version or fragment of it, so that later exposure can be met with a prepared response rather than a slow one. Most vaccines aim to reduce severe disease rather than prevent every infection, which is why a vaccinated person can sometimes still catch something. Schedules differ by country and change over time, so current advice should come from a local health authority rather than from memory."
+      ],
+      "tl": "bakuna",
+      "bis": "bakuna"
+    },
+    {
+      "id": "hea-education-000003",
+      "topic": "health-education",
+      "intent": "definition",
+      "concept": "sunscreen",
+      "keywords": [
+        "sunscreen",
+        "spf",
+        "sunburn",
+        "uv",
+        "skin",
+        "araw",
+        "higher",
+        "applied",
+        "generously",
+        "fifteen",
+        "minutes"
+      ],
+      "patterns": [
+        "what is sunscreen",
+        "sunscreen",
+        "explain sunscreen",
+        "definition of sunscreen",
+        "sunscreen meaning",
+        "how do i prevent sunburn",
+        "what spf should i use",
+        "is sunscreen needed on cloudy days",
+        "ano ang araw",
+        "unsa ang araw"
+      ],
+      "answer": "Sunscreen with SPF 30 or higher, applied generously about fifteen minutes before sun exposure and reapplied every two hours or after swimming, is the standard advice. It is not the only line of defence, because shade, a hat, covering up and avoiding the sun at its strongest in the middle of the day all reduce exposure, and shade costs nothing. A sunburn is a warning rather than a badge, as the skin is inflamed and repeated burning raises the long-term risk of skin damage and skin cancer. Burns that blister, cover a wide area, or come with fever deserve medical attention.",
+      "variations": [
+        "It is not the only line of defence, because shade, a hat, covering up and avoiding the sun at its strongest in the middle of the day all reduce exposure, and shade costs nothing. Sunscreen with SPF 30 or higher, applied generously about fifteen minutes before sun exposure and reapplied every two hours or after swimming, is the standard advice. A sunburn is a warning rather than a badge, as the skin is inflamed and repeated burning raises the long-term risk of skin damage and skin cancer. Burns that blister, cover a wide area, or come with fever deserve medical attention.",
+        "A sunburn is a warning rather than a badge, as the skin is inflamed and repeated burning raises the long-term risk of skin damage and skin cancer. Sunscreen with SPF 30 or higher, applied generously about fifteen minutes before sun exposure and reapplied every two hours or after swimming, is the standard advice. It is not the only line of defence, because shade, a hat, covering up and avoiding the sun at its strongest in the middle of the day all reduce exposure, and shade costs nothing. Burns that blister, cover a wide area, or come with fever deserve medical attention."
+      ],
+      "tl": "araw",
+      "bis": "araw"
+    },
+    {
+      "id": "hea-education-000004",
+      "topic": "health-education",
+      "intent": "definition",
+      "concept": "exercise",
+      "keywords": [
+        "exercise",
+        "workout",
+        "fitness",
+        "activity",
+        "walking",
+        "ehersisyo",
+        "usual",
+        "guidance",
+        "minutes",
+        "moderate",
+        "week"
+      ],
+      "patterns": [
+        "what is exercise",
+        "exercise",
+        "explain exercise",
+        "definition of exercise",
+        "exercise meaning",
+        "how much exercise do i need",
+        "how do i get fit",
+        "is walking enough",
+        "ano ang ehersisyo",
+        "unsa ang ehersisyo"
+      ],
+      "answer": "The usual guidance is about 150 minutes of moderate activity a week, roughly 30 minutes on five days, plus muscle-strengthening work twice a week. It does not have to be a gym, because brisk walking counts fully and so do cycling, swimming, stairs and housework. The part that decides whether it works is consistency rather than intensity, as a moderate routine kept for a year beats a punishing one abandoned in March. Anyone with a heart condition, who is pregnant, or who gets chest pain on exertion should talk to a doctor before starting rather than after.",
+      "variations": [
+        "It does not have to be a gym, because brisk walking counts fully and so do cycling, swimming, stairs and housework. The usual guidance is about 150 minutes of moderate activity a week, roughly 30 minutes on five days, plus muscle-strengthening work twice a week. The part that decides whether it works is consistency rather than intensity, as a moderate routine kept for a year beats a punishing one abandoned in March. Anyone with a heart condition, who is pregnant, or who gets chest pain on exertion should talk to a doctor before starting rather than after.",
+        "The part that decides whether it works is consistency rather than intensity, as a moderate routine kept for a year beats a punishing one abandoned in March. The usual guidance is about 150 minutes of moderate activity a week, roughly 30 minutes on five days, plus muscle-strengthening work twice a week. It does not have to be a gym, because brisk walking counts fully and so do cycling, swimming, stairs and housework. Anyone with a heart condition, who is pregnant, or who gets chest pain on exertion should talk to a doctor before starting rather than after."
+      ],
+      "tl": "ehersisyo",
+      "bis": "ehersisyo"
+    },
+    {
+      "id": "hea-education-000005",
+      "topic": "health-education",
+      "intent": "definition",
+      "concept": "sleep",
+      "keywords": [
+        "sleep",
+        "insomnia",
+        "tired",
+        "rest",
+        "circadian",
+        "tulog",
+        "katulog",
+        "regular",
+        "period",
+        "body",
+        "brain",
+        "quiet"
+      ],
+      "patterns": [
+        "what is sleep",
+        "sleep",
+        "explain sleep",
+        "definition of sleep",
+        "sleep meaning",
+        "how much sleep do i need",
+        "why am i always tired",
+        "ano ang tulog",
+        "unsa ang katulog"
+      ],
+      "answer": "Sleep is the regular period when the body and brain go quiet and do their repair work. Adults generally do best on seven to nine hours, and the figure drifts slightly with age. Regularity matters more than total hours, because the same bedtime and wake time every day anchors the body clock more effectively than any single long night. Sleeping badly for a few nights is normal and not a crisis. Being exhausted for weeks despite enough hours in bed is a symptom worth taking to a doctor, and it is not laziness.",
+      "variations": [
+        "Adults generally do best on seven to nine hours, and the figure drifts slightly with age. Sleep is the regular period when the body and brain go quiet and do their repair work. Regularity matters more than total hours, because the same bedtime and wake time every day anchors the body clock more effectively than any single long night. Sleeping badly for a few nights is normal and not a crisis. Being exhausted for weeks despite enough hours in bed is a symptom worth taking to a doctor, and it is not laziness.",
+        "Regularity matters more than total hours, because the same bedtime and wake time every day anchors the body clock more effectively than any single long night. Sleep is the regular period when the body and brain go quiet and do their repair work. Adults generally do best on seven to nine hours, and the figure drifts slightly with age. Sleeping badly for a few nights is normal and not a crisis. Being exhausted for weeks despite enough hours in bed is a symptom worth taking to a doctor, and it is not laziness."
+      ],
+      "tl": "tulog",
+      "bis": "katulog",
+      "langs": {
+        "tagalog": "Ang tulog ay ang regular na panahon kung kailan tahimik ang katawan at utak at nagtatapos sila ng pagkukumpuni. Sa pangkalahatan, kailangan ng mga matatanda ng pitong hanggang siyam na oras, at bahagyang bumaba ang bilang sa pagtanda. Ang mas mahalaga ay ang pagkakapare-pareho, hindi ang kabuuang bilang ng oras: ang parehong oras ng pagtulog at paggising bawat araw ang naka-angkla sa body clock. Okay lang na hindi makatulog nang ilang gabing sunod-sunod. Ngunit kung labis na pagkapagod ka sa loob ng maraming linggo, kahit may sapat kang oras ng pagtulog, iyon ay sintomas at dapat itong sabihin sa doktor.",
+        "bisaya": "Ang katulog mao ang regular nga panahon nga quiet ang lawas ug utuk, ug mao gyud ni sila ang nag-ayo. Sa general, mga 7 hangtud 9 ka oras ang kinahanglan sa mga tawo, og gamay pa kaayo na mubu gikan sa katandanan. Ang labaw sa tanan mao ang regular, dili ang tanan nga oras: ang pareho nga oras nga matulog ug mataag matag-iad kada adlaw mao ang naka-anchor sa body clock. Okay lang kaayo kung matulog gikan pa sa pipila ka gabing sunod-sunod. Apan kung gikan nga gyud ka na exhaust sa daghan ka semanaha bisan adunay pa gikan na enough nga oras, mao na gyud na symptom - isumat ni sa doktor."
+      }
+    },
+    {
+      "id": "hea-education-000006",
+      "topic": "health-education",
+      "intent": "definition",
+      "concept": "stress",
+      "keywords": [
+        "stress",
+        "anxiety",
+        "worry",
+        "burnout",
+        "tense",
+        "body's",
+        "alarm",
+        "response",
+        "demand",
+        "sharpens"
+      ],
+      "patterns": [
+        "what is stress",
+        "stress",
+        "explain stress",
+        "definition of stress",
+        "stress meaning",
+        "how do i reduce stress",
+        "how to deal with anxiety",
+        "ano ang stress",
+        "unsa ang stress"
+      ],
+      "answer": "Stress is the body's alarm response to a demand, which sharpens attention in short bursts and does real damage when it never switches off. The part that harms is usually not the stress itself but the recovery, meaning no sleep, no food, no movement and no contact with people. What reliably helps is unglamorous, such as a fixed wake time, daily movement, breathing out for longer than you breathe in, and reducing caffeine if you are drinking a lot. If stress is not settling, is costing you sleep most nights, or comes with hopelessness, that is worth raising with a doctor or a counsellor.",
+      "variations": [
+        "The part that harms is usually not the stress itself but the recovery, meaning no sleep, no food, no movement and no contact with people. Stress is the body's alarm response to a demand, which sharpens attention in short bursts and does real damage when it never switches off. What reliably helps is unglamorous, such as a fixed wake time, daily movement, breathing out for longer than you breathe in, and reducing caffeine if you are drinking a lot. If stress is not settling, is costing you sleep most nights, or comes with hopelessness, that is worth raising with a doctor or a counsellor.",
+        "What reliably helps is unglamorous, such as a fixed wake time, daily movement, breathing out for longer than you breathe in, and reducing caffeine if you are drinking a lot. Stress is the body's alarm response to a demand, which sharpens attention in short bursts and does real damage when it never switches off. The part that harms is usually not the stress itself but the recovery, meaning no sleep, no food, no movement and no contact with people. If stress is not settling, is costing you sleep most nights, or comes with hopelessness, that is worth raising with a doctor or a counsellor."
+      ],
+      "tl": "stress",
+      "bis": "stress"
+    },
+    {
+      "id": "hea-education-000007",
+      "topic": "health-education",
+      "intent": "definition",
+      "concept": "food safety",
+      "keywords": [
+        "food safety",
+        "salmonella",
+        "contamination",
+        "cooking",
+        "safety",
+        "pagkain",
+        "food",
+        "poisoning",
+        "comes",
+        "pathogen",
+        "transferred",
+        "hand"
+      ],
+      "patterns": [
+        "what is food safety",
+        "food safety",
+        "explain food safety",
+        "definition of food safety",
+        "food safety meaning",
+        "how does food poisoning happen",
+        "should i wash raw chicken",
+        "how long can food stay out",
+        "ano ang pagkain",
+        "unsa ang pagkain"
+      ],
+      "answer": "Food poisoning usually comes from a pathogen transferred by hand, surface or animal waste, rather than from the food itself. The most effective prevention is proper cooking, which kills organisms that survive in raw food, plus separation of raw and cooked items to avoid cross-contamination. Refrigeration slows bacterial growth but does not kill most organisms, so cold food is not automatically safe food. Washing raw chicken is actively counterproductive, because it spreads the organisms it is meant to remove across the sink and everything near it.",
+      "variations": [
+        "The most effective prevention is proper cooking, which kills organisms that survive in raw food, plus separation of raw and cooked items to avoid cross-contamination. Food poisoning usually comes from a pathogen transferred by hand, surface or animal waste, rather than from the food itself. Refrigeration slows bacterial growth but does not kill most organisms, so cold food is not automatically safe food. Washing raw chicken is actively counterproductive, because it spreads the organisms it is meant to remove across the sink and everything near it.",
+        "Refrigeration slows bacterial growth but does not kill most organisms, so cold food is not automatically safe food. Food poisoning usually comes from a pathogen transferred by hand, surface or animal waste, rather than from the food itself. The most effective prevention is proper cooking, which kills organisms that survive in raw food, plus separation of raw and cooked items to avoid cross-contamination. Washing raw chicken is actively counterproductive, because it spreads the organisms it is meant to remove across the sink and everything near it."
+      ],
+      "tl": "pagkain",
+      "bis": "pagkain"
+    },
+    {
+      "id": "hea-education-000008",
+      "topic": "health-education",
+      "intent": "definition",
+      "concept": "hygiene",
+      "keywords": [
+        "hygiene",
+        "cleanliness",
+        "germs",
+        "disinfection",
+        "linis",
+        "personal",
+        "daily",
+        "practices",
+        "limit",
+        "transfer"
+      ],
+      "patterns": [
+        "what is hygiene",
+        "hygiene",
+        "explain hygiene",
+        "definition of hygiene",
+        "hygiene meaning",
+        "what is good hygiene",
+        "why is handwashing important",
+        "is being too clean bad",
+        "ano ang linis",
+        "unsa ang linis"
+      ],
+      "answer": "Personal hygiene is the set of daily practices that limit the transfer of germs between people and surfaces. Handwashing is the single most important of them, followed by covering coughs, regular cleaning of frequently touched surfaces, and washing food properly. The value is cumulative rather than dramatic, which is why outbreaks tend to spread through ordinary repeated contact rather than one dramatic event. It also matters in the other direction, because over-cleaning skin can cause dermatitis and remove the oils and mild acid barrier that protect it.",
+      "variations": [
+        "Handwashing is the single most important of them, followed by covering coughs, regular cleaning of frequently touched surfaces, and washing food properly. Personal hygiene is the set of daily practices that limit the transfer of germs between people and surfaces. The value is cumulative rather than dramatic, which is why outbreaks tend to spread through ordinary repeated contact rather than one dramatic event. It also matters in the other direction, because over-cleaning skin can cause dermatitis and remove the oils and mild acid barrier that protect it.",
+        "The value is cumulative rather than dramatic, which is why outbreaks tend to spread through ordinary repeated contact rather than one dramatic event. Personal hygiene is the set of daily practices that limit the transfer of germs between people and surfaces. Handwashing is the single most important of them, followed by covering coughs, regular cleaning of frequently touched surfaces, and washing food properly. It also matters in the other direction, because over-cleaning skin can cause dermatitis and remove the oils and mild acid barrier that protect it."
+      ],
+      "tl": "linis",
+      "bis": "linis"
+    }
+  ],
+  "lang": "english",
+  "group": "health",
+  "sub": "education",
+  "title": "Health education",
+  "groupTitle": "Health"
+}

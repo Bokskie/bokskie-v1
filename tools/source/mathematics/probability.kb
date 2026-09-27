@@ -1,0 +1,4 @@
+# mathematics-probability.kb - Mathematics / Probability
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 1 entries, one genuinely distinct fact per line.
+probability | definition | Probability measures how likely an event is, from 0 for impossible to 1 for certain, and the rule that catches people is that the probabilities of independent outcomes multiply. Two fair coin tosses are not 50 percent likely to be two heads, they are 25 percent, because the second toss is half of the first. The other correction is the birthday problem, where finding a shared birthday becomes more likely than not with only about 23 people. | probability, odds, chance, independent, random | why is two heads 25 percent, what is the birthday problem, how do i calculate probability | probability | Probabilidad

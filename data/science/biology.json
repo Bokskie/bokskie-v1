@@ -1,0 +1,160 @@
+{
+  "topic": "science-biology",
+  "entries": [
+    {
+      "id": "sci-biology-000001",
+      "topic": "science-biology",
+      "intent": "definition",
+      "concept": "dna",
+      "keywords": [
+        "dna",
+        "genetic",
+        "gene",
+        "rna",
+        "protein",
+        "cell",
+        "molecule",
+        "stores",
+        "hereditary",
+        "information",
+        "almost",
+        "living"
+      ],
+      "patterns": [
+        "what is dna",
+        "dna",
+        "explain dna",
+        "definition of dna",
+        "dna meaning",
+        "what is a gene",
+        "how do genes work",
+        "ano ang dna",
+        "unsa ang dna"
+      ],
+      "answer": "DNA is the molecule that stores hereditary information in almost all living things. It is a double helix of four bases - A, T, C and G - and the order of those bases is the instruction set. A gene is a stretch of DNA that codes for a protein, and those proteins do nearly everything a cell does. You inherit half from each parent.",
+      "variations": [
+        "It is a double helix of four bases - A, T, C and G - and the order of those bases is the instruction set. DNA is the molecule that stores hereditary information in almost all living things. A gene is a stretch of DNA that codes for a protein, and those proteins do nearly everything a cell does. You inherit half from each parent.",
+        "A gene is a stretch of DNA that codes for a protein, and those proteins do nearly everything a cell does. DNA is the molecule that stores hereditary information in almost all living things. It is a double helix of four bases - A, T, C and G - and the order of those bases is the instruction set. You inherit half from each parent."
+      ],
+      "tl": "dna",
+      "bis": "dna",
+      "langs": {
+        "tagalog": "Ang DNA ay ang molekulang nag-iimbak ng impormasyong minana sa halos lahat ng bagay na buhay. Ang anyo nito ay isang baligtad na hagdan: dalawang mahabang hibla na magkatikom, may paires ng base na kemikal - karaniwang isinusulat bilang A, T, C at G - na nagsasama bilang hagdan. Ang pagkakasunod ng mga base ang siyang code, at ang pagbabasa nito ay sinasabi sa cell kung ano ang gagawin at kailan. Nagbibigay ang bawat magulang ng half, kaya katulad ng magulang ang mga anak ngunit hindi sila kopya ninuman sa kanila. Ang RNA ang kaugnay na molekulang talagang bumabasa ng code na iyon at gumagawa ng bagay rito. Halos lahat nito ay pareho sa halaman, hayop at bakteriya, kaya karaniwang gumagana sa yeast cell ang bahagi ng DNA ng tao, at kaya matutukoy ng ebidensya ng DNA ang isang tao mula sa buhok.",
+        "bisaya": "Ang DNA mao ang molecule nga nag-store sa hereditary info sa tanan nga living nga butang. Ang iyang anyo mao ang twirly nga hagdan: duha ka long nga strand nga maghagkot, naa nga pairs nga chemical nga base - kasagaran gisulat nga A, T, C ug G - nga naghugot nga sama sa mga rung. Ang order sa mga base na iya ang code, ug pagbasa niini maka-sabi sa cell unsang gayahon nga imong himoon ug kanus-a. Kaayo og katugtang matud ang parents nga katugtang anak nga dili man naa gayud nga kopya. Ang RNA mao ang related nga molecule nga gyud nga mabasa sa code ug himoon ang mga butas gikan niini. Kayo gyud nga pareho niini sa mga tanom, hayop ug bacteria, kana man kay kasagaran maa gyud nga human DNA ang moduha sa yeast cell, ug kana man nga DNA evidence makadawat og usa ka tawo gikan sa buhok."
+      },
+      "confidence": null
+    },
+    {
+      "id": "sci-biology-000002",
+      "topic": "science-biology",
+      "intent": "definition",
+      "concept": "photosynthesis",
+      "keywords": [
+        "photosynthesis",
+        "plant",
+        "chloroplast",
+        "glucose",
+        "oxygen",
+        "plants",
+        "turn",
+        "light",
+        "chemical",
+        "energy"
+      ],
+      "patterns": [
+        "what is photosynthesis",
+        "photosynthesis",
+        "explain photosynthesis",
+        "definition of photosynthesis",
+        "photosynthesis meaning",
+        "where does photosynthesis happen",
+        "what gas does it release",
+        "ano ang photosynthesis",
+        "unsa ang photosynthesis"
+      ],
+      "answer": "Photosynthesis is how plants turn light into chemical energy, using carbon dioxide and water to make glucose and release oxygen. It happens in the chloroplast, and the light reactions split water to supply electrons and energy while a separate cycle fixes carbon. The reason it matters is not the sugar, which is only an intermediate, but that it is the origin of almost all organic carbon in the biosphere and of the oxygen in the atmosphere.",
+      "variations": [
+        "It happens in the chloroplast, and the light reactions split water to supply electrons and energy while a separate cycle fixes carbon. Photosynthesis is how plants turn light into chemical energy, using carbon dioxide and water to make glucose and release oxygen. The reason it matters is not the sugar, which is only an intermediate, but that it is the origin of almost all organic carbon in the biosphere and of the oxygen in the atmosphere.",
+        "The reason it matters is not the sugar, which is only an intermediate, but that it is the origin of almost all organic carbon in the biosphere and of the oxygen in the atmosphere. Photosynthesis is how plants turn light into chemical energy, using carbon dioxide and water to make glucose and release oxygen. It happens in the chloroplast, and the light reactions split water to supply electrons and energy while a separate cycle fixes carbon."
+      ],
+      "tl": "photosynthesis",
+      "bis": "photosynthesis"
+    },
+    {
+      "id": "sci-biology-000003",
+      "topic": "science-biology",
+      "intent": "definition",
+      "concept": "evolution",
+      "keywords": [
+        "evolution",
+        "variation",
+        "species",
+        "adaptation",
+        "change",
+        "inherited",
+        "characteristics",
+        "population",
+        "generations"
+      ],
+      "patterns": [
+        "what is evolution",
+        "evolution",
+        "explain evolution",
+        "definition of evolution",
+        "evolution meaning",
+        "does evolution have a purpose",
+        "how does natural selection work",
+        "ano ang evolution",
+        "unsa ang evolution"
+      ],
+      "answer": "Evolution is change in the inherited characteristics of a population over generations, driven by heritable variation filtered by selection. It does not have a purpose, and that is the part people most often get wrong, because nothing in the mechanism is aiming at anything. It acts on existing variation rather than creating what is needed, which is why pressures in our environment produce no new adaptations in our own lifetime.",
+      "variations": [
+        "It does not have a purpose, and that is the part people most often get wrong, because nothing in the mechanism is aiming at anything. Evolution is change in the inherited characteristics of a population over generations, driven by heritable variation filtered by selection. It acts on existing variation rather than creating what is needed, which is why pressures in our environment produce no new adaptations in our own lifetime.",
+        "It acts on existing variation rather than creating what is needed, which is why pressures in our environment produce no new adaptations in our own lifetime. Evolution is change in the inherited characteristics of a population over generations, driven by heritable variation filtered by selection. It does not have a purpose, and that is the part people most often get wrong, because nothing in the mechanism is aiming at anything."
+      ],
+      "tl": "evolution",
+      "bis": "evolution"
+    },
+    {
+      "id": "sci-biology-000004",
+      "topic": "science-biology",
+      "intent": "definition",
+      "concept": "cell",
+      "keywords": [
+        "cell",
+        "nucleus",
+        "membrane",
+        "mitochondria",
+        "prokaryotic",
+        "smallest",
+        "unit",
+        "life",
+        "either"
+      ],
+      "patterns": [
+        "what is cell",
+        "cell",
+        "explain cell",
+        "definition of cell",
+        "cell meaning",
+        "what is a cell",
+        "difference between prokaryotic and eukaryotic",
+        "what is a mitochondrion",
+        "ano ang cell",
+        "unsa ang cell"
+      ],
+      "answer": "A cell is the smallest unit of life, and it is either prokaryotic with no nucleus or eukaryotic with one and other membrane-bound organelles. The nucleus protects the DNA and lets regulated copies be made, which is the innovation that allowed complex cells and eventually multicellular life. Mitochondria are separate organisms that were absorbed rather than invented, and they still carry their own small genome.",
+      "variations": [
+        "The nucleus protects the DNA and lets regulated copies be made, which is the innovation that allowed complex cells and eventually multicellular life. A cell is the smallest unit of life, and it is either prokaryotic with no nucleus or eukaryotic with one and other membrane-bound organelles. Mitochondria are separate organisms that were absorbed rather than invented, and they still carry their own small genome.",
+        "Mitochondria are separate organisms that were absorbed rather than invented, and they still carry their own small genome. A cell is the smallest unit of life, and it is either prokaryotic with no nucleus or eukaryotic with one and other membrane-bound organelles. The nucleus protects the DNA and lets regulated copies be made, which is the innovation that allowed complex cells and eventually multicellular life."
+      ],
+      "tl": "cell",
+      "bis": "cell"
+    }
+  ],
+  "lang": "english",
+  "group": "science",
+  "sub": "biology",
+  "title": "Biology",
+  "groupTitle": "Science"
+}

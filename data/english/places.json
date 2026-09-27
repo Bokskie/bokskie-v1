@@ -1,0 +1,230 @@
+{
+  "topic": "english-places",
+  "entries": [
+    {
+      "id": "eng-places-000001",
+      "topic": "english-places",
+      "intent": "definition",
+      "concept": "city",
+      "keywords": [
+        "city",
+        "town",
+        "village",
+        "settlement",
+        "population",
+        "rank",
+        "syudad",
+        "large",
+        "lowest",
+        "formal"
+      ],
+      "patterns": [
+        "what is city",
+        "city",
+        "explain city",
+        "definition of city",
+        "city meaning",
+        "what is a city",
+        "difference between city and town",
+        "how big is a city",
+        "ano ang city",
+        "unsa ang syudad"
+      ],
+      "answer": "A city is a large settlement, and the word is also the lowest formal rank in a hierarchy running city, town, village and hamlet. No fixed population turns a place into a city, so two countries apply the same word to settlements of wildly different size. The legal designation inside a given country is what actually counts, and it usually reflects administration rather than how many people live there.",
+      "variations": [
+        "No fixed population turns a place into a city, so two countries apply the same word to settlements of wildly different size. A city is a large settlement, and the word is also the lowest formal rank in a hierarchy running city, town, village and hamlet. The legal designation inside a given country is what actually counts, and it usually reflects administration rather than how many people live there.",
+        "The legal designation inside a given country is what actually counts, and it usually reflects administration rather than how many people live there. A city is a large settlement, and the word is also the lowest formal rank in a hierarchy running city, town, village and hamlet. No fixed population turns a place into a city, so two countries apply the same word to settlements of wildly different size."
+      ],
+      "tl": "city",
+      "bis": "syudad"
+    },
+    {
+      "id": "eng-places-000002",
+      "topic": "english-places",
+      "intent": "definition",
+      "concept": "country",
+      "keywords": [
+        "country",
+        "state",
+        "government",
+        "territory",
+        "sovereignty",
+        "nation",
+        "bansa",
+        "stretches"
+      ],
+      "patterns": [
+        "what is country",
+        "country",
+        "explain country",
+        "definition of country",
+        "country meaning",
+        "what is a country",
+        "is england a country",
+        "country vs nation",
+        "ano ang country",
+        "unsa ang bansa"
+      ],
+      "answer": "A country is a state with its own government and territory, and the word stretches well past independent nations, since constituent countries such as England and Scotland conduct no foreign policy. This is where the everyday and the political meanings come apart cleanly. In ordinary speech a country is a landscape and a culture, and in law it is sovereignty, and both usages are correct inside their own context.",
+      "variations": [
+        "This is where the everyday and the political meanings come apart cleanly. A country is a state with its own government and territory, and the word stretches well past independent nations, since constituent countries such as England and Scotland conduct no foreign policy. In ordinary speech a country is a landscape and a culture, and in law it is sovereignty, and both usages are correct inside their own context.",
+        "In ordinary speech a country is a landscape and a culture, and in law it is sovereignty, and both usages are correct inside their own context. A country is a state with its own government and territory, and the word stretches well past independent nations, since constituent countries such as England and Scotland conduct no foreign policy. This is where the everyday and the political meanings come apart cleanly."
+      ],
+      "tl": "country",
+      "bis": "bansa"
+    },
+    {
+      "id": "eng-places-000003",
+      "topic": "english-places",
+      "intent": "definition",
+      "concept": "capital",
+      "keywords": [
+        "capital",
+        "government",
+        "city",
+        "largest",
+        "limit",
+        "seat",
+        "kabangalan",
+        "sits",
+        "carries"
+      ],
+      "patterns": [
+        "what is capital",
+        "capital",
+        "explain capital",
+        "definition of capital",
+        "capital meaning",
+        "what is a capital city",
+        "is the capital always the largest",
+        "ottawa population",
+        "ano ang capital",
+        "unsa ang kabangalan"
+      ],
+      "answer": "A capital is the city where a government sits, and the word also carries the sense of an upper limit, since both ideas share being first. Not every capital is the largest city, which is the interesting part, because Ottawa and Buenos Aires are both capitals while the biggest city in each country is somewhere else entirely. The word is worth flagging because questions about capitals are common and the answer is not guessable from population.",
+      "variations": [
+        "Not every capital is the largest city, which is the interesting part, because Ottawa and Buenos Aires are both capitals while the biggest city in each country is somewhere else entirely. A capital is the city where a government sits, and the word also carries the sense of an upper limit, since both ideas share being first. The word is worth flagging because questions about capitals are common and the answer is not guessable from population.",
+        "The word is worth flagging because questions about capitals are common and the answer is not guessable from population. A capital is the city where a government sits, and the word also carries the sense of an upper limit, since both ideas share being first. Not every capital is the largest city, which is the interesting part, because Ottawa and Buenos Aires are both capitals while the biggest city in each country is somewhere else entirely."
+      ],
+      "tl": "capital",
+      "bis": "kabangalan"
+    },
+    {
+      "id": "eng-places-000004",
+      "topic": "english-places",
+      "intent": "definition",
+      "concept": "region",
+      "keywords": [
+        "region",
+        "area",
+        "border",
+        "climate",
+        "province",
+        "division",
+        "rehiyon",
+        "defined",
+        "something",
+        "national"
+      ],
+      "patterns": [
+        "what is region",
+        "region",
+        "explain region",
+        "definition of region",
+        "region meaning",
+        "what is a region",
+        "is a region the same as a province",
+        "can a region cross a border",
+        "ano ang region",
+        "unsa ang rehiyon"
+      ],
+      "answer": "A region is an area defined by something other than a national border, whether geography, climate, history or an administrative body, and that loose sense is why people disagree about how many regions a place has. A region can cross a border, and it can be smaller than a province, so the term tends to be avoided in law and used in conversation. Where a fixed division is meant, the administrative vocabulary is the one to reach for.",
+      "variations": [
+        "A region can cross a border, and it can be smaller than a province, so the term tends to be avoided in law and used in conversation. A region is an area defined by something other than a national border, whether geography, climate, history or an administrative body, and that loose sense is why people disagree about how many regions a place has. Where a fixed division is meant, the administrative vocabulary is the one to reach for.",
+        "Where a fixed division is meant, the administrative vocabulary is the one to reach for. A region is an area defined by something other than a national border, whether geography, climate, history or an administrative body, and that loose sense is why people disagree about how many regions a place has. A region can cross a border, and it can be smaller than a province, so the term tends to be avoided in law and used in conversation."
+      ],
+      "tl": "region",
+      "bis": "rehiyon"
+    },
+    {
+      "id": "eng-places-000005",
+      "topic": "english-places",
+      "intent": "definition",
+      "concept": "neighbourhood",
+      "keywords": [
+        "neighbourhood",
+        "community",
+        "boundary",
+        "local",
+        "area",
+        "custom",
+        "kapitbahayan",
+        "town",
+        "city",
+        "defined",
+        "official"
+      ],
+      "patterns": [
+        "what is neighbourhood",
+        "neighbourhood",
+        "explain neighbourhood",
+        "definition of neighbourhood",
+        "neighbourhood meaning",
+        "what is a neighbourhood",
+        "is neighbourhood british",
+        "difference between neighbourhood and district",
+        "ano ang neighbourhood",
+        "unsa ang kapitbahayan"
+      ],
+      "answer": "A neighbourhood is part of a town or city, and it is defined less by an official boundary than by shared custom, so two maps can disagree about exactly where it begins. The word carries a social sense as well, since people use it for a community rather than a polygon, and that sense outlives the buildings when residents are displaced. British and American usage both keep the word, which is unusual for such a local concept.",
+      "variations": [
+        "The word carries a social sense as well, since people use it for a community rather than a polygon, and that sense outlives the buildings when residents are displaced. A neighbourhood is part of a town or city, and it is defined less by an official boundary than by shared custom, so two maps can disagree about exactly where it begins. British and American usage both keep the word, which is unusual for such a local concept.",
+        "British and American usage both keep the word, which is unusual for such a local concept. A neighbourhood is part of a town or city, and it is defined less by an official boundary than by shared custom, so two maps can disagree about exactly where it begins. The word carries a social sense as well, since people use it for a community rather than a polygon, and that sense outlives the buildings when residents are displaced."
+      ],
+      "tl": "neighbourhood",
+      "bis": "kapitbahayan"
+    },
+    {
+      "id": "eng-places-000006",
+      "topic": "english-places",
+      "intent": "definition",
+      "concept": "landmark",
+      "keywords": [
+        "landmark",
+        "recognise",
+        "navigation",
+        "building",
+        "feature",
+        "permanent",
+        "tandaan",
+        "easy",
+        "therefore",
+        "something"
+      ],
+      "patterns": [
+        "what is landmark",
+        "landmark",
+        "explain landmark",
+        "definition of landmark",
+        "landmark meaning",
+        "what is a landmark",
+        "natural vs man made landmark",
+        "is a landmark permanent",
+        "ano ang landmark",
+        "unsa ang tandaan"
+      ],
+      "answer": "A landmark is a feature that is easy to recognise and therefore used to say where something is, so both natural and built senses count, as in a mountain landmark and a navigation landmark. The word also implies staying put, which is the part that does not hold, because buildings come down and hills get quarried away. Places stay recognisable mainly because people go on calling them that, not because the structure is still standing.",
+      "variations": [
+        "The word also implies staying put, which is the part that does not hold, because buildings come down and hills get quarried away. A landmark is a feature that is easy to recognise and therefore used to say where something is, so both natural and built senses count, as in a mountain landmark and a navigation landmark. Places stay recognisable mainly because people go on calling them that, not because the structure is still standing.",
+        "Places stay recognisable mainly because people go on calling them that, not because the structure is still standing. A landmark is a feature that is easy to recognise and therefore used to say where something is, so both natural and built senses count, as in a mountain landmark and a navigation landmark. The word also implies staying put, which is the part that does not hold, because buildings come down and hills get quarried away."
+      ],
+      "tl": "landmark",
+      "bis": "tandaan"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "places",
+  "title": "Places",
+  "groupTitle": "English"
+}

@@ -1,0 +1,46 @@
+{
+  "topic": "cebuano-basic-words",
+  "entries": [
+    {
+      "id": "ceb-basic-words-000001",
+      "topic": "cebuano-basic-words",
+      "intent": "definition",
+      "concept": "oo",
+      "keywords": [
+        "oo",
+        "yes",
+        "oh",
+        "surprise",
+        "agree",
+        "means",
+        "ordinary",
+        "affirmative",
+        "answer",
+        "cebuano",
+        "alongside"
+      ],
+      "patterns": [
+        "what is oo",
+        "oo",
+        "explain oo",
+        "definition of oo",
+        "oo meaning",
+        "unsaon nga mo sabutin oo",
+        "ano ang oo",
+        "unsa ang oo"
+      ],
+      "answer": "Oo means yes, and it is the ordinary affirmative answer in Cebuano. Alongside it is a third response, the polite or acknowledging yes that neither fully agrees nor refuses, and treating that as a plain yes is a common misunderstanding. Oo can also be a surprise marker, meaning oh, as in oo, ikaw man na.",
+      "variations": [
+        "Alongside it is a third response, the polite or acknowledging yes that neither fully agrees nor refuses, and treating that as a plain yes is a common misunderstanding. Oo means yes, and it is the ordinary affirmative answer in Cebuano. Oo can also be a surprise marker, meaning oh, as in oo, ikaw man na.",
+        "Oo can also be a surprise marker, meaning oh, as in oo, ikaw man na. Oo means yes, and it is the ordinary affirmative answer in Cebuano. Alongside it is a third response, the polite or acknowledging yes that neither fully agrees nor refuses, and treating that as a plain yes is a common misunderstanding."
+      ],
+      "tl": "oo",
+      "bis": "oo"
+    }
+  ],
+  "lang": "bisaya",
+  "group": "cebuano",
+  "sub": "basic-words",
+  "title": "Basic words",
+  "groupTitle": "Cebuano"
+}

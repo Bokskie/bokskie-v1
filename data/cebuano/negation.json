@@ -1,0 +1,45 @@
+{
+  "topic": "cebuano-negation",
+  "entries": [
+    {
+      "id": "ceb-negation-000001",
+      "topic": "cebuano-negation",
+      "intent": "definition",
+      "concept": "dili",
+      "keywords": [
+        "dili",
+        "no",
+        "not",
+        "negative",
+        "negation",
+        "hindi",
+        "means",
+        "word",
+        "straight",
+        "before"
+      ],
+      "patterns": [
+        "what is dili",
+        "dili",
+        "explain dili",
+        "definition of dili",
+        "dili meaning",
+        "unsaon nga mo dili",
+        "ano ang dili",
+        "unsa ang hindi"
+      ],
+      "answer": "Dili means no or not, and it is the negative word. It goes straight before the verb, so dili ko buhaton means I will not do it, with no separate do not needed. This is the same structure as the Tagalog hindi, and both languages put the negative first and the verb last.",
+      "variations": [
+        "It goes straight before the verb, so dili ko buhaton means I will not do it, with no separate do not needed. Dili means no or not, and it is the negative word. This is the same structure as the Tagalog hindi, and both languages put the negative first and the verb last.",
+        "This is the same structure as the Tagalog hindi, and both languages put the negative first and the verb last. Dili means no or not, and it is the negative word. It goes straight before the verb, so dili ko buhaton means I will not do it, with no separate do not needed."
+      ],
+      "tl": "dili",
+      "bis": "hindi"
+    }
+  ],
+  "lang": "bisaya",
+  "group": "cebuano",
+  "sub": "negation",
+  "title": "Negation",
+  "groupTitle": "Cebuano"
+}

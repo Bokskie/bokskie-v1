@@ -1,0 +1,4 @@
+# programming-github.kb - Programming / GitHub
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 1 entries, one genuinely distinct fact per line.
+github | definition | GitHub is a place to host git repositories and collaborate around them, and it is not the same thing as git itself. The useful parts beyond storage are pull requests, which let a change be reviewed before it lands, and issues, where work gets discussed. Being hosted on GitHub does not make something open source, and the licence file is what decides that. | github, pull request, issue, repository, open source, licence | what is github, what is a pull request, is github the same as git | github | github

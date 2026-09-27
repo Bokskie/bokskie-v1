@@ -1,0 +1,123 @@
+{
+  "topic": "programming-javascript",
+  "entries": [
+    {
+      "id": "pro-javascript-000001",
+      "topic": "programming-javascript",
+      "intent": "definition",
+      "concept": "javascript",
+      "keywords": [
+        "javascript",
+        "js",
+        "ecmascript",
+        "programming",
+        "language",
+        "runs",
+        "browsers",
+        "makes"
+      ],
+      "patterns": [
+        "what is javascript",
+        "javascript",
+        "explain javascript",
+        "definition of javascript",
+        "javascript meaning",
+        "what is js",
+        "ano ang javascript",
+        "unsa ang javascript"
+      ],
+      "answer": "JavaScript is the programming language that runs in web browsers. It is what makes a page interactive - a button that reacts, a form that validates, a list that updates without reloading. It also runs on servers through Node.js, and on phones and desktops. Nearly every website you use has JavaScript in it.",
+      "variations": [
+        "It is what makes a page interactive - a button that reacts, a form that validates, a list that updates without reloading. JavaScript is the programming language that runs in web browsers. js, and on phones and desktops. Nearly every website you use has JavaScript in it.",
+        "js, and on phones and desktops. JavaScript is the programming language that runs in web browsers. It is what makes a page interactive - a button that reacts, a form that validates, a list that updates without reloading. Nearly every website you use has JavaScript in it."
+      ],
+      "tl": "javascript",
+      "bis": "javascript",
+      "langs": {
+        "tagalog": "Ang JavaScript ay ang programming language na tumatakbo sa mga web browser, at mula pa sa Node.js tumatakbo rin ito sa mga server. Dynamically typed ito: hindi ini-declare ang mga variable na may partikular na uri, at ang maling uri ay nagkakamali sa oras ng paggamit, hindi bago pa tumakbo ang programa. Hindi ito kaugnay ng Java sa kabila ng katulad na pangalan - ang Java ay nina-compile sa bytecode at strongly typed, samantalang ang JavaScript ay nai-interpret at mas maluwag. Halos lahat ng website na inyong nagamit ay may JavaScript, kaya ito ang pinakamaraming ginagamit na wika sa mundo.",
+        "bisaya": "Ang JavaScript mao ang programming language nga nga rana sa mga web browser, ug tungod sa Node.js nga rana pud siya sa mga server. Dynamically typed siya: ang mga variable dili gideklara nga may specific nga type, ug ang ECF nga wrong nga type mao gyud nga ma-error sa panahon nga gamiton, dili sa wala pa nga nakat-running ang programa. Dili siya related sa Java notwithstanding ang similar nga ngalan - ang Java gi-compile ngadto sa bytecode ug strongly typed, samtang ang JavaScript gi-interpret ug mas loose. Sa mga website nga naa ka gyud nga nagamit, naa siya - kana man nga pinakagami nga language sa kalibutan."
+      },
+      "confidence": null
+    },
+    {
+      "id": "pro-javascript-000002",
+      "topic": "programming-javascript",
+      "intent": "definition",
+      "concept": "browser rendering",
+      "keywords": [
+        "browser rendering",
+        "browser",
+        "rendering",
+        "layout",
+        "paint",
+        "engine",
+        "turns",
+        "html",
+        "javascript",
+        "pixels",
+        "sequence"
+      ],
+      "patterns": [
+        "what is browser rendering",
+        "browser rendering",
+        "explain browser rendering",
+        "definition of browser rendering",
+        "browser rendering meaning",
+        "how does a browser render a page",
+        "what is the critical rendering path",
+        "what blocks the main thread",
+        "ano ang browser",
+        "unsa ang browser"
+      ],
+      "answer": "A browser turns HTML, CSS and JavaScript into pixels, and the sequence is roughly parse, build the DOM, build the CSS object model, combine them into a render tree, then layout, then paint, then composite. Knowing that order explains most performance work, because layout and paint are the expensive phases and optimising the wrong one moves nothing. Rendering is largely main-thread work, so a long task blocks everything including scrolling and input, which is why offloading to a worker or yielding to the event loop is the fix.",
+      "variations": [
+        "Knowing that order explains most performance work, because layout and paint are the expensive phases and optimising the wrong one moves nothing. A browser turns HTML, CSS and JavaScript into pixels, and the sequence is roughly parse, build the DOM, build the CSS object model, combine them into a render tree, then layout, then paint, then composite. Rendering is largely main-thread work, so a long task blocks everything including scrolling and input, which is why offloading to a worker or yielding to the event loop is the fix.",
+        "Rendering is largely main-thread work, so a long task blocks everything including scrolling and input, which is why offloading to a worker or yielding to the event loop is the fix. A browser turns HTML, CSS and JavaScript into pixels, and the sequence is roughly parse, build the DOM, build the CSS object model, combine them into a render tree, then layout, then paint, then composite. Knowing that order explains most performance work, because layout and paint are the expensive phases and optimising the wrong one moves nothing."
+      ],
+      "tl": "browser",
+      "bis": "browser"
+    },
+    {
+      "id": "pro-javascript-000003",
+      "topic": "programming-javascript",
+      "intent": "definition",
+      "concept": "frontend frameworks",
+      "keywords": [
+        "frontend frameworks",
+        "framework",
+        "react",
+        "vue",
+        "svelte",
+        "angular",
+        "frontend",
+        "component",
+        "main",
+        "choices"
+      ],
+      "patterns": [
+        "what is frontend frameworks",
+        "frontend frameworks",
+        "explain frontend frameworks",
+        "definition of frontend frameworks",
+        "frontend frameworks meaning",
+        "what framework should i use for frontend",
+        "react or vue",
+        "is react better than vue",
+        "ano ang framework",
+        "unsa ang framework"
+      ],
+      "answer": "The main frontend choices are React, Vue, Svelte and Angular, and the honest answer is that they solve the same problem and differ in what they ask of you. React has the largest ecosystem and the most job listings, Vue has the gentlest learning curve, Svelte compiles away most of its own runtime and ships the smallest bundles, and Angular is a full framework with built-in structure that suits large teams. There is no correct one for a beginner, because picking by ecosystem size is a real strategy for getting work and picking by learning curve is a real strategy for finishing a first project. What matters more than the choice is that you learn the ideas underneath it, since every one of them is a component model plus reactive state plus a build step.",
+      "variations": [
+        "React has the largest ecosystem and the most job listings, Vue has the gentlest learning curve, Svelte compiles away most of its own runtime and ships the smallest bundles, and Angular is a full framework with built-in structure that suits large teams. The main frontend choices are React, Vue, Svelte and Angular, and the honest answer is that they solve the same problem and differ in what they ask of you. There is no correct one for a beginner, because picking by ecosystem size is a real strategy for getting work and picking by learning curve is a real strategy for finishing a first project. What matters more than the choice is that you learn the ideas underneath it, since every one of them is a component model plus reactive state plus a build step.",
+        "There is no correct one for a beginner, because picking by ecosystem size is a real strategy for getting work and picking by learning curve is a real strategy for finishing a first project. The main frontend choices are React, Vue, Svelte and Angular, and the honest answer is that they solve the same problem and differ in what they ask of you. React has the largest ecosystem and the most job listings, Vue has the gentlest learning curve, Svelte compiles away most of its own runtime and ships the smallest bundles, and Angular is a full framework with built-in structure that suits large teams. What matters more than the choice is that you learn the ideas underneath it, since every one of them is a component model plus reactive state plus a build step."
+      ],
+      "tl": "framework",
+      "bis": "framework"
+    }
+  ],
+  "lang": "english",
+  "group": "programming",
+  "sub": "javascript",
+  "title": "JavaScript",
+  "groupTitle": "Programming"
+}

@@ -1,0 +1,228 @@
+{
+  "topic": "english-family",
+  "entries": [
+    {
+      "id": "eng-family-000001",
+      "topic": "english-family",
+      "intent": "definition",
+      "concept": "mother",
+      "keywords": [
+        "mother",
+        "parent",
+        "origin",
+        "maternal",
+        "church",
+        "wider",
+        "ina",
+        "female",
+        "reaches",
+        "past"
+      ],
+      "patterns": [
+        "what is mother",
+        "mother",
+        "explain mother",
+        "definition of mother",
+        "mother meaning",
+        "what does mother mean",
+        "maternal vs paternal",
+        "mother church meaning",
+        "ano ang mother",
+        "unsa ang ina"
+      ],
+      "answer": "A mother is the female parent, and the word reaches well past biology, so a mother church, a mother country and the mother of a movement all mean origin rather than parenthood. That extension is the usual translation mistake, because Tagalog ina and amay are narrower, and Bisaya mama and ina likewise. English also distinguishes the two lines by prefix, so maternal grandfather is the mother's father, not simply any grandfather.",
+      "variations": [
+        "That extension is the usual translation mistake, because Tagalog ina and amay are narrower, and Bisaya mama and ina likewise. A mother is the female parent, and the word reaches well past biology, so a mother church, a mother country and the mother of a movement all mean origin rather than parenthood. English also distinguishes the two lines by prefix, so maternal grandfather is the mother's father, not simply any grandfather.",
+        "English also distinguishes the two lines by prefix, so maternal grandfather is the mother's father, not simply any grandfather. A mother is the female parent, and the word reaches well past biology, so a mother church, a mother country and the mother of a movement all mean origin rather than parenthood. That extension is the usual translation mistake, because Tagalog ina and amay are narrower, and Bisaya mama and ina likewise."
+      ],
+      "tl": "mother",
+      "bis": "ina"
+    },
+    {
+      "id": "eng-family-000002",
+      "topic": "english-family",
+      "intent": "definition",
+      "concept": "father",
+      "keywords": [
+        "father",
+        "parent",
+        "origin",
+        "author",
+        "paternal",
+        "pair",
+        "ama",
+        "male",
+        "mother",
+        "generalises"
+      ],
+      "patterns": [
+        "what is father",
+        "father",
+        "explain father",
+        "definition of father",
+        "father meaning",
+        "what does father mean",
+        "father of a movement",
+        "paternal vs maternal",
+        "ano ang father",
+        "unsa ang ama"
+      ],
+      "answer": "A father is the male parent, and like mother it generalises to origin and authorship, as in the father of modern chemistry or the father of the company. The extension creates a genuine ambiguity in reading, because the father of the theory may mean the person who originated it rather than a parent at all. English pairs it with mother, grandmother and grandfather, and adds the adjectival forms paternal and maternal to separate the two lines.",
+      "variations": [
+        "The extension creates a genuine ambiguity in reading, because the father of the theory may mean the person who originated it rather than a parent at all. A father is the male parent, and like mother it generalises to origin and authorship, as in the father of modern chemistry or the father of the company. English pairs it with mother, grandmother and grandfather, and adds the adjectival forms paternal and maternal to separate the two lines.",
+        "English pairs it with mother, grandmother and grandfather, and adds the adjectival forms paternal and maternal to separate the two lines. A father is the male parent, and like mother it generalises to origin and authorship, as in the father of modern chemistry or the father of the company. The extension creates a genuine ambiguity in reading, because the father of the theory may mean the person who originated it rather than a parent at all."
+      ],
+      "tl": "father",
+      "bis": "ama"
+    },
+    {
+      "id": "eng-family-000003",
+      "topic": "english-family",
+      "intent": "definition",
+      "concept": "sibling",
+      "keywords": [
+        "sibling",
+        "brother",
+        "sister",
+        "neutral",
+        "share",
+        "step",
+        "kapatid",
+        "exists"
+      ],
+      "patterns": [
+        "what is sibling",
+        "sibling",
+        "explain sibling",
+        "definition of sibling",
+        "sibling meaning",
+        "what is a sibling",
+        "is sibling gender neutral",
+        "difference between sibling and stepsibling",
+        "ano ang sibling",
+        "unsa ang kapatid"
+      ],
+      "answer": "A sibling is a brother or a sister, and the word exists in English precisely because there is no single unmarked term for someone who shares a parent. Brother and sister are the everyday words and each marks gender, while sibling is the neutral one used on forms, in records and in general statements. The relationship needs at least one shared parent, so half-siblings qualify, and step-siblings do not, since none is shared.",
+      "variations": [
+        "Brother and sister are the everyday words and each marks gender, while sibling is the neutral one used on forms, in records and in general statements. A sibling is a brother or a sister, and the word exists in English precisely because there is no single unmarked term for someone who shares a parent. The relationship needs at least one shared parent, so half-siblings qualify, and step-siblings do not, since none is shared.",
+        "The relationship needs at least one shared parent, so half-siblings qualify, and step-siblings do not, since none is shared. A sibling is a brother or a sister, and the word exists in English precisely because there is no single unmarked term for someone who shares a parent. Brother and sister are the everyday words and each marks gender, while sibling is the neutral one used on forms, in records and in general statements."
+      ],
+      "tl": "sibling",
+      "bis": "kapatid"
+    },
+    {
+      "id": "eng-family-000004",
+      "topic": "english-family",
+      "intent": "definition",
+      "concept": "cousin",
+      "keywords": [
+        "cousin",
+        "aunt",
+        "uncle",
+        "generation",
+        "removed",
+        "share",
+        "pinsan",
+        "child",
+        "uses"
+      ],
+      "patterns": [
+        "what is cousin",
+        "cousin",
+        "explain cousin",
+        "definition of cousin",
+        "cousin meaning",
+        "what is a cousin",
+        "first cousin once removed",
+        "is there a word for gender of cousin",
+        "ano ang cousin",
+        "unsa ang pinsan"
+      ],
+      "answer": "A cousin is a child of an aunt or uncle, and English uses the same word at every generational distance, unlike its other kin terms, which are sharply marked by age. First cousins share a grandparent, and the children of first cousins are first cousins once removed, with removed counting the generations between. There is no separate word for gender, and none for a cousin's own child, which is the opposite of how English handles uncle against aunt.",
+      "variations": [
+        "First cousins share a grandparent, and the children of first cousins are first cousins once removed, with removed counting the generations between. A cousin is a child of an aunt or uncle, and English uses the same word at every generational distance, unlike its other kin terms, which are sharply marked by age. There is no separate word for gender, and none for a cousin's own child, which is the opposite of how English handles uncle against aunt.",
+        "There is no separate word for gender, and none for a cousin's own child, which is the opposite of how English handles uncle against aunt. A cousin is a child of an aunt or uncle, and English uses the same word at every generational distance, unlike its other kin terms, which are sharply marked by age. First cousins share a grandparent, and the children of first cousins are first cousins once removed, with removed counting the generations between."
+      ],
+      "tl": "cousin",
+      "bis": "pinsan"
+    },
+    {
+      "id": "eng-family-000005",
+      "topic": "english-family",
+      "intent": "definition",
+      "concept": "grandparent",
+      "keywords": [
+        "grandparent",
+        "grandmother",
+        "grandfather",
+        "great",
+        "spouse",
+        "neutral",
+        "parent",
+        "giving"
+      ],
+      "patterns": [
+        "what is grandparent",
+        "grandparent",
+        "explain grandparent",
+        "definition of grandparent",
+        "grandparent meaning",
+        "what is a grandparent",
+        "is grandparent gender neutral",
+        "what do you call a step grandmother",
+        "ano ang grandparent",
+        "unsa ang grandparent"
+      ],
+      "answer": "A grandparent is a parent of a parent, giving grandmother and grandfather, and English extends the pair to great-grandparents and then abandons the counting. The unmarked word grandparent is neutral while the two marked ones are not. What is missing is any term at all for the spouse of a grandparent, so a stepfamily has to borrow or invent vocabulary for that person, which is one of the clearest places English kinship naming runs out.",
+      "variations": [
+        "The unmarked word grandparent is neutral while the two marked ones are not. A grandparent is a parent of a parent, giving grandmother and grandfather, and English extends the pair to great-grandparents and then abandons the counting. What is missing is any term at all for the spouse of a grandparent, so a stepfamily has to borrow or invent vocabulary for that person, which is one of the clearest places English kinship naming runs out.",
+        "What is missing is any term at all for the spouse of a grandparent, so a stepfamily has to borrow or invent vocabulary for that person, which is one of the clearest places English kinship naming runs out. A grandparent is a parent of a parent, giving grandmother and grandfather, and English extends the pair to great-grandparents and then abandons the counting. The unmarked word grandparent is neutral while the two marked ones are not."
+      ],
+      "tl": "grandparent",
+      "bis": "grandparent"
+    },
+    {
+      "id": "eng-family-000006",
+      "topic": "english-family",
+      "intent": "definition",
+      "concept": "child",
+      "keywords": [
+        "child",
+        "children",
+        "adult",
+        "plural",
+        "irregular",
+        "offspring",
+        "bata",
+        "person",
+        "below",
+        "adulthood",
+        "means"
+      ],
+      "patterns": [
+        "what is child",
+        "child",
+        "explain child",
+        "definition of child",
+        "child meaning",
+        "what is a child",
+        "how do you pluralise child",
+        "children of the law meaning",
+        "ano ang child",
+        "unsa ang bata"
+      ],
+      "answer": "A child is a person below the age of adulthood, and the word also means the result of anything, as in a child of the marriage. Older usage meant son or daughter, so a legal document writing children of the king means the royal offspring specifically, a sense surviving mainly in formal and historical writing. The plural is irregular, and child and children behave unlike any other pair in the language, which is why they are learned as an exception.",
+      "variations": [
+        "Older usage meant son or daughter, so a legal document writing children of the king means the royal offspring specifically, a sense surviving mainly in formal and historical writing. A child is a person below the age of adulthood, and the word also means the result of anything, as in a child of the marriage. The plural is irregular, and child and children behave unlike any other pair in the language, which is why they are learned as an exception.",
+        "The plural is irregular, and child and children behave unlike any other pair in the language, which is why they are learned as an exception. A child is a person below the age of adulthood, and the word also means the result of anything, as in a child of the marriage. Older usage meant son or daughter, so a legal document writing children of the king means the royal offspring specifically, a sense surviving mainly in formal and historical writing."
+      ],
+      "tl": "child",
+      "bis": "bata"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "family",
+  "title": "Family",
+  "groupTitle": "English"
+}

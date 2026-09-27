@@ -1,0 +1,87 @@
+{
+  "topic": "technology-operating-systems",
+  "entries": [
+    {
+      "id": "tec-operating-systems-000001",
+      "topic": "technology-operating-systems",
+      "intent": "definition",
+      "concept": "operating system",
+      "keywords": [
+        "operating system",
+        "kernel",
+        "process",
+        "memory",
+        "filesystem",
+        "linux",
+        "operating",
+        "system",
+        "layer",
+        "hardware",
+        "programs",
+        "real"
+      ],
+      "patterns": [
+        "what is operating system",
+        "operating system",
+        "explain operating system",
+        "definition of operating system",
+        "operating system meaning",
+        "what is an operating system",
+        "what does a kernel do",
+        "what is the difference between kernel and os",
+        "ano ang operating system",
+        "unsa ang operating system"
+      ],
+      "answer": "An operating system is the layer between hardware and programs, and its real job is making one piece of hardware look like many usable resources. It schedules the CPU across running processes, manages memory between them, owns the filesystem, and provides the networking and graphics interfaces applications call instead of touching hardware. The kernel is the part running in the privileged mode, and everything else is a user process with far less authority.",
+      "variations": [
+        "It schedules the CPU across running processes, manages memory between them, owns the filesystem, and provides the networking and graphics interfaces applications call instead of touching hardware. An operating system is the layer between hardware and programs, and its real job is making one piece of hardware look like many usable resources. The kernel is the part running in the privileged mode, and everything else is a user process with far less authority.",
+        "The kernel is the part running in the privileged mode, and everything else is a user process with far less authority. An operating system is the layer between hardware and programs, and its real job is making one piece of hardware look like many usable resources. It schedules the CPU across running processes, manages memory between them, owns the filesystem, and provides the networking and graphics interfaces applications call instead of touching hardware."
+      ],
+      "tl": "operating system",
+      "bis": "operating system"
+    },
+    {
+      "id": "tec-operating-systems-000002",
+      "topic": "technology-operating-systems",
+      "intent": "definition",
+      "concept": "process",
+      "keywords": [
+        "process",
+        "thread",
+        "memory",
+        "isolation",
+        "deadlock",
+        "scheduling",
+        "running",
+        "program",
+        "address",
+        "space",
+        "operating"
+      ],
+      "patterns": [
+        "what is process",
+        "process",
+        "explain process",
+        "definition of process",
+        "process meaning",
+        "what is a process",
+        "difference between a process and a thread",
+        "what is a deadlock",
+        "ano ang process",
+        "unsa ang process"
+      ],
+      "answer": "A process is a running program with its own address space, and the operating system keeps processes isolated so one cannot read or corrupt another's memory. Threads are separate streams of execution inside a single process, which share that memory and are therefore cheap to create and dangerous to use. A deadlock is when threads each wait on something the other holds, and no amount of waiting resolves it.",
+      "variations": [
+        "Threads are separate streams of execution inside a single process, which share that memory and are therefore cheap to create and dangerous to use. A process is a running program with its own address space, and the operating system keeps processes isolated so one cannot read or corrupt another's memory. A deadlock is when threads each wait on something the other holds, and no amount of waiting resolves it.",
+        "A deadlock is when threads each wait on something the other holds, and no amount of waiting resolves it. A process is a running program with its own address space, and the operating system keeps processes isolated so one cannot read or corrupt another's memory. Threads are separate streams of execution inside a single process, which share that memory and are therefore cheap to create and dangerous to use."
+      ],
+      "tl": "process",
+      "bis": "process"
+    }
+  ],
+  "lang": "english",
+  "group": "technology",
+  "sub": "operating-systems",
+  "title": "Operating systems",
+  "groupTitle": "Technology"
+}

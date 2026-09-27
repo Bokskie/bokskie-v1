@@ -1,0 +1,255 @@
+{
+  "topic": "english-verbs",
+  "entries": [
+    {
+      "id": "eng-verbs-000001",
+      "topic": "english-verbs",
+      "intent": "definition",
+      "concept": "verb",
+      "keywords": [
+        "verb",
+        "action",
+        "state",
+        "subject",
+        "tense",
+        "agree",
+        "description",
+        "every"
+      ],
+      "patterns": [
+        "what is verb",
+        "verb",
+        "explain verb",
+        "definition of verb",
+        "verb meaning",
+        "what is a verb",
+        "how many forms does a verb have",
+        "what is a linking verb",
+        "ano ang verb",
+        "unsa ang verb"
+      ],
+      "answer": "A verb carries the action, the state or the description, and every English sentence needs at least one. Verbs change form to agree with the subject and with the time, so one word appears as runs, running and ran, and that three-way system is what makes the language work. They also connect, which is what be, have and do are for, and a sentence built only from a noun and a verb still needs a subject and usually a helper.",
+      "variations": [
+        "Verbs change form to agree with the subject and with the time, so one word appears as runs, running and ran, and that three-way system is what makes the language work. A verb carries the action, the state or the description, and every English sentence needs at least one. They also connect, which is what be, have and do are for, and a sentence built only from a noun and a verb still needs a subject and usually a helper.",
+        "They also connect, which is what be, have and do are for, and a sentence built only from a noun and a verb still needs a subject and usually a helper. A verb carries the action, the state or the description, and every English sentence needs at least one. Verbs change form to agree with the subject and with the time, so one word appears as runs, running and ran, and that three-way system is what makes the language work."
+      ],
+      "tl": "verb",
+      "bis": "verb"
+    },
+    {
+      "id": "eng-verbs-000002",
+      "topic": "english-verbs",
+      "intent": "definition",
+      "concept": "infinitive",
+      "keywords": [
+        "infinitive",
+        "plain",
+        "modal",
+        "dictionary",
+        "clause",
+        "bare",
+        "prints",
+        "english"
+      ],
+      "patterns": [
+        "what is infinitive",
+        "infinitive",
+        "explain infinitive",
+        "definition of infinitive",
+        "infinitive meaning",
+        "what is an infinitive",
+        "infinitive vs gerund",
+        "when to use to plus verb",
+        "ano ang infinitive",
+        "unsa ang infinitive"
+      ],
+      "answer": "The infinitive is the plain form of a verb, the one a dictionary prints, and English uses it after a modal, after to, and in a handful of other fixed positions. Its two jobs are turning a noun into an action, as in I want to leave, and making a whole clause behave as a noun, as in I forgot to call. The position it cannot take is the subject, which is why a clause cannot open with a bare infinitive and has to use the -ing form instead.",
+      "variations": [
+        "Its two jobs are turning a noun into an action, as in I want to leave, and making a whole clause behave as a noun, as in I forgot to call. The infinitive is the plain form of a verb, the one a dictionary prints, and English uses it after a modal, after to, and in a handful of other fixed positions. The position it cannot take is the subject, which is why a clause cannot open with a bare infinitive and has to use the -ing form instead.",
+        "The position it cannot take is the subject, which is why a clause cannot open with a bare infinitive and has to use the -ing form instead. The infinitive is the plain form of a verb, the one a dictionary prints, and English uses it after a modal, after to, and in a handful of other fixed positions. Its two jobs are turning a noun into an action, as in I want to leave, and making a whole clause behave as a noun, as in I forgot to call."
+      ],
+      "tl": "infinitive",
+      "bis": "infinitive"
+    },
+    {
+      "id": "eng-verbs-000003",
+      "topic": "english-verbs",
+      "intent": "definition",
+      "concept": "gerund",
+      "keywords": [
+        "gerund",
+        "ing",
+        "noun",
+        "activity",
+        "describe",
+        "running",
+        "reading",
+        "relaxing",
+        "enjoy",
+        "identical"
+      ],
+      "patterns": [
+        "what is gerund",
+        "gerund",
+        "explain gerund",
+        "definition of gerund",
+        "gerund meaning",
+        "what is a gerund",
+        "gerund vs present participle",
+        "is the ing form always a gerund",
+        "ano ang gerund",
+        "unsa ang gerund"
+      ],
+      "answer": "A gerund is the -ing form used as a noun, so reading is relaxing and I enjoy reading, while the identical -ing form used descriptively, as in the running water, is doing a different job. The test is whether the word names an activity or describes a thing, and what would replace it settles it. The common error is confusing the two, so swimming is fun names an activity while the swimming is fun describes water.",
+      "variations": [
+        "The test is whether the word names an activity or describes a thing, and what would replace it settles it. A gerund is the -ing form used as a noun, so reading is relaxing and I enjoy reading, while the identical -ing form used descriptively, as in the running water, is doing a different job. The common error is confusing the two, so swimming is fun names an activity while the swimming is fun describes water.",
+        "The common error is confusing the two, so swimming is fun names an activity while the swimming is fun describes water. A gerund is the -ing form used as a noun, so reading is relaxing and I enjoy reading, while the identical -ing form used descriptively, as in the running water, is doing a different job. The test is whether the word names an activity or describes a thing, and what would replace it settles it."
+      ],
+      "tl": "gerund",
+      "bis": "gerund"
+    },
+    {
+      "id": "eng-verbs-000004",
+      "topic": "english-verbs",
+      "intent": "definition",
+      "concept": "modal",
+      "keywords": [
+        "modal",
+        "permission",
+        "mood",
+        "can",
+        "could",
+        "must",
+        "rather"
+      ],
+      "patterns": [
+        "what is modal",
+        "modal",
+        "explain modal",
+        "definition of modal",
+        "modal meaning",
+        "what is a modal verb",
+        "list of modal verbs",
+        "difference between will not and cannot",
+        "ano ang modal",
+        "unsa ang modal"
+      ],
+      "answer": "A modal verb carries mood and permission rather than action, and English modals never change form for person or tense, which is what makes them both easy and unusual. The core set is can, could, may, might, shall, should, will, would, must and ought. The most important fact about them is the negative, because could not and cannot differ sharply, and the second means impossible rather than merely declined.",
+      "variations": [
+        "The core set is can, could, may, might, shall, should, will, would, must and ought. A modal verb carries mood and permission rather than action, and English modals never change form for person or tense, which is what makes them both easy and unusual. The most important fact about them is the negative, because could not and cannot differ sharply, and the second means impossible rather than merely declined.",
+        "The most important fact about them is the negative, because could not and cannot differ sharply, and the second means impossible rather than merely declined. A modal verb carries mood and permission rather than action, and English modals never change form for person or tense, which is what makes them both easy and unusual. The core set is can, could, may, might, shall, should, will, would, must and ought."
+      ],
+      "tl": "modal",
+      "bis": "modal"
+    },
+    {
+      "id": "eng-verbs-000005",
+      "topic": "english-verbs",
+      "intent": "definition",
+      "concept": "transitive",
+      "keywords": [
+        "transitive",
+        "object",
+        "verb",
+        "complete",
+        "classify",
+        "run",
+        "meaning",
+        "wrote"
+      ],
+      "patterns": [
+        "what is transitive",
+        "transitive",
+        "explain transitive",
+        "definition of transitive",
+        "transitive meaning",
+        "what is a transitive verb",
+        "transitive or intransitive",
+        "how to test a verb",
+        "ano ang transitive",
+        "unsa ang transitive"
+      ],
+      "answer": "A transitive verb needs an object to complete its meaning, as in she wrote a letter, and an intransitive one does not, as in she wrote. Many common verbs manage both without changing form, so he ran a company means something quite different from he ran. The quick test is to ask what, and an answer that follows means the verb is transitive, which is the fastest way to classify an unfamiliar one.",
+      "variations": [
+        "Many common verbs manage both without changing form, so he ran a company means something quite different from he ran. A transitive verb needs an object to complete its meaning, as in she wrote a letter, and an intransitive one does not, as in she wrote. The quick test is to ask what, and an answer that follows means the verb is transitive, which is the fastest way to classify an unfamiliar one.",
+        "The quick test is to ask what, and an answer that follows means the verb is transitive, which is the fastest way to classify an unfamiliar one. A transitive verb needs an object to complete its meaning, as in she wrote a letter, and an intransitive one does not, as in she wrote. Many common verbs manage both without changing form, so he ran a company means something quite different from he ran."
+      ],
+      "tl": "transitive",
+      "bis": "transitive"
+    },
+    {
+      "id": "eng-verbs-000006",
+      "topic": "english-verbs",
+      "intent": "definition",
+      "concept": "intransitive",
+      "keywords": [
+        "intransitive",
+        "object",
+        "arrive",
+        "movement",
+        "state",
+        "ambiguity",
+        "complete",
+        "refuses",
+        "mistake"
+      ],
+      "patterns": [
+        "what is intransitive",
+        "intransitive",
+        "explain intransitive",
+        "definition of intransitive",
+        "intransitive meaning",
+        "what is an intransitive verb",
+        "is arrive intransitive",
+        "why some verbs are both",
+        "ano ang intransitive",
+        "unsa ang intransitive"
+      ],
+      "answer": "An intransitive verb is complete on its own and refuses an object, so the mistake is supplying one and saying he arrived to the office. Verbs of movement, state and change are usually intransitive, covering arrive, sit, sleep, laugh, rise and happen. Some change meaning when an object appears, since the boat floated and the boat floated the harbour are entirely different claims, and that is a real ambiguity rather than a rule.",
+      "variations": [
+        "Verbs of movement, state and change are usually intransitive, covering arrive, sit, sleep, laugh, rise and happen. An intransitive verb is complete on its own and refuses an object, so the mistake is supplying one and saying he arrived to the office. Some change meaning when an object appears, since the boat floated and the boat floated the harbour are entirely different claims, and that is a real ambiguity rather than a rule.",
+        "Some change meaning when an object appears, since the boat floated and the boat floated the harbour are entirely different claims, and that is a real ambiguity rather than a rule. An intransitive verb is complete on its own and refuses an object, so the mistake is supplying one and saying he arrived to the office. Verbs of movement, state and change are usually intransitive, covering arrive, sit, sleep, laugh, rise and happen."
+      ],
+      "tl": "intransitive",
+      "bis": "intransitive"
+    },
+    {
+      "id": "eng-verbs-000007",
+      "topic": "english-verbs",
+      "intent": "definition",
+      "concept": "auxiliary",
+      "keywords": [
+        "auxiliary",
+        "helping",
+        "tense",
+        "negation",
+        "do",
+        "primary"
+      ],
+      "patterns": [
+        "what is auxiliary",
+        "auxiliary",
+        "explain auxiliary",
+        "definition of auxiliary",
+        "auxiliary meaning",
+        "what is an auxiliary verb",
+        "do support questions",
+        "types of auxiliary verbs",
+        "ano ang auxiliary",
+        "unsa ang auxiliary"
+      ],
+      "answer": "An auxiliary is a helping verb that carries tense, negation and question formation while the main verb supplies the meaning, so in she is working the word is does the tense. They come in three kinds, primary for tense as in has seen, modal for mood, and a small set that appears only in questions and negatives, which are do, does and did. That last group is the one learners miss, because affirmative sentences never show it.",
+      "variations": [
+        "They come in three kinds, primary for tense as in has seen, modal for mood, and a small set that appears only in questions and negatives, which are do, does and did. An auxiliary is a helping verb that carries tense, negation and question formation while the main verb supplies the meaning, so in she is working the word is does the tense. That last group is the one learners miss, because affirmative sentences never show it.",
+        "That last group is the one learners miss, because affirmative sentences never show it. An auxiliary is a helping verb that carries tense, negation and question formation while the main verb supplies the meaning, so in she is working the word is does the tense. They come in three kinds, primary for tense as in has seen, modal for mood, and a small set that appears only in questions and negatives, which are do, does and did."
+      ],
+      "tl": "auxiliary",
+      "bis": "auxiliary"
+    }
+  ],
+  "lang": "english",
+  "group": "english",
+  "sub": "verbs",
+  "title": "Verbs",
+  "groupTitle": "English"
+}

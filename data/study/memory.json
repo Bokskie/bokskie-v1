@@ -1,0 +1,198 @@
+{
+  "topic": "study-memory",
+  "entries": [
+    {
+      "id": "stu-memory-000001",
+      "topic": "study-memory",
+      "intent": "definition",
+      "concept": "forgetting curve",
+      "keywords": [
+        "forgetting curve",
+        "decay",
+        "review",
+        "repeat",
+        "cheap",
+        "spaced",
+        "forgetting",
+        "curve",
+        "rate",
+        "unused",
+        "memories"
+      ],
+      "patterns": [
+        "what is forgetting curve",
+        "forgetting curve",
+        "explain forgetting curve",
+        "definition of forgetting curve",
+        "forgetting curve meaning",
+        "what is the forgetting curve",
+        "is memory linear",
+        "how does review change forgetting",
+        "ano ang forgetting curve",
+        "unsa ang forgetting curve"
+      ],
+      "answer": "The forgetting curve is the rate at which unused memories decay, and the finding is that the drop is fast at first and then flattens, so most of what is learned is gone within a day and the remainder persists for a long time. What makes the curve useful is that reviewing resets the position without resetting the shape, so each repetition makes the next one cheaper. That is the whole basis of spaced study, and it is why a single review session does so little.",
+      "variations": [
+        "What makes the curve useful is that reviewing resets the position without resetting the shape, so each repetition makes the next one cheaper. The forgetting curve is the rate at which unused memories decay, and the finding is that the drop is fast at first and then flattens, so most of what is learned is gone within a day and the remainder persists for a long time. That is the whole basis of spaced study, and it is why a single review session does so little.",
+        "That is the whole basis of spaced study, and it is why a single review session does so little. The forgetting curve is the rate at which unused memories decay, and the finding is that the drop is fast at first and then flattens, so most of what is learned is gone within a day and the remainder persists for a long time. What makes the curve useful is that reviewing resets the position without resetting the shape, so each repetition makes the next one cheaper."
+      ],
+      "tl": "forgetting curve",
+      "bis": "forgetting curve"
+    },
+    {
+      "id": "stu-memory-000002",
+      "topic": "study-memory",
+      "intent": "definition",
+      "concept": "mnemonic",
+      "keywords": [
+        "mnemonic",
+        "rhyme",
+        "attach",
+        "remember",
+        "order",
+        "capacity",
+        "device",
+        "makes",
+        "something",
+        "easier"
+      ],
+      "patterns": [
+        "what is mnemonic",
+        "mnemonic",
+        "explain mnemonic",
+        "definition of mnemonic",
+        "mnemonic meaning",
+        "what is a mnemonic",
+        "are mnemonics effective",
+        "how to remember a list",
+        "ano ang mnemonic",
+        "unsa ang mnemonic"
+      ],
+      "answer": "A mnemonic is a device that makes something easier to remember by attaching it to something already known, and the oldest form is a rhyme. It works for lists that are hard to order otherwise, so the order of the planets or the cranial nerves, and it is close to useless for anything requiring understanding. Its limitation is capacity: a mnemonic helps recall an item but does not explain why it is true, so it is a supplement rather than a replacement for learning the thing.",
+      "variations": [
+        "It works for lists that are hard to order otherwise, so the order of the planets or the cranial nerves, and it is close to useless for anything requiring understanding. A mnemonic is a device that makes something easier to remember by attaching it to something already known, and the oldest form is a rhyme. Its limitation is capacity: a mnemonic helps recall an item but does not explain why it is true, so it is a supplement rather than a replacement for learning the thing.",
+        "Its limitation is capacity: a mnemonic helps recall an item but does not explain why it is true, so it is a supplement rather than a replacement for learning the thing. A mnemonic is a device that makes something easier to remember by attaching it to something already known, and the oldest form is a rhyme. It works for lists that are hard to order otherwise, so the order of the planets or the cranial nerves, and it is close to useless for anything requiring understanding."
+      ],
+      "tl": "mnemonic",
+      "bis": "mnemonic"
+    },
+    {
+      "id": "stu-memory-000003",
+      "topic": "study-memory",
+      "intent": "definition",
+      "concept": "working memory",
+      "keywords": [
+        "working memory",
+        "capacity",
+        "chunk",
+        "hold",
+        "manipulate",
+        "expert",
+        "working",
+        "memory",
+        "small",
+        "amount",
+        "held",
+        "manipulated"
+      ],
+      "patterns": [
+        "what is working memory",
+        "working memory",
+        "explain working memory",
+        "definition of working memory",
+        "working memory meaning",
+        "how many items can you hold",
+        "what is chunking",
+        "ano ang working memory",
+        "unsa ang working memory"
+      ],
+      "answer": "Working memory is the small amount held and manipulated at once, and it is the bottleneck for almost every hard task, since you cannot reason over material you are not holding. Its capacity is famously small, around four items, though chunking lets a trained person hold far more by treating groups as single objects. This is why a phone number is harder than a familiar phone number, and why experts appear to remember more simply because their chunks are larger.",
+      "variations": [
+        "Its capacity is famously small, around four items, though chunking lets a trained person hold far more by treating groups as single objects. Working memory is the small amount held and manipulated at once, and it is the bottleneck for almost every hard task, since you cannot reason over material you are not holding. This is why a phone number is harder than a familiar phone number, and why experts appear to remember more simply because their chunks are larger.",
+        "This is why a phone number is harder than a familiar phone number, and why experts appear to remember more simply because their chunks are larger. Working memory is the small amount held and manipulated at once, and it is the bottleneck for almost every hard task, since you cannot reason over material you are not holding. Its capacity is famously small, around four items, though chunking lets a trained person hold far more by treating groups as single objects."
+      ],
+      "tl": "working memory",
+      "bis": "working memory"
+    },
+    {
+      "id": "stu-memory-000004",
+      "topic": "study-memory",
+      "intent": "definition",
+      "concept": "encoding",
+      "keywords": [
+        "encoding",
+        "store",
+        "retrieve",
+        "depth",
+        "process",
+        "repeat",
+        "turning",
+        "something",
+        "stored",
+        "learning"
+      ],
+      "patterns": [
+        "what is encoding",
+        "encoding",
+        "explain encoding",
+        "definition of encoding",
+        "encoding meaning",
+        "what is encoding in memory",
+        "what is depth of processing",
+        "how do you encode information",
+        "ano ang encoding",
+        "unsa ang encoding"
+      ],
+      "answer": "Encoding is the process of turning something into a form that can be stored, and it is where most learning is actually lost. Material that is understood can still fail to encode if it is encoded in a form you will never retrieve, which is the reason a shelf of unlabelled boxes is not a memory aid. Depth of processing is the reliable predictor of retention, so asking why something is true encodes better than repeating that it is.",
+      "variations": [
+        "Material that is understood can still fail to encode if it is encoded in a form you will never retrieve, which is the reason a shelf of unlabelled boxes is not a memory aid. Encoding is the process of turning something into a form that can be stored, and it is where most learning is actually lost. Depth of processing is the reliable predictor of retention, so asking why something is true encodes better than repeating that it is.",
+        "Depth of processing is the reliable predictor of retention, so asking why something is true encodes better than repeating that it is. Encoding is the process of turning something into a form that can be stored, and it is where most learning is actually lost. Material that is understood can still fail to encode if it is encoded in a form you will never retrieve, which is the reason a shelf of unlabelled boxes is not a memory aid."
+      ],
+      "tl": "encoding",
+      "bis": "encoding"
+    },
+    {
+      "id": "stu-memory-000005",
+      "topic": "study-memory",
+      "intent": "definition",
+      "concept": "retention",
+      "keywords": [
+        "retention",
+        "store",
+        "acquisition",
+        "retrieval",
+        "route",
+        "overlearn",
+        "long",
+        "something",
+        "stays",
+        "available",
+        "outcome"
+      ],
+      "patterns": [
+        "what is retention",
+        "retention",
+        "explain retention",
+        "definition of retention",
+        "retention meaning",
+        "what is retention in memory",
+        "difference between retention and recall",
+        "why is forgetting not loss",
+        "ano ang retention",
+        "unsa ang retention"
+      ],
+      "answer": "Retention is how long something stays available, and it is the outcome most people mean by learning a thing, so it is worth separating from the other two parts. Acquisition is getting it in, retention is keeping it, and retrieval is finding it, and a failure at any one looks identical from outside. The clinically important fact is that forgetting is not loss of the memory but loss of the route to it, so overlearning and varied practice both work by adding routes rather than by preventing decay.",
+      "variations": [
+        "Acquisition is getting it in, retention is keeping it, and retrieval is finding it, and a failure at any one looks identical from outside. Retention is how long something stays available, and it is the outcome most people mean by learning a thing, so it is worth separating from the other two parts. The clinically important fact is that forgetting is not loss of the memory but loss of the route to it, so overlearning and varied practice both work by adding routes rather than by preventing decay.",
+        "The clinically important fact is that forgetting is not loss of the memory but loss of the route to it, so overlearning and varied practice both work by adding routes rather than by preventing decay. Retention is how long something stays available, and it is the outcome most people mean by learning a thing, so it is worth separating from the other two parts. Acquisition is getting it in, retention is keeping it, and retrieval is finding it, and a failure at any one looks identical from outside."
+      ],
+      "tl": "retention",
+      "bis": "retention"
+    }
+  ],
+  "lang": "english",
+  "group": "study",
+  "sub": "memory",
+  "title": "Memory",
+  "groupTitle": "Study"
+}

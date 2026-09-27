@@ -1,0 +1,187 @@
+{
+  "topic": "filipino-question-words",
+  "entries": [
+    {
+      "id": "fil-question-words-000001",
+      "topic": "filipino-question-words",
+      "intent": "definition",
+      "concept": "bakit",
+      "keywords": [
+        "bakit",
+        "why",
+        "because",
+        "reason",
+        "question",
+        "ngano",
+        "means",
+        "word",
+        "asking",
+        "follow"
+      ],
+      "patterns": [
+        "what is bakit",
+        "bakit",
+        "explain bakit",
+        "definition of bakit",
+        "bakit meaning",
+        "what does bakit mean",
+        "how do you say why in tagalog",
+        "ano ang bakit",
+        "unsa ang ngano"
+      ],
+      "answer": "Bakit means why, and it is the word for asking for a reason. It is also used on its own as a follow-up meaning and meaning so, as in a story or a joke. Ngunit bakit is the same word in a formal sentence. It is the counterpart of ngano in the interrogative set alongside saan, kailan and sino.",
+      "variations": [
+        "It is also used on its own as a follow-up meaning and meaning so, as in a story or a joke. Bakit means why, and it is the word for asking for a reason. Ngunit bakit is the same word in a formal sentence. It is the counterpart of ngano in the interrogative set alongside saan, kailan and sino.",
+        "Ngunit bakit is the same word in a formal sentence. Bakit means why, and it is the word for asking for a reason. It is also used on its own as a follow-up meaning and meaning so, as in a story or a joke. It is the counterpart of ngano in the interrogative set alongside saan, kailan and sino."
+      ],
+      "tl": "bakit",
+      "bis": "ngano"
+    },
+    {
+      "id": "fil-question-words-000002",
+      "topic": "filipino-question-words",
+      "intent": "definition",
+      "concept": "saan",
+      "keywords": [
+        "saan",
+        "where",
+        "place",
+        "location",
+        "asa",
+        "means",
+        "asks",
+        "bakit",
+        "works"
+      ],
+      "patterns": [
+        "what is saan",
+        "saan",
+        "explain saan",
+        "definition of saan",
+        "saan meaning",
+        "what does saan mean",
+        "how do you ask where in tagalog",
+        "ano ang saan",
+        "unsa ang asa"
+      ],
+      "answer": "Saan means where, and it asks about a place. Like bakit it also works as a standalone follow-up meaning and where or go on, which is very common in conversation. It is one of the four main question words in Filipino alongside bakit, kailan and sino.",
+      "variations": [
+        "Like bakit it also works as a standalone follow-up meaning and where or go on, which is very common in conversation. Saan means where, and it asks about a place. It is one of the four main question words in Filipino alongside bakit, kailan and sino.",
+        "It is one of the four main question words in Filipino alongside bakit, kailan and sino. Saan means where, and it asks about a place. Like bakit it also works as a standalone follow-up meaning and where or go on, which is very common in conversation."
+      ],
+      "tl": "saan",
+      "bis": "asa"
+    },
+    {
+      "id": "fil-question-words-000003",
+      "topic": "filipino-question-words",
+      "intent": "definition",
+      "concept": "kailan",
+      "keywords": [
+        "kailan",
+        "when",
+        "time",
+        "date",
+        "schedule",
+        "kanus-a",
+        "means",
+        "asks",
+        "four"
+      ],
+      "patterns": [
+        "what is kailan",
+        "kailan",
+        "explain kailan",
+        "definition of kailan",
+        "kailan meaning",
+        "what does kailan mean",
+        "how do you say when in tagalog",
+        "ano ang kailan",
+        "unsa ang kanus-a"
+      ],
+      "answer": "Kailan means when, and it asks about a time or a date. It is one of the four core question words in Filipino, with bakit, saan and sino. In casual speech it is often shortened by dropping the first syllable, and the full form is the one to use in writing.",
+      "variations": [
+        "It is one of the four core question words in Filipino, with bakit, saan and sino. Kailan means when, and it asks about a time or a date. In casual speech it is often shortened by dropping the first syllable, and the full form is the one to use in writing.",
+        "In casual speech it is often shortened by dropping the first syllable, and the full form is the one to use in writing. Kailan means when, and it asks about a time or a date. It is one of the four core question words in Filipino, with bakit, saan and sino."
+      ],
+      "tl": "kailan",
+      "bis": "kanus-a"
+    },
+    {
+      "id": "fil-question-words-000004",
+      "topic": "filipino-question-words",
+      "intent": "definition",
+      "concept": "sino",
+      "keywords": [
+        "sino",
+        "who",
+        "person",
+        "name",
+        "kinsa",
+        "means",
+        "asks",
+        "last",
+        "four"
+      ],
+      "patterns": [
+        "what is sino",
+        "sino",
+        "explain sino",
+        "definition of sino",
+        "sino meaning",
+        "what does sino mean",
+        "how do you say who in tagalog",
+        "ano ang sino",
+        "unsa ang kinsa"
+      ],
+      "answer": "Sino means who, and it asks about a person. It is the last of the four core question words in Filipino, with bakit, saan and kailan. The word is also used in respectful address, where sinong nagsasalita means who is speaking, which carries a formality the plain form does not.",
+      "variations": [
+        "It is the last of the four core question words in Filipino, with bakit, saan and kailan. Sino means who, and it asks about a person. The word is also used in respectful address, where sinong nagsasalita means who is speaking, which carries a formality the plain form does not.",
+        "The word is also used in respectful address, where sinong nagsasalita means who is speaking, which carries a formality the plain form does not. Sino means who, and it asks about a person. It is the last of the four core question words in Filipino, with bakit, saan and kailan."
+      ],
+      "tl": "sino",
+      "bis": "kinsa"
+    },
+    {
+      "id": "fil-question-words-000005",
+      "topic": "filipino-question-words",
+      "intent": "definition",
+      "concept": "ano",
+      "keywords": [
+        "ano",
+        "what",
+        "thing",
+        "anong",
+        "unsa",
+        "means",
+        "asks",
+        "idea",
+        "variant",
+        "before"
+      ],
+      "patterns": [
+        "what is ano",
+        "ano",
+        "explain ano",
+        "definition of ano",
+        "ano meaning",
+        "what does ano mean",
+        "difference between ano and sino",
+        "ano ang ano",
+        "unsa ang unsa"
+      ],
+      "answer": "Ano means what, and it asks about a thing or an idea. Anong is its variant form used before a noun, as in anong libro for what book. It is the counterpart of sino, which asks about a person rather than a thing.",
+      "variations": [
+        "Anong is its variant form used before a noun, as in anong libro for what book. Ano means what, and it asks about a thing or an idea. It is the counterpart of sino, which asks about a person rather than a thing.",
+        "It is the counterpart of sino, which asks about a person rather than a thing. Ano means what, and it asks about a thing or an idea. Anong is its variant form used before a noun, as in anong libro for what book."
+      ],
+      "tl": "ano",
+      "bis": "unsa"
+    }
+  ],
+  "lang": "tagalog",
+  "group": "filipino",
+  "sub": "question-words",
+  "title": "Question words",
+  "groupTitle": "Filipino"
+}

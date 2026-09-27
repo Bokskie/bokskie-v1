@@ -1,0 +1,300 @@
+{
+  "topic": "technology-cybersecurity",
+  "entries": [
+    {
+      "id": "tec-cybersecurity-000001",
+      "topic": "technology-cybersecurity",
+      "intent": "definition",
+      "concept": "phishing",
+      "keywords": [
+        "phishing",
+        "scam",
+        "email",
+        "password",
+        "link",
+        "impersonate",
+        "message",
+        "impersonates",
+        "something",
+        "trusted",
+        "person"
+      ],
+      "patterns": [
+        "what is phishing",
+        "phishing",
+        "explain phishing",
+        "definition of phishing",
+        "phishing meaning",
+        "how do i avoid phishing",
+        "why did my password leak from phishing",
+        "ano ang phishing",
+        "unsa ang phishing"
+      ],
+      "answer": "Phishing is a message that impersonates something trusted to get a person to reveal a password or click a link. It works because it attacks the person rather than the software, which is why a strong password alone does not help. The reliable defence is to check the actual sender and the actual destination rather than what the message claims, and to use a password manager that will not autofill on the wrong domain.",
+      "variations": [
+        "It works because it attacks the person rather than the software, which is why a strong password alone does not help. Phishing is a message that impersonates something trusted to get a person to reveal a password or click a link. The reliable defence is to check the actual sender and the actual destination rather than what the message claims, and to use a password manager that will not autofill on the wrong domain.",
+        "The reliable defence is to check the actual sender and the actual destination rather than what the message claims, and to use a password manager that will not autofill on the wrong domain. Phishing is a message that impersonates something trusted to get a person to reveal a password or click a link. It works because it attacks the person rather than the software, which is why a strong password alone does not help."
+      ],
+      "tl": "phishing",
+      "bis": "phishing"
+    },
+    {
+      "id": "tec-cybersecurity-000002",
+      "topic": "technology-cybersecurity",
+      "intent": "definition",
+      "concept": "malware",
+      "keywords": [
+        "malware",
+        "virus",
+        "worm",
+        "trojan",
+        "spyware",
+        "ransomware",
+        "software",
+        "written",
+        "something",
+        "intend"
+      ],
+      "patterns": [
+        "what is malware",
+        "malware",
+        "explain malware",
+        "definition of malware",
+        "malware meaning",
+        "difference between virus and worm",
+        "how do i avoid malware",
+        "ano ang malware",
+        "unsa ang malware"
+      ],
+      "answer": "Malware is any software written to do something the user did not intend, and the categories differ by what they do rather than how they spread. Viruses attach to files, worms spread on their own, trojans look legitimate, ransomware encrypts and demands payment, and spyware quietly records. The defence is layered, and the single most effective layer is not running what you did not deliberately install.",
+      "variations": [
+        "Viruses attach to files, worms spread on their own, trojans look legitimate, ransomware encrypts and demands payment, and spyware quietly records. Malware is any software written to do something the user did not intend, and the categories differ by what they do rather than how they spread. The defence is layered, and the single most effective layer is not running what you did not deliberately install.",
+        "The defence is layered, and the single most effective layer is not running what you did not deliberately install. Malware is any software written to do something the user did not intend, and the categories differ by what they do rather than how they spread. Viruses attach to files, worms spread on their own, trojans look legitimate, ransomware encrypts and demands payment, and spyware quietly records."
+      ],
+      "tl": "malware",
+      "bis": "malware"
+    },
+    {
+      "id": "tec-cybersecurity-000003",
+      "topic": "technology-cybersecurity",
+      "intent": "definition",
+      "concept": "sql injection",
+      "keywords": [
+        "sql injection",
+        "injection",
+        "parameterised",
+        "query",
+        "escape",
+        "database",
+        "defect",
+        "pasted"
+      ],
+      "patterns": [
+        "what is sql injection",
+        "sql injection",
+        "explain sql injection",
+        "definition of sql injection",
+        "sql injection meaning",
+        "how do i prevent sql injection",
+        "what is a parameterised query",
+        "ano ang sql injection",
+        "unsa ang sql injection"
+      ],
+      "answer": "SQL injection is a defect where input from a user is pasted into a database query instead of being passed as data, so the input can change the meaning of the statement. The fix is not escaping, which is easy to get subtly wrong, but parameterised queries, where the database treats the input as a value no matter what it contains. It is still common because string-concatenated SQL is quick to write and looks correct.",
+      "variations": [
+        "The fix is not escaping, which is easy to get subtly wrong, but parameterised queries, where the database treats the input as a value no matter what it contains. SQL injection is a defect where input from a user is pasted into a database query instead of being passed as data, so the input can change the meaning of the statement. It is still common because string-concatenated SQL is quick to write and looks correct.",
+        "It is still common because string-concatenated SQL is quick to write and looks correct. SQL injection is a defect where input from a user is pasted into a database query instead of being passed as data, so the input can change the meaning of the statement. The fix is not escaping, which is easy to get subtly wrong, but parameterised queries, where the database treats the input as a value no matter what it contains."
+      ],
+      "tl": "sql injection",
+      "bis": "sql injection"
+    },
+    {
+      "id": "tec-cybersecurity-000004",
+      "topic": "technology-cybersecurity",
+      "intent": "definition",
+      "concept": "xss",
+      "keywords": [
+        "xss",
+        "encoding",
+        "csp",
+        "injection",
+        "markup",
+        "cross",
+        "site",
+        "scripting",
+        "defect"
+      ],
+      "patterns": [
+        "what is xss",
+        "xss",
+        "explain xss",
+        "definition of xss",
+        "xss meaning",
+        "how do i prevent xss",
+        "what is a content security policy",
+        "ano ang xss",
+        "unsa ang xss"
+      ],
+      "answer": "Cross-site scripting is a defect where user input is inserted into a page as markup rather than as text, so the browser runs it. The standard defence is output encoding matched to context, since escaping for HTML is not the same as escaping for a script block or an attribute. A content security policy is the second layer, because it limits what a page is allowed to execute even if something slips through.",
+      "variations": [
+        "The standard defence is output encoding matched to context, since escaping for HTML is not the same as escaping for a script block or an attribute. Cross-site scripting is a defect where user input is inserted into a page as markup rather than as text, so the browser runs it. A content security policy is the second layer, because it limits what a page is allowed to execute even if something slips through.",
+        "A content security policy is the second layer, because it limits what a page is allowed to execute even if something slips through. Cross-site scripting is a defect where user input is inserted into a page as markup rather than as text, so the browser runs it. The standard defence is output encoding matched to context, since escaping for HTML is not the same as escaping for a script block or an attribute."
+      ],
+      "tl": "xss",
+      "bis": "xss"
+    },
+    {
+      "id": "tec-cybersecurity-000005",
+      "topic": "technology-cybersecurity",
+      "intent": "definition",
+      "concept": "two factor authentication",
+      "keywords": [
+        "two factor authentication",
+        "2fa",
+        "mfa",
+        "authenticator",
+        "otp",
+        "security",
+        "factor",
+        "authentication",
+        "requires",
+        "second",
+        "piece",
+        "evidence"
+      ],
+      "patterns": [
+        "what is two factor authentication",
+        "two factor authentication",
+        "explain two factor authentication",
+        "definition of two factor authentication",
+        "two factor authentication meaning",
+        "what is 2fa",
+        "is sms two factor secure",
+        "what is an authenticator app",
+        "ano ang two factor authentication",
+        "unsa ang two factor authentication"
+      ],
+      "answer": "Two-factor authentication requires a second piece of evidence beyond the password, and the types are not equal in strength. Something you know is the password, something you have is a code from your phone, and something you are is a fingerprint. The second is much stronger than the first because the phone cannot be phished into revealing it, which is why a rotating app code beats an SMS code.",
+      "variations": [
+        "Something you know is the password, something you have is a code from your phone, and something you are is a fingerprint. Two-factor authentication requires a second piece of evidence beyond the password, and the types are not equal in strength. The second is much stronger than the first because the phone cannot be phished into revealing it, which is why a rotating app code beats an SMS code.",
+        "The second is much stronger than the first because the phone cannot be phished into revealing it, which is why a rotating app code beats an SMS code. Two-factor authentication requires a second piece of evidence beyond the password, and the types are not equal in strength. Something you know is the password, something you have is a code from your phone, and something you are is a fingerprint."
+      ],
+      "tl": "two factor authentication",
+      "bis": "two factor authentication"
+    },
+    {
+      "id": "tec-cybersecurity-000006",
+      "topic": "technology-cybersecurity",
+      "intent": "definition",
+      "concept": "hashing",
+      "keywords": [
+        "hashing",
+        "hash",
+        "salt",
+        "bcrypt",
+        "argon2",
+        "irreversible",
+        "turns",
+        "fixed",
+        "length",
+        "fingerprint"
+      ],
+      "patterns": [
+        "what is hashing",
+        "hashing",
+        "explain hashing",
+        "definition of hashing",
+        "hashing meaning",
+        "why are passwords hashed",
+        "what is salting",
+        "why is bcrypt slow",
+        "ano ang hashing",
+        "unsa ang hashing"
+      ],
+      "answer": "A hash turns input into a fixed-length fingerprint, and unlike encryption it cannot be reversed, which is exactly why passwords are stored as hashes. Salting means giving every user a different random value before hashing, so two people with the same password do not produce the same stored value and precomputed tables become useless. Deliberately slow algorithms such as bcrypt or argon2 are used for passwords, because speed helps an attacker and not a defender.",
+      "variations": [
+        "Salting means giving every user a different random value before hashing, so two people with the same password do not produce the same stored value and precomputed tables become useless. A hash turns input into a fixed-length fingerprint, and unlike encryption it cannot be reversed, which is exactly why passwords are stored as hashes. Deliberately slow algorithms such as bcrypt or argon2 are used for passwords, because speed helps an attacker and not a defender.",
+        "Deliberately slow algorithms such as bcrypt or argon2 are used for passwords, because speed helps an attacker and not a defender. A hash turns input into a fixed-length fingerprint, and unlike encryption it cannot be reversed, which is exactly why passwords are stored as hashes. Salting means giving every user a different random value before hashing, so two people with the same password do not produce the same stored value and precomputed tables become useless."
+      ],
+      "tl": "hashing",
+      "bis": "hashing"
+    },
+    {
+      "id": "tec-cybersecurity-000007",
+      "topic": "technology-cybersecurity",
+      "intent": "definition",
+      "concept": "password strength",
+      "keywords": [
+        "password strength",
+        "password",
+        "passphrase",
+        "length",
+        "reuse",
+        "breach",
+        "strength",
+        "mostly",
+        "rather",
+        "mixture"
+      ],
+      "patterns": [
+        "what is password strength",
+        "password strength",
+        "explain password strength",
+        "definition of password strength",
+        "password strength meaning",
+        "how long should a password be",
+        "is length or complexity better",
+        "why does password reuse matter",
+        "ano ang password strength",
+        "unsa ang password strength"
+      ],
+      "answer": "Password strength is mostly about length rather than the mixture of character types, and the current guidance is to prefer several unrelated words over a short scrambled string. A long passphrase survives a brute-force attempt that a complex short password does not, because length multiplies the work. Reuse is the actual risk, since one breached site is enough to attack every account sharing that password, which is why a unique password per site matters more than a strong one reused.",
+      "variations": [
+        "A long passphrase survives a brute-force attempt that a complex short password does not, because length multiplies the work. Password strength is mostly about length rather than the mixture of character types, and the current guidance is to prefer several unrelated words over a short scrambled string. Reuse is the actual risk, since one breached site is enough to attack every account sharing that password, which is why a unique password per site matters more than a strong one reused.",
+        "Reuse is the actual risk, since one breached site is enough to attack every account sharing that password, which is why a unique password per site matters more than a strong one reused. Password strength is mostly about length rather than the mixture of character types, and the current guidance is to prefer several unrelated words over a short scrambled string. A long passphrase survives a brute-force attempt that a complex short password does not, because length multiplies the work."
+      ],
+      "tl": "password strength",
+      "bis": "password strength"
+    },
+    {
+      "id": "tec-cybersecurity-000008",
+      "topic": "technology-cybersecurity",
+      "intent": "howto",
+      "concept": "password",
+      "keywords": [
+        "password",
+        "security",
+        "hack",
+        "2fa",
+        "mfa",
+        "account",
+        "phishing",
+        "long",
+        "beats",
+        "complicated",
+        "short",
+        "length"
+      ],
+      "patterns": [
+        "what is password",
+        "password",
+        "explain password",
+        "definition of password",
+        "password meaning",
+        "how to make a strong password",
+        "how to secure my account",
+        "what is two factor authentication"
+      ],
+      "answer": "A long password beats a complicated short one - length matters more than symbols, and a four-word phrase is both stronger and easier to remember. Use a different one everywhere, because breaches are reused. Turn on two-factor authentication wherever it is offered, and prefer an authenticator app or a hardware key over SMS. Never act on an unexpected link: go to the site yourself instead.",
+      "variations": [
+        "Use a different one everywhere, because breaches are reused. A long password beats a complicated short one - length matters more than symbols, and a four-word phrase is both stronger and easier to remember. Turn on two-factor authentication wherever it is offered, and prefer an authenticator app or a hardware key over SMS. Never act on an unexpected link: go to the site yourself instead.",
+        "Turn on two-factor authentication wherever it is offered, and prefer an authenticator app or a hardware key over SMS. A long password beats a complicated short one - length matters more than symbols, and a four-word phrase is both stronger and easier to remember. Use a different one everywhere, because breaches are reused. Never act on an unexpected link: go to the site yourself instead."
+      ]
+    }
+  ],
+  "lang": "english",
+  "group": "technology",
+  "sub": "cybersecurity",
+  "title": "Cybersecurity",
+  "groupTitle": "Technology"
+}

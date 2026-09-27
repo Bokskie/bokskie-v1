@@ -1,0 +1,230 @@
+{
+  "topic": "conversations-friendly-conversation",
+  "entries": [
+    {
+      "id": "con-friendly-conversation-000001",
+      "topic": "conversations-friendly-conversation",
+      "intent": "definition",
+      "concept": "camaraderie",
+      "keywords": [
+        "camaraderie",
+        "solidarity",
+        "hard",
+        "task",
+        "friendship",
+        "trust",
+        "pakikipagkapwa",
+        "easy",
+        "people",
+        "doing",
+        "something"
+      ],
+      "patterns": [
+        "what is camaraderie",
+        "camaraderie",
+        "explain camaraderie",
+        "definition of camaraderie",
+        "camaraderie meaning",
+        "is camaraderie the same as friendship",
+        "where does the word come from",
+        "ano ang camaraderie",
+        "unsa ang pakikipagkapwa"
+      ],
+      "answer": "Camaraderie is the easy solidarity of people doing something hard together, and the word implies the bond comes from the shared work rather than from liking each other first. That is what separates it from friendship, which usually precedes and does not need a common task. English mostly applies it to soldiers, sports teams and emergency crews, all cases where people who would not otherwise meet end up trusting each other quickly.",
+      "variations": [
+        "That is what separates it from friendship, which usually precedes and does not need a common task. Camaraderie is the easy solidarity of people doing something hard together, and the word implies the bond comes from the shared work rather than from liking each other first. English mostly applies it to soldiers, sports teams and emergency crews, all cases where people who would not otherwise meet end up trusting each other quickly.",
+        "English mostly applies it to soldiers, sports teams and emergency crews, all cases where people who would not otherwise meet end up trusting each other quickly. Camaraderie is the easy solidarity of people doing something hard together, and the word implies the bond comes from the shared work rather than from liking each other first. That is what separates it from friendship, which usually precedes and does not need a common task."
+      ],
+      "tl": "camaraderie",
+      "bis": "pakikipagkapwa"
+    },
+    {
+      "id": "con-friendly-conversation-000002",
+      "topic": "conversations-friendly-conversation",
+      "intent": "definition",
+      "concept": "goodwill",
+      "keywords": [
+        "goodwill",
+        "friendly",
+        "feeling",
+        "asset",
+        "business",
+        "agreement",
+        "general",
+        "held",
+        "towards"
+      ],
+      "patterns": [
+        "what is goodwill",
+        "goodwill",
+        "explain goodwill",
+        "definition of goodwill",
+        "goodwill meaning",
+        "is goodwill business",
+        "difference between goodwill and trust",
+        "ano ang goodwill",
+        "unsa ang goodwill"
+      ],
+      "answer": "Goodwill is the general friendly feeling held towards somebody, and it is a countable asset in a way that liking is not, since a business can hold goodwill towards a customer. That accounting sense is what makes the word appear in agreements, where it survives as a payment. In conversation it is what exists before any particular interaction, so a single rude exchange can spend an amount that took months to build.",
+      "variations": [
+        "That accounting sense is what makes the word appear in agreements, where it survives as a payment. Goodwill is the general friendly feeling held towards somebody, and it is a countable asset in a way that liking is not, since a business can hold goodwill towards a customer. In conversation it is what exists before any particular interaction, so a single rude exchange can spend an amount that took months to build.",
+        "In conversation it is what exists before any particular interaction, so a single rude exchange can spend an amount that took months to build. Goodwill is the general friendly feeling held towards somebody, and it is a countable asset in a way that liking is not, since a business can hold goodwill towards a customer. That accounting sense is what makes the word appear in agreements, where it survives as a payment."
+      ],
+      "tl": "goodwill",
+      "bis": "goodwill"
+    },
+    {
+      "id": "con-friendly-conversation-000003",
+      "topic": "conversations-friendly-conversation",
+      "intent": "definition",
+      "concept": "encouragement",
+      "keywords": [
+        "encouragement",
+        "support",
+        "effort",
+        "person",
+        "compare",
+        "reinforce",
+        "pag-encourage",
+        "offered",
+        "somebody",
+        "trying",
+        "something"
+      ],
+      "patterns": [
+        "what is encouragement",
+        "encouragement",
+        "explain encouragement",
+        "definition of encouragement",
+        "encouragement meaning",
+        "how to encourage someone",
+        "is praise good encouragement",
+        "ano ang encouragement",
+        "unsa ang pag-encourage"
+      ],
+      "answer": "Encouragement is support offered to somebody who is trying something, and its usefulness depends almost entirely on whether it names the effort rather than the person. Telling somebody you are proud of them reinforces the idea that the outcome was theirs, while noticing the hour they spent on it points at the behaviour. The wrong kind is comparison, which encourages by making the listener measure themselves against somebody else.",
+      "variations": [
+        "Telling somebody you are proud of them reinforces the idea that the outcome was theirs, while noticing the hour they spent on it points at the behaviour. Encouragement is support offered to somebody who is trying something, and its usefulness depends almost entirely on whether it names the effort rather than the person. The wrong kind is comparison, which encourages by making the listener measure themselves against somebody else.",
+        "The wrong kind is comparison, which encourages by making the listener measure themselves against somebody else. Encouragement is support offered to somebody who is trying something, and its usefulness depends almost entirely on whether it names the effort rather than the person. Telling somebody you are proud of them reinforces the idea that the outcome was theirs, while noticing the hour they spent on it points at the behaviour."
+      ],
+      "tl": "encouragement",
+      "bis": "pag-encourage"
+    },
+    {
+      "id": "con-friendly-conversation-000004",
+      "topic": "conversations-friendly-conversation",
+      "intent": "definition",
+      "concept": "empathy",
+      "keywords": [
+        "empathy",
+        "sympathy",
+        "feeling",
+        "distance",
+        "claim",
+        "respond",
+        "empatiya",
+        "somebody",
+        "rather",
+        "english",
+        "separates"
+      ],
+      "patterns": [
+        "what is empathy",
+        "empathy",
+        "explain empathy",
+        "definition of empathy",
+        "empathy meaning",
+        "difference between empathy and sympathy",
+        "is empathy just saying you understand",
+        "ano ang empathy",
+        "unsa ang empatiya"
+      ],
+      "answer": "Empathy is feeling with somebody rather than for them, and English separates it cleanly from sympathy, which is feeling about their situation from a distance. The word has also been criticised as a vague way of claiming a feeling without doing anything, and the criticism has force, since naming an emotion is not the same as responding to it. What is usually wanted is the observable behaviour underneath it, which is a question and then silence.",
+      "variations": [
+        "The word has also been criticised as a vague way of claiming a feeling without doing anything, and the criticism has force, since naming an emotion is not the same as responding to it. Empathy is feeling with somebody rather than for them, and English separates it cleanly from sympathy, which is feeling about their situation from a distance. What is usually wanted is the observable behaviour underneath it, which is a question and then silence.",
+        "What is usually wanted is the observable behaviour underneath it, which is a question and then silence. Empathy is feeling with somebody rather than for them, and English separates it cleanly from sympathy, which is feeling about their situation from a distance. The word has also been criticised as a vague way of claiming a feeling without doing anything, and the criticism has force, since naming an emotion is not the same as responding to it."
+      ],
+      "tl": "empathy",
+      "bis": "empatiya"
+    },
+    {
+      "id": "con-friendly-conversation-000005",
+      "topic": "conversations-friendly-conversation",
+      "intent": "definition",
+      "concept": "active listening",
+      "keywords": [
+        "active listening",
+        "attention",
+        "interrupt",
+        "paraphrase",
+        "check",
+        "disagree",
+        "active",
+        "listening",
+        "practice",
+        "giving",
+        "full"
+      ],
+      "patterns": [
+        "what is active listening",
+        "active listening",
+        "explain active listening",
+        "definition of active listening",
+        "active listening meaning",
+        "how to actively listen",
+        "is paraphrasing part of listening",
+        "ano ang active listening",
+        "unsa ang aktibong pakikinig"
+      ],
+      "answer": "Active listening is the practice of giving full attention in order to understand, and the phrase is more specific than listening, which is what the ears do by default. It has three observable parts: not interrupting, paraphrasing what was said, and checking that the paraphrase was right. Only the middle one is hard, and it is the one that surfaces disagreement while the speaker can still fix it, instead of after.",
+      "variations": [
+        "It has three observable parts: not interrupting, paraphrasing what was said, and checking that the paraphrase was right. Active listening is the practice of giving full attention in order to understand, and the phrase is more specific than listening, which is what the ears do by default. Only the middle one is hard, and it is the one that surfaces disagreement while the speaker can still fix it, instead of after.",
+        "Only the middle one is hard, and it is the one that surfaces disagreement while the speaker can still fix it, instead of after. Active listening is the practice of giving full attention in order to understand, and the phrase is more specific than listening, which is what the ears do by default. It has three observable parts: not interrupting, paraphrasing what was said, and checking that the paraphrase was right."
+      ],
+      "tl": "active listening",
+      "bis": "aktibong pakikinig"
+    },
+    {
+      "id": "con-friendly-conversation-000006",
+      "topic": "conversations-friendly-conversation",
+      "intent": "definition",
+      "concept": "warmth",
+      "keywords": [
+        "warmth",
+        "manner",
+        "feeling",
+        "notice",
+        "pause",
+        "temperature",
+        "init",
+        "quality",
+        "rather",
+        "people"
+      ],
+      "patterns": [
+        "what is warmth",
+        "warmth",
+        "explain warmth",
+        "definition of warmth",
+        "warmth meaning",
+        "what is warmth in a person",
+        "how to show warmth",
+        "is warmth a feeling",
+        "ano ang warmth",
+        "unsa ang init"
+      ],
+      "answer": "Warmth is a quality of manner rather than of feeling, and it is the thing people mean when they say somebody was warm. It shows in small measurable choices: noticing who has not spoken, naming people rather than using they, and allowing a pause without filling it. In English it also appears as a noun next to cold, which is where the physical sense survives from old metaphors about temperature.",
+      "variations": [
+        "It shows in small measurable choices: noticing who has not spoken, naming people rather than using they, and allowing a pause without filling it. Warmth is a quality of manner rather than of feeling, and it is the thing people mean when they say somebody was warm. In English it also appears as a noun next to cold, which is where the physical sense survives from old metaphors about temperature.",
+        "In English it also appears as a noun next to cold, which is where the physical sense survives from old metaphors about temperature. Warmth is a quality of manner rather than of feeling, and it is the thing people mean when they say somebody was warm. It shows in small measurable choices: noticing who has not spoken, naming people rather than using they, and allowing a pause without filling it."
+      ],
+      "tl": "warmth",
+      "bis": "init"
+    }
+  ],
+  "lang": "english",
+  "group": "conversations",
+  "sub": "friendly-conversation",
+  "title": "Friendly conversation",
+  "groupTitle": "Conversations"
+}

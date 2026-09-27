@@ -1,0 +1,4 @@
+# health-nutrition.kb - Health / Nutrition
+# Format: concept | intent | answer | keywords | patterns | tl | bis
+# 1 entries, one genuinely distinct fact per line.
+vitamins | definition | Vitamins are organic compounds the body needs in small amounts and cannot make for itself. The fat-soluble ones, which are A, D, E and K, are stored in the liver and fatty tissue, so large doses can accumulate and cause harm. The water-soluble ones, the B group and vitamin C, are excreted in urine and shortages are more common, particularly in people who eat a very restricted diet. A varied diet generally supplies enough, and supplement tablets are most useful where there is a genuine deficiency, a diagnosed reason, or a dietary restriction. Megadoses of fat-soluble vitamins are a real risk, not a free boost. | vitamin, supplement, nutrient, folate, deficiency | do i need vitamin tablets, is it safe to take high dose vitamins, where do vitamins come from | bitamina | bitamina
